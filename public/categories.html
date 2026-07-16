@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chinese Idioms by Category — Browse by Theme</title>
+  <meta name="description" content="Browse Chinese idioms by category: wisdom, action, perseverance, leadership, philosophy, and more. Find idioms that fit any theme.">
+  <link rel="canonical" href="https://chinese-idioms.example.com/categories.html">
+  <style>
+    :root {
+      --primary: #c0392b;
+      --text: #2c3e50;
+      --muted: #7f8c8d;
+      --bg: #fdfcf9;
+      --card: #ffffff;
+      --border: #ecf0f1;
+      --accent: #f39c12;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    .container { max-width: 1000px; margin: 0 auto; padding: 0 20px; }
+    header {
+      background: var(--card);
+      border-bottom: 3px solid var(--primary);
+      padding: 16px 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    }
+    header .container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+    .logo { font-size: 22px; font-weight: 700; color: var(--primary); text-decoration: none; }
+    .logo span { color: var(--text); }
+    nav a { color: var(--muted); text-decoration: none; margin-left: 20px; font-size: 14px; font-weight: 500; }
+    nav a:hover { color: var(--primary); }
+
+    .page-title {
+      background: linear-gradient(135deg, #c0392b 0%, #922b21 100%);
+      color: white;
+      padding: 50px 0;
+      text-align: center;
+    }
+    .page-title h1 { font-size: 36px; margin-bottom: 8px; }
+    .page-title p { opacity: 0.85; font-size: 16px; }
+
+    main { padding: 40px 0; }
+    .category-block {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 24px;
+      margin-bottom: 24px;
+    }
+    .category-block h2 {
+      font-size: 22px;
+      color: var(--primary);
+      margin-bottom: 4px;
+    }
+    .category-block .count { font-size: 13px; color: var(--muted); margin-bottom: 16px; }
+    .idiom-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 12px;
+    }
+    .idiom-list a {
+      display: block;
+      padding: 10px 14px;
+      background: #fef9f2;
+      border-radius: 6px;
+      text-decoration: none;
+      color: var(--text);
+      border-left: 3px solid var(--accent);
+    }
+    .idiom-list a:hover { background: var(--accent); color: white; }
+    .idiom-list .ch { font-weight: 700; color: var(--primary); display: block; }
+    .idiom-list a:hover .ch { color: white; }
+    .idiom-list .py { font-size: 12px; color: var(--muted); font-style: italic; }
+
+    footer {
+      background: var(--text);
+      color: #bdc3c7;
+      padding: 30px 0;
+      text-align: center;
+      font-size: 13px;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+
+    @media (max-width: 600px) {
+      .page-title h1 { font-size: 28px; }
+      nav a { margin-left: 12px; font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <a href="index.html" class="logo">成语<span>Dict</span></a>
+    <nav>
+      <a href="index.html">All Idioms</a>
+      <a href="categories.html">Categories</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+</header>
+
+<section class="page-title">
+  <div class="container">
+    <h1>Browse by Category</h1>
+    <p>Find Chinese idioms grouped by theme and topic</p>
+  </div>
+</section>
+
+<div class="container">
+  <main>
+    <div class="category-block" id="action">
+  <h2>Action</h2>
+  <div class="count">5 idioms</div>
+  <div class="idiom-list">
+    <a href="idiom/ba-miao-zhu-zhang.html"><span class="ch">拔苗助长</span><span class="py">bá miáo zhù zhǎng</span></a>    <a href="idiom/hua-she-tian-zu.html"><span class="ch">画蛇添足</span><span class="py">huà shé tiān zú</span></a>    <a href="idiom/wang-yang-bu-lao.html"><span class="ch">亡羊补牢</span><span class="py">wáng yáng bǔ láo</span></a>    <a href="idiom/yuan-mu-qiu-yu.html"><span class="ch">缘木求鱼</span><span class="py">yuán mù qiú yú</span></a>    <a href="idiom/yi-bu-bu-gao.html"><span class="ch">一步登天</span><span class="py">yī bù dēng tiān</span></a>
+  </div>
+</div>
+    <div class="category-block" id="attitude">
+  <h2>Attitude</h2>
+  <div class="count">5 idioms</div>
+  <div class="idiom-list">
+    <a href="idiom/hu-hu-tu-tu.html"><span class="ch">糊涂</span><span class="py">hú tú</span></a>    <a href="idiom/jian-yi-si-qian.html"><span class="ch">见异思迁</span><span class="py">jiàn yì sī qiān</span></a>    <a href="idiom/shou-zhu-dai-tu.html"><span class="ch">守株待兔</span><span class="py">shǒu zhū dài tù</span></a>    <a href="idiom/ye-gong-hao-long.html"><span class="ch">叶公好龙</span><span class="py">yè gōng hào lóng</span></a>    <a href="idiom/zhi-lu-bu-hui.html"><span class="ch">知错不改</span><span class="py">zhī cuò bù gǎi</span></a>
+  </div>
+</div>
+    <div class="category-block" id="clarity">
+  <h2>Clarity</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/zhen-zhen-qie-qie.html"><span class="ch">真真切切</span><span class="py">zhēn zhēn qiè qiè</span></a>
+  </div>
+</div>
+    <div class="category-block" id="communication">
+  <h2>Communication</h2>
+  <div class="count">3 idioms</div>
+  <div class="idiom-list">
+    <a href="idiom/dui-niu-tan-qin.html"><span class="ch">对牛弹琴</span><span class="py">duì niú tán qín</span></a>    <a href="idiom/yu-yan-zhi-li.html"><span class="ch">寓言之力</span><span class="py">yù yán zhī lì</span></a>    <a href="idiom/yi-yu-dao-po.html"><span class="ch">一语道破</span><span class="py">yī yǔ dào pò</span></a>
+  </div>
+</div>
+    <div class="category-block" id="condition">
+  <h2>Condition</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/bing-ru-gao-huang.html"><span class="ch">病入膏肓</span><span class="py">bìng rù gāo huāng</span></a>
+  </div>
+</div>
+    <div class="category-block" id="determination">
+  <h2>Determination</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/po-fu-chen-zhou.html"><span class="ch">破釜沉舟</span><span class="py">pò fǔ chén zhōu</span></a>
+  </div>
+</div>
+    <div class="category-block" id="distance">
+  <h2>Distance</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/shi-zhi-jiao-bi.html"><span class="ch">咫尺之近</span><span class="py">zhǐ chǐ zhī jìn</span></a>
+  </div>
+</div>
+    <div class="category-block" id="emotion">
+  <h2>Emotion</h2>
+  <div class="count">4 idioms</div>
+  <div class="idiom-list">
+    <a href="idiom/mu-deng-kou-dai.html"><span class="ch">目瞪口呆</span><span class="py">mù dèng kǒu dāi</span></a>    <a href="idiom/ru-zhui-er-zhong.html"><span class="ch">如坐针毡</span><span class="py">rú zuò zhēn zhān</span></a>    <a href="idiom/tu-si-hu-ji.html"><span class="ch">兔死狐悲</span><span class="py">tù sǐ hú bēi</span></a>    <a href="idiom/xiang-shou-bu-qian.html"><span class="ch">向隅而泣</span><span class="py">xiàng yú ér qì</span></a>
+  </div>
+</div>
+    <div class="category-block" id="improvement">
+  <h2>Improvement</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/qing-chu-yu-lan.html"><span class="ch">青出于蓝</span><span class="py">qīng chū yú lán</span></a>
+  </div>
+</div>
+    <div class="category-block" id="knowledge">
+  <h2>Knowledge</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/jing-di-zhi-fa.html"><span class="ch">井底之蛙</span><span class="py">jǐng dǐ zhī wā</span></a>
+  </div>
+</div>
+    <div class="category-block" id="leadership">
+  <h2>Leadership</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/qian-ren-zhi-guan.html"><span class="ch">千人之长</span><span class="py">qiān rén zhī zhǎng</span></a>
+  </div>
+</div>
+    <div class="category-block" id="learning">
+  <h2>Learning</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/xue-er-bu-yan.html"><span class="ch">学而不厌</span><span class="py">xué ér bù yàn</span></a>
+  </div>
+</div>
+    <div class="category-block" id="lifestyle">
+  <h2>Lifestyle</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/yuan-hai-yi-ou.html"><span class="ch">四海为家</span><span class="py">sì hǎi wéi jiā</span></a>
+  </div>
+</div>
+    <div class="category-block" id="logic">
+  <h2>Logic</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/zi-xiang-mao-dun.html"><span class="ch">自相矛盾</span><span class="py">zì xiāng máo dùn</span></a>
+  </div>
+</div>
+    <div class="category-block" id="method">
+  <h2>Method</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/an-bu-jiu-ban.html"><span class="ch">按部就班</span><span class="py">àn bù jiù bān</span></a>
+  </div>
+</div>
+    <div class="category-block" id="morality">
+  <h2>Morality</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/cheng-xiang-shi-hao.html"><span class="ch">成人之美</span><span class="py">chéng rén zhī měi</span></a>
+  </div>
+</div>
+    <div class="category-block" id="perseverance">
+  <h2>Perseverance</h2>
+  <div class="count">3 idioms</div>
+  <div class="idiom-list">
+    <a href="idiom/shui-di-shi-chuan.html"><span class="ch">水滴石穿</span><span class="py">shuǐ dī shí chuān</span></a>    <a href="idiom/wen-ji-qi-wu.html"><span class="ch">闻鸡起舞</span><span class="py">wén jī qǐ wǔ</span></a>    <a href="idiom/yu-gong-yi-shan.html"><span class="ch">愚公移山</span><span class="py">yú gōng yí shān</span></a>
+  </div>
+</div>
+    <div class="category-block" id="philosophy">
+  <h2>Philosophy</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/sai-weng-shi-ma.html"><span class="ch">塞翁失马</span><span class="py">sài wēng shī mǎ</span></a>
+  </div>
+</div>
+    <div class="category-block" id="power">
+  <h2>Power</h2>
+  <div class="count">3 idioms</div>
+  <div class="idiom-list">
+    <a href="idiom/ru-hu-tian-yi.html"><span class="ch">如虎添翼</span><span class="py">rú hǔ tiān yì</span></a>    <a href="idiom/shi-nai-ban-che.html"><span class="ch">势不可挡</span><span class="py">shì bù kě dǎng</span></a>    <a href="idiom/hua-shan-dao-hai.html"><span class="ch">移山倒海</span><span class="py">yí shān dǎo hǎi</span></a>
+  </div>
+</div>
+    <div class="category-block" id="priority">
+  <h2>Priority</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/she-ben-zhu-mo.html"><span class="ch">舍本逐末</span><span class="py">shě běn zhú mò</span></a>
+  </div>
+</div>
+    <div class="category-block" id="quality">
+  <h2>Quality</h2>
+  <div class="count">2 idioms</div>
+  <div class="idiom-list">
+    <a href="idiom/hua-long-dian-jing.html"><span class="ch">画龙点睛</span><span class="py">huà lóng diǎn jīng</span></a>    <a href="idiom/tian-yi-wu-feng.html"><span class="ch">天衣无缝</span><span class="py">tiān yī wú fèng</span></a>
+  </div>
+</div>
+    <div class="category-block" id="recovery">
+  <h2>Recovery</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/ku-mu-feng-chun.html"><span class="ch">枯木逢春</span><span class="py">kū mù féng chūn</span></a>
+  </div>
+</div>
+    <div class="category-block" id="skill">
+  <h2>Skill</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/qi-si-hui-sheng.html"><span class="ch">起死回生</span><span class="py">qǐ sǐ huí shēng</span></a>
+  </div>
+</div>
+    <div class="category-block" id="status">
+  <h2>Status</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/mo-mo-wu-wen.html"><span class="ch">默默无闻</span><span class="py">mò mò wú wén</span></a>
+  </div>
+</div>
+    <div class="category-block" id="success">
+  <h2>Success</h2>
+  <div class="count">2 idioms</div>
+  <div class="idiom-list">
+    <a href="idiom/hua-kai-jie-di.html"><span class="ch">花开遍地</span><span class="py">huā kāi biàn dì</span></a>    <a href="idiom/yi-ming-jing-ren.html"><span class="ch">一鸣惊人</span><span class="py">yī míng jīng rén</span></a>
+  </div>
+</div>
+    <div class="category-block" id="thinking">
+  <h2>Thinking</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/ke-zhou-qiu-jian.html"><span class="ch">刻舟求剑</span><span class="py">kè zhōu qiú jiàn</span></a>
+  </div>
+</div>
+    <div class="category-block" id="variety">
+  <h2>Variety</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/wu-hua-ba-men.html"><span class="ch">五花八门</span><span class="py">wǔ huā bā mén</span></a>
+  </div>
+</div>
+    <div class="category-block" id="wisdom">
+  <h2>Wisdom</h2>
+  <div class="count">3 idioms</div>
+  <div class="idiom-list">
+    <a href="idiom/di-dao-zhi-yi.html"><span class="ch">地道之宜</span><span class="py">dì dào zhī yí</span></a>    <a href="idiom/lu-yi-shi-lu.html"><span class="ch">路遥知马力</span><span class="py">lù yáo zhī mǎ lì</span></a>    <a href="idiom/shi-ke-er-zhi.html"><span class="ch">适可而止</span><span class="py">shì kě ér zhǐ</span></a>
+  </div>
+</div>
+    <div class="category-block" id="youth">
+  <h2>Youth</h2>
+  <div class="count">1 idiom</div>
+  <div class="idiom-list">
+    <a href="idiom/feng-hua-zheng-mao.html"><span class="ch">风华正茂</span><span class="py">fēng huá zhèng mào</span></a>
+  </div>
+</div>
+  </main>
+</div>
+
+<footer>
+  <div class="container">
+    <p>Chinese Idiom Dictionary · A free reference for classical Chinese idioms</p>
+    <p style="margin-top: 8px;"><a href="index.html">Browse all idioms</a> · <a href="about.html">About</a></p>
+  </div>
+</footer>
+
+</body>
+</html>

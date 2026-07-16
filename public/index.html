@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chinese Idiom Dictionary (成语词典) — Meanings, Origins & Examples</title>
+  <meta name="description" content="A free English-language reference for classical Chinese idioms (成语/chéngyǔ). Browse 50 idioms with pinyin, literal translations, origin stories, and example sentences.">
+  <meta name="keywords" content="chinese idioms, chengyu, chéngyǔ, chinese sayings, idiom meanings, chinese proverbs">
+  <link rel="canonical" href="https://chinese-idioms.example.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Chinese Idiom Dictionary — Meanings, Origins & Examples">
+  <meta property="og:description" content="A free English-language reference for classical Chinese idioms. Browse 50 idioms with pinyin, origins, and examples.">
+  <style>
+    :root {
+      --primary: #c0392b;
+      --text: #2c3e50;
+      --muted: #7f8c8d;
+      --bg: #fdfcf9;
+      --card: #ffffff;
+      --border: #ecf0f1;
+      --accent: #f39c12;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    .container { max-width: 1000px; margin: 0 auto; padding: 0 20px; }
+
+    header {
+      background: var(--card);
+      border-bottom: 3px solid var(--primary);
+      padding: 16px 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    }
+    header .container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; }
+    .logo { font-size: 22px; font-weight: 700; color: var(--primary); text-decoration: none; }
+    .logo span { color: var(--text); }
+    nav a { color: var(--muted); text-decoration: none; margin-left: 20px; font-size: 14px; font-weight: 500; }
+    nav a:hover { color: var(--primary); }
+
+    .hero {
+      background: linear-gradient(135deg, #c0392b 0%, #922b21 100%);
+      color: white;
+      padding: 80px 0;
+      text-align: center;
+    }
+    .hero h1 { font-size: 42px; margin-bottom: 12px; }
+    .hero p { font-size: 18px; opacity: 0.9; max-width: 600px; margin: 0 auto 24px; }
+    .search-box {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 30px;
+      font-size: 16px;
+      width: 100%;
+    }
+
+    main { padding: 40px 0; }
+    .stats { display: flex; gap: 30px; justify-content: center; margin-bottom: 40px; flex-wrap: wrap; }
+    .stat { text-align: center; }
+    .stat .num { font-size: 32px; font-weight: 700; color: var(--primary); }
+    .stat .label { font-size: 13px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; }
+
+    .section-title {
+      font-size: 22px;
+      color: var(--primary);
+      margin-bottom: 20px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--accent);
+    }
+
+    .idiom-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 16px;
+      margin-bottom: 50px;
+    }
+    .idiom-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px;
+      text-decoration: none;
+      color: var(--text);
+      transition: transform 0.15s, box-shadow 0.15s;
+      display: block;
+    }
+    .idiom-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+      border-color: var(--primary);
+    }
+    .idiom-card .ch { font-size: 24px; font-weight: 700; color: var(--primary); margin-bottom: 4px; }
+    .idiom-card .py { font-size: 13px; color: var(--muted); font-style: italic; margin-bottom: 8px; }
+    .idiom-card .mean { font-size: 13px; color: var(--text); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+    footer {
+      background: var(--text);
+      color: #bdc3c7;
+      padding: 30px 0;
+      text-align: center;
+      font-size: 13px;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+
+    @media (max-width: 600px) {
+      .hero h1 { font-size: 32px; }
+      .hero p { font-size: 15px; }
+      nav a { margin-left: 12px; font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <a href="index.html" class="logo">成语<span>Dict</span></a>
+    <nav>
+      <a href="index.html">All Idioms</a>
+      <a href="categories.html">Categories</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <h1>Chinese Idiom Dictionary</h1>
+    <p>A free English-language reference for classical Chinese idioms (成语 / chéngyǔ). Each entry includes pinyin, literal translation, origin story, and example sentences.</p>
+    <input type="text" class="search-box" placeholder="Search idioms by Chinese, pinyin, or meaning..." id="searchInput">
+  </div>
+</section>
+
+<div class="container">
+  <main>
+    <div class="stats">
+      <div class="stat">
+        <div class="num">50</div>
+        <div class="label">Idioms</div>
+      </div>
+      <div class="stat">
+        <div class="num">29</div>
+        <div class="label">Categories</div>
+      </div>
+      <div class="stat">
+        <div class="num">100%</div>
+        <div class="label">Free</div>
+      </div>
+    </div>
+
+    <h2 class="section-title">📋 All Idioms (A–Z by Pinyin)</h2>
+    <div class="idiom-grid" id="idiomGrid">
+      <a class="idiom-card" href="idiom/ba-miao-zhu-zhang.html"><div class="ch">拔苗助长</div><div class="py">bá miáo zhù zhǎng</div><div class="mean">To ruin something by rushing it. Trying to speed up a natural process and ending up destroying it.</div></a>
+      <a class="idiom-card" href="idiom/bing-ru-gao-huang.html"><div class="ch">病入膏肓</div><div class="py">bìng rù gāo huāng</div><div class="mean">Beyond cure; a problem so deeply rooted it cannot be fixed. Originally referred to terminal illness.</div></a>
+      <a class="idiom-card" href="idiom/cheng-xiang-shi-hao.html"><div class="ch">成人之美</div><div class="py">chéng rén zhī měi</div><div class="mean">To help others achieve their goals. To actively support another&#39;s success.</div></a>
+      <a class="idiom-card" href="idiom/dui-niu-tan-qin.html"><div class="ch">对牛弹琴</div><div class="py">duì niú tán qín</div><div class="mean">To waste one&#39;s words or efforts on someone who cannot understand or appreciate them. Talking over so…</div></a>
+      <a class="idiom-card" href="idiom/di-dao-zhi-yi.html"><div class="ch">地道之宜</div><div class="py">dì dào zhī yí</div><div class="mean">What is naturally appropriate to local conditions. Adapting to the environment.</div></a>
+      <a class="idiom-card" href="idiom/feng-hua-zheng-mao.html"><div class="ch">风华正茂</div><div class="py">fēng huá zhèng mào</div><div class="mean">In the prime of youth, full of talent and vitality. At the peak of one&#39;s powers.</div></a>
+      <a class="idiom-card" href="idiom/hua-long-dian-jing.html"><div class="ch">画龙点睛</div><div class="py">huà lóng diǎn jīng</div><div class="mean">The finishing touch that brings a work to life. A critical detail that elevates something from good …</div></a>
+      <a class="idiom-card" href="idiom/hua-she-tian-zu.html"><div class="ch">画蛇添足</div><div class="py">huà shé tiān zú</div><div class="mean">To ruin something by adding unnecessary details. Doing extra work that ends up making things worse i…</div></a>
+      <a class="idiom-card" href="idiom/hua-kai-jie-di.html"><div class="ch">花开遍地</div><div class="py">huā kāi biàn dì</div><div class="mean">Widely successful or flourishing everywhere. Proliferating successfully across many areas.</div></a>
+      <a class="idiom-card" href="idiom/hu-hu-tu-tu.html"><div class="ch">糊涂</div><div class="py">hú tú</div><div class="mean">Muddled thinking; to act without clear understanding. Living without purpose or awareness.</div></a>
+      <a class="idiom-card" href="idiom/jian-yi-si-qian.html"><div class="ch">见异思迁</div><div class="py">jiàn yì sī qiān</div><div class="mean">To be fickle; changing one&#39;s mind or desires constantly upon seeing new things. Lack of steadfastnes…</div></a>
+      <a class="idiom-card" href="idiom/jing-di-zhi-fa.html"><div class="ch">井底之蛙</div><div class="py">jǐng dǐ zhī wā</div><div class="mean">A person with a narrow worldview who thinks they know everything, unaware of the vast world outside.</div></a>
+      <a class="idiom-card" href="idiom/ke-zhou-qiu-jian.html"><div class="ch">刻舟求剑</div><div class="py">kè zhōu qiú jiàn</div><div class="mean">To stubbornly hold onto outdated methods or ideas, ignoring that circumstances have changed.</div></a>
+      <a class="idiom-card" href="idiom/ku-mu-feng-chun.html"><div class="ch">枯木逢春</div><div class="py">kū mù féng chūn</div><div class="mean">To find new life or opportunity after a period of decline. A second chance at success.</div></a>
+      <a class="idiom-card" href="idiom/lu-yi-shi-lu.html"><div class="ch">路遥知马力</div><div class="py">lù yáo zhī mǎ lì</div><div class="mean">True qualities reveal themselves over time and through tests. Only through prolonged experience can …</div></a>
+      <a class="idiom-card" href="idiom/mo-mo-wu-wen.html"><div class="ch">默默无闻</div><div class="py">mò mò wú wén</div><div class="mean">Unknown to the public; living without fame or recognition.</div></a>
+      <a class="idiom-card" href="idiom/mu-deng-kou-dai.html"><div class="ch">目瞪口呆</div><div class="py">mù dèng kǒu dāi</div><div class="mean">Dumbfounded, completely speechless with shock or astonishment.</div></a>
+      <a class="idiom-card" href="idiom/po-fu-chen-zhou.html"><div class="ch">破釜沉舟</div><div class="py">pò fǔ chén zhōu</div><div class="mean">To burn one&#39;s bridges. Committing fully to a course of action with no retreat possible.</div></a>
+      <a class="idiom-card" href="idiom/qian-ren-zhi-guan.html"><div class="ch">千人之长</div><div class="py">qiān rén zhī zhǎng</div><div class="mean">A person capable of leading many. One who has the ability to command and guide a large group.</div></a>
+      <a class="idiom-card" href="idiom/qing-chu-yu-lan.html"><div class="ch">青出于蓝</div><div class="py">qīng chū yú lán</div><div class="mean">The student surpasses the teacher. Successive generations improve upon their predecessors.</div></a>
+      <a class="idiom-card" href="idiom/qi-si-hui-sheng.html"><div class="ch">起死回生</div><div class="py">qǐ sǐ huí shēng</div><div class="mean">To bring back from the brink of death. To save a hopeless situation miraculously.</div></a>
+      <a class="idiom-card" href="idiom/ru-hu-tian-yi.html"><div class="ch">如虎添翼</div><div class="py">rú hǔ tiān yì</div><div class="mean">To become even more powerful. Adding strength to something already strong.</div></a>
+      <a class="idiom-card" href="idiom/ru-zhui-er-zhong.html"><div class="ch">如坐针毡</div><div class="py">rú zuò zhēn zhān</div><div class="mean">To be in an extremely uncomfortable or anxious position. Feeling restless and uneasy.</div></a>
+      <a class="idiom-card" href="idiom/shui-di-shi-chuan.html"><div class="ch">水滴石穿</div><div class="py">shuǐ dī shí chuān</div><div class="mean">Persistent effort overcomes the hardest obstacles. Small actions repeated continuously accomplish gr…</div></a>
+      <a class="idiom-card" href="idiom/shi-nai-ban-che.html"><div class="ch">势不可挡</div><div class="py">shì bù kě dǎng</div><div class="mean">An irresistible force or trend. Something so powerful that nothing can stand in its way.</div></a>
+      <a class="idiom-card" href="idiom/shi-ke-er-zhi.html"><div class="ch">适可而止</div><div class="py">shì kě ér zhǐ</div><div class="mean">To know when to stop before going too far. To stop at the right moment.</div></a>
+      <a class="idiom-card" href="idiom/she-ben-zhu-mo.html"><div class="ch">舍本逐末</div><div class="py">shě běn zhú mò</div><div class="mean">To focus on trivial matters while neglecting the essential. To lose sight of what&#39;s truly important.</div></a>
+      <a class="idiom-card" href="idiom/shou-zhu-dai-tu.html"><div class="ch">守株待兔</div><div class="py">shǒu zhū dài tù</div><div class="mean">To wait idly for opportunities instead of taking initiative. To rely on chance or past luck rather t…</div></a>
+      <a class="idiom-card" href="idiom/sai-weng-shi-ma.html"><div class="ch">塞翁失马</div><div class="py">sài wēng shī mǎ</div><div class="mean">A loss may turn out to be a gain, and vice versa. Fortune and misfortune are interconnected and hard…</div></a>
+      <a class="idiom-card" href="idiom/yuan-hai-yi-ou.html"><div class="ch">四海为家</div><div class="py">sì hǎi wéi jiā</div><div class="mean">To feel at home anywhere in the world. To live freely without being tied to one place.</div></a>
+      <a class="idiom-card" href="idiom/tian-yi-wu-feng.html"><div class="ch">天衣无缝</div><div class="py">tiān yī wú fèng</div><div class="mean">Perfectly done, with no flaws or gaps. Flawless execution or design.</div></a>
+      <a class="idiom-card" href="idiom/tu-si-hu-ji.html"><div class="ch">兔死狐悲</div><div class="py">tù sǐ hú bēi</div><div class="mean">To grieve for someone whose fate might become your own. Feeling sorrow for the misfortune of a simil…</div></a>
+      <a class="idiom-card" href="idiom/wang-yang-bu-lao.html"><div class="ch">亡羊补牢</div><div class="py">wáng yáng bǔ láo</div><div class="mean">It&#39;s never too late to fix a problem. Taking corrective action after damage has occurred is still wo…</div></a>
+      <a class="idiom-card" href="idiom/wen-ji-qi-wu.html"><div class="ch">闻鸡起舞</div><div class="py">wén jī qǐ wǔ</div><div class="mean">To rise early and work diligently. Seizing the morning to practice and improve oneself.</div></a>
+      <a class="idiom-card" href="idiom/wu-hua-ba-men.html"><div class="ch">五花八门</div><div class="py">wǔ huā bā mén</div><div class="mean">A wide variety; many different kinds of things. Diverse and colorful.</div></a>
+      <a class="idiom-card" href="idiom/xiang-shou-bu-qian.html"><div class="ch">向隅而泣</div><div class="py">xiàng yú ér qì</div><div class="mean">To weep alone in a corner, isolated from others&#39; joy. Feeling left out while others celebrate.</div></a>
+      <a class="idiom-card" href="idiom/xue-er-bu-yan.html"><div class="ch">学而不厌</div><div class="py">xué ér bù yàn</div><div class="mean">To have an insatiable thirst for learning. Studying endlessly without growing tired of it.</div></a>
+      <a class="idiom-card" href="idiom/yuan-mu-qiu-yu.html"><div class="ch">缘木求鱼</div><div class="py">yuán mù qiú yú</div><div class="mean">To pursue a goal through completely wrong methods. Trying to achieve something in a way that can nev…</div></a>
+      <a class="idiom-card" href="idiom/ye-gong-hao-long.html"><div class="ch">叶公好龙</div><div class="py">yè gōng hào lóng</div><div class="mean">To claim to like something but actually fear it when confronted with the real thing. Pretended affec…</div></a>
+      <a class="idiom-card" href="idiom/hua-shan-dao-hai.html"><div class="ch">移山倒海</div><div class="py">yí shān dǎo hǎi</div><div class="mean">To accomplish the seemingly impossible through sheer will and effort. Transforming nature itself.</div></a>
+      <a class="idiom-card" href="idiom/yu-yan-zhi-li.html"><div class="ch">寓言之力</div><div class="py">yù yán zhī lì</div><div class="mean">The persuasive power of parables and stories. Teaching through narrative.</div></a>
+      <a class="idiom-card" href="idiom/yu-gong-yi-shan.html"><div class="ch">愚公移山</div><div class="py">yú gōng yí shān</div><div class="mean">Perseverance and determination can overcome seemingly impossible obstacles. Steady effort over gener…</div></a>
+      <a class="idiom-card" href="idiom/yi-bu-bu-gao.html"><div class="ch">一步登天</div><div class="py">yī bù dēng tiān</div><div class="mean">To attempt the impossible overnight. Expecting instant success without the necessary gradual process…</div></a>
+      <a class="idiom-card" href="idiom/yi-ming-jing-ren.html"><div class="ch">一鸣惊人</div><div class="py">yī míng jīng rén</div><div class="mean">To amaze everyone with a single brilliant act. Achieving sudden fame or success after a period of ob…</div></a>
+      <a class="idiom-card" href="idiom/yi-yu-dao-po.html"><div class="ch">一语道破</div><div class="py">yī yǔ dào pò</div><div class="mean">To hit the nail on the head with a single sentence. To reveal the truth in one incisive remark.</div></a>
+      <a class="idiom-card" href="idiom/zhen-zhen-qie-qie.html"><div class="ch">真真切切</div><div class="py">zhēn zhēn qiè qiè</div><div class="mean">Very clearly and distinctly. Without any doubt or ambiguity.</div></a>
+      <a class="idiom-card" href="idiom/zhi-lu-bu-hui.html"><div class="ch">知错不改</div><div class="py">zhī cuò bù gǎi</div><div class="mean">To recognize one&#39;s mistake but stubbornly refuse to correct it. Willful persistence in error.</div></a>
+      <a class="idiom-card" href="idiom/shi-zhi-jiao-bi.html"><div class="ch">咫尺之近</div><div class="py">zhǐ chǐ zhī jìn</div><div class="mean">Very close by, within easy reach. Used to describe physical or figurative nearness.</div></a>
+      <a class="idiom-card" href="idiom/zi-xiang-mao-dun.html"><div class="ch">自相矛盾</div><div class="py">zì xiāng máo dùn</div><div class="mean">To contradict oneself. Saying or doing things that cannot both be true at the same time.</div></a>
+      <a class="idiom-card" href="idiom/an-bu-jiu-ban.html"><div class="ch">按部就班</div><div class="py">àn bù jiù bān</div><div class="mean">To proceed in an orderly, step-by-step manner. Following a planned sequence without rushing.</div></a>
+    </div>
+  </main>
+</div>
+
+<footer>
+  <div class="container">
+    <p>Chinese Idiom Dictionary · A free reference for classical Chinese idioms (成语/chéngyǔ)</p>
+    <p style="margin-top: 8px;"><a href="about.html">About</a> · <a href="sitemap.xml">Sitemap</a></p>
+  </div>
+</footer>
+
+<script>
+  // Simple search filter
+  const searchInput = document.getElementById('searchInput');
+  const cards = document.querySelectorAll('.idiom-card');
+  searchInput.addEventListener('input', (e) => {
+    const q = e.target.value.toLowerCase();
+    cards.forEach(card => {
+      const text = card.textContent.toLowerCase();
+      card.style.display = text.includes(q) ? 'block' : 'none';
+    });
+  });
+</script>
+
+</body>
+</html>
