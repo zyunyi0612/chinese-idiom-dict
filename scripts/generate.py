@@ -142,11 +142,12 @@ def render_sitemap(idioms):
             f"    <lastmod>{today}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>"
         )
     body = "\n".join(urls)
-    return (
+    content = (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         f"{body}\n</urlset>\n"
     )
+    return content
 
 
 def render_robots():
@@ -195,9 +196,19 @@ def main():
     print("Generating sitemap.xml...")
     sitemap = render_sitemap(idioms)
     (OUTPUT_DIR / "sitemap.xml").write_text(sitemap, encoding="utf-8")
+    # Also write under a second filename — Google treats it as a new URL,
+    # bypassing any cached failure state on /sitemap.xml.
+    (OUTPUT_DIR / "sitemap-index.xml").write_text(sitemap, encoding="utf-8")
 
     print("Generating robots.txt...")
-    (OUTPUT_DIR / "robots.txt").write_text(render_robots(), encoding="utf-8")
+    # robots.txt points to the new sitemap filename
+    robots_content = (
+        "User-agent: *\n"
+        "Allow: /\n\n"
+        f"Sitemap: {DOMAIN}/sitemap-index.xml\n"
+        f"Sitemap: {DOMAIN}/sitemap.xml\n"
+    )
+    (OUTPUT_DIR / "robots.txt").write_text(robots_content, encoding="utf-8")
 
     print()
     print("=" * 50)
