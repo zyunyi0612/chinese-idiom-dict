@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chinese-idioms.example.com/sitemap.xml
+Sitemap: https://zyunyi0612.github.io/chinese-idiom-dict/sitemap.xml

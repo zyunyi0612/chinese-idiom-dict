@@ -13,7 +13,7 @@ BASE_DIR = Path(__file__).parent.parent
 TEMPLATE_DIR = BASE_DIR / "templates"
 DATA_DIR = BASE_DIR / "idioms"
 OUTPUT_DIR = BASE_DIR / "docs"
-DOMAIN = "https://chinese-idioms.example.com"
+DOMAIN = "https://zyunyi0612.github.io/chinese-idiom-dict"
 
 
 def load_json(path):
