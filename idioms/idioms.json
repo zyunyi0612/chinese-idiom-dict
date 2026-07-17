@@ -9,8 +9,14 @@
     "example_zh": "不要守株待兔，机会要靠自己去争取。",
     "example_en": "Don't just wait by the stump for a rabbit—go out and earn your opportunities.",
     "category": "Attitude",
-    "similar": ["刻舟求剑", "缘木求鱼"],
-    "opposite": ["主动出击", "自力更生"]
+    "similar": [
+      "刻舟求剑",
+      "缘木求鱼"
+    ],
+    "opposite": [
+      "主动出击",
+      "自力更生"
+    ]
   },
   {
     "id": "hua-she-tian-zu",
@@ -22,8 +28,14 @@
     "example_zh": "报告已经很完善了，再加这些数据就是画蛇添足。",
     "example_en": "The report is already perfect; adding these extra figures is just drawing feet on a snake.",
     "category": "Action",
-    "similar": ["多此一举", "弄巧成拙"],
-    "opposite": ["恰到好处", "适可而止"]
+    "similar": [
+      "多此一举",
+      "弄巧成拙"
+    ],
+    "opposite": [
+      "恰到好处",
+      "适可而止"
+    ]
   },
   {
     "id": "jing-di-zhi-fa",
@@ -35,8 +47,14 @@
     "example_zh": "你没出过国，简直是井底之蛙。",
     "example_en": "You've never been abroad—you're like a frog at the bottom of a well.",
     "category": "Knowledge",
-    "similar": ["管中窥豹", "坐井观天"],
-    "opposite": ["见多识广", "博览群书"]
+    "similar": [
+      "管中窥豹",
+      "坐井观天"
+    ],
+    "opposite": [
+      "见多识广",
+      "博览群书"
+    ]
   },
   {
     "id": "ke-zhou-qiu-jian",
@@ -48,8 +66,14 @@
     "example_zh": "现在市场变了，你的旧策略就是刻舟求剑。",
     "example_en": "The market has changed—sticking to your old strategy is like carving the boat to find the sword.",
     "category": "Thinking",
-    "similar": ["守株待兔", "墨守成规"],
-    "opposite": ["与时俱进", "随机应变"]
+    "similar": [
+      "守株待兔",
+      "墨守成规"
+    ],
+    "opposite": [
+      "与时俱进",
+      "随机应变"
+    ]
   },
   {
     "id": "yuan-mu-qiu-yu",
@@ -61,8 +85,14 @@
     "example_zh": "想靠买彩票致富，简直是缘木求鱼。",
     "example_en": "Hoping to get rich by buying lottery tickets is like climbing a tree to catch fish.",
     "category": "Action",
-    "similar": ["南辕北辙", "水中捞月"],
-    "opposite": ["对症下药", "顺势而为"]
+    "similar": [
+      "南辕北辙",
+      "水中捞月"
+    ],
+    "opposite": [
+      "对症下药",
+      "顺势而为"
+    ]
   },
   {
     "id": "dui-niu-tan-qin",
@@ -74,8 +104,14 @@
     "example_zh": "跟他讲哲学就是白费口舌，对牛弹琴。",
     "example_en": "Explaining philosophy to him is like playing the lute to a cow—a waste of breath.",
     "category": "Communication",
-    "similar": ["白费口舌", "明珠暗投"],
-    "opposite": ["对症下药", "因材施教"]
+    "similar": [
+      "白费口舌",
+      "明珠暗投"
+    ],
+    "opposite": [
+      "对症下药",
+      "因材施教"
+    ]
   },
   {
     "id": "zi-xiang-mao-dun",
@@ -87,8 +123,14 @@
     "example_zh": "你的话自相矛盾，无法自圆其说。",
     "example_en": "Your statements are self-contradictory—you can't have it both ways.",
     "category": "Logic",
-    "similar": ["前后矛盾", "出尔反尔"],
-    "opposite": ["自圆其说", "言行一致"]
+    "similar": [
+      "前后矛盾",
+      "出尔反尔"
+    ],
+    "opposite": [
+      "自圆其说",
+      "言行一致"
+    ]
   },
   {
     "id": "sai-weng-shi-ma",
@@ -100,8 +142,14 @@
     "example_zh": "没拿到offer别太难过，塞翁失马焉知非福。",
     "example_en": "Don't be too upset about not getting the offer—a loss may be a blessing in disguise.",
     "category": "Philosophy",
-    "similar": ["祸福相依", "因祸得福"],
-    "opposite": ["一败涂地", "万劫不复"]
+    "similar": [
+      "祸福相依",
+      "因祸得福"
+    ],
+    "opposite": [
+      "一败涂地",
+      "万劫不复"
+    ]
   },
   {
     "id": "wang-yang-bu-lao",
@@ -113,8 +161,14 @@
     "example_zh": "虽然晚了，但亡羊补牢，为时未晚。",
     "example_en": "It's late, but better late than never—mending the pen after losing the sheep still helps.",
     "category": "Action",
-    "similar": ["悔过自新", "迷途知返"],
-    "opposite": ["一错再错", "执迷不悟"]
+    "similar": [
+      "悔过自新",
+      "迷途知返"
+    ],
+    "opposite": [
+      "一错再错",
+      "执迷不悟"
+    ]
   },
   {
     "id": "ye-gong-hao-long",
@@ -126,8 +180,14 @@
     "example_zh": "你说喜欢挑战，结果真遇到就跑了，真是叶公好龙。",
     "example_en": "You claim to love challenges, but run away when one actually appears—true Lord Ye loving dragons.",
     "category": "Attitude",
-    "similar": ["口是心非", "虚情假意"],
-    "opposite": ["真心实意", "表里如一"]
+    "similar": [
+      "口是心非",
+      "虚情假意"
+    ],
+    "opposite": [
+      "真心实意",
+      "表里如一"
+    ]
   },
   {
     "id": "tian-yi-wu-feng",
@@ -139,8 +199,14 @@
     "example_zh": "这个计划安排得天衣无缝。",
     "example_en": "The plan was arranged flawlessly, with no gaps.",
     "category": "Quality",
-    "similar": ["完美无瑕", "十全十美"],
-    "opposite": ["漏洞百出", "千疮百孔"]
+    "similar": [
+      "完美无瑕",
+      "十全十美"
+    ],
+    "opposite": [
+      "漏洞百出",
+      "千疮百孔"
+    ]
   },
   {
     "id": "yu-gong-yi-shan",
@@ -152,8 +218,14 @@
     "example_zh": "只要坚持不懈，愚公移山也能成功。",
     "example_en": "With relentless persistence, even moving mountains is possible—the foolish old man's way.",
     "category": "Perseverance",
-    "similar": ["锲而不舍", "滴水穿石"],
-    "opposite": ["半途而废", "知难而退"]
+    "similar": [
+      "锲而不舍",
+      "滴水穿石"
+    ],
+    "opposite": [
+      "半途而废",
+      "知难而退"
+    ]
   },
   {
     "id": "hua-long-dian-jing",
@@ -165,8 +237,14 @@
     "example_zh": "最后这句话是画龙点睛之笔。",
     "example_en": "This final sentence is the dotting of the dragon's eyes—the touch that brings it all to life.",
     "category": "Quality",
-    "similar": ["点石成金", "锦上添花"],
-    "opposite": ["画蛇添足", "多此一举"]
+    "similar": [
+      "点石成金",
+      "锦上添花"
+    ],
+    "opposite": [
+      "画蛇添足",
+      "多此一举"
+    ]
   },
   {
     "id": "ba-miao-zhu-zhang",
@@ -178,8 +256,14 @@
     "example_zh": "教育孩子不能拔苗助长。",
     "example_en": "Don't rush a child's education—pulling seedlings to help them grow only kills them.",
     "category": "Action",
-    "similar": ["欲速不达", "揠苗助长"],
-    "opposite": ["顺其自然", "循序渐进"]
+    "similar": [
+      "欲速不达",
+      "揠苗助长"
+    ],
+    "opposite": [
+      "顺其自然",
+      "循序渐进"
+    ]
   },
   {
     "id": "shi-nai-ban-che",
@@ -191,8 +275,14 @@
     "example_zh": "这股技术革命的浪潮势不可挡。",
     "example_en": "The wave of technological revolution is unstoppable.",
     "category": "Power",
-    "similar": ["所向披靡", "锐不可当"],
-    "opposite": ["强弩之末", "日薄西山"]
+    "similar": [
+      "所向披靡",
+      "锐不可当"
+    ],
+    "opposite": [
+      "强弩之末",
+      "日薄西山"
+    ]
   },
   {
     "id": "hu-hu-tu-tu",
@@ -204,8 +294,14 @@
     "example_zh": "他这事办得太糊涂了。",
     "example_en": "He handled this matter in a very muddled way.",
     "category": "Attitude",
-    "similar": ["稀里糊涂", "不明不白"],
-    "opposite": ["清清楚楚", "心知肚明"]
+    "similar": [
+      "稀里糊涂",
+      "不明不白"
+    ],
+    "opposite": [
+      "清清楚楚",
+      "心知肚明"
+    ]
   },
   {
     "id": "yi-ming-jing-ren",
@@ -217,8 +313,14 @@
     "example_zh": "他这次比赛一鸣惊人，夺得冠军。",
     "example_en": "He stunned everyone by winning the championship—a single astonishing cry.",
     "category": "Success",
-    "similar": ["一举成名", "厚积薄发"],
-    "opposite": ["默默无闻", "平淡无奇"]
+    "similar": [
+      "一举成名",
+      "厚积薄发"
+    ],
+    "opposite": [
+      "默默无闻",
+      "平淡无奇"
+    ]
   },
   {
     "id": "bing-ru-gao-huang",
@@ -230,8 +332,14 @@
     "example_zh": "这家公司的腐败已经病入膏肓。",
     "example_en": "The corruption in this company has reached the incurable stage.",
     "category": "Condition",
-    "similar": ["无可救药", "积重难返"],
-    "opposite": ["药到病除", "妙手回春"]
+    "similar": [
+      "无可救药",
+      "积重难返"
+    ],
+    "opposite": [
+      "药到病除",
+      "妙手回春"
+    ]
   },
   {
     "id": "ru-zhui-er-zhong",
@@ -243,8 +351,14 @@
     "example_zh": "等面试结果的时候，他如坐针毡。",
     "example_en": "Waiting for the interview result, he felt like he was sitting on a needle mat.",
     "category": "Emotion",
-    "similar": ["坐立不安", "忐忑不安"],
-    "opposite": ["泰然自若", "安之若素"]
+    "similar": [
+      "坐立不安",
+      "忐忑不安"
+    ],
+    "opposite": [
+      "泰然自若",
+      "安之若素"
+    ]
   },
   {
     "id": "shi-zhi-jiao-bi",
@@ -256,8 +370,14 @@
     "example_zh": "机会就在咫尺之近。",
     "example_en": "The opportunity is within arm's reach.",
     "category": "Distance",
-    "similar": ["近在咫尺", "触手可及"],
-    "opposite": ["远在天边", "天涯海角"]
+    "similar": [
+      "近在咫尺",
+      "触手可及"
+    ],
+    "opposite": [
+      "远在天边",
+      "天涯海角"
+    ]
   },
   {
     "id": "xue-er-bu-yan",
@@ -269,8 +389,14 @@
     "example_zh": "他一生学而不厌，著作等身。",
     "example_en": "He spent his life studying without satiation, and his writings equaled his height.",
     "category": "Learning",
-    "similar": ["好学不倦", "废寝忘食"],
-    "opposite": ["不学无术", "浅尝辄止"]
+    "similar": [
+      "好学不倦",
+      "废寝忘食"
+    ],
+    "opposite": [
+      "不学无术",
+      "浅尝辄止"
+    ]
   },
   {
     "id": "wen-ji-qi-wu",
@@ -282,8 +408,14 @@
     "example_zh": "他每天闻鸡起舞，刻苦训练。",
     "example_en": "He rises at the rooster's crow every day and trains diligently.",
     "category": "Perseverance",
-    "similar": ["发愤图强", "悬梁刺股"],
-    "opposite": ["无所事事", "虚度光阴"]
+    "similar": [
+      "发愤图强",
+      "悬梁刺股"
+    ],
+    "opposite": [
+      "无所事事",
+      "虚度光阴"
+    ]
   },
   {
     "id": "po-fu-chen-zhou",
@@ -295,8 +427,14 @@
     "example_zh": "他破釜沉舟，辞职创业了。",
     "example_en": "He burned his boats—quit his job to start a business with no way back.",
     "category": "Determination",
-    "similar": ["背水一战", "孤注一掷"],
-    "opposite": ["留有余地", "瞻前顾后"]
+    "similar": [
+      "背水一战",
+      "孤注一掷"
+    ],
+    "opposite": [
+      "留有余地",
+      "瞻前顾后"
+    ]
   },
   {
     "id": "hua-shan-dao-hai",
@@ -308,8 +446,14 @@
     "example_zh": "我们有移山倒海的决心。",
     "example_en": "We have the determination to move mountains and overturn seas.",
     "category": "Power",
-    "similar": ["改天换地", "惊天动地"],
-    "opposite": ["无能为力", "束手无策"]
+    "similar": [
+      "改天换地",
+      "惊天动地"
+    ],
+    "opposite": [
+      "无能为力",
+      "束手无策"
+    ]
   },
   {
     "id": "zhi-lu-bu-hui",
@@ -321,8 +465,14 @@
     "example_zh": "知错不改是最大的愚蠢。",
     "example_en": "Knowing your mistake but refusing to change is the greatest foolishness.",
     "category": "Attitude",
-    "similar": ["执迷不悟", "死不悔改"],
-    "opposite": ["知错能改", "悬崖勒马"]
+    "similar": [
+      "执迷不悟",
+      "死不悔改"
+    ],
+    "opposite": [
+      "知错能改",
+      "悬崖勒马"
+    ]
   },
   {
     "id": "cheng-xiang-shi-hao",
@@ -334,8 +484,14 @@
     "example_zh": "我们应该成人之美，互相帮助。",
     "example_en": "We should help others succeed—completing their good.",
     "category": "Morality",
-    "similar": ["助人为乐", "与人为善"],
-    "opposite": ["落井下石", "成人之恶"]
+    "similar": [
+      "助人为乐",
+      "与人为善"
+    ],
+    "opposite": [
+      "落井下石",
+      "成人之恶"
+    ]
   },
   {
     "id": "jian-yi-si-qian",
@@ -347,8 +503,14 @@
     "example_zh": "他做事见异思迁，难以专注。",
     "example_en": "He's fickle in his work, unable to focus—always wanting to move on to the next new thing.",
     "category": "Attitude",
-    "similar": ["朝三暮四", "三心二意"],
-    "opposite": ["一心一意", "矢志不渝"]
+    "similar": [
+      "朝三暮四",
+      "三心二意"
+    ],
+    "opposite": [
+      "一心一意",
+      "矢志不渝"
+    ]
   },
   {
     "id": "xiang-shou-bu-qian",
@@ -360,8 +522,14 @@
     "example_zh": "别一个人向隅而泣，加入我们一起庆祝吧。",
     "example_en": "Don't weep alone in the corner—join our celebration.",
     "category": "Emotion",
-    "similar": ["独自落泪", "顾影自怜"],
-    "opposite": ["同欢共乐", "与民同乐"]
+    "similar": [
+      "独自落泪",
+      "顾影自怜"
+    ],
+    "opposite": [
+      "同欢共乐",
+      "与民同乐"
+    ]
   },
   {
     "id": "lu-yi-shi-lu",
@@ -373,8 +541,14 @@
     "example_zh": "路遥知马力，日久见人心。",
     "example_en": "A long road tests a horse's strength; time reveals a person's heart.",
     "category": "Wisdom",
-    "similar": ["日久见人心", "烈火见真金"],
-    "opposite": ["以貌取人", "浅尝辄止"]
+    "similar": [
+      "日久见人心",
+      "烈火见真金"
+    ],
+    "opposite": [
+      "以貌取人",
+      "浅尝辄止"
+    ]
   },
   {
     "id": "tu-si-hu-ji",
@@ -386,8 +560,14 @@
     "example_zh": "看到同行倒下，他难免兔死狐悲。",
     "example_en": "Seeing a fellow entrepreneur fail, he couldn't help but grieve—the rabbit dies, the fox weeps.",
     "category": "Emotion",
-    "similar": ["物伤其类", "同病相怜"],
-    "opposite": ["幸灾乐祸", "落井下石"]
+    "similar": [
+      "物伤其类",
+      "同病相怜"
+    ],
+    "opposite": [
+      "幸灾乐祸",
+      "落井下石"
+    ]
   },
   {
     "id": "qian-ren-zhi-guan",
@@ -399,8 +579,14 @@
     "example_zh": "他天生是千人之长的料。",
     "example_en": "He's a natural-born leader of thousands.",
     "category": "Leadership",
-    "similar": ["将帅之才", "领袖群伦"],
-    "opposite": ["碌碌无为", "独木难支"]
+    "similar": [
+      "将帅之才",
+      "领袖群伦"
+    ],
+    "opposite": [
+      "碌碌无为",
+      "独木难支"
+    ]
   },
   {
     "id": "yi-bu-bu-gao",
@@ -412,8 +598,14 @@
     "example_zh": "创业没有一步登天的事。",
     "example_en": "There's no such thing as one-stepping to heaven in business.",
     "category": "Action",
-    "similar": ["一蹴而就", "急于求成"],
-    "opposite": ["循序渐进", "脚踏实地"]
+    "similar": [
+      "一蹴而就",
+      "急于求成"
+    ],
+    "opposite": [
+      "循序渐进",
+      "脚踏实地"
+    ]
   },
   {
     "id": "zhen-zhen-qie-qie",
@@ -425,8 +617,14 @@
     "example_zh": "他把事情看得真真切切。",
     "example_en": "He saw the matter very clearly and distinctly.",
     "category": "Clarity",
-    "similar": ["清清楚楚", "明明白白"],
-    "opposite": ["模模糊糊", "似是而非"]
+    "similar": [
+      "清清楚楚",
+      "明明白白"
+    ],
+    "opposite": [
+      "模模糊糊",
+      "似是而非"
+    ]
   },
   {
     "id": "shui-di-shi-chuan",
@@ -438,8 +636,14 @@
     "example_zh": "坚持学习，水滴石穿。",
     "example_en": "Persist in studying—water drops eventually pierce stone.",
     "category": "Perseverance",
-    "similar": ["锲而不舍", "愚公移山"],
-    "opposite": ["半途而废", "浅尝辄止"]
+    "similar": [
+      "锲而不舍",
+      "愚公移山"
+    ],
+    "opposite": [
+      "半途而废",
+      "浅尝辄止"
+    ]
   },
   {
     "id": "mu-deng-kou-dai",
@@ -451,8 +655,14 @@
     "example_zh": "这个消息让他目瞪口呆。",
     "example_en": "The news left him dumbfounded—eyes staring, mouth hanging open.",
     "category": "Emotion",
-    "similar": ["瞠目结舌", "呆若木鸡"],
-    "opposite": ["泰然自若", "若无其事"]
+    "similar": [
+      "瞠目结舌",
+      "呆若木鸡"
+    ],
+    "opposite": [
+      "泰然自若",
+      "若无其事"
+    ]
   },
   {
     "id": "yuan-hai-yi-ou",
@@ -464,8 +674,14 @@
     "example_zh": "他常年出差，四海为家。",
     "example_en": "He travels constantly for work, making the four seas his home.",
     "category": "Lifestyle",
-    "similar": ["到处为家", "漂泊天涯"],
-    "opposite": ["安居乐业", "故土难离"]
+    "similar": [
+      "到处为家",
+      "漂泊天涯"
+    ],
+    "opposite": [
+      "安居乐业",
+      "故土难离"
+    ]
   },
   {
     "id": "an-bu-jiu-ban",
@@ -477,8 +693,14 @@
     "example_zh": "项目要按部就班地推进。",
     "example_en": "The project should proceed step by step, in proper order.",
     "category": "Method",
-    "similar": ["循序渐进", "有条不紊"],
-    "opposite": ["操之过急", "杂乱无章"]
+    "similar": [
+      "循序渐进",
+      "有条不紊"
+    ],
+    "opposite": [
+      "操之过急",
+      "杂乱无章"
+    ]
   },
   {
     "id": "mo-mo-wu-wen",
@@ -490,8 +712,14 @@
     "example_zh": "他在小镇默默无闻地过了一辈子。",
     "example_en": "He lived his whole life in the small town, unknown to the world.",
     "category": "Status",
-    "similar": ["寂寂无闻", "无名小卒"],
-    "opposite": ["名扬天下", "鼎鼎大名"]
+    "similar": [
+      "寂寂无闻",
+      "无名小卒"
+    ],
+    "opposite": [
+      "名扬天下",
+      "鼎鼎大名"
+    ]
   },
   {
     "id": "shi-ke-er-zhi",
@@ -503,8 +731,14 @@
     "example_zh": "玩笑要适可而止，别太过分。",
     "example_en": "Jokes should stop where enough is enough—don't go too far.",
     "category": "Wisdom",
-    "similar": ["恰到好处", "见好就收"],
-    "opposite": ["过犹不及", "得寸进尺"]
+    "similar": [
+      "恰到好处",
+      "见好就收"
+    ],
+    "opposite": [
+      "过犹不及",
+      "得寸进尺"
+    ]
   },
   {
     "id": "qing-chu-yu-lan",
@@ -516,8 +750,14 @@
     "example_zh": "徒弟青出于蓝而胜于蓝。",
     "example_en": "The apprentice has surpassed the master—bluer than the indigo plant he came from.",
     "category": "Improvement",
-    "similar": ["后起之秀", "后来居上"],
-    "opposite": ["每况愈下", "一代不如一代"]
+    "similar": [
+      "后起之秀",
+      "后来居上"
+    ],
+    "opposite": [
+      "每况愈下",
+      "一代不如一代"
+    ]
   },
   {
     "id": "she-ben-zhu-mo",
@@ -529,8 +769,14 @@
     "example_zh": "注重包装而忽视质量，就是舍本逐末。",
     "example_en": "Focusing on packaging while neglecting quality is abandoning the root for the branches.",
     "category": "Priority",
-    "similar": ["本末倒置", "主次不分"],
-    "opposite": ["标本兼治", "提纲挈领"]
+    "similar": [
+      "本末倒置",
+      "主次不分"
+    ],
+    "opposite": [
+      "标本兼治",
+      "提纲挈领"
+    ]
   },
   {
     "id": "wu-hua-ba-men",
@@ -542,8 +788,14 @@
     "example_zh": "市场上的商品五花八门，让人眼花缭乱。",
     "example_en": "The variety of goods in the market is dazzling—all sorts of things.",
     "category": "Variety",
-    "similar": ["形形色色", "千差万别"],
-    "opposite": ["千篇一律", "如出一辙"]
+    "similar": [
+      "形形色色",
+      "千差万别"
+    ],
+    "opposite": [
+      "千篇一律",
+      "如出一辙"
+    ]
   },
   {
     "id": "yi-yu-dao-po",
@@ -555,8 +807,14 @@
     "example_zh": "他一语道破了问题的关键。",
     "example_en": "He broke through to the heart of the matter with a single sentence.",
     "category": "Communication",
-    "similar": ["一针见血", "切中要害"],
-    "opposite": ["隔靴搔痒", "言不及义"]
+    "similar": [
+      "一针见血",
+      "切中要害"
+    ],
+    "opposite": [
+      "隔靴搔痒",
+      "言不及义"
+    ]
   },
   {
     "id": "qi-si-hui-sheng",
@@ -568,8 +826,14 @@
     "example_zh": "这位医生有起死回生之术。",
     "example_en": "This doctor has the skill to raise the dead and return life.",
     "category": "Skill",
-    "similar": ["妙手回春", "扭转乾坤"],
-    "opposite": ["无力回天", "回天乏术"]
+    "similar": [
+      "妙手回春",
+      "扭转乾坤"
+    ],
+    "opposite": [
+      "无力回天",
+      "回天乏术"
+    ]
   },
   {
     "id": "ku-mu-feng-chun",
@@ -581,8 +845,14 @@
     "example_zh": "退休后他创业成功，枯木逢春。",
     "example_en": "After retirement, he started a successful business—dead wood meeting spring.",
     "category": "Recovery",
-    "similar": ["柳暗花明", "绝处逢生"],
-    "opposite": ["一蹶不振", "万念俱灰"]
+    "similar": [
+      "柳暗花明",
+      "绝处逢生"
+    ],
+    "opposite": [
+      "一蹶不振",
+      "万念俱灰"
+    ]
   },
   {
     "id": "feng-hua-zheng-mao",
@@ -594,8 +864,14 @@
     "example_zh": "他们风华正茂，正是干事业的好年纪。",
     "example_en": "They are in the prime of youth—the perfect age to build their careers.",
     "category": "Youth",
-    "similar": ["意气风发", "青春年少"],
-    "opposite": ["垂暮之年", "日暮途穷"]
+    "similar": [
+      "意气风发",
+      "青春年少"
+    ],
+    "opposite": [
+      "垂暮之年",
+      "日暮途穷"
+    ]
   },
   {
     "id": "hua-kai-jie-di",
@@ -607,8 +883,14 @@
     "example_zh": "这家公司分店花开遍地。",
     "example_en": "This company's branches have bloomed all over the place.",
     "category": "Success",
-    "similar": ["遍布各地", "遍地开花"],
-    "opposite": ["独木难支", "寥寥无几"]
+    "similar": [
+      "遍布各地",
+      "遍地开花"
+    ],
+    "opposite": [
+      "独木难支",
+      "寥寥无几"
+    ]
   },
   {
     "id": "ru-hu-tian-yi",
@@ -620,8 +902,14 @@
     "example_zh": "有了这笔投资，公司如虎添翼。",
     "example_en": "With this investment, the company is like a tiger with added wings.",
     "category": "Power",
-    "similar": ["锦上添花", "如鱼得水"],
-    "opposite": ["雪上加霜", "落井下石"]
+    "similar": [
+      "锦上添花",
+      "如鱼得水"
+    ],
+    "opposite": [
+      "雪上加霜",
+      "落井下石"
+    ]
   },
   {
     "id": "yu-yan-zhi-li",
@@ -633,8 +921,14 @@
     "example_zh": "寓言之力胜过千言万语的说教。",
     "example_en": "The power of parables outweighs a thousand words of preaching.",
     "category": "Communication",
-    "similar": ["以理服人", "循循善诱"],
-    "opposite": ["蛮横无理", "强词夺理"]
+    "similar": [
+      "以理服人",
+      "循循善诱"
+    ],
+    "opposite": [
+      "蛮横无理",
+      "强词夺理"
+    ]
   },
   {
     "id": "di-dao-zhi-yi",
@@ -646,7 +940,33 @@
     "example_zh": "做事要地道之宜，因地制宜。",
     "example_en": "Act according to what fits the local ground—adapt to conditions.",
     "category": "Wisdom",
-    "similar": ["因地制宜", "顺势而为"],
-    "opposite": ["刻舟求剑", "生搬硬套"]
+    "similar": [
+      "因地制宜",
+      "顺势而为"
+    ],
+    "opposite": [
+      "刻舟求剑",
+      "生搬硬套"
+    ]
+  },
+  {
+    "chinese": "丰富多彩",
+    "pinyin": "fēng fù duō cǎi",
+    "literal": "abundant, rich, many, colorful",
+    "meaning": "Rich, varied, and colorful; describing content, activities, or life as being full of variety and interest. It conveys a sense of abundance and diversity that makes something vibrant and engaging. Often used to praise events, cultures, or experiences as multifaceted and stimulating.",
+    "origin": "The phrase is a modern compound idiom formed from the adjectives '丰富' (abundant, in use since classical times) and '多彩' (colorful, appearing in Tang and Song poetry). Unlike many chengyu tied to a single classical anecdote, it emerged as a fixed four-character expression in early 20th-century vernacular Chinese (baihua) literature, gaining widespread currency in newspapers and essays of the Republican era. It crystallized a long-standing aesthetic ideal in Chinese culture—valuing multiplicity and ornamentation—into a concise expression. Today it is one of the most frequently used descriptive chengyu in modern Chinese.",
+    "example_zh": "这个夏令营的活动丰富多彩，孩子们每天都过得很充实。",
+    "example_en": "The summer camp offers a rich and colorful variety of activities, and the children have a fulfilling time every day.",
+    "category": "Variety",
+    "similar": [
+      "五花八门",
+      "绚丽多彩",
+      "多姿多彩"
+    ],
+    "opposite": [
+      "单调乏味",
+      "千篇一律"
+    ],
+    "id": "feng-fu-duo-cai"
   }
 ]
