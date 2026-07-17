@@ -12,7 +12,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent.parent
 TEMPLATE_DIR = BASE_DIR / "templates"
 DATA_DIR = BASE_DIR / "idioms"
-OUTPUT_DIR = BASE_DIR / "public"
+OUTPUT_DIR = BASE_DIR / "docs"
 DOMAIN = "https://chinese-idioms.example.com"
 
 
