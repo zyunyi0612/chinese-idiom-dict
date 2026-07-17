@@ -968,5 +968,64 @@
       "千篇一律"
     ],
     "id": "feng-fu-duo-cai"
+  },
+  {
+    "chinese": "开门见山",
+    "pinyin": "kāi mén jiàn shān",
+    "literal": "open, door, see, mountain",
+    "meaning": "Literally 'to open the door and see the mountain,' this idiom means to come straight to the point without beating around the bush. It describes speech or writing that is direct, candid, and gets to the heart of the matter from the very start.",
+    "origin": "The phrase originates from Tang Dynasty poetry criticism, particularly associated with the poet and critic Yan Yu (严羽) in his work 'Canglang's Remarks on Poetry' (《沧浪诗话》). He praised poems that began directly with their main subject, like opening a door to immediately behold a mountain before one, rather than circling with ornamental preambles. The image reflects the Chinese aesthetic of clarity and directness in literary expression. Over time it became a widely used metaphor for straightforward communication in both writing and conversation.",
+    "example_zh": "他一进门就开门见山地说出了自己的来意。",
+    "example_en": "As soon as he walked in, he came straight to the point and stated his purpose.",
+    "category": "Communication",
+    "similar": [
+      "直截了当",
+      "单刀直入",
+      "直言不讳"
+    ],
+    "opposite": [
+      "拐弯抹角",
+      "旁敲侧击"
+    ],
+    "id": "kai-men-jian-shan"
+  },
+  {
+    "chinese": "三顾茅庐",
+    "pinyin": "sān gù máo lú",
+    "literal": "three, visit, thatched, cottage",
+    "meaning": "Describes earnestly and repeatedly seeking out talent or a wise person with great sincerity and humility. It conveys a leader's persistent effort to recruit someone valuable, even at personal inconvenience. Today it is used whenever someone makes repeated, sincere efforts to invite or win over an expert.",
+    "origin": "The idiom comes from the late Eastern Han Dynasty, just before the Three Kingdoms period. The warlord Liu Bei, eager to restore the Han, learned that the brilliant strategist Zhuge Liang was living in seclusion in a thatched cottage at Longzhong. Despite winter weather and the objections of his brothers, Liu Bei personally called on Zhuge Liang three times before the recluse finally agreed to meet him and lay out the famous Longzhong Plan. Deeply moved by such humility, Zhuge Liang agreed to serve Liu Bei and became his chief strategist, helping found the state of Shu Han. The story is recorded in 'Records of the Three Kingdoms' (Sanguozhi) and later dramatized in 'Romance of the Three Kingdoms' (Sanguo Yanyi).",
+    "example_zh": "为了请到这位顶尖工程师，公司总经理三顾茅庐，亲自飞到外地登门邀请。",
+    "example_en": "To recruit this top engineer, the company's CEO visited him in person out of town three times, like Liu Bei seeking out Zhuge Liang.",
+    "category": "Leadership",
+    "similar": [
+      "求贤若渴",
+      "礼贤下士",
+      "吐哺握发"
+    ],
+    "opposite": [
+      "嫉贤妒能"
+    ],
+    "id": "san-gu-mao-lu"
+  },
+  {
+    "chinese": "惊天动地",
+    "pinyin": "jīng tiān dòng dì",
+    "literal": "startle heaven, move earth",
+    "meaning": "An idiom describing something of tremendous impact, scale, or intensity — literally earth-shattering. It is used for events, achievements, sounds, or actions so powerful that they seem to shake the heavens and the earth, leaving a profound impression on everyone who witnesses them.",
+    "origin": "The phrase is classically traced to the Tang dynasty poet Bai Juyi (白居易), who wrote in his poem 'Li Bai's Tomb' (《李白墓》): 'Pitiful are the bones in this barren grave and exhausted spring, yet once they produced writings that startled heaven and moved the earth' (可怜荒垄穷泉骨，曾有惊天动地文). Bai Juyi used the expression to honor the sublime, world-shaking power of Li Bai's poetry. Over the centuries the phrase escaped its literary origins and came to describe any phenomenon — a battle, an invention, a speech — of extraordinary force and consequence.",
+    "example_zh": "这部电影的特效堪称惊天动地，让所有观众都为之震撼。",
+    "example_en": "The special effects in this film were truly earth-shattering, leaving the entire audience in awe.",
+    "category": "Power",
+    "similar": [
+      "震天动地",
+      "翻天覆地",
+      "震耳欲聋"
+    ],
+    "opposite": [
+      "无声无息",
+      "风平浪静"
+    ],
+    "id": "jing-tian-dong-di"
   }
 ]
