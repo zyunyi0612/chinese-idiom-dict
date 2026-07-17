@@ -37,9 +37,10 @@ git config https.proxy http://127.0.0.1:7897
 ORIGINAL_REMOTE=$(git remote get-url origin)
 git remote set-url origin "https://${TOKEN}@github.com/zyunyi0612/chinese-idiom-dict.git"
 
-# Mask token in any output
+# Mask token in any output (escape special chars for sed)
 function safe_git() {
-    git "$@" 2>&1 | sed "s|${TOKEN}|***TOKEN***|g"
+    local escaped_token=$(printf '%s\n' "$TOKEN" | sed 's/[[\.*^$(){}?+|/]/\\&/g')
+    git "$@" 2>&1 | sed "s|${escaped_token}|***TOKEN***|g"
 }
 
 # Commit and push
