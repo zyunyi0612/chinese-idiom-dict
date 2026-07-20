@@ -1047,5 +1047,203 @@
       "画龙点睛"
     ],
     "id": "pao-zhuan-yin-yu"
+  },
+  {
+    "chinese": "来者不拒",
+    "pinyin": "lái zhě bù jù",
+    "literal": "come, one who, not, refuse",
+    "meaning": "A mindset of accepting everyone and everything that approaches or is offered, without discrimination or rejection. It describes an open, all-inclusive attitude toward people, ideas, or opportunities.",
+    "origin": "The idiom traces back to the ancient philosopher Mencius (孟子) and the Confucian tradition. In the Mengzi (《孟子》), Mencius advocated a benevolent and inclusive approach to governance, suggesting that a virtuous ruler should welcome all who come seeking guidance or service. The phrase crystallizes the Confucian ideal of boundless generosity—receiving scholars, commoners, and supplicants alike without turning anyone away.",
+    "example_zh": "这位老教授对学生来者不拒，无论什么时候来请教，他都会耐心解答。",
+    "example_en": "The old professor refuses no one—no matter when students come to him for guidance, he always answers patiently.",
+    "category": "Attitude",
+    "similar": [
+      "照单全收",
+      "有求必应"
+    ],
+    "opposite": [
+      "拒之门外",
+      "闭门谢客"
+    ],
+    "id": "lai-zhe-bu-ju"
+  },
+  {
+    "chinese": "色彩斑斓",
+    "pinyin": "sè cǎi bān lán",
+    "literal": "color, appearance, mottled, ornate",
+    "meaning": "Describes something that is richly, vividly colorful. It is used to paint a picture of scenes, artwork, or natural phenomena that dazzle the eye with a striking variety of hues.",
+    "origin": "This is not a classical idiom but a widely used four-character descriptive phrase in modern Chinese. It combines 色 (color) and 彩 (hue) with 斑斓, a literary word found in ancient texts such as the Chu Ci (楚辞) to describe the gorgeous patterns of bird feathers and precious stones. The full phrase became popular in modern literature and journalism as an evocative way to depict vibrant, multicolored scenes.",
+    "example_zh": "秋天的森林里，落叶铺满了小路，呈现出色彩斑斓的美景。",
+    "example_en": "In the autumn forest, fallen leaves carpeted the path, presenting a colorful and breathtaking vista.",
+    "category": "Variety",
+    "similar": [
+      "五彩缤纷",
+      "绚丽多彩",
+      "五颜六色"
+    ],
+    "opposite": [
+      "黯然无色",
+      "索然无味"
+    ],
+    "id": "se-cai-ban-lan"
+  },
+  {
+    "chinese": "一意孤行",
+    "pinyin": "yī yì gū xíng",
+    "literal": "one, mind, lone, go",
+    "meaning": "To stubbornly insist on doing things one's own way, disregarding the advice or objections of others. It describes a person who acts willfully and arbitrarily, refusing to listen to reason or collective opinion.",
+    "origin": "The idiom comes from the Records of the Grand Historian (史记·酷吏列传) by Sima Qian. Zhao Yu (赵禹), a strict official during the Western Han Dynasty, was known for his unyielding nature. When colleagues tried to curry favor or soften his rigid enforcement of the law, he paid them no heed. Sima Qian described him as acting alone according to his own will — 一意孤行 — meaning he neither sought allies nor compromised his standards. Originally the phrase carried a somewhat positive nuance of principled independence, though in modern usage it is almost always pejorative.",
+    "example_zh": "大家都劝他不要贸然辞职，他却一意孤行，结果落得个两头落空的下场。",
+    "example_en": "Everyone urged him not to quit his job recklessly, but he stubbornly insisted on going his own way and ended up losing out on both fronts.",
+    "category": "Attitude",
+    "similar": [
+      "固执己见",
+      "独断专行",
+      "我行我素"
+    ],
+    "opposite": [
+      "从善如流",
+      "集思广益"
+    ],
+    "id": "yi-yi-gu-xing"
+  },
+  {
+    "chinese": "虎头蛇尾",
+    "pinyin": "hǔ tóu shé wěi",
+    "literal": "tiger head, snake tail",
+    "meaning": "Describes a situation, effort, or endeavor that begins with great energy and ambition but ends weakly or is left unfinished. The vivid imagery contrasts the formidable tiger's head with the thin, feeble snake's tail to convey a dramatic drop-off in commitment or quality.",
+    "origin": "The idiom emerged from Yuan dynasty vernacular literature and drama, where the striking image of a tiger's head paired with a snake's tail was used to mock those who made grand plans but failed to see them through. It appears in multiple Yuan dynasty plays and popular fiction of the era as a colorful metaphor for inconsistency. The phrase crystallized into a fixed four-character idiom during the Ming and Qing dynasties, when it was widely used in novels such as 《水浒传》 to criticize characters who lacked follow-through.",
+    "example_zh": "这个项目刚开始时声势浩大，各部门都投入了大量资源，但几个月后就虎头蛇尾，没人再过问了。",
+    "example_en": "The project started with great fanfare, with every department pouring in resources, but a few months later it fizzled out completely and nobody bothered to follow up.",
+    "category": "Perseverance",
+    "similar": [
+      "有始无终",
+      "半途而废",
+      "善始不善终"
+    ],
+    "opposite": [
+      "有始有终",
+      "善始善终"
+    ],
+    "id": "hu-tou-she-wei"
+  },
+  {
+    "chinese": "一举两得",
+    "pinyin": "yī jǔ liǎng dé",
+    "literal": "one, act, two, obtain",
+    "meaning": "To achieve two goals with a single action. It describes a situation where one effort produces two beneficial results, similar to the English expression 'kill two birds with one stone.'",
+    "origin": "This idiom traces back to the writings of the Jin dynasty scholar Ge Hong (葛洪) in his work Baopuzi (抱朴子). It is also associated with earlier Han dynasty texts discussing strategic efficiency. The core idea—that a wise person maximizes outcomes by identifying actions that serve multiple purposes simultaneously—was a recurring theme in classical Chinese military and philosophical literature.",
+    "example_zh": "每天骑自行车上班，既能锻炼身体，又能节省交通费，真是一举两得。",
+    "example_en": "Cycling to work every day lets you exercise and save on transport costs at the same time—it's really killing two birds with one stone.",
+    "category": "Method",
+    "similar": [
+      "一箭双雕",
+      "一石二鸟",
+      "两全其美"
+    ],
+    "opposite": [
+      "得不偿失",
+      "事倍功半"
+    ],
+    "id": "yi-ju-liang-de"
+  },
+  {
+    "chinese": "史无前例",
+    "pinyin": "shǐ wú qián lì",
+    "literal": "history, no, before, example",
+    "meaning": "An event or situation that has never occurred in recorded history; completely unprecedented. It describes something so extraordinary or unique that no prior comparable example exists.",
+    "origin": "The idiom emerged from modern Chinese usage, gaining widespread prominence after the founding of the People's Republic of China in 1949. It was frequently used in official discourse to describe the unprecedented scale of socialist construction. Unlike many four-character idioms rooted in classical texts, this phrase was assembled from common characters and popularized through 20th-century political and media language rather than any single classical literary source.",
+    "example_zh": "这次疫情的全球蔓延是史无前例的，各国政府不得不采取紧急措施。",
+    "example_en": "The global spread of this pandemic was unprecedented, and governments around the world had to take emergency measures.",
+    "category": "Condition",
+    "similar": [
+      "前所未有",
+      "亘古未有",
+      "空前绝后"
+    ],
+    "opposite": [
+      "屡见不鲜",
+      "司空见惯"
+    ],
+    "id": "shi-wu-qian-li"
+  },
+  {
+    "chinese": "掩耳盗铃",
+    "pinyin": "yǎn ěr dào líng",
+    "literal": "cover, ear, steal, bell",
+    "meaning": "To deceive oneself by ignoring obvious facts. It describes a person who tries to hide a problem from others while remaining fully aware of it themselves, much like covering one's own ears while stealing a bell.",
+    "origin": "The idiom originates from the story recorded in the Lüshi Chunqiu (吕氏春秋), a text compiled during the Warring States period under the patronage of Lü Buwei of the Qin state. A thief tried to steal a large bell from a market but found it too heavy to carry. He decided to smash it into pieces, but the ringing sound drew attention. He then covered his own ears, believing that if he could not hear the noise, no one else could either. The story satirizes the absurdity of self-deception.",
+    "example_zh": "他以为把收据藏起来就能逃税，简直是掩耳盗铃。",
+    "example_en": "He thought hiding the receipts would help him evade taxes—it's nothing but deceiving himself.",
+    "category": "Logic",
+    "similar": [
+      "自欺欺人",
+      "掩目捕雀"
+    ],
+    "opposite": [
+      "实事求是",
+      "脚踏实地"
+    ],
+    "id": "yan-er-dao-ling"
+  },
+  {
+    "chinese": "美中不足",
+    "pinyin": "měi zhōng bù zú",
+    "literal": "beauty, among, not, sufficient",
+    "meaning": "A minor flaw or imperfection in something that is otherwise excellent. It describes a situation where something is largely beautiful or satisfactory but has a small defect that detracts from its overall perfection.",
+    "origin": "The idiom emerged in classical Chinese vernacular literature during the Ming and Qing dynasties. It is notably used in Cao Xueqin's 'Dream of the Red Chamber' (红楼梦, c. 1791), one of China's Four Great Classical Novels, where it appears in contexts lamenting that even the most splendid things harbor small regrets. The phrase reflects a deeply rooted Chinese aesthetic and philosophical sensibility that true perfection is rare, and beauty almost always carries a trace of incompleteness.",
+    "example_zh": "这部电影的画面和配乐都堪称一流，只可惜剧情稍显拖沓，真是美中不足。",
+    "example_en": "The cinematography and soundtrack of this film are top-notch, but unfortunately the plot drags a bit — a real fly in the ointment.",
+    "category": "Quality",
+    "similar": [
+      "白璧微瑕",
+      "瑕不掩瑜",
+      "大醇小疵"
+    ],
+    "opposite": [
+      "十全十美",
+      "完美无缺"
+    ],
+    "id": "mei-zhong-bu-zu"
+  },
+  {
+    "chinese": "力不从心",
+    "pinyin": "lì bù cóng xīn",
+    "literal": "power, not, follow, heart",
+    "meaning": "To lack the strength or ability to accomplish what one wishes to do. It describes a situation where one's ambition or desire exceeds one's actual capacity.",
+    "origin": "This idiom appears in the \"Book of Later Han\" (后汉书·班超传), recounting the story of the Eastern Han dynasty general Ban Chao (班超). After decades of defending the western frontier, Ban Chao wrote to Emperor He in his old age, saying that his body was declining and he could no longer carry out his duties as before — his strength no longer followed his heart. The emperor, moved by his plea, eventually allowed him to return to the capital.",
+    "example_zh": "我想帮他们完成这个项目，但能力有限，实在力不从心。",
+    "example_en": "I want to help them finish this project, but my abilities are limited — I simply lack the capacity.",
+    "category": "Condition",
+    "similar": [
+      "心有余力不足",
+      "爱莫能助",
+      "无能为力"
+    ],
+    "opposite": [
+      "得心应手",
+      "游刃有余"
+    ],
+    "id": "li-bu-cong-xin"
+  },
+  {
+    "chinese": "身临其境",
+    "pinyin": "shēn lín qí jìng",
+    "literal": "body, arrive, its, place",
+    "meaning": "To feel as though one is personally present in a situation or scene. It describes the vivid, immersive sensation of experiencing something firsthand, as if actually being there rather than merely hearing or reading about it.",
+    "origin": "The phrase traces its roots to classical Chinese literary aesthetics. While not tied to a single specific historical anecdote, it crystallized as a concept in literary criticism during the Ming and Qing dynasties, particularly in discussions of landscape poetry and narrative fiction. Critics used it to praise works that transported readers so effectively into the depicted world that the boundary between reading and experiencing dissolved. The idiom encapsulates a core ideal of traditional Chinese literary theory: that great writing should make the reader 'personally arrive at the scene.'",
+    "example_zh": "读了这本书，我仿佛身临其境，亲眼目睹了那个时代的繁华与衰落。",
+    "example_en": "Reading this book, I felt as if I were personally present, witnessing firsthand the prosperity and decline of that era.",
+    "category": "Experience",
+    "similar": [
+      "设身处地",
+      "感同身受",
+      "历历在目"
+    ],
+    "opposite": [
+      "隔靴搔痒",
+      "道听途说"
+    ],
+    "id": "shen-lin-qi-jing"
   }
 ]
