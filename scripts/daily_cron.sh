@@ -8,6 +8,9 @@ LOG_DIR="$PROJECT/logs"
 LOG="$LOG_DIR/cron.log"
 PYTHON=$(command -v python3 || echo "/usr/bin/python3")
 
+# Cron has minimal PATH — add hermes location
+export PATH="/Users/zhangyunyi/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:$PATH"
+
 mkdir -p "$LOG_DIR"
 
 log() {

@@ -1027,5 +1027,25 @@
       "风平浪静"
     ],
     "id": "jing-tian-dong-di"
+  },
+  {
+    "chinese": "抛砖引玉",
+    "pinyin": "pāo zhuān yǐn yù",
+    "literal": "throw brick, attract jade",
+    "meaning": "To offer a humble or modest remark in order to prompt others to share their more valuable insights or ideas. The speaker compares their own contribution to a worthless brick while hoping to elicit something as precious as jade from the audience. It is commonly used as a self-deprecating polite opener before presenting an opinion, proposal, or creative work.",
+    "origin": "The idiom is attributed to the Tang dynasty poet Chang Jian (常建). Legend says Chang Jian admired the poems of his contemporary Zhao Gu (赵嘏) and devised a clever plan to obtain one. He deliberately wrote an incomplete poem on the wall of Lingyan Temple (灵岩寺), leaving the last couplet unfinished, hoping Zhao Gu would come along and fill in the missing lines. Zhao Gu eventually visited the temple, saw the poem, and indeed composed a masterful concluding couplet — far surpassing Chang Jian's verses. Thus Chang Jian's modest lines were the 'brick' and Zhao Gu's brilliant additions were the 'jade.'",
+    "example_zh": "我先谈一点粗浅的看法，算是抛砖引玉吧，希望大家畅所欲言。",
+    "example_en": "Let me share a few rough thoughts first as a modest opener — I hope everyone will feel free to speak up and share their own insights.",
+    "category": "Communication",
+    "similar": [
+      "献丑",
+      "引玉之砖",
+      "班门弄斧"
+    ],
+    "opposite": [
+      "锦上添花",
+      "画龙点睛"
+    ],
+    "id": "pao-zhuan-yin-yu"
   }
 ]
