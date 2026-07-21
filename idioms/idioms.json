@@ -1245,5 +1245,203 @@
       "道听途说"
     ],
     "id": "shen-lin-qi-jing"
+  },
+  {
+    "chinese": "青云直上",
+    "pinyin": "qīng yún zhí shàng",
+    "literal": "blue, cloud, straight, up",
+    "meaning": "To rise rapidly and straight to a high position, like soaring through the blue sky. It describes someone whose career or social status advances swiftly and spectacularly, often with connotations of reaching the upper echelons of officialdom or prominence.",
+    "origin": "The phrase draws from the classical Chinese metaphor of '青云' (blue clouds), which symbolizes the highest heavens and by extension a lofty official position. The concept appears in early texts such as the 'Zhuangzi', where surpassing the blue clouds represents transcending the ordinary realm. The four-character idiom as we know it took shape in later dynastic literature, used to praise officials who were promoted with exceptional speed — often through the examination system or imperial favor — ascending the bureaucratic hierarchy as if climbing straight into the sky.",
+    "example_zh": "他年纪轻轻就青云直上，三十岁便已官至厅局级，令同僚们艳羡不已。",
+    "example_en": "He enjoyed a meteoric rise at a young age, reaching the director-general level by thirty and leaving his colleagues envious.",
+    "category": "Success",
+    "similar": [
+      "平步青云",
+      "飞黄腾达",
+      "一步登天"
+    ],
+    "opposite": [
+      "一落千丈",
+      "每况愈下"
+    ],
+    "id": "qing-yun-zhi-shang"
+  },
+  {
+    "chinese": "竭尽全力",
+    "pinyin": "jié jìn quán lì",
+    "literal": "exhaust, exhaust, all, strength",
+    "meaning": "To do everything in one's power and spare no effort in pursuing a goal. It conveys the idea of giving one's absolute best, holding nothing back. The idiom emphasizes total commitment and the willingness to use every last ounce of energy or resources.",
+    "origin": "The idiom traces its roots to classical Chinese texts. A notable early usage appears in the works of the Han dynasty, where the phrase was employed to describe officials and soldiers who gave their all in service. The concept of '竭' meaning 'to exhaust or drain' is ancient, appearing in texts such as the Zuozhuan and the Han Shu. Over centuries, the four-character combination became a standard expression for wholehearted dedication to any task or duty.",
+    "example_zh": "为了攻克这道技术难题，整个团队竭尽全力，连续加班了一个月。",
+    "example_en": "To overcome this technical challenge, the entire team did their utmost, working overtime for a whole month.",
+    "category": "Determination",
+    "similar": [
+      "全力以赴",
+      "不遗余力"
+    ],
+    "opposite": [
+      "敷衍了事",
+      "半途而废"
+    ],
+    "id": "jie-jin-quan-li"
+  },
+  {
+    "chinese": "言而无信",
+    "pinyin": "yán ér wú xìn",
+    "literal": "speak, but, no, trust",
+    "meaning": "To speak but fail to keep one's word; to be untrustworthy or insincere in what one says. It describes a person who makes promises or commitments but does not follow through on them.",
+    "origin": "The phrase derives from classical Confucian teachings on the importance of trustworthiness (信) in human conduct. It appears in the context of the virtue of '信' being one of the five fundamental Confucian moral principles, emphasized by Mencius and earlier in the Analects. The idea that a person who lacks trustworthiness is not fit to stand in society is a recurring theme in pre-Qin philosophical texts.",
+    "example_zh": "他答应帮我搬家，结果却言而无信，让我白等了一天。",
+    "example_en": "He promised to help me move, but he broke his word, leaving me waiting all day for nothing.",
+    "category": "Morality",
+    "similar": [
+      "出尔反尔",
+      "食言而肥",
+      "背信弃义"
+    ],
+    "opposite": [
+      "一诺千金",
+      "言而有信"
+    ],
+    "id": "yan-er-wu-xin"
+  },
+  {
+    "chinese": "名落孙山",
+    "pinyin": "míng luò sūn shān",
+    "literal": "name falls behind Sun Shan",
+    "meaning": "To fail a competitive examination or selection process. It refers to someone who did not make the cut in a ranked list of successful candidates. The idiom is commonly used to describe failing the imperial examinations or, by extension, failing any important test or competition.",
+    "origin": "The phrase comes from a Song Dynasty story about a man named Sun Shan (孙山), who was known for his witty humor. Sun Shan and a fellow townsman's son both took the imperial examination together. When the results were announced, Sun Shan's name appeared last on the list of successful candidates, while his companion's son failed. Upon returning home, the townsman asked about his son's result. Sun Shan replied with a clever couplet: 'Sun Shan's name is behind the examiner, and your son's name is behind Sun Shan' — meaning both literally and figuratively that the son did not pass. The phrase was recorded in the Song Dynasty collection 'Gu Jin Tan' (古今谭) by Feng Menglong's era or earlier anecdotal compilations.",
+    "example_zh": "他连续两年参加高考，都名落孙山，但他没有放弃，第三年终于考上了理想的大学。",
+    "example_en": "He took the college entrance exam for two consecutive years and failed both times, but he didn't give up and was finally admitted to his dream university on his third try.",
+    "category": "Learning",
+    "similar": [
+      "榜上无名",
+      "铩羽而归",
+      "一败涂地"
+    ],
+    "opposite": [
+      "金榜题名",
+      "蟾宫折桂"
+    ],
+    "id": "ming-luo-sun-shan"
+  },
+  {
+    "chinese": "不屈不挠",
+    "pinyin": "bù qū bù náo",
+    "literal": "not bend, not yield",
+    "meaning": "This idiom describes someone who remains steadfast and refuses to give in, no matter how great the pressure or adversity. It conveys an unyielding spirit and firm resolve in the face of difficulties. It is commonly used to praise those who persist in their convictions despite overwhelming odds.",
+    "origin": "The phrase traces back to the Han Dynasty work \"Records of the Grand Historian\" (史记) by Sima Qian. In the biography of the loyal minister Jia Yi, the text describes the quality of remaining unbent and unyielding under pressure, using the language \"不屈\" (not bending) and \"不挠\" (not yielding). Later literary sources solidified the pairing into the fixed four-character idiom, cementing its association with moral courage and resolute character.",
+    "example_zh": "面对种种困难，他始终不屈不挠，最终实现了自己的梦想。",
+    "example_en": "In the face of all kinds of difficulties, he remained unyielding and ultimately realized his dream.",
+    "category": "Perseverance",
+    "similar": [
+      "坚忍不拔",
+      "百折不挠",
+      "锲而不舍"
+    ],
+    "opposite": [
+      "知难而退",
+      "半途而废"
+    ],
+    "id": "bu-qu-bu-nao"
+  },
+  {
+    "chinese": "山穷水尽",
+    "pinyin": "shān qióng shuǐ jìn",
+    "literal": "mountain exhausted, water finished",
+    "meaning": "Describes a situation where all resources and options have been completely depleted, leaving a person with no way forward. It conveys the sense of being at an impasse or dead end with no escape. Often used in the context of desperate circumstances where hope seems lost.",
+    "origin": "This idiom comes from a famous poem by the Northern Song dynasty poet Lu You (陆游), titled 'Visit to Shanxi Village' (游山西村). The full couplet reads '山重水复疑无路，柳暗花明又一村' — meaning amid confusing, dead-end mountains and rivers, one suddenly discovers another village beyond the dark willows and bright blossoms. The phrase 山穷水尽 was later extracted to describe the desperate moment before a sudden turn for the better.",
+    "example_zh": "资金链断裂后，公司已到了山穷水尽的地步，随时可能宣布破产。",
+    "example_en": "After the funding chain broke, the company reached the end of its rope and could declare bankruptcy at any moment.",
+    "category": "Condition",
+    "similar": [
+      "走投无路",
+      "穷途末路",
+      "日暮途穷"
+    ],
+    "opposite": [
+      "柳暗花明",
+      "峰回路转"
+    ],
+    "id": "shan-qiong-shui-jin"
+  },
+  {
+    "chinese": "水落石出",
+    "pinyin": "shuǐ luò shí chū",
+    "literal": "water falls, stone appears",
+    "meaning": "The truth finally comes to light after a period of uncertainty. It describes a situation where hidden facts are revealed, just as stones at the bottom of a river become visible when the water level drops.",
+    "origin": "The phrase originates from a poem by the Northern Song dynasty poet Ouyang Xiu (欧阳修), titled '醉翁亭记' (The Pavilion of the Drunken Old Man), written circa 1046 AD. In the poem, Ouyang Xiu describes the seasonal scenery around Mount Langya, writing that when the water recedes in autumn and winter, the rocks beneath are exposed. Later scholars extended the imagery metaphorically to mean the revelation of truth or facts that were previously obscured.",
+    "example_zh": "经过长时间的调查，案件的真相终于水落石出了。",
+    "example_en": "After a long investigation, the truth of the case finally came to light.",
+    "category": "Clarity",
+    "similar": [
+      "真相大白",
+      "原形毕露",
+      "昭然若揭"
+    ],
+    "opposite": [
+      "扑朔迷离",
+      "疑云密布"
+    ],
+    "id": "shui-luo-shi-chu"
+  },
+  {
+    "chinese": "争先恐后",
+    "pinyin": "zhēng xiān kǒng hòu",
+    "literal": "strive, first, fear, last",
+    "meaning": "To scramble to be first and fear being left behind. It describes people eagerly competing or rushing forward, unwilling to lag behind others in pursuit of a goal or opportunity.",
+    "origin": "The idiom comes from Qu Yuan's (屈原) ancient poem 'Li Sao' (《离骚》) from the Warring States period: '众皆竞进以贪婪兮，凭不厌乎求索' — though the exact four-character phrase was later crystallized from this spirit. Another early attestation appears in the classical commentary tradition describing how people vie for advantage. The phrase has been used in its modern form since at least the Tang dynasty, capturing the universal human impulse to outpace one's peers.",
+    "example_zh": "商场一开门，顾客们争先恐后地涌进去抢购特价商品。",
+    "example_en": "The moment the store opened, customers scrambled to rush in and grab the discounted items.",
+    "category": "Action",
+    "similar": [
+      "你追我赶",
+      "不甘人后",
+      "奋勇争先"
+    ],
+    "opposite": [
+      "畏缩不前",
+      "甘居人后"
+    ],
+    "id": "zheng-xian-kong-hou"
+  },
+  {
+    "chinese": "一目了然",
+    "pinyin": "yī mù liǎo rán",
+    "literal": "one, eye, clear, so",
+    "meaning": "Things become completely clear at a single glance. It describes a situation where the facts or overall picture are immediately obvious and easy to understand without further explanation.",
+    "origin": "This idiom originates from the Song dynasty work 《朱子语类》(Conversations of Master Zhu) by the influential Neo-Confucian philosopher Zhu Xi (1130–1200). Zhu Xi used the expression to describe how the fundamental principles of things can become immediately apparent when one's understanding is sufficiently clear. The phrase later entered common usage as a general description of anything that is instantly comprehensible.",
+    "example_zh": "这份图表设计得很好，数据趋势一目了然。",
+    "example_en": "This chart is very well designed — the data trends are clear at a glance.",
+    "category": "Clarity",
+    "similar": [
+      "了如指掌",
+      "洞若观火"
+    ],
+    "opposite": [
+      "雾里看花",
+      "一头雾水"
+    ],
+    "id": "yi-mu-liao-ran"
+  },
+  {
+    "chinese": "喜出望外",
+    "pinyin": "xǐ chū wàng wài",
+    "literal": "joy, go beyond, expectation, outside",
+    "meaning": "To be overjoyed, delighted beyond expectation. It describes the feeling of being pleasantly surprised by something far better than one had hoped for.",
+    "origin": "The idiom traces back to Song dynasty literature. It appears in works such as Su Shi's writings and later Song vernacular fiction, where 望外 referred to outcomes beyond one's expectations. The phrase was widely popularized in Ming-Qing vernacular novels like Journey to the West and Dream of the Red Chamber to describe characters' unexpected joy. Its classical root lies in the concept that true happiness arises when reality surpasses anticipation.",
+    "example_zh": "听到自己被录取的消息，他喜出望外，激动得说不出话来。",
+    "example_en": "Overjoyed at hearing the news of his admission, he was so excited he couldn't speak.",
+    "category": "Emotion",
+    "similar": [
+      "大喜过望",
+      "欣喜若狂",
+      "乐不可支"
+    ],
+    "opposite": [
+      "大失所望",
+      "垂头丧气"
+    ],
+    "id": "xi-chu-wang-wai"
   }
 ]

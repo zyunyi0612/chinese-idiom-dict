@@ -175,3 +175,94 @@ To preview locally:
 [2026-07-21 03:16:53] Site regenerated
 [2026-07-21 03:16:53] Pushing to GitHub...
 [2026-07-21 03:16:53] Pushing to GitHub...
+[main fa8f2a0] Auto-update: 2026-07-21 03:16 — regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 16 files changed, 3041 insertions(+), 18 deletions(-)
+ create mode 100644 docs/idiom/hu-tou-she-wei.html
+ create mode 100644 docs/idiom/lai-zhe-bu-ju.html
+ create mode 100644 docs/idiom/li-bu-cong-xin.html
+ create mode 100644 docs/idiom/mei-zhong-bu-zu.html
+ create mode 100644 docs/idiom/se-cai-ban-lan.html
+ create mode 100644 docs/idiom/shen-lin-qi-jing.html
+ create mode 100644 docs/idiom/shi-wu-qian-li.html
+ create mode 100644 docs/idiom/yan-er-dao-ling.html
+ create mode 100644 docs/idiom/yi-ju-liang-de.html
+ create mode 100644 docs/idiom/yi-yi-gu-xing.html
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   b54f1ad..fa8f2a0  main -> main
+
+Push OK
+[2026-07-21 03:16:59] Push OK
+[2026-07-21 03:16:59] Push OK
+[2026-07-21 03:16:59] === Daily cron done ===
+[2026-07-21 03:16:59] === Daily cron done ===
+[2026-07-22 03:15:00] === Daily cron start ===
+[2026-07-22 03:15:00] === Daily cron start ===
+[2026-07-22 03:15:00] Generating 10 new idioms...
+[2026-07-22 03:15:00] Generating 10 new idioms...
+Existing: 65 idioms
+Candidates available: 144
+Generating 10 new idioms...
+
+  → 青云直上 (qīng yún zhí shàng)
+    OK: literal='blue, cloud, straight, up...'
+  → 竭尽全力 (jié jìn quán lì)
+    OK: literal='exhaust, exhaust, all, strength...'
+  → 言而无信 (yán ér wú xìn)
+    OK: literal='speak, but, no, trust...'
+  → 名落孙山 (míng luò sūn shān)
+    OK: literal='name falls behind Sun Shan...'
+  → 不屈不挠 (bù qū bù náo)
+    OK: literal='not bend, not yield...'
+  → 山穷水尽 (shān qióng shuǐ jìn)
+    OK: literal='mountain exhausted, water finished...'
+  → 水落石出 (shuǐ luò shí chū)
+    OK: literal='water falls, stone appears...'
+  → 争先恐后 (zhēng xiān kǒng hòu)
+    OK: literal='strive, first, fear, last...'
+  → 一目了然 (yī mù liǎo rán)
+    OK: literal='one, eye, clear, so...'
+  → 喜出望外 (xǐ chū wàng wài)
+    OK: literal='joy, go beyond, expectation, outside...'
+
+Added 10 idioms. Total: 75
+[2026-07-22 03:18:06] Generation OK
+[2026-07-22 03:18:06] Generation OK
+[2026-07-22 03:18:06] Regenerating site...
+[2026-07-22 03:18:06] Regenerating site...
+Loading data...
+  → 75 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 75 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 75 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-22 03:18:06] Site regenerated
+[2026-07-22 03:18:06] Site regenerated
+[2026-07-22 03:18:06] Pushing to GitHub...
+[2026-07-22 03:18:06] Pushing to GitHub...
