@@ -266,3 +266,36 @@ To preview locally:
 [2026-07-22 03:18:06] Site regenerated
 [2026-07-22 03:18:06] Pushing to GitHub...
 [2026-07-22 03:18:06] Pushing to GitHub...
+[main 34b9084] Auto-update: 2026-07-22 03:18 — regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 16 files changed, 3184 insertions(+), 157 deletions(-)
+ create mode 100644 docs/idiom/bu-qu-bu-nao.html
+ create mode 100644 docs/idiom/jie-jin-quan-li.html
+ create mode 100644 docs/idiom/ming-luo-sun-shan.html
+ create mode 100644 docs/idiom/qing-yun-zhi-shang.html
+ create mode 100644 docs/idiom/shan-qiong-shui-jin.html
+ create mode 100644 docs/idiom/shui-luo-shi-chu.html
+ create mode 100644 docs/idiom/xi-chu-wang-wai.html
+ create mode 100644 docs/idiom/yan-er-wu-xin.html
+ create mode 100644 docs/idiom/yi-mu-liao-ran.html
+ create mode 100644 docs/idiom/zheng-xian-kong-hou.html
+
+fatal: unable to access 'https://github.com/zyunyi0612/chinese-idiom-dict.git/': The requested URL returned error: 403
+
+Push FAILED
+[2026-07-22 03:18:08] Push FAILED
+[2026-07-22 03:18:08] Push FAILED
+[2026-07-22 03:18:08] === Daily cron done ===
+[2026-07-22 03:18:08] === Daily cron done ===
