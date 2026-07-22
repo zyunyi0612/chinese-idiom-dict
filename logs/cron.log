@@ -300,3 +300,25 @@ Push FAILED
 [2026-07-22 03:18:08] === Daily cron done ===
 [2026-07-22 03:18:08] === Daily cron done ===
 [2026-07-22 12:11:05] === Catch-up push start (9 unpushed commits) ===
+[main c7bd096] Auto-update: 2026-07-22 12:11 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 25 insertions(+)
+ create mode 100755 scripts/catchup_push.sh
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   b3b6988..c7bd096  main -> main
+
+Push OK (attempt 1)
+[2026-07-22 12:11:08] === Catch-up push done ===
