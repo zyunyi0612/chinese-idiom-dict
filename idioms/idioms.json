@@ -1443,5 +1443,205 @@
       "垂头丧气"
     ],
     "id": "xi-chu-wang-wai"
+  },
+  {
+    "chinese": "纸上谈兵",
+    "pinyin": "zhǐ shàng tán bīng",
+    "literal": "on paper, talk soldiers",
+    "meaning": "To engage in empty theorizing about military strategy without practical experience. It describes someone who discusses things abstractly but cannot apply them in real situations.",
+    "origin": "The idiom originates from the historical Records of the Grand Historian (史记·廉颇蔺相如列传) by Sima Qian. During the Warring States period, Zhao Kuo, son of the famous Zhao general Zhao She, was well-versed in military texts and could discuss strategy fluently on paper. King of Zhao appointed him commander to replace the ailing general Lian Po, but at the Battle of Changping (260 BC), Zhao Kuo's rigid book knowledge led to a catastrophic defeat and the loss of 400,000 Zhao soldiers.",
+    "example_zh": "光靠书本知识纸上谈兵是解决不了实际问题的，必须深入基层调查研究。",
+    "example_en": "Relying solely on book knowledge and empty talk won't solve practical problems — you must go deep into the grassroots and conduct real investigations.",
+    "category": "Knowledge",
+    "similar": [
+      "闭门造车",
+      "坐而论道",
+      "夸夸其谈"
+    ],
+    "opposite": [
+      "身体力行",
+      "躬行实践"
+    ],
+    "id": "zhi-shang-tan-bing"
+  },
+  {
+    "chinese": "跃跃欲试",
+    "pinyin": "yuè yuè yù shì",
+    "literal": "leaping leaping, desiring to try",
+    "meaning": "Describes an eager, enthusiastic readiness to attempt something new or take on a challenge. The person is practically itching to have a go, full of anticipation and restless energy. It carries a positive, spirited connotation rather than a cautious one.",
+    "origin": "This idiom traces back to the ancient text 《诗经·大雅·旱麓》 (Book of Odes, Greater Odes, 'Han Lu'), where the phrase '跃跃毚兔' describes a lively, bounding hare. Later writers extended the imagery of leaping eagerness to human behavior, and the expression evolved into '跃跃欲试' to capture the feeling of being so eager that one is ready to spring into action at any moment.",
+    "example_zh": "听到这个新项目的消息后，大家都跃跃欲试，纷纷报名参加。",
+    "example_en": "Hearing about this new project, everyone was itching to give it a try and eagerly signed up to participate.",
+    "category": "Attitude",
+    "similar": [
+      "摩拳擦掌",
+      "蠢蠢欲动",
+      "按捺不住"
+    ],
+    "opposite": [
+      "无动于衷",
+      "望而却步"
+    ],
+    "id": "yue-yue-yu-shi"
+  },
+  {
+    "chinese": "琳琅满目",
+    "pinyin": "lín láng mǎn mù",
+    "literal": "fine jade, full, eye",
+    "meaning": "A dazzling array of beautiful things; an impressive collection of fine items filling one's field of vision. It describes a scene where exquisite, high-quality objects are displayed in great abundance, delighting the observer's eyes.",
+    "origin": "The phrase originates from Jin Dynasty scholar Lu Ji's (陆机) \"Wen Fu\" (文赋, Ode to Literature), where he wrote of beautiful things being displayed before one's eyes. The individual characters 琳 and 琅 both refer to types of fine jade, symbolizing preciousness. Over centuries the idiom evolved from describing literary excellence to broadly denoting any magnificent assortment of beautiful objects or rich offerings.",
+    "example_zh": "走进博物馆的展厅，各种精美的古代玉器琳琅满目，令人叹为观止。",
+    "example_en": "Walking into the museum's exhibition hall, the dazzling array of exquisite ancient jade artifacts left visitors in awe.",
+    "category": "Variety",
+    "similar": [
+      "美不胜收",
+      "五彩缤纷",
+      "目不暇接"
+    ],
+    "opposite": [
+      "寥寥无几",
+      "空空如也"
+    ],
+    "id": "lin-lang-man-mu"
+  },
+  {
+    "chinese": "三心二意",
+    "pinyin": "sān xīn èr yì",
+    "literal": "three hearts, two minds",
+    "meaning": "To be half-hearted, indecisive, or easily distracted. It describes someone who lacks focus and keeps changing their mind or shifting their attention between different things.",
+    "origin": "This idiom appears in classical texts such as the Daoist scripture Taishang Ganying Pian (太上感应篇) and later vernacular literature. The phrase uses the numbers three and two metaphorically — not literally — to convey a scattered, unstable state of mind. It contrasts with the ideal of single-minded dedication (一心一意) praised in Confucian thought.",
+    "example_zh": "做事三心二意的人，往往什么事都做不好。",
+    "example_en": "People who do things half-heartedly usually can't do anything well.",
+    "category": "Attitude",
+    "similar": [
+      "心不在焉",
+      "朝三暮四",
+      "见异思迁"
+    ],
+    "opposite": [
+      "一心一意",
+      "全神贯注"
+    ],
+    "id": "san-xin-er-yi"
+  },
+  {
+    "chinese": "强词夺理",
+    "pinyin": "qiǎng cí duó lǐ",
+    "literal": "force, words, snatch, reason",
+    "meaning": "To use lame or forced arguments to insist on being right; to try to win a debate through sophistry rather than sound reasoning. It describes someone who twists logic and clings to their position despite having no valid basis for their claims.",
+    "origin": "This idiom emerged from classical Chinese literary discourse, with early usage found in Ming dynasty vernacular works such as 《醒世恒言》and the classic novel 《红楼梦》. The phrase captures the long-standing Confucian critique of those who rely on rhetorical force rather than moral and logical substance. Classical scholars frequently condemned the practice of using clever but hollow words to claim the mantle of reason, making this concept a recurring theme in Chinese literary and philosophical traditions.",
+    "example_zh": "他明明做错了事，却还在那里强词夺理，就是不肯认错。",
+    "example_en": "He had clearly done the wrong thing, yet he kept making lame arguments and simply refused to admit his mistake.",
+    "category": "Communication",
+    "similar": [
+      "蛮不讲理",
+      "振振有词",
+      "狡辩"
+    ],
+    "opposite": [
+      "理直气壮",
+      "以理服人"
+    ],
+    "id": "qiang-ci-duo-li"
+  },
+  {
+    "chinese": "焕然一新",
+    "pinyin": "huàn rán yī xīn",
+    "literal": "radiant, completely, one, new",
+    "meaning": "Describes something that has been completely renewed or transformed, taking on an entirely fresh and bright appearance. It conveys a thorough, striking change that leaves the subject looking or feeling brand new, often implying improvement.",
+    "origin": "The idiom traces back to Song dynasty scholar Zhu Xi (朱熹), who wrote in his commentary on the I Ching: \"须是焕然一新，如混沌初开\" (It must be radiant and completely new, like the primordial chaos first parting). Later, Song dynasty official Fan Zhongyan (范仲淹) also used the expression in literary contexts. The key character 焕 refers to a brilliant, radiant quality, emphasizing that the transformation is not merely new but luminous and impressive.",
+    "example_zh": "经过彻底装修后，老房子焕然一新，简直认不出来了。",
+    "example_en": "After a thorough renovation, the old house took on a completely new look — you could barely recognize it.",
+    "category": "Recovery",
+    "similar": [
+      "面目一新",
+      "气象一新",
+      "脱胎换骨"
+    ],
+    "opposite": [
+      "依然如故",
+      "老气横秋"
+    ],
+    "id": "huan-ran-yi-xin"
+  },
+  {
+    "chinese": "天罗地网",
+    "pinyin": "tiān luó dì wǎng",
+    "literal": "sky net, earth net",
+    "meaning": "An inescapable trap or dragnet that leaves no way out. It describes a situation where someone is completely surrounded or caught, with every avenue of escape blocked.",
+    "origin": "The idiom traces back to ancient Chinese Taoist cosmology, where 天网 referred to the vast net of heaven spread across the sky. It appears in Chapter 73 of the Dao De Jing (道德经) by Laozi: '天网恢恢，疏而不失' (The net of heaven is vast; though its mesh is wide, nothing slips through). The paired form 天罗地网 later became common in vernacular literature and Buddhist texts to describe a net spread both above and below, leaving no gap for escape.",
+    "example_zh": "警方布下了天罗地网，犯罪分子插翅难逃。",
+    "example_en": "The police set up an inescapable dragnet; the criminals couldn't escape even if they had wings.",
+    "category": "Method",
+    "similar": [
+      "插翅难逃",
+      "十面埋伏",
+      "瓮中捉鳖"
+    ],
+    "opposite": [
+      "逃之夭夭",
+      "溜之大吉"
+    ],
+    "id": "tian-luo-di-wang"
+  },
+  {
+    "chinese": "走马观花",
+    "pinyin": "zǒu mǎ guān huā",
+    "literal": "ride, horse, look, flower",
+    "meaning": "To look at flowers while riding a horse — meaning to give something a quick, superficial glance without taking in the details. It describes a hasty, cursory observation that misses the finer points.",
+    "origin": "The idiom comes from a poem by the Tang dynasty poet Meng Jiao (孟郊) titled '登科后' (After Passing the Imperial Examination), written in 796 AD. Having finally passed the civil service exam at age forty-six, Meng Jiao rode his horse through the streets of Chang'an in high spirits, writing: '春风得意马蹄疾，一日看尽长安花' — 'Riding fast on spring breeze, I viewed all the flowers of Chang'an in a single day.' Later generations adapted this into the idiom '走马观花' to describe a rushed, superficial experience of things.",
+    "example_zh": "这次欧洲之行时间太短，不过是走马观花而已，很多景点都没来得及仔细游览。",
+    "example_en": "The European trip was so short that it was just a quick glance — many attractions didn't get the thorough visit they deserved.",
+    "category": "Method",
+    "similar": [
+      "浮光掠影",
+      "走马看花",
+      "蜻蜓点水"
+    ],
+    "opposite": [
+      "入木三分",
+      "细嚼慢咽"
+    ],
+    "id": "zou-ma-guan-hua"
+  },
+  {
+    "chinese": "甜言蜜语",
+    "pinyin": "tián yán mì yǔ",
+    "literal": "sweet words, honey words",
+    "meaning": "Refers to excessively flattering, coaxing, or honeyed words meant to deceive or please someone. It conveys that the speaker's kind-sounding words are insincere and often serve a manipulative purpose.",
+    "origin": "The phrase appears in several classical Chinese works. One of the earliest recorded uses is found in the Yuan dynasty drama 《西厢记》 by Wang Shifu, where it describes characters using alluring speech to win favor. The concept of 'sweet words' as deceptive predates the idiom itself, appearing in texts such as the 《诗经》 (Book of Songs) and Han dynasty writings that warn against being swayed by pleasing rhetoric.",
+    "example_zh": "他总是用甜言蜜语骗取别人的信任，你可千万别上当。",
+    "example_en": "He always uses sweet words to deceive people into trusting him—don't fall for it.",
+    "category": "Communication",
+    "similar": [
+      "花言巧语",
+      "巧舌如簧",
+      "口蜜腹剑"
+    ],
+    "opposite": [
+      "逆耳忠言",
+      "肺腑之言"
+    ],
+    "id": "tian-yan-mi-yu"
+  },
+  {
+    "chinese": "自暴自弃",
+    "pinyin": "zì bào zì qì",
+    "literal": "self, harm, self, abandon",
+    "meaning": "To willfully degrade oneself and give up all hope of self-improvement. It describes a person who, after setbacks or failures, loses confidence entirely and stops making any effort to better their situation.",
+    "origin": "This idiom originates from the philosophical work 'Mengzi' (孟子), attributed to the Warring States period philosopher Mencius. Mencius wrote that a person who cannot be moved by words and who lacks the determination to cultivate goodness is '自暴者' (one who does violence to himself). He contrasted this with '自弃者' (one who abandons himself), stating that to forsake one's own moral nature is the greatest of self-destruction.",
+    "example_zh": "遇到一点挫折就自暴自弃，这样永远也无法成功。",
+    "example_en": "Giving up on yourself at the first sign of setback means you will never succeed.",
+    "category": "Attitude",
+    "similar": [
+      "破罐子破摔",
+      "妄自菲薄",
+      "自甘堕落"
+    ],
+    "opposite": [
+      "自强不息",
+      "发愤图强"
+    ],
+    "id": "zi-bao-zi-qi"
   }
 ]

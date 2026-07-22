@@ -323,3 +323,81 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-07-22 12:11:08] === Catch-up push done ===
 [2026-07-22 20:00:00] === Catch-up push start (11 unpushed commits) ===
+[main 75a026b] Auto-update: 2026-07-22 20:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   bc9c5a5..75a026b  main -> main
+
+Push OK (attempt 1)
+[2026-07-22 20:00:06] === Catch-up push done ===
+[2026-07-23 03:15:00] === Daily cron start ===
+[2026-07-23 03:15:00] === Daily cron start ===
+[2026-07-23 03:15:00] Generating 10 new idioms...
+[2026-07-23 03:15:00] Generating 10 new idioms...
+Existing: 75 idioms
+Candidates available: 134
+Generating 10 new idioms...
+
+  → 纸上谈兵 (zhǐ shàng tán bīng)
+    OK: literal='on paper, talk soldiers...'
+  → 跃跃欲试 (yuè yuè yù shì)
+    OK: literal='leaping leaping, desiring to try...'
+  → 琳琅满目 (lín láng mǎn mù)
+    OK: literal='fine jade, full, eye...'
+  → 三心二意 (sān xīn èr yì)
+    OK: literal='three hearts, two minds...'
+  → 强词夺理 (qiǎng cí duó lǐ)
+    OK: literal='force, words, snatch, reason...'
+  → 焕然一新 (huàn rán yī xīn)
+    OK: literal='radiant, completely, one, new...'
+  → 天罗地网 (tiān luó dì wǎng)
+    OK: literal='sky net, earth net...'
+  → 走马观花 (zǒu mǎ guān huā)
+    OK: literal='ride, horse, look, flower...'
+  → 甜言蜜语 (tián yán mì yǔ)
+    OK: literal='sweet words, honey words...'
+  → 自暴自弃 (zì bào zì qì)
+    OK: literal='self, harm, self, abandon...'
+
+Added 10 idioms. Total: 85
+[2026-07-23 03:18:35] Generation OK
+[2026-07-23 03:18:35] Generation OK
+[2026-07-23 03:18:35] Regenerating site...
+[2026-07-23 03:18:35] Regenerating site...
+Loading data...
+  → 85 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 85 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 85 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-23 03:18:35] Site regenerated
+[2026-07-23 03:18:35] Site regenerated
+[2026-07-23 03:18:35] Pushing to GitHub...
+[2026-07-23 03:18:35] Pushing to GitHub...
