@@ -1643,5 +1643,185 @@
       "发愤图强"
     ],
     "id": "zi-bao-zi-qi"
+  },
+  {
+    "chinese": "风雨同舟",
+    "pinyin": "fēng yǔ tóng zhōu",
+    "literal": "wind, rain, same, boat",
+    "meaning": "To stand together through hardship; sharing the same fate in times of adversity. It describes people who remain united and support one another despite facing severe difficulties or danger.",
+    "origin": "This idiom originates from the ancient Chinese text \"Sunzi's Art of War\" (孙子兵法) by Sun Wu (孙武) of the Spring and Autumn period. In the chapter on military terrain, Sun Wu wrote that soldiers who share the same dangers — crossing wind and rain in the same boat — will unite as one. The passage reads: '夫吴人与越人相恶也，当其同舟而济，遇风，其相救也如左右手。' Later writers condensed this into the four-character idiom 风雨同舟.",
+    "example_zh": "在这次抗击疫情的斗争中，全国人民风雨同舟，共克时艰。",
+    "example_en": "In the fight against the pandemic, people across the nation stood together through the storm and overcame the hardship as one.",
+    "category": "Determination",
+    "similar": [
+      "同舟共济",
+      "患难与共",
+      "和衷共济"
+    ],
+    "opposite": [
+      "落井下石",
+      "各奔东西"
+    ],
+    "id": "feng-yu-tong-zhou"
+  },
+  {
+    "chinese": "一视同仁",
+    "pinyin": "yī shì tóng rén",
+    "literal": "one, view, same, benevolence",
+    "meaning": "To treat everyone with equal kindness and fairness, without discrimination or favoritism. It describes an attitude of impartial care toward all people, regardless of their status, background, or relationship to oneself.",
+    "origin": "The idiom traces back to the thought of Mencius (孟子), the Warring States period philosopher. In the Mencian framework, a true ruler should extend benevolence (仁) equally to all subjects, just as a parent cares for all children alike. Later scholars and writers crystallized this ideal into the four-character expression 一视同仁, which became widely used in classical prose to praise impartial governance or universal compassion.",
+    "example_zh": "这位老师对每一个学生都一视同仁，从不偏袒任何人。",
+    "example_en": "This teacher treats every student with equal fairness and never shows favoritism to anyone.",
+    "category": "Attitude",
+    "similar": [
+      "一视同归",
+      "平等相待",
+      "不偏不倚"
+    ],
+    "opposite": [
+      "厚此薄彼",
+      "区别对待"
+    ],
+    "id": "yi-shi-tong-ren"
+  },
+  {
+    "chinese": "海阔天空",
+    "pinyin": "hǎi kuò tiān kōng",
+    "literal": "sea, broad, sky, empty",
+    "meaning": "Describes something vast, boundless, and without limit — like the open sea and endless sky. It often conveys a sense of unrestrained freedom, whether in thought, conversation, or physical space. It can also describe someone who talks expansively about many topics without sticking to a point.",
+    "origin": "The idiom traces back to the Tang dynasty poet Liu Zongyuan (柳宗元), who in his poem wrote of vast seas and skies to evoke a feeling of limitless openness. It was later popularized in Song dynasty literature to describe both expansive natural scenery and the unbounded nature of human thought. Over centuries it evolved into a common expression for unrestrained speech or imagination, used in both literary and everyday contexts.",
+    "example_zh": "两人在咖啡馆里聊得海阔天空，从天文地理一直谈到人生哲学。",
+    "example_en": "The two chatted over coffee about everything under the sun, from astronomy and geography all the way to the philosophy of life.",
+    "category": "Attitude",
+    "similar": [
+      "天马行空",
+      "无边无际",
+      "心旷神怡"
+    ],
+    "opposite": [
+      "坐井观天",
+      "管中窥豹"
+    ],
+    "id": "hai-kuo-tian-kong"
+  },
+  {
+    "chinese": "喜闻乐见",
+    "pinyin": "xǐ wén lè jiàn",
+    "literal": "happy to hear, glad to see",
+    "meaning": "This idiom describes something that people love to hear and see, referring to things that are widely popular and well-received by the masses. It is often used to describe cultural works, policies, or activities that resonate with and delight the general public.",
+    "origin": "The phrase originates from the way classical Chinese thinkers discussed what kinds of things please common people. While it does not trace to a single specific historical anecdote, it gained widespread usage through Mao Zedong's 1942 Talks at the Yan'an Forum on Literature and Art, where he emphasized that art and literature should be of the '喜闻乐见' variety — things the masses love to hear and gladly see — to truly serve the people. The idiom itself builds on classical Chinese patterns of parallel structure combining sensory verbs with emotion adjectives.",
+    "example_zh": "这部电影拍得通俗易懂，是老百姓喜闻乐见的好作品。",
+    "example_en": "This film was made in an accessible style and is a great work that ordinary people love to watch.",
+    "category": "Attitude",
+    "similar": [
+      "脍炙人口",
+      "雅俗共赏",
+      "喜出望外"
+    ],
+    "opposite": [
+      "深恶痛绝",
+      "令人作呕"
+    ],
+    "id": "xi-wen-le-jian"
+  },
+  {
+    "chinese": "人山人海",
+    "pinyin": "rén shān rén hǎi",
+    "literal": "people mountain people sea",
+    "meaning": "Describes a place filled with an enormous, dense crowd of people. The sheer number of people makes the scene look like mountains of people and a sea of humanity stretching as far as the eye can see.",
+    "origin": "This idiom appears in classical Chinese literature to vividly depict overwhelmingly large gatherings. The imagery of turning people into mountains and seas emphasizes both the height and breadth of a crowd. While no single definitive source text is universally cited, the expression grew from folk poetic conventions in the Ming and Qing dynasties and became standardized in modern Chinese idiom collections.",
+    "example_zh": "国庆节那天，天安门广场前人山人海，热闹非凡。",
+    "example_en": "On National Day, the square in front of Tiananmen was absolutely packed with an enormous crowd, and the atmosphere was incredibly lively.",
+    "category": "Condition",
+    "similar": [
+      "摩肩接踵",
+      "熙熙攘攘",
+      "人头攒动"
+    ],
+    "opposite": [
+      "空无一人",
+      "寥寥无几"
+    ],
+    "id": "ren-shan-ren-hai"
+  },
+  {
+    "chinese": "千载难逢",
+    "pinyin": "qiān zǎi nán féng",
+    "literal": "thousand, years, difficult, to meet",
+    "meaning": "An extremely rare opportunity or event that might occur only once in a millennium. It emphasizes how precious and hard to come by a particular chance is, urging one to seize it.",
+    "origin": "The phrase originates from classical Chinese literature and is commonly attributed to the Tang dynasty. It appears in works describing opportunities so rare they would not be encountered even over a span of a thousand years. The idiom crystallized through widespread literary usage across Tang and Song dynasty prose, where scholars and officials used it to describe extraordinary historical moments or once-in-a-lifetime encounters worth acting upon.",
+    "example_zh": "这次出国的机会千载难逢，你一定要好好把握。",
+    "example_en": "This opportunity to go abroad is truly once in a lifetime — you must seize it.",
+    "category": "Condition",
+    "similar": [
+      "百年不遇",
+      "机不可失",
+      "三生有幸"
+    ],
+    "opposite": [
+      "司空见惯",
+      "家常便饭"
+    ],
+    "id": "qian-zai-nan-feng"
+  },
+  {
+    "chinese": "因地制宜",
+    "pinyin": "yīn dì zhì yí",
+    "literal": "according to, place, make, suitable",
+    "meaning": "To adopt measures suited to local conditions. It means that policies, methods, or strategies should be adapted to the specific circumstances and characteristics of each location rather than applied uniformly.",
+    "origin": "The phrase appears in classical Chinese administrative and military writings. A closely related expression, 因地制宜宜, is attributed to discussions in the Han dynasty about governing diverse territories effectively. The core idea was championed by statesmen who argued that a one-size-fits-all approach to governance was bound to fail across China's vastly different regions.",
+    "example_zh": "各地气候和土壤条件差异很大，所以农业发展必须因地制宜，不能一刀切。",
+    "example_en": "Climate and soil conditions vary greatly from place to place, so agricultural development must be adapted to local conditions rather than applying a one-size-fits-all approach.",
+    "category": "Method",
+    "similar": [
+      "随机应变",
+      "对症下药",
+      "量体裁衣"
+    ],
+    "opposite": [
+      "生搬硬套",
+      "一刀切"
+    ],
+    "id": "yin-di-zhi-yi"
+  },
+  {
+    "chinese": "萍水相逢",
+    "pinyin": "píng shuǐ xiāng féng",
+    "literal": "duckweed, water, mutually, meet",
+    "meaning": "A chance meeting between strangers who happen to cross paths, much like duckweed drifting on water. It implies no prior connection and suggests the encounter is fleeting and may never be repeated. The idiom conveys a sense of transience and the randomness of human relationships.",
+    "origin": "The phrase originates from a preface to a collection of poems by Wang Bo (王勃), a renowned poet of the early Tang dynasty. In his famous 'Preface to the Tengwang Pavilion' (滕王阁序, c. 675 AD), Wang Bo wrote '萍水相逢，尽是他乡之客' — 'Meeting like duckweed on water, all are guests from other lands.' Wang Bo composed this piece impromptu at a banquet held at Tengwang Pavilion in Jiangxi province, lamenting the impermanence of human encounters while traveling far from home.",
+    "example_zh": "我们在旅途中萍水相逢，却成了多年的好友。",
+    "example_en": "We met by chance while traveling, yet became good friends for many years.",
+    "category": "Condition",
+    "similar": [
+      "一面之交",
+      "不期而遇",
+      "邂逅相遇"
+    ],
+    "opposite": [
+      "莫逆之交",
+      "总角之交"
+    ],
+    "id": "ping-shui-xiang-feng"
+  },
+  {
+    "chinese": "不负众望",
+    "pinyin": "bù fù zhòng wàng",
+    "literal": "not, betray, crowd's, expectations",
+    "meaning": "To live up to the expectations of the many; to not disappoint those who have placed their hopes in you. It conveys a sense of having fulfilled the trust or confidence that others have invested in a person or outcome.",
+    "origin": "The phrase does not trace to a single classical text but crystallized from common literary usage combining 负 (to fail/betray) with 众望 (the people's expectations). Its conceptual roots appear in works like the Book of Later Han (后汉书), where officials were evaluated on whether they had 让众人失望 or not. Over centuries the concise four-character form 不负众望 became standard in late imperial and modern written Chinese.",
+    "example_zh": "他不负众望，在全国比赛中获得了金牌。",
+    "example_en": "He lived up to everyone's expectations and won the gold medal in the national competition.",
+    "category": "Success",
+    "similar": [
+      "众望所归",
+      "不辱使命",
+      "名副其实"
+    ],
+    "opposite": [
+      "令人失望",
+      "辜负众望"
+    ],
+    "id": "bu-fu-zhong-wang"
   }
 ]

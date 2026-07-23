@@ -464,3 +464,81 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-07-23 12:00:04] === Catch-up push done ===
 [2026-07-23 20:00:00] === Catch-up push start (14 unpushed commits) ===
+[main b30f9bb] Auto-update: 2026-07-23 20:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 22 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   ce45673..b30f9bb  main -> main
+
+Push OK (attempt 1)
+[2026-07-23 20:00:05] === Catch-up push done ===
+[2026-07-24 03:15:00] === Daily cron start ===
+[2026-07-24 03:15:00] === Daily cron start ===
+[2026-07-24 03:15:00] Generating 10 new idioms...
+[2026-07-24 03:15:00] Generating 10 new idioms...
+Existing: 85 idioms
+Candidates available: 124
+Generating 10 new idioms...
+
+  → 风雨同舟 (fēng yǔ tóng zhōu)
+    OK: literal='wind, rain, same, boat...'
+  → 一视同仁 (yī shì tóng rén)
+    OK: literal='one, view, same, benevolence...'
+  → 海阔天空 (hǎi kuò tiān kōng)
+    OK: literal='sea, broad, sky, empty...'
+  → 喜闻乐见 (xǐ wén lè jiàn)
+    OK: literal='happy to hear, glad to see...'
+  → 人山人海 (rén shān rén hǎi)
+    OK: literal='people mountain people sea...'
+  → 千载难逢 (qiān zǎi nán féng)
+    OK: literal='thousand, years, difficult, to meet...'
+  → 因地制宜 (yīn dì zhì yí)
+    OK: literal='according to, place, make, suitable...'
+  → 萍水相逢 (píng shuǐ xiāng féng)
+    OK: literal='duckweed, water, mutually, meet...'
+  → 不负众望 (bù fù zhòng wàng)
+    OK: literal='not, betray, crowd's, expectations...'
+  → 千军万马 (qiān jūn wàn mǎ)
+  JSON parse error: Expecting ',' delimiter: line 6 column 181 (char 531)
+
+Added 9 idioms. Total: 94
+[2026-07-24 03:17:41] Generation OK
+[2026-07-24 03:17:41] Generation OK
+[2026-07-24 03:17:41] Regenerating site...
+[2026-07-24 03:17:41] Regenerating site...
+Loading data...
+  → 94 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 94 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 94 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-24 03:17:41] Site regenerated
+[2026-07-24 03:17:41] Site regenerated
+[2026-07-24 03:17:41] Pushing to GitHub...
+[2026-07-24 03:17:41] Pushing to GitHub...
