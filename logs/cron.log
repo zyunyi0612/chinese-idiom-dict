@@ -401,3 +401,44 @@ To preview locally:
 [2026-07-23 03:18:35] Site regenerated
 [2026-07-23 03:18:35] Pushing to GitHub...
 [2026-07-23 03:18:35] Pushing to GitHub...
+[main d35bba6] Auto-update: 2026-07-23 03:18 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 18 files changed, 3191 insertions(+), 173 deletions(-)
+ create mode 100644 docs/idiom/huan-ran-yi-xin.html
+ create mode 100644 docs/idiom/lin-lang-man-mu.html
+ create mode 100644 docs/idiom/qiang-ci-duo-li.html
+ create mode 100644 docs/idiom/san-xin-er-yi.html
+ create mode 100644 docs/idiom/tian-luo-di-wang.html
+ create mode 100644 docs/idiom/tian-yan-mi-yu.html
+ create mode 100644 docs/idiom/yue-yue-yu-shi.html
+ create mode 100644 docs/idiom/zhi-shang-tan-bing.html
+ create mode 100644 docs/idiom/zi-bao-zi-qi.html
+ create mode 100644 docs/idiom/zou-ma-guan-hua.html
+
+fatal: unable to access 'https://github.com/zyunyi0612/chinese-idiom-dict.git/': The requested URL returned error: 403
+
+Attempt 1 failed, waiting 20s before retry...
+fatal: unable to access 'https://github.com/zyunyi0612/chinese-idiom-dict.git/': The requested URL returned error: 403
+
+Attempt 2 failed, waiting 20s before retry...
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   75a026b..d35bba6  main -> main
+
+Push OK (attempt 3)
+[2026-07-23 03:19:23] Push OK
+[2026-07-23 03:19:23] Push OK
+[2026-07-23 03:19:23] === Daily cron done ===
+[2026-07-23 03:19:23] === Daily cron done ===
+[2026-07-23 12:00:00] === Catch-up push start (13 unpushed commits) ===
