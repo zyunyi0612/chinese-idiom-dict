@@ -607,3 +607,81 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-07-24 12:00:03] === Catch-up push done ===
 [2026-07-24 20:00:00] === Catch-up push start (17 unpushed commits) ===
+[main dde1d78] Auto-update: 2026-07-24 20:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 22 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   6a4aaa6..dde1d78  main -> main
+
+Push OK (attempt 1)
+[2026-07-24 20:00:04] === Catch-up push done ===
+[2026-07-25 03:15:00] === Daily cron start ===
+[2026-07-25 03:15:00] === Daily cron start ===
+[2026-07-25 03:15:00] Generating 10 new idioms...
+[2026-07-25 03:15:00] Generating 10 new idioms...
+Existing: 94 idioms
+Candidates available: 115
+Generating 10 new idioms...
+
+  → 倾国倾城 (qīng guó qīng chéng)
+    OK: literal='overturn, state, overturn, city...'
+  → 衣冠楚楚 (yī guān chǔ chǔ)
+    OK: literal='clothes, hat, neat, tidy...'
+  → 一心一意 (yī xīn yī yì)
+    OK: literal='one heart, one mind...'
+  → 迎刃而解 (yíng rèn ér jiě)
+    OK: literal='bamboo splits, and, solved...'
+  → 四海之内 (sì hǎi zhī nèi)
+    OK: literal='four, seas, 's (possessive), within...'
+  → 不可思议 (bù kě sī yì)
+    OK: literal='not, can, think, meaning...'
+  → 落井下石 (luò jǐng xià shí)
+    OK: literal='fall, well, down, stone...'
+  → 知难而进 (zhī nán ér jìn)
+    OK: literal='know, difficult, and, advance...'
+  → 一诺千金 (yī nuò qiān jīn)
+    OK: literal='one, promise, thousand, gold...'
+  → 余音绕梁 (yú yīn rào liáng)
+    OK: literal='leftover sound, winds around, beam...'
+
+Added 10 idioms. Total: 104
+[2026-07-25 03:18:20] Generation OK
+[2026-07-25 03:18:20] Generation OK
+[2026-07-25 03:18:20] Regenerating site...
+[2026-07-25 03:18:20] Regenerating site...
+Loading data...
+  → 104 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 104 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 104 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-25 03:18:20] Site regenerated
+[2026-07-25 03:18:20] Site regenerated
+[2026-07-25 03:18:20] Pushing to GitHub...
+[2026-07-25 03:18:20] Pushing to GitHub...

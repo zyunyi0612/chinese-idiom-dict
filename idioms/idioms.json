@@ -1823,5 +1823,200 @@
       "辜负众望"
     ],
     "id": "bu-fu-zhong-wang"
+  },
+  {
+    "chinese": "倾国倾城",
+    "pinyin": "qīng guó qīng chéng",
+    "literal": "overturn, state, overturn, city",
+    "meaning": "An idiom describing a woman of such extraordinary beauty that she could cause the downfall of an entire state or city. It is used to praise a woman's unparalleled, world-class beauty in a poetic and dramatic way.",
+    "origin": "The phrase originates from a poem by the Han dynasty scholar Li Yannian (李延年) presented to Emperor Wu of Han (汉武帝). The poem reads: \"北方有佳人，绝世而独立。一顾倾人城，再顾倾人国。\" (In the north there is a lovely one, unique in the world. One glance overthrows a city, a second glance overthrows a state.) The emperor was so moved that he asked to meet this beauty, and Li Yannian introduced his sister, Lady Li (李夫人), who became one of the emperor's favorite consorts.",
+    "example_zh": "她倾国倾城的容貌让在场的所有人都为之倾倒。",
+    "example_en": "Her devastatingly beautiful appearance left everyone present completely captivated.",
+    "category": "Quality",
+    "similar": [
+      "闭月羞花",
+      "沉鱼落雁",
+      "国色天香"
+    ],
+    "opposite": [
+      "其貌不扬"
+    ],
+    "id": "qing-guo-qing-cheng"
+  },
+  {
+    "chinese": "衣冠楚楚",
+    "pinyin": "yī guān chǔ chǔ",
+    "literal": "clothes, hat, neat, tidy",
+    "meaning": "Describes a person who is dressed immaculately and elegantly, with every garment in perfect order. It conveys a well-groomed, polished appearance that draws attention. The idiom is generally neutral in tone, though it can sometimes carry a slight ironic undertone when applied to someone whose inner character does not match their outward elegance.",
+    "origin": "The phrase traces back to the Shi Jing (Classic of Poetry, c. 11th–7th century BCE), specifically the poem \"Qi Feng - Zi Yi\" in the \"Zheng Feng\" section. The original lines read \"蜉蝣之羽，衣裳楚楚\" (The mayfly's wings, its garments are fine and neat), using the ephemeral mayfly as a metaphor for the fragile splendor of noble attire. Later literary tradition expanded the usage from describing garments alone to characterizing the overall appearance of a well-dressed person, as seen in works from the Ming and Qing dynasties.",
+    "example_zh": "他今天衣冠楚楚地出席了晚宴，整个人显得格外精神。",
+    "example_en": "He attended the banquet immaculately dressed today, looking exceptionally sharp and polished.",
+    "category": "Lifestyle",
+    "similar": [
+      "西装革履",
+      "衣冠齐楚",
+      "穿戴整齐"
+    ],
+    "opposite": [
+      "衣衫褴褛",
+      "不修边幅"
+    ],
+    "id": "yi-guan-chu-chu"
+  },
+  {
+    "chinese": "一心一意",
+    "pinyin": "yī xīn yī yì",
+    "literal": "one heart, one mind",
+    "meaning": "To be wholeheartedly devoted to something with undivided attention and complete sincerity. It describes someone who focuses entirely on a single task, goal, or person without any distraction or second thought.",
+    "origin": "The idiom appears in multiple classical texts. A notable early usage is found in the Guanzi (管子), a text attributed to Guan Zhong (管仲) of the Spring and Autumn period, which states that a ruler must concentrate his will without wavering. The phrase also appears in Zhuangzi (庄子) and later works, consistently conveying the idea that unity of heart and mind leads to success and moral clarity.",
+    "example_zh": "他一心一意地投入到科研工作中，几年如一日。",
+    "example_en": "He devoted himself wholeheartedly to his research work, day in and day out for years.",
+    "category": "Determination",
+    "similar": [
+      "全心全意",
+      "专心致志",
+      "聚精会神"
+    ],
+    "opposite": [
+      "三心二意",
+      "心不在焉"
+    ],
+    "id": "yi-xin-yi-yi"
+  },
+  {
+    "chinese": "迎刃而解",
+    "pinyin": "yíng rèn ér jiě",
+    "literal": "bamboo splits, and, solved",
+    "meaning": "To be solved with ease, as if a bamboo stalk naturally splits apart when the blade finds its edge. It describes a situation where, once the key point or main obstacle is addressed, everything else falls into place effortlessly.",
+    "origin": "This idiom comes from the Jin Shu (Book of Jin), in the biography of Du Yu (杜预), a prominent general and scholar of the Western Jin dynasty. When Emperor Wu of Jin planned to conquer the state of Eastern Wu, many officials opposed the campaign. Du Yu persistently advocated for it, arguing that once the main forces struck, the enemy's resistance would collapse like bamboo splitting along its natural seams. The campaign succeeded in 280 AD, unifying China, and Du Yu's metaphor of splitting bamboo gave rise to the idiom.",
+    "example_zh": "只要找到问题的关键所在，其他难题就会迎刃而解。",
+    "example_en": "As long as we find the crux of the problem, all the other difficulties will be easily solved.",
+    "category": "Method",
+    "similar": [
+      "势如破竹",
+      "水到渠成"
+    ],
+    "opposite": [
+      "棘手难办"
+    ],
+    "id": "ying-ren-er-jie"
+  },
+  {
+    "chinese": "四海之内",
+    "pinyin": "sì hǎi zhī nèi",
+    "literal": "four, seas, 's (possessive), within",
+    "meaning": "Refers to the entire world or all under heaven, as the 'four seas' were traditionally seen as the boundaries of the known world. It is often used to describe the scope of a ruler's domain or the universality of human fellowship. The phrase conveys a sense of inclusiveness that transcends regional borders.",
+    "origin": "The phrase appears in the 'Liji' (Book of Rites), one of the Confucian Five Classics: '四海之内，皆兄弟也' — meaning 'Within the four seas, all men are brothers.' It reflects the Zhou dynasty cosmological view that China was surrounded by four seas, and everything within those seas constituted the civilized world. This expression became a shorthand for the entire realm under a sovereign's rule, frequently invoked by later dynasties in political and philosophical discourse.",
+    "example_zh": "四海之内皆兄弟，何必在意这点小分歧呢？",
+    "example_en": "All people within the four seas are brothers — why dwell on such a minor disagreement?",
+    "category": "Philosophy",
+    "similar": [
+      "天下太平",
+      "五湖四海",
+      "普天之下"
+    ],
+    "opposite": [
+      "一隅之地"
+    ],
+    "id": "si-hai-zhi-nei"
+  },
+  {
+    "chinese": "不可思议",
+    "pinyin": "bù kě sī yì",
+    "literal": "not, can, think, meaning",
+    "meaning": "Describes something so extraordinary, mysterious, or profound that it defies ordinary understanding or imagination. It conveys a sense of awe at something beyond the reach of human reasoning, whether wondrous or dreadful.",
+    "origin": "This idiom traces back to the Vimalakīrti Nirdeśa Sūtra (《维摩诘所说经》), a Mahāyāna Buddhist text translated into Chinese during the Eastern Jin dynasty by Kumārajīva. In Buddhist philosophy, '不可思议' refers to the ineffable nature of ultimate truth (dharma) that cannot be grasped through ordinary conceptual thought. Over centuries the phrase entered secular Chinese, shedding its strictly religious connotation and becoming a common expression for anything that strains belief.",
+    "example_zh": "这座古城在地下沉睡了上千年，保存之完好简直不可思议。",
+    "example_en": "This ancient city lay dormant underground for over a thousand years; its remarkable state of preservation is truly inconceivable.",
+    "category": "Philosophy",
+    "similar": [
+      "难以置信",
+      "匪夷所思",
+      "百思不解"
+    ],
+    "opposite": [
+      "不足为奇",
+      "理所当然"
+    ],
+    "id": "bu-ke-si-yi"
+  },
+  {
+    "chinese": "落井下石",
+    "pinyin": "luò jǐng xià shí",
+    "literal": "fall, well, down, stone",
+    "meaning": "To add trouble to someone who is already in difficulty, or to kick someone when they are down. It describes the despicable act of making matters worse for a person who is already in a desperate or vulnerable situation.",
+    "origin": "The idiom derives from a passage in the Tang dynasty essay 'To Wang Feng' (《答王凤书》) by the renowned poet and official Han Yu (韩愈). Han Yu wrote that when someone falls into a well, some people not only fail to help but even throw stones down after them. This metaphor powerfully condemned those who exploit others' misfortune.",
+    "example_zh": "他都已经失业了，你还在背后说他的坏话，这不是落井下石吗？",
+    "example_en": "He's already lost his job, and you're still badmouthing him behind his back — isn't that kicking him while he's down?",
+    "category": "Morality",
+    "similar": [
+      "雪上加霜",
+      "趁火打劫"
+    ],
+    "opposite": [
+      "雪中送炭",
+      "患难与共"
+    ],
+    "id": "luo-jing-xia-shi"
+  },
+  {
+    "chinese": "知难而进",
+    "pinyin": "zhī nán ér jìn",
+    "literal": "know, difficult, and, advance",
+    "meaning": "To forge ahead despite knowing the difficulties ahead. It describes a courageous and resolute attitude of facing challenges head-on rather than retreating when the path is hard.",
+    "origin": "The phrase derives from classical Chinese philosophical thought, particularly associated with the Confucian tradition. The idea of advancing in the face of difficulty is echoed in the Analects (论语), where Confucius taught that a noble person presses forward despite knowing the enormity of the task. The four-character formulation became a standard idiom used in later dynasties to praise determination and moral courage.",
+    "example_zh": "面对技术瓶颈，团队选择知难而进，最终成功突破了难关。",
+    "example_en": "Faced with a technical bottleneck, the team chose to forge ahead despite the difficulties and ultimately succeeded in breaking through the barrier.",
+    "category": "Determination",
+    "similar": [
+      "迎难而上",
+      "知难而上",
+      "百折不挠"
+    ],
+    "opposite": [
+      "知难而退",
+      "畏缩不前"
+    ],
+    "id": "zhi-nan-er-jin"
+  },
+  {
+    "chinese": "一诺千金",
+    "pinyin": "yī nuò qiān jīn",
+    "literal": "one, promise, thousand, gold",
+    "meaning": "A single promise is as valuable as a thousand pieces of gold. It describes a person who keeps their word faithfully and whose promises can be completely trusted.",
+    "origin": "This idiom originates from the Western Han dynasty and is associated with Ji Bu (季布), a general famous for his loyalty and trustworthiness. A popular saying of the time stated, 'Getting a hundred catties of gold is not as good as getting one promise from Ji Bu.' The phrase was later recorded in Sima Qian's Records of the Grand Historian (史记) in the biography of Ji Bu, cementing it as a classical expression of integrity.",
+    "example_zh": "他是个一诺千金的人，答应过的事情一定会做到。",
+    "example_en": "He is a man whose word is as good as gold — whatever he promises, he will definitely deliver.",
+    "category": "Morality",
+    "similar": [
+      "言而有信",
+      "说到做到",
+      "一言九鼎"
+    ],
+    "opposite": [
+      "出尔反尔",
+      "言而无信"
+    ],
+    "id": "yi-nuo-qian-jin"
+  },
+  {
+    "chinese": "余音绕梁",
+    "pinyin": "yú yīn rào liáng",
+    "literal": "leftover sound, winds around, beam",
+    "meaning": "Describes music or singing so beautiful that its sound seems to linger in the air long after it has stopped. It is used metaphorically to praise performances or speeches that leave a deep, lasting impression on the audience.",
+    "origin": "This idiom comes from the ancient text \"Liezi\" (《列子·汤问》), attributed to the Warring States period. It tells of Han E (韩娥), a brilliant singer from the state of Han, who passed through the state of Qi. After she left a tavern where she had sung, people felt her voice still echoing around the rafters for days, unable to forget the beauty of her song. Later, when she sang a mournful tune in a village, the entire community wept for three days straight.",
+    "example_zh": "她那首咏叹调唱得真是余音绕梁，三日不绝，让在场所有人都沉醉其中。",
+    "example_en": "Her aria lingered in the air for what felt like days, leaving everyone in the audience completely entranced.",
+    "category": "Skill",
+    "similar": [
+      "绕梁三日",
+      "回味无穷",
+      "荡气回肠"
+    ],
+    "opposite": [
+      "不堪入耳",
+      "索然无味"
+    ],
+    "id": "yu-yin-rao-liang"
   }
 ]
