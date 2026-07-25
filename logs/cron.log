@@ -742,3 +742,81 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-07-25 12:00:04] === Catch-up push done ===
 [2026-07-25 20:00:00] === Catch-up push start (20 unpushed commits) ===
+[main 09e545b] Auto-update: 2026-07-25 20:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 22 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   75431d9..09e545b  main -> main
+
+Push OK (attempt 1)
+[2026-07-25 20:00:04] === Catch-up push done ===
+[2026-07-26 03:15:01] === Daily cron start ===
+[2026-07-26 03:15:01] === Daily cron start ===
+[2026-07-26 03:15:01] Generating 10 new idioms...
+[2026-07-26 03:15:01] Generating 10 new idioms...
+Existing: 104 idioms
+Candidates available: 105
+Generating 10 new idioms...
+
+  → 红颜薄命 (hóng yán bó mìng)
+    OK: literal='red face, thin fate...'
+  → 唯我独尊 (wéi wǒ dú zūn)
+    OK: literal='only, me, alone, revered...'
+  → 心旷神怡 (xīn kuàng shén yí)
+    OK: literal='heart, open, spirit, delighted...'
+  → 坚不可摧 (jiān bù kě cuī)
+    OK: literal='firm, not, can, destroyed...'
+  → 顺其自然 (shùn qí zì rán)
+    OK: literal='follow, its, natural, course...'
+  → 鸟语花香 (niǎo yǔ huā xiāng)
+    OK: literal='bird, language, flower, fragrance...'
+  → 含辛茹苦 (hán xīn rú kǔ)
+    OK: literal='contain, bitter, eat, bitterness...'
+  → 刻骨铭心 (kè gǔ míng xīn)
+    OK: literal='carve, bone, engrave, heart...'
+  → 两全其美 (liǎng quán qí měi)
+    OK: literal='two, complete, its, beauty...'
+  → 每况愈下 (měi kuàng yù xià)
+    OK: literal='every, situation, increasingly, below...'
+
+Added 10 idioms. Total: 114
+[2026-07-26 03:18:04] Generation OK
+[2026-07-26 03:18:04] Generation OK
+[2026-07-26 03:18:04] Regenerating site...
+[2026-07-26 03:18:04] Regenerating site...
+Loading data...
+  → 114 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 114 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 114 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-26 03:18:04] Site regenerated
+[2026-07-26 03:18:04] Site regenerated
+[2026-07-26 03:18:04] Pushing to GitHub...
+[2026-07-26 03:18:04] Pushing to GitHub...

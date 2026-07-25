@@ -2018,5 +2018,204 @@
       "索然无味"
     ],
     "id": "yu-yin-rao-liang"
+  },
+  {
+    "chinese": "红颜薄命",
+    "pinyin": "hóng yán bó mìng",
+    "literal": "red face, thin fate",
+    "meaning": "This idiom describes the belief that beautiful women often suffer unfortunate or tragic destinies. It reflects the classical Chinese notion that extraordinary beauty invites misfortune rather than happiness. The phrase is used to express sympathy or lamentation when a beautiful woman encounters hardship or an early death.",
+    "origin": "The sentiment appears in classical literature from the Tang dynasty onward, notably in Bai Juyi's poem 'Song of Everlasting Sorrow' (《长恨歌》) about the tragic fate of Imperial Consort Yang Guifei, whose beauty led to her downfall. The phrase itself crystallized from earlier folk wisdom and poetic tradition that linked feminine beauty with vulnerability to misfortune. It became a recurring motif in Chinese drama, poetry, and fiction as a shorthand for the tragic arc of beautiful female characters.",
+    "example_zh": "自古红颜薄命，她年纪轻轻就身患重病，实在令人惋惜。",
+    "example_en": "As the saying goes, beautiful women suffer tragic fates; it is truly heartbreaking that she fell gravely ill at such a young age.",
+    "category": "Condition",
+    "similar": [
+      "佳人薄命",
+      "红颜祸水",
+      "天妒红颜"
+    ],
+    "opposite": [
+      "福寿双全",
+      "才貌双全"
+    ],
+    "id": "hong-yan-bo-ming"
+  },
+  {
+    "chinese": "唯我独尊",
+    "pinyin": "wéi wǒ dú zūn",
+    "literal": "only, me, alone, revered",
+    "meaning": "Describes someone who is supremely arrogant and considers no one else as important as themselves. It conveys an attitude of absolute self-importance, where the person believes they are above everyone else and refuses to acknowledge the worth or authority of others.",
+    "origin": "This idiom traces back to Buddhist scriptures recounting the birth of Siddhartha Gautama (the Buddha). According to legend, upon being born, the infant Buddha took seven steps, pointed one hand toward the sky and one toward the earth, and declared, '天上天下，唯我独尊' — 'In heaven and on earth, I alone am the honored one.' Originally this expressed the Buddha's unique and supreme spiritual status. Over time, the phrase shed its religious context and became a general term for extreme arrogance and self-centeredness.",
+    "example_zh": "他总是一副唯我独尊的样子，从不把别人的意见放在眼里。",
+    "example_en": "He always acts as though he alone matters, never giving anyone else's opinion a second thought.",
+    "category": "Attitude",
+    "similar": [
+      "目中无人",
+      "自高自大",
+      "不可一世"
+    ],
+    "opposite": [
+      "虚怀若谷",
+      "谦虚谨慎"
+    ],
+    "id": "wei-wo-du-zun"
+  },
+  {
+    "chinese": "心旷神怡",
+    "pinyin": "xīn kuàng shén yí",
+    "literal": "heart, open, spirit, delighted",
+    "meaning": "Describes a state of being completely relaxed and joyful, with a broad and open mind. It conveys the feeling of contentment that comes from being in a beautiful natural setting or free from worldly worries.",
+    "origin": "This idiom comes from the Song Dynasty essay 'Yueyang Tower' (《岳阳楼记》) by the renowned statesman and writer Fan Zhongyan (范仲淹). In the essay, Fan describes how gazing out over the vast expanse of Lake Dongting on a clear spring day, with gentle breezes and bright sunshine, makes one feel '心旷神怡, 宠辱偕忘' — broad of heart and delighted in spirit, forgetting both favor and disgrace. The essay, written in 1046, is one of the most celebrated works of classical Chinese prose.",
+    "example_zh": "登上山顶，俯瞰云海翻涌，不禁令人心旷神怡。",
+    "example_en": "Reaching the mountaintop and gazing down at the rolling sea of clouds, one cannot help but feel completely relaxed and joyful.",
+    "category": "Emotion",
+    "similar": [
+      "赏心悦目",
+      "悠然自得",
+      "神清气爽"
+    ],
+    "opposite": [
+      "心烦意乱",
+      "愁眉苦脸"
+    ],
+    "id": "xin-kuang-shen-yi"
+  },
+  {
+    "chinese": "坚不可摧",
+    "pinyin": "jiān bù kě cuī",
+    "literal": "firm, not, can, destroyed",
+    "meaning": "Describes something so solid and strong that it absolutely cannot be broken, crushed, or destroyed. It is used both literally for physical fortifications and metaphorically for an unshakable will, belief, or alliance.",
+    "origin": "The idiom appears in early historical and military texts describing impenetrable defenses. A notable classical usage is found in accounts of the Six Dynasties period, where historians described the formidable defenses of key cities and fortresses that withstood prolonged sieges. The phrase crystallized from common military language of the time into a fixed four-character idiom used to convey absolute invincibility, whether of walls, armies, or resolve.",
+    "example_zh": "这支军队纪律严明、团结一致，形成了一道坚不可摧的钢铁防线。",
+    "example_en": "This army, with its strict discipline and unity, formed an indestructible line of steel.",
+    "category": "Power",
+    "similar": [
+      "牢不可破",
+      "固若金汤",
+      "铜墙铁壁"
+    ],
+    "opposite": [
+      "不堪一击",
+      "摧枯拉朽"
+    ],
+    "id": "jian-bu-ke-cui"
+  },
+  {
+    "chinese": "顺其自然",
+    "pinyin": "shùn qí zì rán",
+    "literal": "follow, its, natural, course",
+    "meaning": "To let things develop naturally without forcing them. It advocates accepting circumstances as they unfold and adapting to them rather than resisting or intervening. The idiom reflects a philosophy of non-interference and trust in the natural order.",
+    "origin": "The concept has deep roots in Daoist thought, particularly in the philosophy of Laozi (老子) and Zhuangzi (庄子) from the Warring States period. The core idea of wu wei (无为, non-action or effortless action) in the Daodejing (道德经) underpins this expression. Zhuangzi's writings similarly emphasize following the natural flow of things rather than imposing human will. While the exact four-character phrase crystallized later in literary usage, its philosophical foundation was established during the late Zhou dynasty. The idiom itself became common in vernacular Chinese literature from the Ming and Qing dynasties onward.",
+    "example_zh": "既然事情已经这样了，不如顺其自然，等事情自己解决吧。",
+    "example_en": "Since things have already turned out this way, we might as well let nature take its course and wait for things to resolve themselves.",
+    "category": "Philosophy",
+    "similar": [
+      "听其自然",
+      "随遇而安",
+      "顺水推舟"
+    ],
+    "opposite": [
+      "逆天而行",
+      "揠苗助长"
+    ],
+    "id": "shun-qi-zi-ran"
+  },
+  {
+    "chinese": "鸟语花香",
+    "pinyin": "niǎo yǔ huā xiāng",
+    "literal": "bird, language, flower, fragrance",
+    "meaning": "An idiom describing a scene full of the songs of birds and the scent of flowers. It is used to paint a vivid picture of a beautiful, lively spring landscape. By extension, it conveys a pleasant, harmonious, and idyllic atmosphere.",
+    "origin": "The phrase traces its roots to classical Chinese literary descriptions of spring scenery rather than a single historical anecdote. It appears in various forms in Tang and Song dynasty poetry and prose celebrating the beauty of nature. The pairing of birdsong and floral fragrance became a stock literary image for an ideal spring day. Over centuries of literary use, the four-character collocation solidified into a fixed idiom.",
+    "example_zh": "春天的公园里鸟语花香，吸引了许多市民前来散步赏景。",
+    "example_en": "The spring park was filled with birdsong and the fragrance of flowers, attracting many citizens who came to stroll and enjoy the scenery.",
+    "category": "Lifestyle",
+    "similar": [
+      "春暖花开",
+      "草长莺飞"
+    ],
+    "opposite": [
+      "满目疮痍",
+      "寸草不生"
+    ],
+    "id": "niao-yu-hua-xiang"
+  },
+  {
+    "chinese": "含辛茹苦",
+    "pinyin": "hán xīn rú kǔ",
+    "literal": "contain, bitter, eat, bitterness",
+    "meaning": "To endure all kinds of hardships and suffering. It describes someone who bears great difficulties patiently, often for the sake of others or a higher purpose, without complaint.",
+    "origin": "The idiom traces its roots to Song dynasty literature, where both 含辛 and 茹苦 appeared independently in earlier classical texts such as the Book of Songs (诗经) and Songs of Chu (楚辞). The combined form 含辛茹苦 became widely used in Song-era writings to describe the suffering of parents raising children or the hardships of devoted service. It has since become a standard idiom for patient endurance of adversity.",
+    "example_zh": "母亲含辛茹苦地把我们兄妹三人拉扯大，从没抱怨过一句。",
+    "example_en": "My mother endured untold hardships to raise the three of us, yet never uttered a single complaint.",
+    "category": "Perseverance",
+    "similar": [
+      "千辛万苦",
+      "历尽沧桑",
+      "风餐露宿"
+    ],
+    "opposite": [
+      "养尊处优",
+      "娇生惯养"
+    ],
+    "id": "han-xin-ru-ku"
+  },
+  {
+    "chinese": "刻骨铭心",
+    "pinyin": "kè gǔ míng xīn",
+    "literal": "carve, bone, engrave, heart",
+    "meaning": "Describes something, usually gratitude, love, or a painful experience, that is so deeply felt it seems carved into one's very bones and engraved upon one's heart. It conveys an impression or memory that can never be forgotten.",
+    "origin": "The idiom has roots in classical literature. The component 铭心 appears in Tang dynasty poetry, such as in Li Bai's work, meaning words engraved on the heart. The fuller pairing 刻骨 with 铭心 developed over centuries of literary usage, appearing in various Song and Ming dynasty texts to describe unforgettable feelings, especially deep gratitude or sorrow.",
+    "example_zh": "那份恩情让我刻骨铭心，一辈子都不会忘记。",
+    "example_en": "That kindness left an indelible mark on me—I will never forget it as long as I live.",
+    "category": "Emotion",
+    "similar": [
+      "铭记不忘",
+      "刻骨仇恨",
+      "没齿难忘"
+    ],
+    "opposite": [
+      "过眼云烟",
+      "抛诸脑后"
+    ],
+    "id": "ke-gu-ming-xin"
+  },
+  {
+    "chinese": "两全其美",
+    "pinyin": "liǎng quán qí měi",
+    "literal": "two, complete, its, beauty",
+    "meaning": "To satisfy both sides of a situation, achieving the best outcome for everyone involved. It describes a solution or arrangement where two parties both get what they want, leaving neither side shortchanged. The phrase emphasizes harmony and mutual benefit in a dilemma that otherwise forces a trade-off.",
+    "origin": "The idiom traces back to the Ming dynasty novel 'Xingshi Hengyan' (醒世恒言) by Feng Menglong. In one story, a clever intermediary arranges a marriage that resolves a family conflict, pleasing both the groom's family and the bride's family simultaneously. The phrase became shorthand for any win-win resolution where no compromise diminishes either party.",
+    "example_zh": "这个方案既降低了成本，又提高了效率，真是一举两全其美的好办法。",
+    "example_en": "This plan both cuts costs and boosts efficiency — truly a solution that achieves the best of both worlds.",
+    "category": "Method",
+    "similar": [
+      "一举两得",
+      "两全其美",
+      "皆大欢喜"
+    ],
+    "opposite": [
+      "顾此失彼",
+      "两败俱伤"
+    ],
+    "id": "liang-quan-qi-mei"
+  },
+  {
+    "chinese": "每况愈下",
+    "pinyin": "měi kuàng yù xià",
+    "literal": "every, situation, increasingly, below",
+    "meaning": "Describes a situation that keeps getting progressively worse over time. It conveys a steady and seemingly relentless decline from an already poor state.",
+    "origin": "This idiom evolved from a passage in the Daoist text Zhuangzi (庄子·知北游), in which Zhuangzi's disciple Dao Jian asks about the Dao and is told to observe it in increasingly lowly places — from ants and weeds to excrement and urine — meaning the Dao is present even in the most degraded states. The original phrase was \"每下愈况\" (měi xià yù kuàng), literally 'the further down you go, the more evident it becomes.' Over time, later generations misread and reordered it as \"每况愈下,\" and the meaning shifted from a philosophical point about finding truth everywhere to simply describing a downward spiral.",
+    "example_zh": "这家公司的经营状况每况愈下，连续三个季度亏损，裁员也在持续扩大。",
+    "example_en": "This company's business conditions have gone from bad to worse, posting losses for three consecutive quarters while layoffs continue to expand.",
+    "category": "Condition",
+    "similar": [
+      "江河日下",
+      "日暮途穷",
+      "一落千丈"
+    ],
+    "opposite": [
+      "蒸蒸日上",
+      "渐入佳境"
+    ],
+    "id": "mei-kuang-yu-xia"
   }
 ]
