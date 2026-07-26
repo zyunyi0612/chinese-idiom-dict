@@ -877,3 +877,81 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-07-26 12:00:04] === Catch-up push done ===
 [2026-07-26 20:00:00] === Catch-up push start (23 unpushed commits) ===
+[main 83c245c] Auto-update: 2026-07-26 20:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 22 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   27e11ac..83c245c  main -> main
+
+Push OK (attempt 1)
+[2026-07-26 20:00:04] === Catch-up push done ===
+[2026-07-27 03:15:00] === Daily cron start ===
+[2026-07-27 03:15:00] === Daily cron start ===
+[2026-07-27 03:15:00] Generating 10 new idioms...
+[2026-07-27 03:15:00] Generating 10 new idioms...
+Existing: 114 idioms
+Candidates available: 95
+Generating 10 new idioms...
+
+  → 披荆斩棘 (pī jīng zhǎn jí)
+    OK: literal='drape over thorns, chop brambles...'
+  → 千军万马 (qiān jūn wàn mǎ)
+    OK: literal='thousand, troops, ten thousand, horses...'
+  → 胸有成竹 (xiōng yǒu chéng zhú)
+    OK: literal='chest, have, complete, bamboo...'
+  → 有备无患 (yǒu bèi wú huàn)
+    OK: literal='have, preparation, no, trouble...'
+  → 青红皂白 (qīng hóng zào bái)
+    OK: literal='blue, red, black, white...'
+  → 一丝不苟 (yī sī bù gǒu)
+    OK: literal='one, thread, not, careless...'
+  → 七上八下 (qī shàng bā xià)
+    OK: literal='seven up, eight down...'
+  → 突如其来 (tū rú qí lái)
+    OK: literal='burst, like, it, comes...'
+  → 日新月异 (rì xīn yuè yì)
+    OK: literal='day new, month different...'
+  → 驾轻就熟 (jià qīng jiù shú)
+    OK: literal='drive light carriage, follow familiar road...'
+
+Added 10 idioms. Total: 124
+[2026-07-27 03:17:38] Generation OK
+[2026-07-27 03:17:38] Generation OK
+[2026-07-27 03:17:38] Regenerating site...
+[2026-07-27 03:17:38] Regenerating site...
+Loading data...
+  → 124 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 124 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 124 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-27 03:17:38] Site regenerated
+[2026-07-27 03:17:38] Site regenerated
+[2026-07-27 03:17:38] Pushing to GitHub...
+[2026-07-27 03:17:38] Pushing to GitHub...

@@ -2217,5 +2217,203 @@
       "渐入佳境"
     ],
     "id": "mei-kuang-yu-xia"
+  },
+  {
+    "chinese": "披荆斩棘",
+    "pinyin": "pī jīng zhǎn jí",
+    "literal": "drape over thorns, chop brambles",
+    "meaning": "To break through thorny undergrowth on a difficult path, metaphorically meaning to overcome great obstacles and hardships to forge ahead. It describes clearing away all barriers in pursuit of a goal with courage and determination.",
+    "origin": "This idiom traces back to the Eastern Han dynasty. The founder of Eastern Han, Emperor Guangwu (Liu Xiu), sent his general Feng Yi on a military campaign. Feng Yi described the hardships of his march, saying he had to cut through thorns and brambles to open the way. The phrase was later recorded in the Book of Later Han (《后汉书·冯异传》), where it became a literary expression for forging a path through extreme difficulty.",
+    "example_zh": "创业初期，他们披荆斩棘，终于把公司做大做强了。",
+    "example_en": "In the early days of starting the business, they overcame countless obstacles and finally built the company into a major success.",
+    "category": "Perseverance",
+    "similar": [
+      "乘风破浪",
+      "筚路蓝缕",
+      "攻坚克难"
+    ],
+    "opposite": [
+      "畏缩不前",
+      "知难而退"
+    ],
+    "id": "pi-jing-zhan-ji"
+  },
+  {
+    "chinese": "千军万马",
+    "pinyin": "qiān jūn wàn mǎ",
+    "literal": "thousand, troops, ten thousand, horses",
+    "meaning": "Describes an enormous, formidable military force or a vast crowd of people and things. It conveys a sense of overwhelming scale and power, often used metaphorically for any massive movement or grand spectacle.",
+    "origin": "The phrase appears in Tang dynasty literature, notably in Han Yu's (韩愈) essay 'Lun Tianxia Shi Ren' (论天下史人), where he wrote of vast armies on campaign. The idiom crystallized through classical military writings and historical records that routinely described imperial campaigns in terms of 'thousands of troops and tens of thousands of horses,' reflecting the immense scale of warfare in ancient China.",
+    "example_zh": "面对千军万马的敌军，他毫无惧色，镇定自若地指挥着部队。",
+    "example_en": "Facing the enemy's mighty force of thousands of troops and horses, he showed no fear and calmly directed his troops.",
+    "category": "Power",
+    "similar": [
+      "兵强马壮",
+      "浩浩荡荡",
+      "人山人海"
+    ],
+    "opposite": [
+      "孤军奋战",
+      "单枪匹马"
+    ],
+    "id": "qian-jun-wan-ma"
+  },
+  {
+    "chinese": "胸有成竹",
+    "pinyin": "xiōng yǒu chéng zhú",
+    "literal": "chest, have, complete, bamboo",
+    "meaning": "To have a well-thought-out plan or a clear picture in mind before taking action. It describes someone who is fully prepared and confident because they have already envisioned the desired outcome.",
+    "origin": "This idiom comes from the Song Dynasty painter Wen Tong (文同), who was renowned for his bamboo ink paintings. According to Su Shi's writings, Wen Tong would observe bamboo carefully in all seasons and conditions until he could picture the entire bamboo in his mind before ever lifting his brush. Su Shi praised him by saying that when Wen Tong painted bamboo, he already had the complete image of bamboo in his chest.",
+    "example_zh": "面对这场复杂的谈判，他早已胸有成竹，提出的方案让所有人都信服。",
+    "example_en": "Facing this complex negotiation, he already had a well-thought-out plan, and the proposal he put forward convinced everyone.",
+    "category": "Determination",
+    "similar": [
+      "成竹在胸",
+      "心中有数",
+      "运筹帷幄"
+    ],
+    "opposite": [
+      "束手无策",
+      "心中无数"
+    ],
+    "id": "xiong-you-cheng-zhu"
+  },
+  {
+    "chinese": "有备无患",
+    "pinyin": "yǒu bèi wú huàn",
+    "literal": "have, preparation, no, trouble",
+    "meaning": "Being well-prepared in advance prevents danger or trouble. It emphasizes that taking precautions before problems arise is the best way to avoid harm. The idiom advocates proactive planning rather than reactive problem-solving.",
+    "origin": "This idiom originates from the Zuo Zhuan (左传), a foundational historical text covering the Spring and Autumn period (722–468 BC). In the passage, the statesman Shi Kuang (师旷) advises that one should prepare for adversity before it arrives, drawing a parallel to storing grain before famine. The full classical phrase reads '有备无患' directly. The text is attributed to Zuo Qiuming and records the history of the state of Lu.",
+    "example_zh": "出门前检查一下天气预报，有备无患嘛。",
+    "example_en": "Check the weather forecast before heading out — better safe than sorry.",
+    "category": "Wisdom",
+    "similar": [
+      "未雨绸缪",
+      "防患未然",
+      "居安思危"
+    ],
+    "opposite": [
+      "临渴掘井",
+      "亡羊补牢"
+    ],
+    "id": "you-bei-wu-huan"
+  },
+  {
+    "chinese": "青红皂白",
+    "pinyin": "qīng hóng zào bái",
+    "literal": "blue, red, black, white",
+    "meaning": "An idiom referring to the facts or the rights and wrongs of a situation. When used in the negative (e.g., 不分青红皂白, 'without distinguishing blue from red, black from white'), it means acting recklessly or making judgments without first understanding the truth of the matter.",
+    "origin": "The phrase appears in various forms in vernacular literature of the Ming and Qing dynasties. It draws on the ancient Chinese color system, where 青 (blue/green), 红 (red), 皂 (black), and 白 (white) represented the most fundamental color distinctions. The idiom uses these basic color categories as a metaphor for the fundamental facts or truth of a situation — just as one would distinguish one color from another, one should distinguish right from wrong before acting. A notable early usage appears in the Ming dynasty novel 'Water Margin' (水浒传), where characters are described as acting without distinguishing 青红皂白.",
+    "example_zh": "他连事情的原委都没搞清楚，就不分青红皂白地把人训斥了一顿。",
+    "example_en": "He hadn't even figured out what happened before he started chewing people out, making no distinction between right and wrong.",
+    "category": "Clarity",
+    "similar": [
+      "是非曲直",
+      "颠倒黑白",
+      "混淆黑白"
+    ],
+    "opposite": [
+      "明辨是非",
+      "泾渭分明"
+    ],
+    "id": "qing-hong-zao-bai"
+  },
+  {
+    "chinese": "一丝不苟",
+    "pinyin": "yī sī bù gǒu",
+    "literal": "one, thread, not, careless",
+    "meaning": "Describes someone who is extremely meticulous and thorough in everything they do, not neglecting even the smallest detail. It conveys a strict, earnest attitude toward work or tasks, where nothing is overlooked or done sloppily.",
+    "origin": "This idiom comes from the Qing dynasty scholar Wu Jingzi's satirical novel \"Rulin Waishi\" (The Scholars), also known as \"儒林外史\". In Chapter 42, the text describes a character's calligraphy as so precise and careful that not a single stroke was careless, using the phrase to praise the highest level of diligence in craft and scholarship. Wu Jingzi used it to illustrate the ideal attitude of a dedicated scholar who attends to every minute detail.",
+    "example_zh": "王老师批改作业一丝不苟，连一个标点符号的错误都不会放过。",
+    "example_en": "Teacher Wang grades homework with meticulous care — he won't let even a single punctuation mistake slip by.",
+    "category": "Attitude",
+    "similar": [
+      "精益求精",
+      "兢兢业业"
+    ],
+    "opposite": [
+      "粗心大意"
+    ],
+    "id": "yi-si-bu-gou"
+  },
+  {
+    "chinese": "七上八下",
+    "pinyin": "qī shàng bā xià",
+    "literal": "seven up, eight down",
+    "meaning": "Describes a state of great anxiety, nervousness, or inner turmoil where one's emotions fluctuate unpredictably. It conveys the feeling of being unsettled, unable to find peace of mind.",
+    "origin": "This idiom has roots in classical Chinese numerological and folk traditions. The phrase appears in early vernacular literature, including works from the Ming dynasty such as Journey to the West (西游记), where it is used to depict characters' restless, wavering states of mind. The numbers seven and eight were often used colloquially to suggest disorder or instability, and the contrasting directions 'up' and 'down' vividly capture the image of a heart bouncing erratically. Over time it became a standard expression for anxiety and emotional unease in spoken and written Chinese.",
+    "example_zh": "得知考试结果还没公布，她心里七上八下的，坐立不安。",
+    "example_en": "With the exam results not yet announced, she was on edge and couldn't sit still.",
+    "category": "Emotion",
+    "similar": [
+      "忐忑不安",
+      "心神不宁",
+      "坐立不安"
+    ],
+    "opposite": [
+      "泰然自若",
+      "心安理得"
+    ],
+    "id": "qi-shang-ba-xia"
+  },
+  {
+    "chinese": "突如其来",
+    "pinyin": "tū rú qí lái",
+    "literal": "burst, like, it, comes",
+    "meaning": "Something happens suddenly and unexpectedly, without any warning or preparation. It describes an event or situation that catches people completely off guard, like a bolt from the blue.",
+    "origin": "This idiom traces back to the ancient Chinese philosophical text \"Liji\" (Book of Rites, 礼记), compiled during the Western Han dynasty (206 BC–9 AD), specifically in the chapter \"Tan Gong\" (檀弓). It originally described death arriving without forewarning, emphasizing that life's most momentous events can strike at any time. The passage reads: \"出乎尔者，反乎尔者也; 如此者，突如其来如，焚如，死如，弃如.\"",
+    "example_zh": "这场暴雨突如其来，让街上的人纷纷四处躲避。",
+    "example_en": "The rainstorm came out of nowhere, sending people on the street scurrying for cover.",
+    "category": "Condition",
+    "similar": [
+      "从天而降",
+      "防不胜防",
+      "始料未及"
+    ],
+    "opposite": [
+      "有备无患",
+      "意料之中"
+    ],
+    "id": "tu-ru-qi-lai"
+  },
+  {
+    "chinese": "日新月异",
+    "pinyin": "rì xīn yuè yì",
+    "literal": "day new, month different",
+    "meaning": "Describes things that change and improve rapidly and constantly. It conveys the idea of continuous, rapid progress or transformation in a very positive sense.",
+    "origin": "This idiom comes from the 'Book of Rites' (《礼记·大学》), one of the Five Classics of Confucianism. The original text states: '苟日新，日日新，又日新' (If you can improve yourself in a day, do so each day, building always upon the previous day's improvement). Later scholars elaborated this idea into '日新月异', expanding the notion of daily renewal to monthly transformation. The phrase has been used since ancient times to describe both moral self-improvement and the rapid advancement of civilization, technology, or society.",
+    "example_zh": "随着科技的发展，人们的生活方式日新月异。",
+    "example_en": "With the development of technology, people's lifestyles change rapidly and constantly.",
+    "category": "Variety",
+    "similar": [
+      "突飞猛进",
+      "一日千里",
+      "瞬息万变"
+    ],
+    "opposite": [
+      "一成不变",
+      "停滞不前"
+    ],
+    "id": "ri-xin-yue-yi"
+  },
+  {
+    "chinese": "驾轻就熟",
+    "pinyin": "jià qīng jiù shú",
+    "literal": "drive light carriage, follow familiar road",
+    "meaning": "To do something with ease because one is experienced and familiar with it. It describes the confidence and fluency that come from long practice or deep familiarity with a task.",
+    "origin": "This idiom comes from a letter by the Tang dynasty official Han Yu (韩愈) titled '送石处士序' (Preface on Bidding Farewell to Scholar Shi). Han Yu wrote that a skilled horseman driving a light carriage on a familiar road feels no strain, using this metaphor to describe someone who applies their expertise effortlessly. The phrase has been used ever since to praise seasoned competence.",
+    "example_zh": "他在这行干了二十年，处理这类问题自然是驾轻就熟。",
+    "example_en": "He's been in this industry for twenty years, so handling these kinds of problems is naturally a breeze for him.",
+    "category": "Skill",
+    "similar": [
+      "轻车熟路",
+      "得心应手",
+      "游刃有余"
+    ],
+    "opposite": [
+      "力不从心",
+      "手足无措"
+    ],
+    "id": "jia-qing-jiu-shu"
   }
 ]
