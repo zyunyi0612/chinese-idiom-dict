@@ -1012,3 +1012,81 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-07-27 12:00:04] === Catch-up push done ===
 [2026-07-27 20:00:00] === Catch-up push start (26 unpushed commits) ===
+[main 1c99c38] Auto-update: 2026-07-27 20:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 22 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   b70adb6..1c99c38  main -> main
+
+Push OK (attempt 1)
+[2026-07-27 20:00:04] === Catch-up push done ===
+[2026-07-28 03:15:00] === Daily cron start ===
+[2026-07-28 03:15:00] === Daily cron start ===
+[2026-07-28 03:15:00] Generating 10 new idioms...
+[2026-07-28 03:15:00] Generating 10 new idioms...
+Existing: 124 idioms
+Candidates available: 85
+Generating 10 new idioms...
+
+  → 贻笑大方 (yí xiào dà fāng)
+    OK: literal='leave, laugh, great, expert...'
+  → 口若悬河 (kǒu ruò xuán hé)
+    OK: literal='mouth, like, hanging, river...'
+  → 庞然大物 (páng rán dà wù)
+    OK: literal='huge, majestic, big, thing...'
+  → 在所不惜 (zài suǒ bù xī)
+    OK: literal='at, place, not, begrudge...'
+  → 忐忑不安 (tǎn tè bù ān)
+    OK: literal='pounding heart, not at peace...'
+  → 谈笑风生 (tán xiào fēng shēng)
+    OK: literal='talk, laugh, wind, arise...'
+  → 邮亭驿馆 (yóu tíng yì guǎn)
+    OK: literal='post, pavilion, post-station, lodging-house...'
+  → 无与伦比 (wú yǔ lún bǐ)
+    OK: literal='nothing, with, equal, compare...'
+  → 良药苦口 (liáng yào kǔ kǒu)
+    OK: literal='good, medicine, bitter, mouth...'
+  → 熟能生巧 (shú néng shēng qiǎo)
+    OK: literal='skilled, able, produce, skillful...'
+
+Added 10 idioms. Total: 134
+[2026-07-28 03:17:32] Generation OK
+[2026-07-28 03:17:32] Generation OK
+[2026-07-28 03:17:32] Regenerating site...
+[2026-07-28 03:17:32] Regenerating site...
+Loading data...
+  → 134 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 134 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 134 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-28 03:17:32] Site regenerated
+[2026-07-28 03:17:32] Site regenerated
+[2026-07-28 03:17:32] Pushing to GitHub...
+[2026-07-28 03:17:32] Pushing to GitHub...

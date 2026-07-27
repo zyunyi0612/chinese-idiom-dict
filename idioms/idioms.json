@@ -2415,5 +2415,202 @@
       "手足无措"
     ],
     "id": "jia-qing-jiu-shu"
+  },
+  {
+    "chinese": "贻笑大方",
+    "pinyin": "yí xiào dà fāng",
+    "literal": "leave, laugh, great, expert",
+    "meaning": "To make a fool of oneself before an expert or a knowledgeable audience. It conveys humility or self-deprecation, acknowledging that one's limited skill or knowledge may seem laughable to those who truly understand the subject.",
+    "origin": "The phrase comes from Zhuangzi (《庄子·秋水》), where the River God, having swelled with pride after the autumn flood, ventures to the North Sea for the first time. There he meets Ruo (若), the spirit of the sea, whose vastness makes the river feel utterly insignificant. Ruo remarks that one cannot discuss the ocean with a well frog, and the idiom emerged from this theme of the ignorant presuming to instruct the knowledgeable.",
+    "example_zh": "在各位专家面前班门弄斧，实在是贻笑大方。",
+    "example_en": "Showing off my meager skills in front of all these experts is truly making a fool of myself.",
+    "category": "Knowledge",
+    "similar": [
+      "班门弄斧",
+      "贻笑千古",
+      "自取其辱"
+    ],
+    "opposite": [
+      "真知灼见",
+      "游刃有余"
+    ],
+    "id": "yi-xiao-da-fang"
+  },
+  {
+    "chinese": "口若悬河",
+    "pinyin": "kǒu ruò xuán hé",
+    "literal": "mouth, like, hanging, river",
+    "meaning": "Describes someone who speaks with great eloquence and fluency, as if water were pouring endlessly from their mouth. It typically conveys admiration for a person's oratorical skill and ability to talk at length on a subject without hesitation.",
+    "origin": "The idiom comes from the Jin Dynasty scholar Guo Xiang (郭象), as recorded in the Shishuo Xinyu (世说新语) by Liu Yiqing. Guo Xiang was renowned for his brilliant philosophical discourses, and his contemporary Wang Yan (王衍) praised him by saying his speech flowed like a torrential river pouring down from a cliff — never stopping, never faltering. The phrase was later crystallized into the four-character idiom 口若悬河.",
+    "example_zh": "他在辩论赛上口若悬河，把对手驳得哑口无言。",
+    "example_en": "He spoke with the eloquence of a raging river at the debate, leaving his opponent completely speechless.",
+    "category": "Communication",
+    "similar": [
+      "滔滔不绝",
+      "侃侃而谈"
+    ],
+    "opposite": [
+      "张口结舌",
+      "沉默寡言"
+    ],
+    "id": "kou-ruo-xuan-he"
+  },
+  {
+    "chinese": "庞然大物",
+    "pinyin": "páng rán dà wù",
+    "literal": "huge, majestic, big, thing",
+    "meaning": "An enormous, awe-inspiring object or creature. It describes something of massive size that can appear imposing or intimidating, sometimes with the implication that its great size may belie actual strength or capability.",
+    "origin": "This idiom comes from Tang dynasty writer Liu Zongyuan's fable '三戒' (Three Admonitions), specifically the story '黔之驴' (The Donkey of Guizhou). A donkey from elsewhere is brought to Guizhou province, where a tiger has never seen one before. The tiger observes this 庞然大物 from a distance, initially terrified by its enormous size and loud braying, but eventually discovers the donkey has no real fighting skills and devours it. The phrase has since been used to describe anything of great size.",
+    "example_zh": "那头大象站在草原上，真是一个庞然大物，让人望而生畏。",
+    "example_en": "The elephant standing on the grassland was a truly massive creature, inspiring awe and fear at the sight of it.",
+    "category": "Status",
+    "similar": [
+      "硕大无朋",
+      "大而无当",
+      "巍然屹立"
+    ],
+    "opposite": [
+      "微不足道",
+      "沧海一粟"
+    ],
+    "id": "pang-ran-da-wu"
+  },
+  {
+    "chinese": "在所不惜",
+    "pinyin": "zài suǒ bù xī",
+    "literal": "at, place, not, begrudge",
+    "meaning": "To not hesitate at all; to be willing to do something regardless of the cost or sacrifice. It conveys a resolute attitude of not grudging any effort, money, or even one's life to achieve a goal.",
+    "origin": "The phrase has deep classical Chinese roots, combining the grammatical structure found in earlier texts. The components appear in contexts where scholars and officials declared their willingness to sacrifice everything for loyalty or a righteous cause. It crystallized as a fixed expression in Ming and Qing dynasty literature, frequently used in historical novels and essays to describe figures who accepted any cost for duty or principle.",
+    "example_zh": "为了国家的安全，即使牺牲个人生命，也在所不惜。",
+    "example_en": "For the sake of national security, they would not hesitate even if it meant sacrificing their own lives.",
+    "category": "Determination",
+    "similar": [
+      "在所不辞",
+      "奋不顾身",
+      "义无反顾"
+    ],
+    "opposite": [
+      "畏首畏尾",
+      "犹豫不决"
+    ],
+    "id": "zai-suo-bu-xi"
+  },
+  {
+    "chinese": "忐忑不安",
+    "pinyin": "tǎn tè bù ān",
+    "literal": "pounding heart, not at peace",
+    "meaning": "Describes a state of restlessness and anxiety, where one's heart pounds nervously and one cannot feel calm. It conveys both physical unease and mental worry, often in anticipation of uncertain news or outcomes.",
+    "origin": "The idiom traces back to the ancient Chinese Classic of Poetry (《诗经·小雅·正月》), where the line '忧心忡忡' expresses deep anxiety. The specific compound '忐忑' appears in later texts as an onomatopoeic rendering of a pounding heart, with '忐' (upward beat) and '忑' (downward beat) mimicking the rhythm of an uneasy pulse. The full phrase '忐忑不安' became standard in vernacular literature from the Ming and Qing dynasties onward.",
+    "example_zh": "考试成绩还没公布，她心里忐忑不安，整晚都睡不着觉。",
+    "example_en": "The exam results hadn't been released yet, and she felt so uneasy that she couldn't sleep all night.",
+    "category": "Emotion",
+    "similar": [
+      "提心吊胆",
+      "坐立不安",
+      "惴惴不安"
+    ],
+    "opposite": [
+      "心安理得",
+      "泰然自若"
+    ],
+    "id": "tan-te-bu-an"
+  },
+  {
+    "chinese": "谈笑风生",
+    "pinyin": "tán xiào fēng shēng",
+    "literal": "talk, laugh, wind, arise",
+    "meaning": "To talk and laugh cheerfully and animatedly, with an engaging and lively manner. It describes someone who is a delightful conversationalist, making discussions feel effortless and enjoyable. The idiom conveys both eloquence and a warm, relaxed social presence.",
+    "origin": "The idiom traces back to the Song dynasty poet Su Shi (苏轼), who wrote in a poem about scholars gathering to discuss literature and philosophy with great liveliness. Later, the Qing dynasty scholar Wang Fuzhi (王夫之) used a similar expression in his writings to describe the ease and charm of cultivated conversation among learned friends. Over time the phrase became a standard idiom praising someone's gift for effortless, engaging dialogue.",
+    "example_zh": "宴会上他谈笑风生，很快就把气氛活跃起来了。",
+    "example_en": "At the banquet he talked and laughed so engagingly that he quickly livened up the atmosphere.",
+    "category": "Communication",
+    "similar": [
+      "谈笑自若",
+      "谈笑有鸿儒",
+      "妙语连珠"
+    ],
+    "opposite": [
+      "沉默寡言",
+      "不苟言笑"
+    ],
+    "id": "tan-xiao-feng-sheng"
+  },
+  {
+    "chinese": "邮亭驿馆",
+    "pinyin": "yóu tíng yì guǎn",
+    "literal": "post, pavilion, post-station, lodging-house",
+    "meaning": "An expression referring to the network of official post stations, relay inns, and way stations along ancient Chinese routes. It evokes the infrastructure of travel, communication, and official dispatch in imperial China.",
+    "origin": "The phrase draws on China's ancient postal relay system (驿传制度), which dates back as early as the Shang and Zhou dynasties and was greatly expanded under the Qin and Han. By the Tang and Song dynasties, a vast network of post stations (驿站), postal pavilions (邮亭), and official inns (驿馆) spanned the empire, facilitating government communications and official travel. '邮亭' specifically refers to postal relay pavilions, while '驿馆' denotes the lodging houses attached to relay stations. The compound phrase appears in classical literature as a metonym for long journeys, the weariness of travel, or the distance between people.",
+    "example_zh": "沿途邮亭驿馆，供往来官差歇脚换马，成为古代交通的重要枢纽。",
+    "example_en": "The post stations and relay inns along the way provided rest and fresh horses for traveling officials, serving as vital hubs in ancient transportation.",
+    "category": "Lifestyle",
+    "similar": [
+      "驿站",
+      "驿站递铺",
+      "十里长亭"
+    ],
+    "opposite": [
+      "深居简出"
+    ],
+    "id": "you-ting-yi-guan"
+  },
+  {
+    "chinese": "无与伦比",
+    "pinyin": "wú yǔ lún bǐ",
+    "literal": "nothing, with, equal, compare",
+    "meaning": "This idiom describes something so outstanding or unique that nothing else can be compared to it. It conveys a sense of supreme excellence, peerlessness, or unrivaled quality. It is used to praise something that stands far above everything else in its class.",
+    "origin": "The phrase traces back to classical Chinese literature. A key early usage appears in the \"Commentary on the Classic of Poetry\" (毛诗正义) compiled during the Tang dynasty, where the expression conveys the idea that something has no equal. The character 伦 refers to order or category, and 比 means to compare, so the phrase literally means nothing can be placed in the same category for comparison. Over centuries it evolved into a common literary idiom of highest praise.",
+    "example_zh": "这座宫殿的建筑风格在中国古代建筑中无与伦比。",
+    "example_en": "The architectural style of this palace is incomparable among ancient Chinese buildings.",
+    "category": "Quality",
+    "similar": [
+      "举世无双",
+      "独步天下",
+      "无可比拟"
+    ],
+    "opposite": [
+      "相形见绌",
+      "不相上下"
+    ],
+    "id": "wu-yu-lun-bi"
+  },
+  {
+    "chinese": "良药苦口",
+    "pinyin": "liáng yào kǔ kǒu",
+    "literal": "good, medicine, bitter, mouth",
+    "meaning": "Good medicine is bitter to the taste. This idiom means that honest criticism or uncomfortable advice, though unpleasant to receive, is ultimately beneficial. It is often used to encourage people to accept well-intentioned criticism.",
+    "origin": "The phrase traces back to the Han dynasty text \"Shi Ji\" (Records of the Grand Historian) by Sima Qian, where it appears in a memorial by the loyal minister Shusun Tong. He advised Emperor Gaozu of Han that sincere advice, like bitter medicine, cures faults. The full saying is often paired with \"忠言逆耳\" (loyal words offend the ear), forming the couplet \"良药苦口利于病，忠言逆耳利于行\" (bitter medicine cures illness; offensive words improve conduct).",
+    "example_zh": "老师的话虽然不好听，但良药苦口，对你以后的发展肯定有帮助。",
+    "example_en": "Although the teacher's words were hard to hear, good medicine is bitter to the taste — they will surely help your future development.",
+    "category": "Wisdom",
+    "similar": [
+      "忠言逆耳",
+      "苦口婆心",
+      "对症下药"
+    ],
+    "opposite": [
+      "阿谀奉承",
+      "口蜜腹剑"
+    ],
+    "id": "liang-yao-ku-kou"
+  },
+  {
+    "chinese": "熟能生巧",
+    "pinyin": "shú néng shēng qiǎo",
+    "literal": "skilled, able, produce, skillful",
+    "meaning": "Through repeated practice, one naturally develops skill and proficiency. The idiom teaches that mastery comes not from talent alone but from persistent effort and familiarity with a task.",
+    "origin": "This idiom traces back to a story from the Song Dynasty recorded in Shen Kuo's Mengxi Bitan (Dream Pool Essays). A skilled archer named Chen Yaodi could hit a willow leaf at a hundred paces, yet an old oil peddler casually poured oil through the tiny hole of a copper coin without a single drop touching its edges. When asked, the peddler simply explained that it was nothing but repeated practice — illustrating that mastery arises from familiarity and relentless repetition rather than innate gift alone.",
+    "example_zh": "只要每天坚持练习书法，熟能生巧，总有一天你能写出一手好字。",
+    "example_en": "As long as you practice calligraphy every day, practice makes perfect — one day you will be able to write beautifully.",
+    "category": "Skill",
+    "similar": [
+      "游刃有余",
+      "得心应手",
+      "勤能补拙"
+    ],
+    "opposite": [
+      "眼高手低"
+    ],
+    "id": "shu-neng-sheng-qiao"
   }
 ]
