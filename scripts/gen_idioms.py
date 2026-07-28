@@ -191,6 +191,34 @@ def load_existing():
     return data, existing
 
 
+def load_whitelist():
+    """Load authoritative idiom whitelist (30895 standard chengyu).
+    Returns a set of Chinese character strings.
+    """
+    WHITELIST_FILE = BASE / "data" / "idiom_whitelist.json"
+    if not WHITELIST_FILE.exists():
+        print(f"WARNING: whitelist file missing at {WHITELIST_FILE}")
+        print("  Downloading from pwxcoo/chinese-xinhua...")
+        import urllib.request, ssl
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+        url = "https://raw.githubusercontent.com/pwxcoo/chinese-xinhua/master/data/idiom.json"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=60, context=ctx) as r:
+            (BASE / "data").mkdir(parents=True, exist_ok=True)
+            (WHITELIST_FILE).write_bytes(r.read())
+        # Re-proxy through system proxy if direct failed (cron env)
+    try:
+        with open(WHITELIST_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        whitelist = {item["word"] for item in data if "word" in item}
+        return whitelist
+    except Exception as e:
+        print(f"WARNING: failed to load whitelist: {e}")
+        return set()
+
+
 def build_detail_prompt(chinese, pinyin, hint):
     """Build a prompt for the LLM to generate full idiom details."""
     return f"""Generate a complete dictionary entry for the classical Chinese idiom (成语) "{chinese}" (pinyin: {pinyin}, rough meaning: "{hint}").
@@ -273,17 +301,29 @@ def main():
     existing_data, existing_set = load_existing()
     print(f"Existing: {len(existing_data)} idioms")
 
-    # Filter candidates not yet present
+    # Load authoritative whitelist of standard chengyu
+    whitelist = load_whitelist()
+    print(f"Whitelist: {len(whitelist)} standard chengyu loaded")
+    if not whitelist:
+        print("WARNING: proceeding without whitelist — quality filter disabled")
+
+    # Filter candidates not yet present AND in the whitelist
     candidates = [c for c in CANDIDATE_IDIOMS if c[0] not in existing_set]
+    if whitelist:
+        filtered = [c for c in candidates if c[0] in whitelist]
+        rejected = [c for c in candidates if c[0] not in whitelist]
+        if rejected:
+            print(f"  Filtered out {len(rejected)} non-standard candidates: {[c[0] for c in rejected[:5]]}{'...' if len(rejected)>5 else ''}")
+        candidates = filtered
     random.shuffle(candidates)
-    print(f"Candidates available: {len(candidates)}")
+    print(f"Candidates available after whitelist: {len(candidates)}")
 
     selected = candidates[:count]
     print(f"Generating {len(selected)} new idioms...\n")
 
     new_entries = []
     for chinese, pinyin, hint in selected:
-        print(f"  → {chinese} ({pinyin})")
+        print(f"  -> {chinese} ({pinyin})")
         entry = gen_idiom(chinese, pinyin, hint)
         if entry:
             new_entries.append(entry)

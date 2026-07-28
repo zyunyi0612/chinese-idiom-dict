@@ -285,25 +285,6 @@
     ]
   },
   {
-    "id": "hu-hu-tu-tu",
-    "chinese": "糊涂",
-    "pinyin": "hú tú",
-    "literal": "confused, muddled",
-    "meaning": "Muddled thinking; to act without clear understanding. Living without purpose or awareness.",
-    "origin": "From Chinese folk wisdom distinguishing '难得糊涂' (rare to be wisely confused) from foolish muddle.",
-    "example_zh": "他这事办得太糊涂了。",
-    "example_en": "He handled this matter in a very muddled way.",
-    "category": "Attitude",
-    "similar": [
-      "稀里糊涂",
-      "不明不白"
-    ],
-    "opposite": [
-      "清清楚楚",
-      "心知肚明"
-    ]
-  },
-  {
     "id": "yi-ming-jing-ren",
     "chinese": "一鸣惊人",
     "pinyin": "yī míng jīng rén",
@@ -358,25 +339,6 @@
     "opposite": [
       "泰然自若",
       "安之若素"
-    ]
-  },
-  {
-    "id": "shi-zhi-jiao-bi",
-    "chinese": "咫尺之近",
-    "pinyin": "zhǐ chǐ zhī jìn",
-    "literal": "very near, close at hand",
-    "meaning": "Very close by, within easy reach. Used to describe physical or figurative nearness.",
-    "origin": "From classical literature describing proximity—the 'zhi' and 'chi' were ancient Chinese units of small distance (8 cun and 10 cun respectively).",
-    "example_zh": "机会就在咫尺之近。",
-    "example_en": "The opportunity is within arm's reach.",
-    "category": "Distance",
-    "similar": [
-      "近在咫尺",
-      "触手可及"
-    ],
-    "opposite": [
-      "远在天边",
-      "天涯海角"
     ]
   },
   {
@@ -456,25 +418,6 @@
     ]
   },
   {
-    "id": "zhi-lu-bu-hui",
-    "chinese": "知错不改",
-    "pinyin": "zhī cuò bù gǎi",
-    "literal": "know mistake, not change",
-    "meaning": "To recognize one's mistake but stubbornly refuse to correct it. Willful persistence in error.",
-    "origin": "From folk wisdom criticizing those who, despite awareness of their wrongdoing, refuse to amend their ways.",
-    "example_zh": "知错不改是最大的愚蠢。",
-    "example_en": "Knowing your mistake but refusing to change is the greatest foolishness.",
-    "category": "Attitude",
-    "similar": [
-      "执迷不悟",
-      "死不悔改"
-    ],
-    "opposite": [
-      "知错能改",
-      "悬崖勒马"
-    ]
-  },
-  {
     "id": "cheng-xiang-shi-hao",
     "chinese": "成人之美",
     "pinyin": "chéng rén zhī měi",
@@ -532,25 +475,6 @@
     ]
   },
   {
-    "id": "lu-yi-shi-lu",
-    "chinese": "路遥知马力",
-    "pinyin": "lù yáo zhī mǎ lì",
-    "literal": "road long, know horse strength",
-    "meaning": "True qualities reveal themselves over time and through tests. Only through prolonged experience can one's true abilities or character be known.",
-    "origin": "From the Song Dynasty, often paired with '日久见人心' (time reveals a person's heart).",
-    "example_zh": "路遥知马力，日久见人心。",
-    "example_en": "A long road tests a horse's strength; time reveals a person's heart.",
-    "category": "Wisdom",
-    "similar": [
-      "日久见人心",
-      "烈火见真金"
-    ],
-    "opposite": [
-      "以貌取人",
-      "浅尝辄止"
-    ]
-  },
-  {
     "id": "tu-si-hu-ji",
     "chinese": "兔死狐悲",
     "pinyin": "tù sǐ hú bēi",
@@ -570,25 +494,6 @@
     ]
   },
   {
-    "id": "qian-ren-zhi-guan",
-    "chinese": "千人之长",
-    "pinyin": "qiān rén zhī zhǎng",
-    "literal": "leader of thousand",
-    "meaning": "A person capable of leading many. One who has the ability to command and guide a large group.",
-    "origin": "From classical military organization, referring to a commander who could lead a thousand soldiers.",
-    "example_zh": "他天生是千人之长的料。",
-    "example_en": "He's a natural-born leader of thousands.",
-    "category": "Leadership",
-    "similar": [
-      "将帅之才",
-      "领袖群伦"
-    ],
-    "opposite": [
-      "碌碌无为",
-      "独木难支"
-    ]
-  },
-  {
     "id": "yi-bu-bu-gao",
     "chinese": "一步登天",
     "pinyin": "yī bù dēng tiān",
@@ -605,25 +510,6 @@
     "opposite": [
       "循序渐进",
       "脚踏实地"
-    ]
-  },
-  {
-    "id": "zhen-zhen-qie-qie",
-    "chinese": "真真切切",
-    "pinyin": "zhēn zhēn qiè qiè",
-    "literal": "truly, clearly",
-    "meaning": "Very clearly and distinctly. Without any doubt or ambiguity.",
-    "origin": "From classical vernacular literature emphasizing vivid clarity.",
-    "example_zh": "他把事情看得真真切切。",
-    "example_en": "He saw the matter very clearly and distinctly.",
-    "category": "Clarity",
-    "similar": [
-      "清清楚楚",
-      "明明白白"
-    ],
-    "opposite": [
-      "模模糊糊",
-      "似是而非"
     ]
   },
   {
@@ -874,25 +760,6 @@
     ]
   },
   {
-    "id": "hua-kai-jie-di",
-    "chinese": "花开遍地",
-    "pinyin": "huā kāi biàn dì",
-    "literal": "flowers open, cover ground",
-    "meaning": "Widely successful or flourishing everywhere. Proliferating successfully across many areas.",
-    "origin": "From classical poetry describing abundant blooming.",
-    "example_zh": "这家公司分店花开遍地。",
-    "example_en": "This company's branches have bloomed all over the place.",
-    "category": "Success",
-    "similar": [
-      "遍布各地",
-      "遍地开花"
-    ],
-    "opposite": [
-      "独木难支",
-      "寥寥无几"
-    ]
-  },
-  {
     "id": "ru-hu-tian-yi",
     "chinese": "如虎添翼",
     "pinyin": "rú hǔ tiān yì",
@@ -909,44 +776,6 @@
     "opposite": [
       "雪上加霜",
       "落井下石"
-    ]
-  },
-  {
-    "id": "yu-yan-zhi-li",
-    "chinese": "寓言之力",
-    "pinyin": "yù yán zhī lì",
-    "literal": "parable's power",
-    "meaning": "The persuasive power of parables and stories. Teaching through narrative.",
-    "origin": "Coined term referring to the rhetorical tradition of using parables like Zhuangzi's works.",
-    "example_zh": "寓言之力胜过千言万语的说教。",
-    "example_en": "The power of parables outweighs a thousand words of preaching.",
-    "category": "Communication",
-    "similar": [
-      "以理服人",
-      "循循善诱"
-    ],
-    "opposite": [
-      "蛮横无理",
-      "强词夺理"
-    ]
-  },
-  {
-    "id": "di-dao-zhi-yi",
-    "chinese": "地道之宜",
-    "pinyin": "dì dào zhī yí",
-    "literal": "earth's path, what's fitting",
-    "meaning": "What is naturally appropriate to local conditions. Adapting to the environment.",
-    "origin": "From classical Chinese philosophy on adapting to local geography and conditions.",
-    "example_zh": "做事要地道之宜，因地制宜。",
-    "example_en": "Act according to what fits the local ground—adapt to conditions.",
-    "category": "Wisdom",
-    "similar": [
-      "因地制宜",
-      "顺势而为"
-    ],
-    "opposite": [
-      "刻舟求剑",
-      "生搬硬套"
     ]
   },
   {
@@ -1066,26 +895,6 @@
       "闭门谢客"
     ],
     "id": "lai-zhe-bu-ju"
-  },
-  {
-    "chinese": "色彩斑斓",
-    "pinyin": "sè cǎi bān lán",
-    "literal": "color, appearance, mottled, ornate",
-    "meaning": "Describes something that is richly, vividly colorful. It is used to paint a picture of scenes, artwork, or natural phenomena that dazzle the eye with a striking variety of hues.",
-    "origin": "This is not a classical idiom but a widely used four-character descriptive phrase in modern Chinese. It combines 色 (color) and 彩 (hue) with 斑斓, a literary word found in ancient texts such as the Chu Ci (楚辞) to describe the gorgeous patterns of bird feathers and precious stones. The full phrase became popular in modern literature and journalism as an evocative way to depict vibrant, multicolored scenes.",
-    "example_zh": "秋天的森林里，落叶铺满了小路，呈现出色彩斑斓的美景。",
-    "example_en": "In the autumn forest, fallen leaves carpeted the path, presenting a colorful and breathtaking vista.",
-    "category": "Variety",
-    "similar": [
-      "五彩缤纷",
-      "绚丽多彩",
-      "五颜六色"
-    ],
-    "opposite": [
-      "黯然无色",
-      "索然无味"
-    ],
-    "id": "se-cai-ban-lan"
   },
   {
     "chinese": "一意孤行",
@@ -1902,25 +1711,6 @@
     "id": "ying-ren-er-jie"
   },
   {
-    "chinese": "四海之内",
-    "pinyin": "sì hǎi zhī nèi",
-    "literal": "four, seas, 's (possessive), within",
-    "meaning": "Refers to the entire world or all under heaven, as the 'four seas' were traditionally seen as the boundaries of the known world. It is often used to describe the scope of a ruler's domain or the universality of human fellowship. The phrase conveys a sense of inclusiveness that transcends regional borders.",
-    "origin": "The phrase appears in the 'Liji' (Book of Rites), one of the Confucian Five Classics: '四海之内，皆兄弟也' — meaning 'Within the four seas, all men are brothers.' It reflects the Zhou dynasty cosmological view that China was surrounded by four seas, and everything within those seas constituted the civilized world. This expression became a shorthand for the entire realm under a sovereign's rule, frequently invoked by later dynasties in political and philosophical discourse.",
-    "example_zh": "四海之内皆兄弟，何必在意这点小分歧呢？",
-    "example_en": "All people within the four seas are brothers — why dwell on such a minor disagreement?",
-    "category": "Philosophy",
-    "similar": [
-      "天下太平",
-      "五湖四海",
-      "普天之下"
-    ],
-    "opposite": [
-      "一隅之地"
-    ],
-    "id": "si-hai-zhi-nei"
-  },
-  {
     "chinese": "不可思议",
     "pinyin": "bù kě sī yì",
     "literal": "not, can, think, meaning",
@@ -2098,26 +1888,6 @@
       "摧枯拉朽"
     ],
     "id": "jian-bu-ke-cui"
-  },
-  {
-    "chinese": "顺其自然",
-    "pinyin": "shùn qí zì rán",
-    "literal": "follow, its, natural, course",
-    "meaning": "To let things develop naturally without forcing them. It advocates accepting circumstances as they unfold and adapting to them rather than resisting or intervening. The idiom reflects a philosophy of non-interference and trust in the natural order.",
-    "origin": "The concept has deep roots in Daoist thought, particularly in the philosophy of Laozi (老子) and Zhuangzi (庄子) from the Warring States period. The core idea of wu wei (无为, non-action or effortless action) in the Daodejing (道德经) underpins this expression. Zhuangzi's writings similarly emphasize following the natural flow of things rather than imposing human will. While the exact four-character phrase crystallized later in literary usage, its philosophical foundation was established during the late Zhou dynasty. The idiom itself became common in vernacular Chinese literature from the Ming and Qing dynasties onward.",
-    "example_zh": "既然事情已经这样了，不如顺其自然，等事情自己解决吧。",
-    "example_en": "Since things have already turned out this way, we might as well let nature take its course and wait for things to resolve themselves.",
-    "category": "Philosophy",
-    "similar": [
-      "听其自然",
-      "随遇而安",
-      "顺水推舟"
-    ],
-    "opposite": [
-      "逆天而行",
-      "揠苗助长"
-    ],
-    "id": "shun-qi-zi-ran"
   },
   {
     "chinese": "鸟语花香",
@@ -2536,25 +2306,6 @@
     "id": "tan-xiao-feng-sheng"
   },
   {
-    "chinese": "邮亭驿馆",
-    "pinyin": "yóu tíng yì guǎn",
-    "literal": "post, pavilion, post-station, lodging-house",
-    "meaning": "An expression referring to the network of official post stations, relay inns, and way stations along ancient Chinese routes. It evokes the infrastructure of travel, communication, and official dispatch in imperial China.",
-    "origin": "The phrase draws on China's ancient postal relay system (驿传制度), which dates back as early as the Shang and Zhou dynasties and was greatly expanded under the Qin and Han. By the Tang and Song dynasties, a vast network of post stations (驿站), postal pavilions (邮亭), and official inns (驿馆) spanned the empire, facilitating government communications and official travel. '邮亭' specifically refers to postal relay pavilions, while '驿馆' denotes the lodging houses attached to relay stations. The compound phrase appears in classical literature as a metonym for long journeys, the weariness of travel, or the distance between people.",
-    "example_zh": "沿途邮亭驿馆，供往来官差歇脚换马，成为古代交通的重要枢纽。",
-    "example_en": "The post stations and relay inns along the way provided rest and fresh horses for traveling officials, serving as vital hubs in ancient transportation.",
-    "category": "Lifestyle",
-    "similar": [
-      "驿站",
-      "驿站递铺",
-      "十里长亭"
-    ],
-    "opposite": [
-      "深居简出"
-    ],
-    "id": "you-ting-yi-guan"
-  },
-  {
     "chinese": "无与伦比",
     "pinyin": "wú yǔ lún bǐ",
     "literal": "nothing, with, equal, compare",
@@ -2612,5 +2363,65 @@
       "眼高手低"
     ],
     "id": "shu-neng-sheng-qiao"
+  },
+  {
+    "chinese": "引人注目",
+    "pinyin": "yǐn rén zhù mù",
+    "literal": "attract, people, fix, eyes",
+    "meaning": "To draw people's attention; to be eye-catching or conspicuous. It describes someone or something that stands out so much that observers cannot help but notice it. The phrase is commonly used for striking appearances, remarkable achievements, or unusual behavior in a crowd.",
+    "origin": "引人注目 is a modern Chinese expression rather than a classical chengyu tied to a specific anecdote, so it has no single originating dynasty or historical figure. Its components, however, are classical: 注目 (to fix one's eyes on) appears in early texts such as the Records of the Three Kingdoms (三国志, 3rd century) and later Tang and Song prose, while 引人 (to draw people) has been used since the Han period. The full four-character form 引人注目 came into regular written use during the late Qing and Republican era (late 19th–early 20th century), gaining wide currency in modern Chinese literature, newspapers, and everyday speech. Unlike ancient idioms rooted in a particular story, it is a descriptive compound whose 'origin' is simply the gradual fusion of two older phrases into one fixed expression.",
+    "example_zh": "她那一袭鲜红色的长裙在人群中格外引人注目。",
+    "example_en": "Her bright red dress stood out in the crowd and was especially eye-catching.",
+    "category": "Quality",
+    "similar": [
+      "惹人注目",
+      "备受瞩目",
+      "显眼夺目"
+    ],
+    "opposite": [
+      "默默无闻",
+      "不引人注目"
+    ],
+    "id": "yin-ren-zhu-mu"
+  },
+  {
+    "chinese": "莫名其妙",
+    "pinyin": "mò míng qí miào",
+    "literal": "no one, can name, its, wonder",
+    "meaning": "A phrase describing something so strange or inexplicable that no one can articulate why it is the way it is. It conveys a sense of bafflement, puzzlement, or being unable to make sense of a situation, remark, or behavior. In modern usage it often carries a mildly negative tone, implying the matter is absurd or unreasonable.",
+    "origin": "The phrase draws on classical Chinese where 莫 means 'no one,' 名 means 'to name or describe,' 其 means 'its,' and 妙 means 'subtlety or wonder.' The character 妙 has Daoist roots, appearing in the Daodejing's line '玄之又玄，众妙之门' (mysterious and yet more mysterious, the gateway to all subtleties). The full four-character form 莫名其妙 became established in Ming and Qing vernacular literature, appearing in works such as 文康's 《儿女英雄传》 and 吴敬梓's 《儒林外史》. Over time its sense shifted from the neutral 'unable to describe its subtlety' toward today's common meaning of 'baffling or incomprehensible.'",
+    "example_zh": "他突然大发脾气，把桌子上的杯子都摔了，让在场的人都感到莫名其妙。",
+    "example_en": "He suddenly flew into a rage and smashed all the cups on the table, leaving everyone present completely baffled.",
+    "category": "Clarity",
+    "similar": [
+      "莫可名状",
+      "不可名状",
+      "大惑不解"
+    ],
+    "opposite": [
+      "恍然大悟",
+      "一目了然"
+    ],
+    "id": "mo-ming-qi-miao"
+  },
+  {
+    "chinese": "一往无前",
+    "pinyin": "yī wǎng wú qián",
+    "literal": "once go forward, nothing ahead",
+    "meaning": "To press forward with indomitable will, advancing without anything that can stop or deter one. It describes a spirit of unstoppable momentum and fearless determination in the face of obstacles. The phrase conveys both courage and resolute forward motion toward a goal.",
+    "origin": "The idiom has roots in classical Chinese military writing, where it described troops advancing without hesitation or obstruction. It gained renewed prominence in the late Qing and early Republican era, frequently appearing in Sun Yat-sen's revolutionary writings to evoke the fearless spirit needed to overthrow the Qing dynasty. The phrase pairs '一往' (to go forward once and for all) with '无前' (nothing ahead to block the way), creating an image of unstoppable momentum. It later became a popular rallying cry during China's modern revolutionary and nation-building periods, embodying courage and unyielding resolve.",
+    "example_zh": "面对强敌，战士们一往无前，誓死保卫阵地。",
+    "example_en": "Facing a powerful enemy, the soldiers pressed forward with indomitable will, vowing to defend their position to the death.",
+    "category": "Determination",
+    "similar": [
+      "勇往直前",
+      "奋不顾身",
+      "所向披靡"
+    ],
+    "opposite": [
+      "畏首畏尾",
+      "知难而退"
+    ],
+    "id": "yi-wang-wu-qian"
   }
 ]

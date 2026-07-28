@@ -1147,3 +1147,24 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-07-28 12:00:04] === Catch-up push done ===
 [2026-07-28 20:00:00] === Catch-up push start (29 unpushed commits) ===
+[main 611f063] Auto-update: 2026-07-28 20:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 22 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   521b595..611f063  main -> main
+
+Push OK (attempt 1)
+[2026-07-28 20:00:04] === Catch-up push done ===
