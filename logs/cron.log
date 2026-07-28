@@ -1168,3 +1168,62 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 
 Push OK (attempt 1)
 [2026-07-28 20:00:04] === Catch-up push done ===
+[2026-07-29 03:15:01] === Daily cron start ===
+[2026-07-29 03:15:01] === Daily cron start ===
+[2026-07-29 03:15:01] Generating 10 new idioms...
+[2026-07-29 03:15:01] Generating 10 new idioms...
+Existing: 124 idioms
+Whitelist: 30895 standard chengyu loaded
+  Filtered out 4 non-standard candidates: ['色彩斑斓', '顺其自然', '四海之内', '邮亭驿馆']
+Candidates available after whitelist: 72
+Generating 10 new idioms...
+
+  -> 无价之宝 (wú jià zhī bǎo)
+    OK: literal='no, price, possessive, treasure...'
+  -> 不耻下问 (bù chǐ xià wèn)
+    OK: literal='not, ashamed, below, ask...'
+  -> 手不释卷 (shǒu bù shì juàn)
+    OK: literal='hand, not, release, scroll...'
+  -> 南辕北辙 (nán yuán běi zhé)
+    OK: literal='south carriage, north wheel-ruts...'
+  -> 艰苦奋斗 (jiān kǔ fèn dòu)
+    OK: literal='arduous, bitter, vigorous, struggle...'
+  -> 微不足道 (wēi bù zú dào)
+    OK: literal='tiny, not, sufficient, to speak of...'
+  -> 老马识途 (lǎo mǎ shí tú)
+    OK: literal='old, horse, knows, way...'
+  -> 锲而不舍 (qiè ér bù shě)
+    OK: literal='carve, and, not, stop...'
+  -> 杞人忧天 (qǐ rén yōu tiān)
+    OK: literal='Qi person, worry, sky...'
+  -> 杀鸡儆猴 (shā jī jǐng hóu)
+    OK: literal='kill, chicken, warn, monkey...'
+
+Added 10 idioms. Total: 134
+[2026-07-29 03:17:26] Generation OK
+[2026-07-29 03:17:26] Generation OK
+[2026-07-29 03:17:26] Regenerating site...
+[2026-07-29 03:17:26] Regenerating site...
+Loading data...
+  → 134 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 134 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 134 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-29 03:17:27] Site regenerated
+[2026-07-29 03:17:27] Site regenerated
+[2026-07-29 03:17:27] Pushing to GitHub...
+[2026-07-29 03:17:27] Pushing to GitHub...

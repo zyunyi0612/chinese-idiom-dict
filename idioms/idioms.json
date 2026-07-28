@@ -2423,5 +2423,204 @@
       "知难而退"
     ],
     "id": "yi-wang-wu-qian"
+  },
+  {
+    "chinese": "无价之宝",
+    "pinyin": "wú jià zhī bǎo",
+    "literal": "no, price, possessive, treasure",
+    "meaning": "A priceless treasure; something so precious that no amount of money can measure its worth. It is used to describe objects, relationships, or qualities of extraordinary and irreplaceable value.",
+    "origin": "The phrase is attested as early as the Jin dynasty in Ge Hong's (葛洪) Baopuzi (《抱朴子·外篇》), where he writes that true wisdom and virtue are 'priceless treasures' beyond any material valuation. A well-known associated story tells of a man during the Tang dynasty who presented a luminous pearl to the court, and when officials attempted to appraise it, none could assign a value — leading the emperor to declare it a wú jià zhī bǎo. Over centuries the idiom broadened from describing rare artifacts to extolling anything of incalculable worth.",
+    "example_zh": "这幅传世名画是无价之宝，任何金钱都无法衡量它的价值。",
+    "example_en": "This handed-down masterpiece is a priceless treasure; no amount of money can measure its worth.",
+    "category": "Quality",
+    "similar": [
+      "价值连城",
+      "奇珍异宝"
+    ],
+    "opposite": [
+      "一文不值",
+      "粪土不如"
+    ],
+    "id": "wu-jia-zhi-bao"
+  },
+  {
+    "chinese": "不耻下问",
+    "pinyin": "bù chǐ xià wèn",
+    "literal": "not, ashamed, below, ask",
+    "meaning": "Not feeling ashamed to ask questions of those who are younger or of lower status. It describes a person who is humble enough to seek knowledge from anyone, regardless of rank or age. The idiom praises intellectual humility and a sincere desire to learn.",
+    "origin": "This idiom comes from the \"Lunyu\" (Analects of Confucius), specifically Chapter 5, \"Gongye Chang.\" Confucius said of himself: \"I was not born with knowledge; I am only one who loves antiquity and is earnest in seeking it.\" Later in the same chapter, he states that he is not ashamed to ask questions of his inferiors, setting an example of how a true gentleman should pursue learning without regard to social hierarchy.",
+    "example_zh": "真正的学问家从不耻下问，哪怕对方只是个孩子，只要有所长，他都虚心请教。",
+    "example_en": "A true scholar is never ashamed to ask questions of those below him; even if the other person is only a child, as long as they have expertise, he humbly seeks their guidance.",
+    "category": "Learning",
+    "similar": [
+      "虚心求教",
+      "不矜不伐",
+      "求知若渴"
+    ],
+    "opposite": [
+      "好为人师",
+      "自以为是"
+    ],
+    "id": "bu-chi-xia-wen"
+  },
+  {
+    "chinese": "手不释卷",
+    "pinyin": "shǒu bù shì juàn",
+    "literal": "hand, not, release, scroll",
+    "meaning": "To be so fond of reading that one always has a book in hand and cannot bear to put it down. It describes someone who is an avid and diligent reader, constantly studying or reading.",
+    "origin": "This idiom originates from the story of Sun Quan, the founding emperor of Eastern Wu during the Three Kingdoms period. Sun Quan urged his general Lü Meng to read books of strategy and history. Lü Meng initially excused himself, citing military duties, but Sun Quan replied that he himself read constantly — '手不释卷' — despite his heavy responsibilities. Moved by this, Lü Meng devoted himself to study and became one of the most capable strategists of his era.",
+    "example_zh": "他从小酷爱读书，简直是手不释卷，连吃饭的时候都要看几页。",
+    "example_en": "He has loved reading since childhood and is truly never seen without a book — he even reads a few pages during meals.",
+    "category": "Learning",
+    "similar": [
+      "废寝忘食",
+      "爱不释手",
+      "学而不厌"
+    ],
+    "opposite": [
+      "不学无术",
+      "束之高阁"
+    ],
+    "id": "shou-bu-shi-juan"
+  },
+  {
+    "chinese": "南辕北辙",
+    "pinyin": "nán yuán běi zhé",
+    "literal": "south carriage, north wheel-ruts",
+    "meaning": "To act in a way that runs directly counter to one's intended goal. It describes a situation where someone takes actions that guarantee failure because they are fundamentally misdirected, no matter how much effort is invested.",
+    "origin": "The idiom comes from the Warring States period text \"Zhan Guo Ce\" (战国策). A man from Wei (魏) wanted to go south to Chu (楚), but his carriage headed north. When a traveler pointed this out, he boasted that his horses were fast, his driver was skilled, and he had plenty of money — none of which mattered because he was going the wrong way. The story illustrates that favorable conditions and resources are useless if one's direction is wrong.",
+    "example_zh": "你这样一边说要减肥一边每天吃炸鸡，完全是南辕北辙。",
+    "example_en": "Saying you want to lose weight while eating fried chicken every day is completely counterproductive.",
+    "category": "Logic",
+    "similar": [
+      "缘木求鱼",
+      "背道而驰",
+      "适得其反"
+    ],
+    "opposite": [
+      "殊途同归",
+      "对症下药"
+    ],
+    "id": "nan-yuan-bei-zhe"
+  },
+  {
+    "chinese": "艰苦奋斗",
+    "pinyin": "jiān kǔ fèn dòu",
+    "literal": "arduous, bitter, vigorous, struggle",
+    "meaning": "To work hard and endure severe difficulties in order to achieve a goal. It emphasizes persevering through hardship with determined effort rather than giving up or seeking comfort. The phrase is commonly used to praise resilience, diligence, and an unyielding spirit in the face of adversity.",
+    "origin": "The individual components of this phrase appear in classical texts from different periods. 艰苦 (arduous) occurs in works such as the Book of Documents (尚书), describing harsh conditions faced by early rulers. 奋斗 (strive, struggle) appears in later classical prose and historical writings to describe vigorous, determined effort. The modern four-character combination was popularized in the 20th century, notably used by Chinese leaders such as Mao Zedong to call for resilience and self-reliance during periods of national hardship, though its roots lie in the classical Chinese tradition of valuing endurance and industrious effort.",
+    "example_zh": "正是几代人的艰苦奋斗，才换来了今天的繁荣富强。",
+    "example_en": "It was exactly the arduous struggle of several generations that brought about today's prosperity and strength.",
+    "category": "Perseverance",
+    "similar": [
+      "艰苦卓绝",
+      "发愤图强",
+      "自强不息"
+    ],
+    "opposite": [
+      "好逸恶劳",
+      "贪图享乐"
+    ],
+    "id": "jian-ku-fen-dou"
+  },
+  {
+    "chinese": "微不足道",
+    "pinyin": "wēi bù zú dào",
+    "literal": "tiny, not, sufficient, to speak of",
+    "meaning": "Something so small or trivial that it is not worth mentioning. It describes matters of negligible importance or influence, emphasizing how insignificant they are in a given context.",
+    "origin": "The idiom draws from classical Chinese textual tradition rather than a single named anecdote. The character 微 means tiny or slight, and 不足道 means not worth speaking of. This phrasing appears in various forms across Ming and Qing dynasty literature to describe things beneath notice. It was solidified as a standard four-character idiom through widespread literary use during the Qing period.",
+    "example_zh": "这点小挫折与他所经历的苦难相比，简直是微不足道。",
+    "example_en": "Compared to the hardships he has endured, this small setback is utterly insignificant.",
+    "category": "Attitude",
+    "similar": [
+      "不足挂齿",
+      "沧海一粟",
+      "不值一提"
+    ],
+    "opposite": [
+      "举足轻重",
+      "至关重要"
+    ],
+    "id": "wei-bu-zu-dao"
+  },
+  {
+    "chinese": "老马识途",
+    "pinyin": "lǎo mǎ shí tú",
+    "literal": "old, horse, knows, way",
+    "meaning": "An experienced person is familiar with a situation and can guide others through it, drawing on accumulated knowledge. It emphasizes the value of experience and the wisdom that comes from having traveled a path before.",
+    "origin": "This idiom originates from the Spring and Autumn period (春秋时期). During a military campaign led by Qi Huan Gong (齐桓公) against the northern Shan Rong (山戎) tribe in 663 BC, the Qi army lost its way on the return march through mountainous terrain in winter. The prime minister Guan Zhong (管仲) suggested releasing old horses and letting them lead the way, since their experience would guide them home. The strategy worked, and the army followed the old horses safely back.",
+    "example_zh": "这项复杂的工程还是让老王来指导吧，毕竟老马识途，他经验丰富。",
+    "example_en": "Let Lao Wang guide this complex project—after all, an old horse knows the way, and he has plenty of experience.",
+    "category": "Wisdom",
+    "similar": [
+      "轻车熟路",
+      "谙熟门径",
+      "驾轻就熟"
+    ],
+    "opposite": [
+      "初出茅庐",
+      "盲人摸象"
+    ],
+    "id": "lao-ma-shi-tu"
+  },
+  {
+    "chinese": "锲而不舍",
+    "pinyin": "qiè ér bù shě",
+    "literal": "carve, and, not, stop",
+    "meaning": "To keep on carving without stopping. It describes someone who works with relentless perseverance and refuses to give up halfway, no matter how difficult the task.",
+    "origin": "This idiom originates from the 'Encouraging Learning' chapter (《劝学》) of the Warring States-period philosopher Xunzi (荀子, c. 310–235 BC). Xunzi wrote: '锲而舍之，朽木不折；锲而不舍，金石可镂' — if you carve and then give up, even rotten wood cannot be broken; but if you keep carving without stopping, even metal and stone can be engraved. The metaphor was used to argue that steady, unrelenting effort leads to mastery.",
+    "example_zh": "他锲而不舍地研究这门学问，终于取得了突破性的成果。",
+    "example_en": "He pursued his research with unwavering perseverance and finally achieved a breakthrough.",
+    "category": "Perseverance",
+    "similar": [
+      "持之以恒",
+      "坚持不懈",
+      "百折不挠"
+    ],
+    "opposite": [
+      "半途而废",
+      "浅尝辄止"
+    ],
+    "id": "qie-er-bu-she"
+  },
+  {
+    "chinese": "杞人忧天",
+    "pinyin": "qǐ rén yōu tiān",
+    "literal": "Qi person, worry, sky",
+    "meaning": "To worry unnecessarily about something that will never happen. It describes someone who wastes time and energy on baseless fears, often imagining catastrophic scenarios that have no real chance of occurring.",
+    "origin": "This idiom comes from the ancient Chinese philosophical text Liezi (列子), compiled during the Warring States period. The story tells of a man from the State of Qi who became terrified that the sky might collapse and the earth might cave in, leaving him with no place to stand. Despite reassurances from a friend who explained the nature of heaven and earth, the Qi man could not stop his anxiety, and another friend then worried that the worrier himself might die of distress — an infinite regress of needless concern.",
+    "example_zh": "担心小行星撞击地球只是杞人忧天，科学家说这种概率极低。",
+    "example_en": "Worrying about an asteroid hitting Earth is just unnecessary anxiety; scientists say the probability is extremely low.",
+    "category": "Attitude",
+    "similar": [
+      "庸人自扰",
+      "杞人之忧",
+      "草木皆兵"
+    ],
+    "opposite": [
+      "泰然处之",
+      "若无其事"
+    ],
+    "id": "qi-ren-you-tian"
+  },
+  {
+    "chinese": "杀鸡儆猴",
+    "pinyin": "shā jī jǐng hóu",
+    "literal": "kill, chicken, warn, monkey",
+    "meaning": "To punish one person as a warning to others. It is a strategy where a minor offender is made an example of to deter the rest from committing similar acts.",
+    "origin": "The idiom is associated with practices in the Qing dynasty, particularly attributed to the magistrate or military leaders who would execute a low-ranking wrongdoer in public to intimidate the rank and file. One popular origin story links it to the reign of the Xianfeng Emperor, where officials would order the beheading of a common soldier to instill fear and discipline in the entire regiment. The imagery draws from the observation that monkeys, being intelligent and cautious animals, will become docile after witnessing a chicken slaughtered before them.",
+    "example_zh": "老师当众批评了一个迟到的学生，不过是杀鸡儆猴，让其他人都知道迟到会有后果。",
+    "example_en": "The teacher publicly reprimanded one student for being late — it was really just to make an example of him so the others would know there are consequences for tardiness.",
+    "category": "Leadership",
+    "similar": [
+      "杀一儆百",
+      "惩一儆百",
+      "杀鸡吓猴"
+    ],
+    "opposite": [
+      "法外施恩",
+      "网开一面"
+    ],
+    "id": "sha-ji-jing-hou"
   }
 ]
