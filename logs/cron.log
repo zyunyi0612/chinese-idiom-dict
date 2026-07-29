@@ -1227,3 +1227,38 @@ To preview locally:
 [2026-07-29 03:17:27] Site regenerated
 [2026-07-29 03:17:27] Pushing to GitHub...
 [2026-07-29 03:17:27] Pushing to GitHub...
+[main 2c8b5b8] Auto-update: 2026-07-29 03:17 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 21 files changed, 3019 insertions(+), 22 deletions(-)
+ create mode 100644 docs/idiom/bu-chi-xia-wen.html
+ create mode 100644 docs/idiom/jian-ku-fen-dou.html
+ create mode 100644 docs/idiom/lao-ma-shi-tu.html
+ create mode 100644 docs/idiom/nan-yuan-bei-zhe.html
+ create mode 100644 docs/idiom/qi-ren-you-tian.html
+ create mode 100644 docs/idiom/qie-er-bu-she.html
+ create mode 100644 docs/idiom/sha-ji-jing-hou.html
+ create mode 100644 docs/idiom/shou-bu-shi-juan.html
+ create mode 100644 docs/idiom/wei-bu-zu-dao.html
+ create mode 100644 docs/idiom/wu-jia-zhi-bao.html
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   2d7a594..2c8b5b8  main -> main
+
+Push OK (attempt 1)
+[2026-07-29 03:17:31] Push OK
+[2026-07-29 03:17:31] Push OK
+[2026-07-29 03:17:31] === Daily cron done ===
+[2026-07-29 03:17:31] === Daily cron done ===
+[2026-07-29 12:00:00] === Catch-up push start (32 unpushed commits) ===
