@@ -2622,5 +2622,205 @@
       "网开一面"
     ],
     "id": "sha-ji-jing-hou"
+  },
+  {
+    "chinese": "实事求是",
+    "pinyin": "shí shì qiú shì",
+    "literal": "real, matter, seek, real",
+    "meaning": "To approach problems objectively and seek truth from concrete facts rather than from preconceived notions or dogma. It emphasizes practical investigation and honest analysis of actual conditions as the basis for conclusions and actions.",
+    "origin": "The phrase originates from the Book of Han (《汉书·河间献王传》), compiled by Ban Gu in the Eastern Han dynasty, which praises Liu De, Prince Xian of Hejian during the Western Han dynasty (reigned c. 155–129 BC), for his scholarly rigor: '从民得善书，必为好写与之，留其真。' — meaning he always kept the genuine texts and sought truth from authentic sources. The modern political popularization came through Mao Zedong's 1941 essay 'Reform in Learning, the Party and Literature,' which elevated it into a core ideological principle.",
+    "example_zh": "搞科研必须实事求是，任何弄虚作假的行为都会最终被揭穿。",
+    "example_en": "Scientific research must be grounded in truth from facts; any falsification will eventually be exposed.",
+    "category": "Method",
+    "similar": [
+      "脚踏实地",
+      "一丝不苟",
+      "言之有物"
+    ],
+    "opposite": [
+      "弄虚作假",
+      "华而不实"
+    ],
+    "id": "shi-shi-qiu-shi"
+  },
+  {
+    "chinese": "苦尽甘来",
+    "pinyin": "kǔ jìn gān lái",
+    "literal": "bitterness exhausted, sweetness arrives",
+    "meaning": "After enduring hardships, good times finally come. It describes the moment when suffering gives way to happiness or reward. The idiom expresses confidence that difficulties are temporary and will eventually be followed by better fortune.",
+    "origin": "This idiom derives from classical Buddhist and Confucian thought emphasizing the cycle of hardship and reward. It appears in various Song dynasty literary works and vernacular fiction, such as Yuanqu (元曲) dramas, where characters who endure suffering are ultimately rewarded. The phrasing reflects the ancient Chinese philosophical belief that yin and yang alternate — that bitterness and sweetness are natural phases of life's cycle.",
+    "example_zh": "经过三年的艰苦创业，公司终于扭亏为盈，真是苦尽甘来。",
+    "example_en": "After three grueling years of building the business from scratch, the company finally turned a profit — truly, sweetness followed bitterness.",
+    "category": "Recovery",
+    "similar": [
+      "否极泰来",
+      "雨过天晴",
+      "大器晚成"
+    ],
+    "opposite": [
+      "乐极生悲",
+      "好景不长"
+    ],
+    "id": "ku-jin-gan-lai"
+  },
+  {
+    "chinese": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "literal": "source distant, flow long",
+    "meaning": "It describes something with a long and distinguished history, tracing far back to its origins. Often used to refer to traditions, cultures, friendships, or institutions that have endured through time. The emphasis is on both the remoteness of the beginning and the continuous, unbroken development since then.",
+    "origin": "This idiom finds its classical roots in the writings of Mencius (孟子), the renowned philosopher of the Warring States period (4th century BCE). In the chapter 'Li Lou II' (离娄下), Mencius wrote that a spring whose source is far away will have a long and abundant flow (源泉混混，不舍昼夜，盈科而后进，放乎四海). Later scholars condensed this idea into the four-character phrase, using it to praise things of deep and enduring provenance. The idiom has been widely used in Chinese literary and historical writing ever since the Tang and Song dynasties.",
+    "example_zh": "中华文化源远流长，博大精深，是全人类共同的宝贵财富。",
+    "example_en": "Chinese culture, with its long and distinguished history and profound richness, is a precious shared treasure of all humanity.",
+    "category": "Wisdom",
+    "similar": [
+      "历史悠久",
+      "博大精深",
+      "世代相传"
+    ],
+    "opposite": [
+      "昙花一现",
+      "无源之水"
+    ],
+    "id": "yuan-yuan-liu-chang"
+  },
+  {
+    "chinese": "心心相印",
+    "pinyin": "xīn xīn xiāng yìn",
+    "literal": "heart, heart, mutually, seal",
+    "meaning": "Two people understand each other completely, as if their hearts were sealed together. It describes a deep, intuitive mutual understanding that requires no words — often between lovers, close friends, or mentor and student.",
+    "origin": "The phrase originates from Chan (Zen) Buddhist doctrine, where 心印 (xīnyìn, 'mind-seal') refers to the direct, wordless transmission of enlightenment from master to disciple, tracing back through a lineage of patriarchs all the way to the Buddha. The full form 心心相印 ('heart to heart, mutually sealed') appears in Buddhist texts such as the 景德传灯录 (Jingde Chuandeng Lu, compiled in the Song dynasty), which records Chan lineages and koans. Over time, the term transcended its religious context and entered everyday language to describe any profound, unspoken bond between people.",
+    "example_zh": "他们结婚三十年，依然心心相印，彼此一个眼神就能明白对方在想什么。",
+    "example_en": "After thirty years of marriage, they remain kindred spirits — a single glance is all it takes for each to know what the other is thinking.",
+    "category": "Communication",
+    "similar": [
+      "心有灵犀",
+      "情投意合",
+      "心领神会"
+    ],
+    "opposite": [
+      "同床异梦",
+      "貌合神离"
+    ],
+    "id": "xin-xin-xiang-yin"
+  },
+  {
+    "chinese": "鸡犬不宁",
+    "pinyin": "jī quǎn bù níng",
+    "literal": "chicken, dog, not, peaceful",
+    "meaning": "Describes a situation of great turmoil and disturbance where not even chickens and dogs can remain at peace. It paints a vivid picture of utter chaos that affects every living thing in the vicinity.",
+    "origin": "This idiom appears in Liu Zongyuan's famous Tang dynasty prose piece \"捕蛇者说\" (On the Snake Catcher), written circa 805–815 AD. Liu contrasts the deadly but rare danger of catching poisonous snakes with the far worse suffering inflicted by corrupt officials who extort taxes relentlessly. He writes that when the tax collectors come, even chickens and dogs cannot rest, yet catching venomous snakes is preferable to living under such oppressive governance.",
+    "example_zh": "自从那帮流氓搬来后，整条街鸡犬不宁，居民苦不堪言。",
+    "example_en": "Ever since that gang of thugs moved in, the whole street has been in an uproar, and the residents are miserable.",
+    "category": "Condition",
+    "similar": [
+      "鸡飞狗跳",
+      "天翻地覆",
+      "人心惶惶"
+    ],
+    "opposite": [
+      "国泰民安",
+      "风平浪静"
+    ],
+    "id": "ji-quan-bu-ning"
+  },
+  {
+    "chinese": "家喻户晓",
+    "pinyin": "jiā yù hù xiǎo",
+    "literal": "family, inform, household, know",
+    "meaning": "Known by every household; widely known and universally recognized. It describes something—often news, a name, or a concept—that has spread so thoroughly through a community or society that virtually everyone is aware of it.",
+    "origin": "This idiom comes from the Song dynasty. It was popularized by the Song scholar and official Liu Kezhuang (刘克庄) in his literary writings. The phrase uses 喻 (yù, to inform/make known) and 晓 (xiǎo, to understand/know) to convey that information has been communicated to every family and understood by every household, emphasizing the thoroughness of its dissemination.",
+    "example_zh": "孙悟空的故事在中国家喻户晓，几乎每个孩子都知道。",
+    "example_en": "The story of Sun Wukong is known to every household in China; almost every child knows it.",
+    "category": "Communication",
+    "similar": [
+      "妇孺皆知",
+      "无人不晓",
+      "路人皆知"
+    ],
+    "opposite": [
+      "默默无闻",
+      "鲜为人知"
+    ],
+    "id": "jia-yu-hu-xiao"
+  },
+  {
+    "chinese": "自强不息",
+    "pinyin": "zì qiáng bù xī",
+    "literal": "self, strengthen, not, cease",
+    "meaning": "To relentlessly strive to improve oneself without ever giving up. It describes an indomitable will and continuous self-improvement. The phrase conveys a spirit of perseverance and unyielding determination in the face of adversity.",
+    "origin": "This idiom originates from the I Ching (周易), one of China's oldest classical texts. The Qian Hexagram (乾卦) states: '天行健，君子以自强不息,' meaning 'As Heaven's movement is ever vigorous, so must a gentleman ceaselessly strive along.' The I Ching's core ideas took shape during the Western Zhou Dynasty (c. 1046–771 BC) and were later expanded with commentaries attributed to Confucius and his followers.",
+    "example_zh": "他在逆境中始终自强不息，最终取得了令人瞩目的成就。",
+    "example_en": "He constantly strove to improve himself through adversity and ultimately achieved remarkable success.",
+    "category": "Perseverance",
+    "similar": [
+      "百折不挠",
+      "坚持不懈",
+      "奋发图强"
+    ],
+    "opposite": [
+      "自暴自弃",
+      "半途而废"
+    ],
+    "id": "zi-qiang-bu-xi"
+  },
+  {
+    "chinese": "完璧归赵",
+    "pinyin": "wán bì guī zhào",
+    "literal": "intact, jade, return, Zhao",
+    "meaning": "To return something to its rightful owner in perfect condition. It describes restoring an item without any damage or loss, often implying success in protecting something entrusted to you.",
+    "origin": "During the Warring States period, the State of Zhao possessed the priceless Heshibi jade. The King of Qin demanded it in exchange for fifteen cities. Lin Xiangru, a Zhao envoy, took the jade to Qin but realized the king had no intention of honoring the deal. He cleverly threatened to smash the jade and kill himself, then secretly arranged for a subordinate to carry it back to Zhao intact, earning great honor for his state.",
+    "example_zh": "借你的书我已经看完了，现在完璧归赵，谢谢。",
+    "example_en": "I've finished reading the book I borrowed from you, so now I'm returning it in perfect condition. Thank you.",
+    "category": "Action",
+    "similar": [
+      "物归原主",
+      "原封不动",
+      "十全十美"
+    ],
+    "opposite": [
+      "有去无回",
+      "残缺不全"
+    ],
+    "id": "wan-bi-gui-zhao"
+  },
+  {
+    "chinese": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "literal": "with, day, together, increase",
+    "meaning": "To grow steadily with each passing day. It describes something—such as a feeling, influence, or problem—that increases continuously over time, becoming stronger or more pronounced as days go by.",
+    "origin": "The idiom traces back to classical Chinese prose rather than a single historical event. It appears in the works of Song dynasty literati, who used the phrase to describe ever-growing sentiments or phenomena. The structure parallels earlier Han dynasty expressions about things accumulating day by day. It has been a standard literary phrase in Chinese writing for over a thousand years, used by scholars and officials alike to convey the idea of relentless, daily growth.",
+    "example_zh": "随着环境污染的加剧，人们对环保意识的重视程度与日俱增。",
+    "example_en": "As environmental pollution worsens, people's awareness of environmental protection has been growing with each passing day.",
+    "category": "Condition",
+    "similar": [
+      "日益增长",
+      "日积月累",
+      "与年俱增"
+    ],
+    "opposite": [
+      "日新月异",
+      "日渐衰退"
+    ],
+    "id": "yu-ri-ju-zeng"
+  },
+  {
+    "chinese": "责无旁贷",
+    "pinyin": "zé wú páng dài",
+    "literal": "responsibility, no, side, shirk",
+    "meaning": "One's duty cannot be shifted to others; the responsibility rests squarely on oneself and must not be evaded. It conveys a strong sense of moral obligation and personal accountability.",
+    "origin": "The idiom evolved from classical Chinese prose, with 贷 (dài) meaning 'to excuse, to shift (blame or responsibility)' and 旁 (páng) meaning 'to the side' or 'to others.' It crystallized as a four-character expression in Ming and Qing dynasty literature, used by scholars and officials to declare that a given duty was theirs alone to bear and could not be passed on. While no single canonical text is universally cited as its sole source, the phrasing appears in numerous works from that period, reflecting Confucian ideals of accepting one's appointed role and its attendant obligations without deflection.",
+    "example_zh": "作为团队负责人，确保项目按时交付是我责无旁贷的事情。",
+    "example_en": "As the team leader, ensuring the project is delivered on time is a duty I cannot shirk.",
+    "category": "Determination",
+    "similar": [
+      "义不容辞",
+      "当仁不让",
+      "匹夫有责"
+    ],
+    "opposite": [
+      "推三阻四",
+      "袖手旁观"
+    ],
+    "id": "ze-wu-pang-dai"
   }
 ]

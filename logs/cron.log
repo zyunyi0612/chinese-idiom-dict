@@ -1284,3 +1284,83 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-07-29 12:00:03] === Catch-up push done ===
 [2026-07-29 20:00:00] === Catch-up push start (33 unpushed commits) ===
+[main 6ca4f73] Auto-update: 2026-07-29 20:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 22 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   8030921..6ca4f73  main -> main
+
+Push OK (attempt 1)
+[2026-07-29 20:00:06] === Catch-up push done ===
+[2026-07-30 03:15:00] === Daily cron start ===
+[2026-07-30 03:15:00] === Daily cron start ===
+[2026-07-30 03:15:00] Generating 10 new idioms...
+[2026-07-30 03:15:00] Generating 10 new idioms...
+Existing: 134 idioms
+Whitelist: 30895 standard chengyu loaded
+  Filtered out 4 non-standard candidates: ['色彩斑斓', '顺其自然', '四海之内', '邮亭驿馆']
+Candidates available after whitelist: 62
+Generating 10 new idioms...
+
+  -> 实事求是 (shí shì qiú shì)
+    OK: literal='real, matter, seek, real...'
+  -> 苦尽甘来 (kǔ jìn gān lái)
+    OK: literal='bitterness exhausted, sweetness arrives...'
+  -> 源远流长 (yuán yuǎn liú cháng)
+    OK: literal='source distant, flow long...'
+  -> 心心相印 (xīn xīn xiāng yìn)
+    OK: literal='heart, heart, mutually, seal...'
+  -> 鸡犬不宁 (jī quǎn bù níng)
+    OK: literal='chicken, dog, not, peaceful...'
+  -> 家喻户晓 (jiā yù hù xiǎo)
+    OK: literal='family, inform, household, know...'
+  -> 自强不息 (zì qiáng bù xī)
+    OK: literal='self, strengthen, not, cease...'
+  -> 完璧归赵 (wán bì guī zhào)
+    OK: literal='intact, jade, return, Zhao...'
+  -> 与日俱增 (yǔ rì jù zēng)
+    OK: literal='with, day, together, increase...'
+  -> 责无旁贷 (zé wú páng dài)
+    OK: literal='responsibility, no, side, shirk...'
+
+Added 10 idioms. Total: 144
+[2026-07-30 03:17:46] Generation OK
+[2026-07-30 03:17:46] Generation OK
+[2026-07-30 03:17:46] Regenerating site...
+[2026-07-30 03:17:46] Regenerating site...
+Loading data...
+  → 144 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 144 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 144 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-30 03:17:46] Site regenerated
+[2026-07-30 03:17:46] Site regenerated
+[2026-07-30 03:17:46] Pushing to GitHub...
+[2026-07-30 03:17:46] Pushing to GitHub...
