@@ -2822,5 +2822,204 @@
       "袖手旁观"
     ],
     "id": "ze-wu-pang-dai"
+  },
+  {
+    "chinese": "全心全意",
+    "pinyin": "quán xīn quán yì",
+    "literal": "whole, heart, whole, mind",
+    "meaning": "To do something with one's entire heart and complete devotion. It describes putting absolute sincerity and undivided focus into a task, relationship, or cause, leaving no room for half-heartedness or distraction.",
+    "origin": "The idiom does not have a single classical source text but draws on the long-standing Chinese philosophical tradition that values wholeheartedness (誠, chéng) as the highest virtue. The expression crystallized from passages in works like the Zhuangzi and the Book of Mencius, which emphasize that genuine commitment requires unifying one's heart and mind without reservation. The pairing of 心 (heart) and 意 (mind/intention) reflects the classical Chinese view that emotions and will should act in concert for true sincerity.",
+    "example_zh": "他全心全意地为人民服务，赢得了大家的尊敬。",
+    "example_en": "He serves the people wholeheartedly and has earned everyone's respect.",
+    "category": "Attitude",
+    "similar": [
+      "一心一意",
+      "全心全德",
+      "尽心尽力"
+    ],
+    "opposite": [
+      "三心二意",
+      "半心半意"
+    ],
+    "id": "quan-xin-quan-yi"
+  },
+  {
+    "chinese": "贼眉鼠眼",
+    "pinyin": "zéi méi shǔ yǎn",
+    "literal": "thief eyebrows, mouse eyes",
+    "meaning": "Describes a person who looks sly, shifty, and untrustworthy. It conveys the impression that someone has an air of sneakiness about them, as if constantly scheming or looking for an opportunity to take advantage. It is almost always used as a derogatory description of someone's outward appearance and perceived character.",
+    "origin": "This idiom does not have a single classical literary origin story tied to a specific dynasty or figure. It emerged from folk vernacular language in late imperial China, combining two animal-based metaphors: the 'thief's eyebrows' (贼眉), suggesting a calculating, dishonest expression, and 'mouse's eyes' (鼠眼), evoking small, darting, furtive glances. It first appeared in vernacular novels and colloquial writing of the Ming and Qing dynasties, notably in works like Dream of the Red Chamber (红楼梦), where such vivid physiognomic descriptions were used to signal a character's moral nature through their appearance.",
+    "example_zh": "那人贼眉鼠眼地在巷口东张西望，一看就不像什么好人。",
+    "example_en": "With shifty eyes, that man kept glancing around at the mouth of the alley — you could tell at a glance he was no good.",
+    "category": "Attitude",
+    "similar": [
+      "贼头贼脑",
+      "鬼鬼祟祟",
+      "獐头鼠目"
+    ],
+    "opposite": [
+      "光明正大",
+      "堂堂正正"
+    ],
+    "id": "zei-mei-shu-yan"
+  },
+  {
+    "chinese": "同甘共苦",
+    "pinyin": "tóng gān gòng kǔ",
+    "literal": "same sweet, share bitter",
+    "meaning": "To share both joys and hardships together. It describes a deep bond between people—such as comrades, couples, or teammates—who stand by each other through good times and bad, demonstrating mutual loyalty and solidarity.",
+    "origin": "The phrase has roots in classical Chinese literature and political thought, most notably appearing in works associated with the Warring States period. It embodies the Confucian ideal that a ruler should share the pleasures and sufferings of the people, a principle advocated by thinkers like Mencius (孟子). The sentiment also echoes the leadership philosophy recorded in texts such as the Zhanguo Ce (战国策), where commanders were urged to eat and endure the same conditions as their soldiers to win their devotion.",
+    "example_zh": "这对夫妻多年来同甘共苦，终于把小生意做成了大企业。",
+    "example_en": "Through years of sharing both joys and hardships, this couple finally turned their small business into a thriving enterprise.",
+    "category": "Attitude",
+    "similar": [
+      "患难与共",
+      "风雨同舟",
+      "休戚与共"
+    ],
+    "opposite": [
+      "落井下石",
+      "同床异梦"
+    ],
+    "id": "tong-gan-gong-ku"
+  },
+  {
+    "chinese": "不速之客",
+    "pinyin": "bù sù zhī kè",
+    "literal": "not, hurry/invite, possessive, guest",
+    "meaning": "An uninvited guest; someone who arrives without prior notice or invitation. It can refer to an unexpected visitor, either welcome or unwelcome, who shows up at one's doorstep or gathering.",
+    "origin": "This idiom traces back to the I Ching (易经, Book of Changes), one of the oldest Chinese classic texts dating to the Zhou dynasty (c. 1000–750 BC). In the hexagram Kūn (坤), the text states: '不速之客来，敬之终吉' — an uninvited guest arrives; treat them with respect and good fortune will follow. The character 速 originally meant 'hurry' or 'promptly', conveying that the guest came hastily, without being summoned or expected ahead of time.",
+    "example_zh": "正聊到兴头上，突然来了一位不速之客，大家都觉得有些尴尬。",
+    "example_en": "Just as the conversation was getting lively, an unexpected guest showed up unannounced, making everyone feel a bit awkward.",
+    "category": "Communication",
+    "similar": [
+      "不请自来",
+      "不速而来"
+    ],
+    "opposite": [
+      "座上宾",
+      "特邀嘉宾"
+    ],
+    "id": "bu-su-zhi-ke"
+  },
+  {
+    "chinese": "五谷丰登",
+    "pinyin": "wǔ gǔ fēng dēng",
+    "literal": "five, grains, abundant, climb (rise)",
+    "meaning": "An idiom describing a bumper harvest of all crops, symbolizing prosperity and favorable weather for agriculture. It is widely used to express wishes for a plentiful year, agricultural abundance, and overall national well-being.",
+    "origin": "The phrase appears in classical texts such as the \"Shangshu\" (Book of Documents), one of the Five Classics of Confucianism, which dates to the Zhou dynasty (1046–256 BCE). The concept of \"five grains\" (五谷) refers to the staple cereal crops of ancient China: rice, wheat, millet, glutinous millet, and hemp. The character 登 originally means \"to climb\" but came to signify grains reaching full maturity and being gathered. The idiom became a standard expression of agrarian ideal in subsequent dynasties, frequently invoked by emperors and officials when reporting good harvests to the throne.",
+    "example_zh": "今年风调雨顺，五谷丰登，农民们个个喜笑颜开。",
+    "example_en": "With favorable weather this year, all crops yielded abundantly, and every farmer wore a joyful smile.",
+    "category": "Success",
+    "similar": [
+      "硕果累累",
+      "风调雨顺",
+      "丰收在望"
+    ],
+    "opposite": [
+      "颗粒无收",
+      "十室九空"
+    ],
+    "id": "wu-gu-feng-deng"
+  },
+  {
+    "chinese": "风和日丽",
+    "pinyin": "fēng hé rì lì",
+    "literal": "wind gentle, sun beautiful",
+    "meaning": "A four-character idiom describing fine, pleasant weather with gentle breeze and bright sunshine. It is commonly used to set a cheerful, idyllic scene in writing or speech, and can also metaphorically describe a favorable situation or harmonious atmosphere.",
+    "origin": "The idiom emerged as a natural descriptive compound in classical Chinese literature, with early attestations found in Ming and Qing dynasty works such as Wu Jianren's 《二十年目睹之怪现状》 (1903–1905). Unlike many chengyu, it does not derive from a single historical anecdote or named figure; rather, it crystallised from the long-standing poetic pairing of 'wind' and 'sun' to depict ideal weather, a convention already well established in Tang and Song poetry.",
+    "example_zh": "今天风和日丽，正是郊游的好时候。",
+    "example_en": "The weather is beautiful today with a gentle breeze and bright sunshine — a perfect time for an outing.",
+    "category": "Condition",
+    "similar": [
+      "风平浪静",
+      "春暖花开",
+      "天朗气清"
+    ],
+    "opposite": [
+      "狂风暴雨",
+      "乌云密布"
+    ],
+    "id": "feng-he-ri-li"
+  },
+  {
+    "chinese": "世外桃源",
+    "pinyin": "shì wài táo yuán",
+    "literal": "world, outside, peach, source",
+    "meaning": "A metaphor for an idealized, secluded place far from the troubles of the real world. It describes a utopian haven where people live in peace and harmony, free from society's chaos and strife.",
+    "origin": "The idiom comes from Tao Yuanming's famous prose piece \"Peach Blossom Spring\" (桃花源记), written during the Eastern Jin dynasty (4th century CE). The story tells of a fisherman who stumbles upon a hidden valley bursting with peach blossoms, where descendants of people who fled the Qin dynasty's tyranny have lived in blissful isolation for generations, unaware of the dynastic changes above. When the fisherman leaves and tries to return, the valley can never be found again.",
+    "example_zh": "这座隐藏在深山中的小村庄，宛如世外桃源，远离了城市的喧嚣与纷扰。",
+    "example_en": "This small village hidden deep in the mountains is like a paradise beyond the worldly realm, far removed from the noise and turmoil of the city.",
+    "category": "Lifestyle",
+    "similar": [
+      "乌托邦",
+      "化外之地",
+      "人间仙境"
+    ],
+    "opposite": [
+      "水深火热",
+      "人间地狱"
+    ],
+    "id": "shi-wai-tao-yuan"
+  },
+  {
+    "chinese": "柳暗花明",
+    "pinyin": "liǔ àn huā míng",
+    "literal": "willow, dark, flower, bright",
+    "meaning": "Describes a situation where, after a period of difficulty or apparent dead-end, things suddenly take a turn for the better. It conveys hope that a new path or opportunity will reveal itself just when all seems lost. Often used to encourage perseverance through dark times.",
+    "origin": "This idiom originates from a famous poem by the Song Dynasty poet Lu You (陆游), titled 'A Visit to Shanxi Village' (游山西村). The full couplet reads: '山重水复疑无路，柳暗花明又一村,' meaning 'Amid layered mountains and winding streams I feared there was no road, yet through dark willows and bright flowers another village appeared.' The poem depicts a rural stroll in which the poet loses his way, only to stumble upon a hidden village — a metaphor for unexpected new hope.",
+    "example_zh": "经历了连续几个月的创业失败后，他终于在柳暗花明中找到了新的投资人。",
+    "example_en": "After months of startup failures, he finally found a new investor in an unexpected turn of fortune.",
+    "category": "Recovery",
+    "similar": [
+      "峰回路转",
+      "绝处逢生",
+      "豁然开朗"
+    ],
+    "opposite": [
+      "山穷水尽",
+      "走投无路"
+    ],
+    "id": "liu-an-hua-ming"
+  },
+  {
+    "chinese": "相得益彰",
+    "pinyin": "xiāng dé yì zhāng",
+    "literal": "each other, obtain, further, manifest",
+    "meaning": "Two or more things complement each other perfectly, bringing out the best in one another. When paired together, each element enhances the other's strengths, resulting in an effect greater than the sum of its parts.",
+    "origin": "This idiom originates from Han Yu's (韩愈) classical essay \"送杨寘序\" (Preface to Sending Off Yang Zhi) in the Tang Dynasty. The original phrase was \"相得而益彰,\" describing how different people or things, when combined, make each other's merits more prominent and vivid.",
+    "example_zh": "咖啡和巧克力的搭配真是相得益彰，苦与甜的味道完美融合。",
+    "example_en": "Coffee and chocolate complement each other perfectly, blending their bitter and sweet flavors seamlessly.",
+    "category": "Quality",
+    "similar": [
+      "珠联璧合",
+      "锦上添花",
+      "相辅相成"
+    ],
+    "opposite": [
+      "两败俱伤",
+      "势不两立"
+    ],
+    "id": "xiang-de-yi-zhang"
+  },
+  {
+    "chinese": "直截了当",
+    "pinyin": "zhí jié liǎo dàng",
+    "literal": "straight, cut, clear, proper",
+    "meaning": "Straightforward and direct, without beating around the bush. Describes speech or action that gets right to the point without evasion or ambiguity. It conveys clarity, frankness, and decisiveness in handling matters.",
+    "origin": "This idiom evolved from earlier colloquial usage in vernacular literature during the Ming and Qing dynasties. It appears in works such as the vernacular fiction of the period, where 直截 (straight cut) was combined with 了当 (clear and settled) to describe acting without hesitation or roundaboutness. The phrase reflects a folk linguistic tradition valuing candor and efficiency, contrasting with the elaborate indirectness often found in formal classical prose. It gained wide currency in late imperial vernacular writing and became a standard entry in modern idiom dictionaries.",
+    "example_zh": "有话直截了当地说，别拐弯抹角了。",
+    "example_en": "If you have something to say, say it straightforwardly — stop beating around the bush.",
+    "category": "Communication",
+    "similar": [
+      "开门见山",
+      "直言不讳",
+      "单刀直入"
+    ],
+    "opposite": [
+      "拐弯抹角",
+      "闪烁其辞"
+    ],
+    "id": "zhi-jie-liao-dang"
   }
 ]

@@ -1421,3 +1421,83 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-07-30 12:00:05] === Catch-up push done ===
 [2026-07-30 20:00:00] === Catch-up push start (36 unpushed commits) ===
+[main 4326d7f] Auto-update: 2026-07-30 20:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 22 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   799e111..4326d7f  main -> main
+
+Push OK (attempt 1)
+[2026-07-30 20:00:05] === Catch-up push done ===
+[2026-07-31 03:15:01] === Daily cron start ===
+[2026-07-31 03:15:01] === Daily cron start ===
+[2026-07-31 03:15:01] Generating 10 new idioms...
+[2026-07-31 03:15:01] Generating 10 new idioms...
+Existing: 144 idioms
+Whitelist: 30895 standard chengyu loaded
+  Filtered out 4 non-standard candidates: ['色彩斑斓', '顺其自然', '四海之内', '邮亭驿馆']
+Candidates available after whitelist: 52
+Generating 10 new idioms...
+
+  -> 全心全意 (quán xīn quán yì)
+    OK: literal='whole, heart, whole, mind...'
+  -> 贼眉鼠眼 (zéi méi shǔ yǎn)
+    OK: literal='thief eyebrows, mouse eyes...'
+  -> 同甘共苦 (tóng gān gòng kǔ)
+    OK: literal='same sweet, share bitter...'
+  -> 不速之客 (bù sù zhī kè)
+    OK: literal='not, hurry/invite, possessive, guest...'
+  -> 五谷丰登 (wǔ gǔ fēng dēng)
+    OK: literal='five, grains, abundant, climb (rise)...'
+  -> 风和日丽 (fēng hé rì lì)
+    OK: literal='wind gentle, sun beautiful...'
+  -> 世外桃源 (shì wài táo yuán)
+    OK: literal='world, outside, peach, source...'
+  -> 柳暗花明 (liǔ àn huā míng)
+    OK: literal='willow, dark, flower, bright...'
+  -> 相得益彰 (xiāng dé yì zhāng)
+    OK: literal='each other, obtain, further, manifest...'
+  -> 直截了当 (zhí jié liǎo dàng)
+    OK: literal='straight, cut, clear, proper...'
+
+Added 10 idioms. Total: 154
+[2026-07-31 03:16:45] Generation OK
+[2026-07-31 03:16:45] Generation OK
+[2026-07-31 03:16:45] Regenerating site...
+[2026-07-31 03:16:45] Regenerating site...
+Loading data...
+  → 154 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 154 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 154 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-07-31 03:16:45] Site regenerated
+[2026-07-31 03:16:45] Site regenerated
+[2026-07-31 03:16:45] Pushing to GitHub...
+[2026-07-31 03:16:45] Pushing to GitHub...
