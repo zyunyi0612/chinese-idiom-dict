@@ -3021,5 +3021,203 @@
       "闪烁其辞"
     ],
     "id": "zhi-jie-liao-dang"
+  },
+  {
+    "chinese": "悬梁刺股",
+    "pinyin": "xuán liáng cì gǔ",
+    "literal": "hang, beam, prick, thigh",
+    "meaning": "To study with desperate intensity and self-imposed hardship. It describes someone who endures physical pain or discomfort in order to stay awake and keep studying, reflecting extraordinary diligence and determination in the pursuit of knowledge.",
+    "origin": "This idiom combines two stories from ancient China. The first comes from the Eastern Han Dynasty: Sun Jing (孙敬) tied his hair to a roof beam so that if he nodded off while studying, the pull would wake him up. The second comes from the Warring States period: Su Qin (苏秦), a strategist who had failed to impress a king, returned home in disgrace and studied late into the night, pricking his own thigh with an awl whenever drowsiness overtook him. Both stories were recorded in later compilations and became canonical examples of relentless study.",
+    "example_zh": "为了考上理想的大学，他每天悬梁刺股地刻苦学习。",
+    "example_en": "To get into his dream university, he studied desperately hard every day, pushing himself to the absolute limit.",
+    "category": "Perseverance",
+    "similar": [
+      "凿壁偷光",
+      "囊萤映雪",
+      "废寝忘食"
+    ],
+    "opposite": [
+      "不学无术",
+      "玩物丧志"
+    ],
+    "id": "xuan-liang-ci-gu"
+  },
+  {
+    "chinese": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "literal": "raise one, return three",
+    "meaning": "To deduce many things from one case; to draw inferences about other cases from one fact. It describes a person who is quick at learning and can generalize or extrapolate from a single example to understand related matters.",
+    "origin": "This idiom originates from the Confucian classic \"The Analects\" (论语·述而), where Confucius said: 'I do not enlighten those who are not eager to learn, nor instruct those who are not anxious to express themselves. If I show one corner and they cannot return with the other three, I will not teach them again.' Confucius used this metaphor of a square (showing one corner and expecting the student to deduce the other three) to describe his teaching philosophy of inspiring students to think independently rather than spoon-feeding knowledge.",
+    "example_zh": "老师讲了这个例题的解法后，同学们都能举一反三，顺利做出了后面几道类似的题目。",
+    "example_en": "After the teacher explained the solution to the sample problem, the students were all able to draw inferences and smoothly solved the subsequent similar questions.",
+    "category": "Learning",
+    "similar": [
+      "触类旁通",
+      "闻一知十",
+      "融会贯通"
+    ],
+    "opposite": [
+      "囫囵吞枣",
+      "按部就班"
+    ],
+    "id": "ju-yi-fan-san"
+  },
+  {
+    "chinese": "花容月貌",
+    "pinyin": "huā róng yuè mào",
+    "literal": "flower, appearance, moon, appearance",
+    "meaning": "An idiom praising a woman's extraordinary beauty, comparing her face to a blooming flower and her looks to the radiant moon. It is one of the most classical and commonly used four-character descriptions of feminine beauty in Chinese literature.",
+    "origin": "The phrase has deep classical roots and appears in various forms across Tang and Song dynasty literature. One notable early usage is found in the Yuan dynasty drama '西厢记' (The Romance of the Western Chamber) by Wang Shifu, where it is used to describe the heroine Cui Yingying's beauty. The imagery of pairing flowers and the moon as the pinnacle of natural beauty dates back even further to '楚辞' (Songs of Chu) and Tang poetry conventions, making it a longstanding literary trope rather than the invention of a single author.",
+    "example_zh": "她花容月貌，才情出众，是远近闻名的才女。",
+    "example_en": "With her flower-like beauty and moonlit elegance, coupled with her outstanding talent, she is a renowned scholar-beauty far and wide.",
+    "category": "Quality",
+    "similar": [
+      "沉鱼落雁",
+      "闭月羞花",
+      "国色天香"
+    ],
+    "opposite": [
+      "其貌不扬",
+      "面目可憎"
+    ],
+    "id": "hua-rong-yue-mao"
+  },
+  {
+    "chinese": "一举成名",
+    "pinyin": "yī jǔ chéng míng",
+    "literal": "one, act, achieve, fame",
+    "meaning": "To achieve fame and recognition through a single successful action or accomplishment. It describes someone who becomes widely known after one notable achievement, often implying that a single bold or brilliant effort is enough to establish one's reputation.",
+    "origin": "This idiom is rooted in the Tang Dynasty (唐朝) imperial examination system (科举制度), where scholars who passed the palace examination (殿试) in one attempt would instantly gain honor, official rank, and widespread renown. Success in the exams was a transformative event — a scholar from humble origins could become a celebrated public figure overnight. The motif of 一举成名 appears throughout Tang and Song dynasty poetry and prose, most famously in the works of poets like 孟郊 (Meng Jiao), who celebrated his own examination success with the lines 春风得意马蹄疾，一日看尽长安花. Over centuries, the phrase evolved from a literal description of examination success into a broader metaphor for achieving sudden fame through a single effort.",
+    "example_zh": "莫言凭借《红高粱家族》一举成名，后来更获得了诺贝尔文学奖。",
+    "example_en": "Mo Yan achieved fame overnight with Red Sorghum, and later went on to win the Nobel Prize in Literature.",
+    "category": "Success",
+    "similar": [
+      "一鸣惊人",
+      "飞黄腾达",
+      "名噪一时"
+    ],
+    "opposite": [
+      "默默无闻",
+      "碌碌无为"
+    ],
+    "id": "yi-ju-cheng-ming"
+  },
+  {
+    "chinese": "人面兽心",
+    "pinyin": "rén miàn shòu xīn",
+    "literal": "human face, beast heart",
+    "meaning": "Describes a person who appears human on the outside but possesses a cruel, savage, or immoral nature on the inside. It is used to condemn someone whose outward appearance of civility masks a vicious or heartless character.",
+    "origin": "The phrase appears in multiple classical texts. One early source is the *Book of Han* (*Hanshu*), where it is used to describe figures who look like people but act like beasts. The concept is also found in the *Zuo Zhuan* and later works such as the *Taiping Guangji*, reflecting an ancient belief that true humanity is defined by moral character, not physical form. A famous variation appears in the Tang dynasty tale of the Fox Spirit, reinforcing the idea that evil nature can lurk behind a human facade.",
+    "example_zh": "那个伪君子人面兽心，表面上道貌岸然，背地里却干尽了丧尽天良的勾当。",
+    "example_en": "That hypocrite has a human face but a beastly heart — outwardly respectable, yet behind the scenes he has committed all manner of unspeakable atrocities.",
+    "category": "Morality",
+    "similar": [
+      "衣冠禽兽",
+      "道貌岸然",
+      "口蜜腹剑"
+    ],
+    "opposite": [
+      "心口如一",
+      "表里如一"
+    ],
+    "id": "ren-mian-shou-xin"
+  },
+  {
+    "chinese": "赏心悦目",
+    "pinyin": "shǎng xīn yuè mù",
+    "literal": "reward heart, please eye",
+    "meaning": "Describes something — typically scenery, art, or music — that is deeply satisfying both emotionally and visually. It conveys a sense of aesthetic delight where the inner spirit and outward senses are simultaneously pleased.",
+    "origin": "The phrase crystallized from two Classical Chinese literary sources. The first half, '赏心' (reward the heart), appears in the Southern Dynasties poet Xie Lingyun's 'Chibi' series: '赏心从此交' (the heart's delight springs from this encounter). The second half, '悦目' (please the eye), is found in Song dynasty poet Lin Bu's verse praising natural scenery. The combined four-character expression became popular in Ming and Qing literature as a standard way to praise beautiful landscapes and refined art.",
+    "example_zh": "春天漫步在西湖边，柳绿花红，真是令人赏心悦目。",
+    "example_en": "Strolling along West Lake in spring, with green willows and red flowers — it is truly a feast for both the eyes and the soul.",
+    "category": "Emotion",
+    "similar": [
+      "心旷神怡",
+      "目不暇接",
+      "美不胜收"
+    ],
+    "opposite": [
+      "触目惊心",
+      "惨不忍睹"
+    ],
+    "id": "shang-xin-yue-mu"
+  },
+  {
+    "chinese": "无可厚非",
+    "pinyin": "wú kě hòu fēi",
+    "literal": "nothing can be heavily criticized",
+    "meaning": "An idiom meaning that someone's actions or opinions, though perhaps not ideal, are understandable and should not be harshly blamed. It conveys a sense of tolerance and fairness, acknowledging that the fault is minor or excusable given the circumstances.",
+    "origin": "The phrase derives from the Han Dynasty work \"Han Shu\" (Book of Han), specifically the biography of Wang Mang. The scholar Yang Xiong used the expression to argue that Wang Mang's conduct, while flawed, did not deserve severe condemnation. The term \"厚\" means \"heavy\" or \"severe,\" and \"非\" means \"blame\" or \"criticism,\" together conveying that one need not apply heavy blame to what is only a minor shortcoming.",
+    "example_zh": "他年纪轻轻就承担了这么重的责任，偶尔犯些小错误也是无可厚非的。",
+    "example_en": "He took on such heavy responsibilities at such a young age; making a few small mistakes now and then is understandable and not worth criticizing.",
+    "category": "Attitude",
+    "similar": [
+      "无可非议",
+      "情有可原"
+    ],
+    "opposite": [
+      "无可救药",
+      "不可饶恕"
+    ],
+    "id": "wu-ke-hou-fei"
+  },
+  {
+    "chinese": "一丝不挂",
+    "pinyin": "yī sī bù guà",
+    "literal": "one, thread, not, hang",
+    "meaning": "Literally 'not a single thread on one's body,' this idiom is most commonly used to describe someone who is completely naked, without any clothing. Originally a Buddhist term, it referred to a state free from all worldly attachments and desires, symbolizing spiritual purity and detachment.",
+    "origin": "The phrase originates from Buddhist scripture, specifically found in translations of Mahayana texts such as the Vimalakirti Sutra and various commentaries. In its original Buddhist context, it described a practitioner who had severed all ties to worldly affairs — not even a single thread of attachment remained. The metaphor of having 'not a thread' expressed complete spiritual liberation, where clinging to material things was entirely absent. Over time, the literal interpretation — having no cloth on the body — became the dominant colloquial usage.",
+    "example_zh": "那个小孩在河里游泳时一丝不挂，把岸上的游客都逗笑了。",
+    "example_en": "The little boy was swimming stark naked in the river, amusing all the tourists on the bank.",
+    "category": "Condition",
+    "similar": [
+      "赤身裸体",
+      "赤条条"
+    ],
+    "opposite": [
+      "衣冠楚楚",
+      "盛装打扮"
+    ],
+    "id": "yi-si-bu-gua"
+  },
+  {
+    "chinese": "志同道合",
+    "pinyin": "zhì tóng dào hé",
+    "literal": "will, same, path, together",
+    "meaning": "Describes people who share the same ambitions, ideals, and goals in life. It is commonly used to express a deep sense of mutual understanding and alignment of purpose between friends, colleagues, or comrades.",
+    "origin": "The idiom appears in the Sanguozhi (三国志·魏志·陈思王植传), a memorial submitted by Cao Zhi (曹植) to the Wei court during the Three Kingdoms period. In it, Cao Zhi cites the legendary ministers Yi Yin, Gao Yao, Ji, and Xie as paragons who shared one will and one way, and whose unity helped establish great dynastic achievements. The phrase thus carries the weight of classical political philosophy, linking personal harmony to collective success.",
+    "example_zh": "我们虽然来自不同的地方，但因为志同道合，很快就成了好朋友。",
+    "example_en": "Although we come from different places, we quickly became close friends because we share the same ambitions and ideals.",
+    "category": "Attitude",
+    "similar": [
+      "情投意合",
+      "同心协力",
+      "殊途同归"
+    ],
+    "opposite": [
+      "分道扬镳",
+      "同床异梦"
+    ],
+    "id": "zhi-tong-dao-he"
+  },
+  {
+    "chinese": "难能可贵",
+    "pinyin": "nán néng kě guì",
+    "literal": "difficult, capable, can, precious",
+    "meaning": "Describes something that is both hard to achieve and therefore highly praiseworthy. It is used to commend a person's exceptional qualities, rare abilities, or commendable deeds that most people would find very difficult to accomplish.",
+    "origin": "This idiom originates from the writings of Su Shi (苏轼), the renowned Song Dynasty poet and statesman. In his collected works, Su Shi expressed the idea that what is difficult to accomplish is all the more worthy of praise and treasure. The phrase was later crystallized into the four-character idiom by later scholars who drew upon Su Shi's sentiment that rarity enhances value — a notion deeply rooted in Confucian thought that moral excellence achieved against difficulty is the highest virtue.",
+    "example_zh": "在如此艰难的环境下，他依然坚持每天学习英语，这种精神真是难能可贵。",
+    "example_en": "Continuing to study English every single day under such difficult circumstances is truly admirable and rare.",
+    "category": "Quality",
+    "similar": [
+      "来之不易",
+      "不可多得",
+      "凤毛麟角"
+    ],
+    "opposite": [
+      "不足为奇",
+      "司空见惯"
+    ],
+    "id": "nan-neng-ke-gui"
   }
 ]

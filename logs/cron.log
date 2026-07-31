@@ -1557,3 +1557,62 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 
 Push OK (attempt 1)
 [2026-07-31 12:00:04] === Catch-up push done ===
+[2026-08-01 03:15:00] === Daily cron start ===
+[2026-08-01 03:15:00] === Daily cron start ===
+[2026-08-01 03:15:00] Generating 10 new idioms...
+[2026-08-01 03:15:00] Generating 10 new idioms...
+Existing: 154 idioms
+Whitelist: 30895 standard chengyu loaded
+  Filtered out 4 non-standard candidates: ['色彩斑斓', '顺其自然', '四海之内', '邮亭驿馆']
+Candidates available after whitelist: 42
+Generating 10 new idioms...
+
+  -> 悬梁刺股 (xuán liáng cì gǔ)
+    OK: literal='hang, beam, prick, thigh...'
+  -> 举一反三 (jǔ yī fǎn sān)
+    OK: literal='raise one, return three...'
+  -> 花容月貌 (huā róng yuè mào)
+    OK: literal='flower, appearance, moon, appearance...'
+  -> 一举成名 (yī jǔ chéng míng)
+    OK: literal='one, act, achieve, fame...'
+  -> 人面兽心 (rén miàn shòu xīn)
+    OK: literal='human face, beast heart...'
+  -> 赏心悦目 (shǎng xīn yuè mù)
+    OK: literal='reward heart, please eye...'
+  -> 无可厚非 (wú kě hòu fēi)
+    OK: literal='nothing can be heavily criticized...'
+  -> 一丝不挂 (yī sī bù guà)
+    OK: literal='one, thread, not, hang...'
+  -> 志同道合 (zhì tóng dào hé)
+    OK: literal='will, same, path, together...'
+  -> 难能可贵 (nán néng kě guì)
+    OK: literal='difficult, capable, can, precious...'
+
+Added 10 idioms. Total: 164
+[2026-08-01 03:17:09] Generation OK
+[2026-08-01 03:17:09] Generation OK
+[2026-08-01 03:17:09] Regenerating site...
+[2026-08-01 03:17:09] Regenerating site...
+Loading data...
+  → 164 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 164 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 164 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-01 03:17:09] Site regenerated
+[2026-08-01 03:17:09] Site regenerated
+[2026-08-01 03:17:09] Pushing to GitHub...
+[2026-08-01 03:17:09] Pushing to GitHub...
