@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zyunyi0612.github.io/chinese-idiom-dict/sitemap-index.xml
-Sitemap: https://zyunyi0612.github.io/chinese-idiom-dict/sitemap.xml
+Sitemap: https://chinese-idioms.top/sitemap-index.xml
+Sitemap: https://chinese-idioms.top/sitemap.xml

@@ -13,7 +13,7 @@ BASE_DIR = Path(__file__).parent.parent
 TEMPLATE_DIR = BASE_DIR / "templates"
 DATA_DIR = BASE_DIR / "idioms"
 OUTPUT_DIR = BASE_DIR / "docs"
-DOMAIN = "https://zyunyi0612.github.io/chinese-idiom-dict"
+DOMAIN = "https://chinese-idioms.top"
 
 
 def load_json(path):
@@ -209,6 +209,9 @@ def main():
         f"Sitemap: {DOMAIN}/sitemap.xml\n"
     )
     (OUTPUT_DIR / "robots.txt").write_text(robots_content, encoding="utf-8")
+
+    # Ensure CNAME for GitHub Pages custom domain
+    (OUTPUT_DIR / "CNAME").write_text("chinese-idioms.top\n", encoding="utf-8")
 
     print()
     print("=" * 50)
