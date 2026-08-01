@@ -1708,3 +1708,62 @@ hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Commits are retained locally; next cron run will retry automatically.
+[2026-08-02 03:15:00] === Daily cron start ===
+[2026-08-02 03:15:00] === Daily cron start ===
+[2026-08-02 03:15:00] Generating 10 new idioms...
+[2026-08-02 03:15:00] Generating 10 new idioms...
+Existing: 164 idioms
+Whitelist: 30895 standard chengyu loaded
+  Filtered out 4 non-standard candidates: ['色彩斑斓', '顺其自然', '四海之内', '邮亭驿馆']
+Candidates available after whitelist: 32
+Generating 10 new idioms...
+
+  -> 潜移默化 (qián yí mò huà)
+    OK: literal='dark, shift, silent, change...'
+  -> 精益求精 (jīng yì qiú jīng)
+    OK: literal='already fine, still seek to be finer...'
+  -> 洋洋洒洒 (yáng yáng sǎ sǎ)
+    OK: literal='vast, vast, scattered, scattered...'
+  -> 语重心长 (yǔ zhòng xīn cháng)
+    OK: literal='words heavy, heart long...'
+  -> 皆大欢喜 (jiē dà huān xǐ)
+    OK: literal='all, big, happy, happy...'
+  -> 金枝玉叶 (jīn zhī yù yè)
+    OK: literal='golden branch, jade leaf...'
+  -> 万紫千红 (wàn zǐ qiān hóng)
+    OK: literal='ten thousand purple, one thousand red...'
+  -> 鸦雀无声 (yā què wú shēng)
+    OK: literal='crow, sparrow, no, sound...'
+  -> 有恃无恐 (yǒu shì wú kǒng)
+    OK: literal='have, rely on, not, fear...'
+  -> 细水长流 (xì shuǐ cháng liú)
+    OK: literal='fine water, long flow...'
+
+Added 10 idioms. Total: 174
+[2026-08-02 03:20:48] Generation OK
+[2026-08-02 03:20:48] Generation OK
+[2026-08-02 03:20:48] Regenerating site...
+[2026-08-02 03:20:48] Regenerating site...
+Loading data...
+  → 174 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 174 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 174 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-02 03:20:48] Site regenerated
+[2026-08-02 03:20:48] Site regenerated
+[2026-08-02 03:20:48] Pushing to GitHub...
+[2026-08-02 03:20:48] Pushing to GitHub...

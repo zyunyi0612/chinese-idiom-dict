@@ -3219,5 +3219,205 @@
       "司空见惯"
     ],
     "id": "nan-neng-ke-gui"
+  },
+  {
+    "chinese": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "literal": "dark, shift, silent, change",
+    "meaning": "To exert a subtle, imperceptible influence on someone or something over time. It describes how attitudes, habits, or beliefs can be gradually shaped without the person being consciously aware of the change.",
+    "origin": "The idiom originates from the writings of the Northern Song dynasty scholar Liu Xiang (刘向), who recorded it in Shuoyuan (说苑·君道): '人之性，无所谓善与不善，唯随师之所移、潜移默化。' It was further popularized by the Qing dynasty scholar Gong Zizhen (龚自珍). The phrase emphasizes that character is not fixed at birth but is gradually moulded by one's environment, teachers, and surroundings, much as running water silently carves stone.",
+    "example_zh": "父母的言传身教对孩子的性格有着潜移默化的影响。",
+    "example_en": "Parents' words and deeds have a subtle, imperceptible influence on their child's character.",
+    "category": "Learning",
+    "similar": [
+      "耳濡目染",
+      "润物无声",
+      "近朱者赤"
+    ],
+    "opposite": [
+      "如梦初醒",
+      "恍然大悟"
+    ],
+    "id": "qian-yi-mo-hua"
+  },
+  {
+    "chinese": "精益求精",
+    "pinyin": "jīng yì qiú jīng",
+    "literal": "already fine, still seek to be finer",
+    "meaning": "To constantly strive for perfection and never be satisfied with the current level of quality. It describes an attitude of relentless self-improvement and dedication to excellence in one's craft or work.",
+    "origin": "The concept originates from the《诗经·卫风·淇奥》line \"如切如磋，如琢如磨\" (like cutting and filing, like carving and polishing), which Confucius cited in《论语·学而》to illustrate how a person should refine their character through study and reflection. The four-character idiom itself crystallized in later classical commentaries, particularly through Song-dynasty Neo-Confucian scholars such as Zhu Xi, who used it to describe the pursuit of ever-greater moral and intellectual refinement.",
+    "example_zh": "他在雕刻技艺上精益求精，每一件作品都要反复打磨数月才肯展出。",
+    "example_en": "He constantly refines his sculpting technique, polishing every piece for months before he is willing to exhibit it.",
+    "category": "Determination",
+    "similar": [
+      "百尺竿头",
+      "锦上添花",
+      "止于至善"
+    ],
+    "opposite": [
+      "粗制滥造",
+      "敷衍了事"
+    ],
+    "id": "jing-yi-qiu-jing"
+  },
+  {
+    "chinese": "洋洋洒洒",
+    "pinyin": "yáng yáng sǎ sǎ",
+    "literal": "vast, vast, scattered, scattered",
+    "meaning": "Describes writing or speech that is copious, flowing, and expansive. It conveys a sense of abundance and fluency — the words pour forth generously and effortlessly. The tone is largely positive, praising the richness and unbroken flow of expression, though in some contexts it can carry a mild implication of being lengthy or verbose.",
+    "origin": "The idiom combines two classical reduplicative words. 洋洋 traces to the Shijing (Book of Odes), where it describes the vast, surging flow of the Yellow River in the ode \"Shuo Ren\" of the Wei section: \"河水洋洋, 北流活活.\" 洒洒 appears in later prose to convey a scattered, unrestrained, and free-flowing quality, often applied to literary style. The four-character compound 洋洋洒潇 emerged in Ming and Qing dynasty literary criticism to describe prose that is voluminous yet fluent, like a broad river running unhindered.",
+    "example_zh": "他洋洋洒洒地写了一篇万言长文，论证严密，气势磅礴，令人叹服。",
+    "example_en": "He wrote a ten-thousand-word essay in a copious and flowing style, with rigorous argumentation and grand momentum that left readers in awe.",
+    "category": "Communication",
+    "similar": [
+      "行云流水",
+      "下笔成章",
+      "滔滔不绝"
+    ],
+    "opposite": [
+      "言简意赅",
+      "词不达意"
+    ],
+    "id": "yang-yang-sa-sa"
+  },
+  {
+    "chinese": "语重心长",
+    "pinyin": "yǔ zhòng xīn cháng",
+    "literal": "words heavy, heart long",
+    "meaning": "Describes speech that is deeply sincere and earnestly well-intentioned. The speaker's words carry significant weight and reflect profound, heartfelt concern for the listener's well-being. It conveys both the gravity of what is said and the depth of feeling behind it.",
+    "origin": "This idiom does not trace to a single classical text but evolved from traditional Chinese literary expressions praising sincere discourse. It appears in various forms in late Qing and early Republican-era writings, where it was used to describe elders or mentors offering earnest advice. The components echo classical sentiments found in works like the Analects, where Confucius emphasized that truly meaningful words must come from genuine inner conviction and moral weight.",
+    "example_zh": "老师语重心长地劝导我们要珍惜时间，努力学习。",
+    "example_en": "The teacher earnestly and sincerely advised us to cherish our time and study hard.",
+    "category": "Communication",
+    "similar": [
+      "苦口婆心",
+      "肺腑之言",
+      "金玉良言"
+    ],
+    "opposite": [
+      "虚情假意",
+      "口是心非"
+    ],
+    "id": "yu-zhong-xin-chang"
+  },
+  {
+    "chinese": "皆大欢喜",
+    "pinyin": "jiē dà huān xǐ",
+    "literal": "all, big, happy, happy",
+    "meaning": "An idiom describing a situation in which everyone involved is fully satisfied and delighted. It conveys a harmonious outcome where all parties benefit and no one is left displeased. Commonly used to wrap up negotiations, settlements, or events with a universally positive resolution.",
+    "origin": "This idiom originates from the classical Chinese Buddhist text 《妙法莲华经》 (the Lotus Sutra), translated into Chinese by the Western Jin dynasty monk Dharmarakṣa (竺法护). In the sutra, it appears in the phrase '皆大欢喜，信受奉行' to describe the joyous reaction of the assembly upon hearing the Buddha's preaching. Over centuries, it evolved from a Buddhist context into general everyday usage to denote any situation where everyone walks away happy.",
+    "example_zh": "经过多轮谈判，双方终于达成协议，皆大欢喜。",
+    "example_en": "After several rounds of negotiation, the two sides finally reached an agreement, and everyone was delighted.",
+    "category": "Emotion",
+    "similar": [
+      "皆大欢喜",
+      "欢天喜地",
+      "皆大欢喜",
+      "满载而归"
+    ],
+    "opposite": [
+      "两败俱伤",
+      "不欢而散"
+    ],
+    "id": "jie-da-huan-xi"
+  },
+  {
+    "chinese": "金枝玉叶",
+    "pinyin": "jīn zhī yù yè",
+    "literal": "golden branch, jade leaf",
+    "meaning": "This idiom metaphorically refers to people of noble or royal birth, especially princesses and other members of the imperial family. It conveys the idea of someone who is precious, exalted, and delicately nurtured by virtue of their aristocratic lineage.",
+    "origin": "The phrase traces back to ancient Chinese poetic imagery equating the imperial bloodline with the most precious materials — gold and jade. While its exact earliest textual source is debated, the concept became firmly established in Tang dynasty court poetry, where \"金枝\" and \"玉叶\" were used as stock metaphors for royal descendants. The compound \"金枝玉叶\" appeared in Song dynasty literature and later vernacular fiction to describe princesses or noblewomen. One commonly cited association is with the Tang dynasty poet Wang Jian (王建), whose \"宫词\" (Palace Poems) frequently employed such imagery to depict the lavishness and fragility of imperial life.",
+    "example_zh": "她出身皇室，真可谓是金枝玉叶，自幼便受到最好的教养。",
+    "example_en": "Born into the royal family, she is truly of noble lineage, having received the finest upbringing since childhood.",
+    "category": "Status",
+    "similar": [
+      "龙子龙孙",
+      "名门望族",
+      "将门虎子"
+    ],
+    "opposite": [
+      "寒门子弟",
+      "平民百姓"
+    ],
+    "id": "jin-zhi-yu-ye"
+  },
+  {
+    "chinese": "万紫千红",
+    "pinyin": "wàn zǐ qiān hóng",
+    "literal": "ten thousand purple, one thousand red",
+    "meaning": "Describes a rich profusion of colors, especially the vibrant bloom of spring flowers. By extension, it refers to great variety, diversity, and prosperity in any domain — literature, culture, ideas, or society.",
+    "origin": "From the Song dynasty poet Zhu Xi (朱熹) in his famous poem 'Spring Day' (春日): '等闲识得东风面，万紫千红总是春' (One easily recognizes the face of the east wind — ten thousand purples and a thousand reds are all signs of spring). Zhu Xi used the brilliant colors of spring blossoms to praise the flourishing of learning and wisdom.",
+    "example_zh": "春天的公园里万紫千红，百花争艳，美不胜收。",
+    "example_en": "In spring the park is ablaze with every hue — a profusion of blossoms competing in beauty, too lovely to take in all at once.",
+    "category": "Variety",
+    "similar": [
+      "百花齐放",
+      "五彩缤纷",
+      "姹紫嫣红"
+    ],
+    "opposite": [
+      "黯淡无光",
+      "枯燥乏味"
+    ],
+    "id": "wan-zi-qian-hong"
+  },
+  {
+    "chinese": "鸦雀无声",
+    "pinyin": "yā què wú shēng",
+    "literal": "crow, sparrow, no, sound",
+    "meaning": "Complete and utter silence, where not even the smallest noise can be heard. It describes a scene so quiet that even birds like crows and sparrows make no sound, often implying deep stillness or a hushed, attentive atmosphere.",
+    "origin": "This idiom traces its literary roots to Song dynasty texts and was popularized in Ming and Qing dynasty vernacular novels such as 《水浒传》 and Cao Xueqin's 《红楼梦》. The imagery draws on the idea that when surroundings are completely still, even the most naturally noisy birds — crows and sparrows — fall silent. It has been used across centuries to dramatize moments of profound quiet, whether from fear, reverence, anticipation, or solemnity.",
+    "example_zh": "教室里鸦雀无声，所有学生都在认真地做着考卷。",
+    "example_en": "The classroom was dead silent; every student was concentrating carefully on their exam paper.",
+    "category": "Condition",
+    "similar": [
+      "万籁俱寂",
+      "悄然无声"
+    ],
+    "opposite": [
+      "人声鼎沸",
+      "沸沸扬扬"
+    ],
+    "id": "ya-que-wu-sheng"
+  },
+  {
+    "chinese": "有恃无恐",
+    "pinyin": "yǒu shì wú kǒng",
+    "literal": "have, rely on, not, fear",
+    "meaning": "Feeling completely secure and fearless because one has backing, support, or resources to fall back on. It describes a person who acts boldly or recklessly, knowing that powerful protection shields them from consequences.",
+    "origin": "From the Zuo Zhuan (Commentary of Zuo), Twenty-Sixth Year of Duke Xi (634 BCE). When Duke Xiao of Qi invaded the small state of Lu, Zhan Xi — brother of the renowned sage Liu Xia Hui — went to negotiate. Though Lu was utterly destitute, with \"houses empty as hanging stone chimes and fields bare of green grass,\" Zhan Xi reminded Duke Xiao of the long-standing friendship between their states. Moved by this appeal, Duke Xiao withdrew his army. The original passage reads \"何恃而不恐\" (what do you rely on that you are not afraid?), which was later inverted into the idiom 有恃无恐.",
+    "example_zh": "他仗着后台老板撑腰，对监管部门的调查有恃无恐，最终却难逃法网。",
+    "example_en": "Relying on his backer's protection, he acted as though the regulators' investigation was nothing to fear — but in the end, he could not escape the law.",
+    "category": "Attitude",
+    "similar": [
+      "仗势欺人",
+      "肆无忌惮",
+      "有备无患"
+    ],
+    "opposite": [
+      "胆战心惊",
+      "惊慌失措"
+    ],
+    "id": "you-shi-wu-kong"
+  },
+  {
+    "chinese": "细水长流",
+    "pinyin": "xì shuǐ cháng liú",
+    "literal": "fine water, long flow",
+    "meaning": "A steady, sustainable trickle can endure indefinitely — this idiom advises pacing oneself and acting consistently over time rather than in rushed, unsustainable bursts. It is commonly used to describe wise financial management (spending a little at a time so savings last) or any long-term effort sustained by patience and moderation.",
+    "origin": "Unlike many chengyu derived from specific classical texts, 细水长流 is a folk proverb that grew from the universal observation that a thin but steady stream can flow far longer than a violent torrent. The metaphor appears in vernacular literature and colloquial wisdom across many dynasties, but it does not trace to a single named source, dynasty, or historical figure. Its enduring popularity stems from its simple, vivid imagery of water management — a daily concern in agrarian China — applied metaphorically to financial prudence and persistent effort.",
+    "example_zh": "理财要细水长流，每天存一点，日积月累就是一笔可观的积蓄。",
+    "example_en": "When managing your finances, steady and small savings day by day add up to a considerable sum over time.",
+    "category": "Perseverance",
+    "similar": [
+      "持之以恒",
+      "滴水穿石",
+      "稳扎稳打"
+    ],
+    "opposite": [
+      "一曝十寒",
+      "挥霍无度"
+    ],
+    "id": "xi-shui-chang-liu"
   }
 ]
