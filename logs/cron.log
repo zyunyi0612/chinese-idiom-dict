@@ -1651,3 +1651,60 @@ Push OK (attempt 1)
 [2026-08-01 03:17:15] === Daily cron done ===
 [2026-08-01 03:17:15] === Daily cron done ===
 [2026-08-01 12:00:00] === Catch-up push start (1 unpushed commits) ===
+[main b777071] Auto-update: 2026-08-01 12:00 - regenerate idioms
+ Committer: 张云一 <zhangyunyi@zhangyunyideMac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 36 insertions(+), 1 deletion(-)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/zyunyi0612/chinese-idiom-dict.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Attempt 1 failed, waiting 20s before retry...
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/zyunyi0612/chinese-idiom-dict.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Attempt 2 failed, waiting 20s before retry...
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/zyunyi0612/chinese-idiom-dict.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Attempt 3 failed, waiting 20s before retry...
+Push FAILED after 3 attempts. Last error:
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/zyunyi0612/chinese-idiom-dict.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Commits are retained locally; next cron run will retry automatically.
