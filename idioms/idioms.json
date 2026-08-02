@@ -3419,5 +3419,105 @@
       "挥霍无度"
     ],
     "id": "xi-shui-chang-liu"
+  },
+  {
+    "chinese": "辉光日新",
+    "pinyin": "huī guāng rì xīn",
+    "literal": "radiant, light, day, new",
+    "meaning": "It describes someone who continuously improves and renews themselves day by day in morality, learning, or the arts. The idiom conveys steady daily progress and lifelong self-cultivation, with one's brilliance growing ever brighter over time.",
+    "origin": "This phrase originates from the 'Da Xu' (Great Accumulation) hexagram of the Zhou Yi (Book of Changes), one of China's oldest classics compiled during the Zhou Dynasty. The full passage '刚健笃实，辉光日新' (firm, vigorous, and sincere, one's brilliance renews itself daily) describes a person of steadfast integrity whose virtue grows brighter with each passing day. Over the centuries it became an idiom expressing continuous moral and intellectual self-improvement.",
+    "example_zh": "他在治学上不断精进，可谓辉光日新，令人敬佩。",
+    "example_en": "He keeps making progress in his scholarship, renewing his brilliance day by day in a way that earns admiration.",
+    "category": "Learning",
+    "similar": [
+      "日新月异",
+      "蒸蒸日上",
+      "与日俱进"
+    ],
+    "opposite": [
+      "停滞不前",
+      "故步自封"
+    ],
+    "id": "hui-guang-ri-xin"
+  },
+  {
+    "chinese": "蓬生麻中",
+    "pinyin": "péng shēng má zhōng",
+    "literal": "mugwort, grows, hemp, among",
+    "meaning": "This idiom describes mugwort growing among tall hemp plants and being kept straight without support. It is a metaphor for how a good environment shapes a person's character, helping even the ordinary become upright. It stresses the powerful influence of one's surroundings on moral development.",
+    "origin": "The phrase originates from the pre-Qin text 'Xunzi: Encouraging Learning' (荀子·劝学) by the philosopher Xun Kuang. The full passage states that mugwort growing among hemp needs no staking to grow straight, while white sand placed in black dye becomes black along with it. Xunzi used this imagery to argue that environment profoundly shapes human conduct, a core idea in his philosophy of education and self-cultivation. The idiom has since been widely quoted in classical Chinese literature, including Yan Zhitui's 'Family Instructions of the Yan Clan' (颜氏家训) from the Northern Qi dynasty.",
+    "example_zh": "蓬生麻中，好的环境确实能影响一个人的品行。",
+    "example_en": "As mugwort grows straight among hemp, a good environment can indeed shape one's character.",
+    "category": "Morality",
+    "similar": [
+      "近朱者赤",
+      "潜移默化",
+      "孟母三迁"
+    ],
+    "opposite": [
+      "近墨者黑",
+      "出淤泥而不染"
+    ],
+    "id": "peng-sheng-ma-zhong"
+  },
+  {
+    "chinese": "淹会贯通",
+    "pinyin": "yān huì guàn tōng",
+    "literal": "soak, assemble, thread through, connect",
+    "meaning": "A variant of 融会贯通, meaning to thoroughly integrate and synthesize knowledge from various fields into a comprehensive understanding. It describes the process of fusing disparate ideas together so that one grasps them deeply and sees the connections between them. The term emphasizes achieving mastery through systematic synthesis.",
+    "origin": "The phrase originates from the preface to the Shiyao Leichao (史要类钞), a historical compendium written during the Ming dynasty by the scholar Gao Qi (高启). In the preface, Gao Qi lamented that earlier historical works often failed to present underlying principles completely or record actual events in detail, leaving readers unable to integrate and synthesize the material. He argued that without such thorough integration, one could not properly distinguish similarities and differences or evaluate gains and losses. The idiom thus carries the scholarly ideal of fusing all strands of learning into a unified, penetrating understanding.",
+    "example_zh": "读书须博览群书，方能淹会贯通，明其大义。",
+    "example_en": "One must read widely in order to thoroughly synthesize all knowledge and grasp the essential meaning.",
+    "category": "Knowledge",
+    "similar": [
+      "融会贯通",
+      "豁然贯通",
+      "贯通融会"
+    ],
+    "opposite": [
+      "一知半解",
+      "支离破碎"
+    ],
+    "id": "yan-hui-guan-tong"
+  },
+  {
+    "chinese": "力不能支",
+    "pinyin": "lì bù néng zhī",
+    "literal": "strength, cannot, support",
+    "meaning": "One's strength is insufficient to sustain or hold up a situation. It describes being physically or metaphorically overwhelmed, unable to endure further pressure or maintain one's position.",
+    "origin": "The phrase traces to the Sui dynasty scholar Wang Tong, also known as Wenzhongzi, in his work 'Wenzhongzi,' chapter 'Shi Jun.' He wrote that 'when a great mansion is about to collapse, a single pillar cannot hold it up,' using the metaphor of a collapsing building to illustrate that overwhelming crises exceed the capacity of any lone effort. Over time, '力不能支' crystallized from this imagery into a fixed idiom denoting powerlessness to sustain or endure.",
+    "example_zh": "敌军攻势猛烈，守城将士渐渐力不能支。",
+    "example_en": "The enemy assault was fierce, and the defenders gradually reached the end of their strength.",
+    "category": "Condition",
+    "similar": [
+      "力不从心",
+      "独木难支",
+      "力不胜任"
+    ],
+    "opposite": [
+      "游刃有余",
+      "力挽狂澜"
+    ],
+    "id": "li-bu-neng-zhi"
+  },
+  {
+    "chinese": "高文典策",
+    "pinyin": "gāo wén diǎn cè",
+    "literal": "high, text, statute, policy",
+    "meaning": "This idiom refers to the important documents and edicts of the imperial court in feudal China. It describes grandly written official decrees and state papers of great literary and political weight. It is equivalent to the variant '高文典册'.",
+    "origin": "The phrase originates from the Song dynasty scholar-official Wang Anshi's work '翰林学士除三司使制' (Edict Appointing a Hanlin Academician as Commissioner of the State Finance Commission). In this edict, Wang Anshi praised the appointee's broad discourse and elevated proposals as sufficient to govern the royal house, and their lofty writings and authoritative policies as sufficient to sway the contemporary age. The term thus came to denote the elevated, authoritative prose of imperial governance.",
+    "example_zh": "翰林学士的草诏多属高文典策，足见朝廷用人之慎重。",
+    "example_en": "The edicts drafted by the Hanlin academicians are mostly lofty state documents, reflecting the court's prudence in appointing officials.",
+    "category": "Communication",
+    "similar": [
+      "高文典册",
+      "大手笔",
+      "金科玉律"
+    ],
+    "opposite": [
+      "陈词滥调",
+      "市井之言"
+    ],
+    "id": "gao-wen-dian-ce"
   }
 ]
