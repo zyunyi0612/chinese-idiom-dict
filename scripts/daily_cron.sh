@@ -22,10 +22,10 @@ log "=== Daily cron start ==="
 # 1. Generate new idioms (default 10, or $1 for testing)
 COUNT="${1:-10}"
 log "Generating $COUNT new idioms..."
-if $PYTHON "$PROJECT/scripts/gen_idioms.py" "$COUNT" >> "$LOG" 2>&1; then
+if $PYTHON "$PROJECT/scripts/gen_idioms_v2.py" "$COUNT" >> "$LOG" 2>&1; then
     log "Generation OK"
 else
-    log "Generation FAILED — continuing with existing data"
+    log "Generation FAILED - continuing with existing data"
 fi
 
 # 2. Regenerate the static site

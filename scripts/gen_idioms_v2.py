@@ -158,6 +158,7 @@ def main():
 
     new_entries = []
     failed = []
+    save_interval = 5  # Save to disk every N successful entries
     for i, item in enumerate(selected, 1):
         chinese = item["word"]
         pinyin = item.get("pinyin", "")
@@ -168,7 +169,11 @@ def main():
         entry = gen_idiom(chinese, pinyin, explanation, derivation, example)
         if entry:
             new_entries.append(entry)
-            print(f"    OK: literal='{entry.get('literal','')[:50]}...'")
+            # Incremental save: append to file immediately
+            combined = existing_data + new_entries
+            with open(IDIOMS_FILE, "w", encoding="utf-8") as f:
+                json.dump(combined, f, ensure_ascii=False, indent=2)
+            print(f"    OK (saved, total now: {len(combined)}): literal='{entry.get('literal','')[:50]}...'")
         else:
             failed.append(chinese)
             print(f"    FAIL")
