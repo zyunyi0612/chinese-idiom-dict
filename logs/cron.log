@@ -1823,3 +1823,61 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 
 Push OK (attempt 1)
 [2026-08-02 12:00:04] === Catch-up push done ===
+[2026-08-03 03:15:00] === Daily cron start ===
+[2026-08-03 03:15:00] === Daily cron start ===
+[2026-08-03 03:15:00] Generating 10 new idioms...
+[2026-08-03 03:15:00] Generating 10 new idioms...
+Existing: 1626 idioms
+Whitelist: 30895 total
+Candidates available: 27876 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 秋水伊人 (qiū shuǐ yī rén)
+    OK (saved, total now: 1627): literal='autumn, water, that, person...'
+[2/10] -> 有文无行 (yǒu wén wú xíng)
+    OK (saved, total now: 1628): literal='have, literary talent, without, moral conduct...'
+[3/10] -> 传为美谈 (chuán wéi měi tán)
+    OK (saved, total now: 1629): literal='spread, become, beautiful, talk...'
+[4/10] -> 眷红偎翠 (juàn hóng wēi cuì)
+    OK (saved, total now: 1630): literal='cherish red, nestle against green...'
+[5/10] -> 解纷排难 (jiě fēn pái nán)
+    OK (saved, total now: 1631): literal='resolve, dispute, remove, difficulty...'
+[6/10] -> 字里行间 (zì lǐ háng jiān)
+    OK (saved, total now: 1632): literal='character, within, line, between...'
+[7/10] -> 文武兼备 (wén wǔ jiān bèi)
+    OK (saved, total now: 1633): literal='civil, martial, both, possess...'
+[8/10] -> 暴殄天物 (bào tiǎn tiān wù)
+    OK (saved, total now: 1634): literal='violently damage, extinguish, heaven, things...'
+[9/10] -> 冬扇夏炉 (dōng shàn xià lú)
+    OK (saved, total now: 1635): literal='winter, fan, summer, stove...'
+[10/10] -> 孤苦伶仃 (gū kǔ líng dīng)
+    OK (saved, total now: 1636): literal='orphaned, suffering, solitary, alone...'
+
+Added 10 idioms. Total: 1636
+[2026-08-03 03:18:35] Generation OK
+[2026-08-03 03:18:35] Generation OK
+[2026-08-03 03:18:35] Regenerating site...
+[2026-08-03 03:18:35] Regenerating site...
+Loading data...
+  → 1636 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 1636 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 1636 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-03 03:18:37] Site regenerated
+[2026-08-03 03:18:37] Site regenerated
+[2026-08-03 03:18:37] Pushing to GitHub...
+[2026-08-03 03:18:37] Pushing to GitHub...

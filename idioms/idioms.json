@@ -32198,5 +32198,265 @@
       "各有千秋"
     ],
     "id": "xiang-xing-shi-se"
+  },
+  {
+    "chinese": "失魂丧胆",
+    "pinyin": "shī hún sàng dǎn",
+    "literal": "lose, soul, lose, courage",
+    "meaning": "Describes a state of extreme panic and terror. It depicts someone so thoroughly frightened that they seem to have lost both their spirit and their courage. The phrase conveys a profound, overwhelming level of fear that completely destabilizes a person.",
+    "origin": "This idiom appears in Ba Jin's modern essay \"Living Among Heroes\" (《生活在英雄们的中间》). In the passage, Ba Jin vividly describes the imposing figure, broad shoulders, and heroic spirit of a soldier, noting how his awe-inspiring presence caused a group of British Royal Army soldiers—separated from their main force—to be utterly terrified. The phrase fuses two earlier concepts: losing one's soul (失魂) and losing one's gall (丧胆), combining them into a single intensified expression of dread.",
+    "example_zh": "敌军被游击队的突袭吓得失魂丧胆，纷纷丢下武器四散逃窜。",
+    "example_en": "The enemy troops were so terrified by the guerrillas' surprise attack that they lost all courage, dropping their weapons and fleeing in all directions.",
+    "category": "Emotion",
+    "similar": [
+      "魂飞魄散",
+      "胆战心惊",
+      "惊慌失措"
+    ],
+    "opposite": [
+      "镇定自若",
+      "无所畏惧"
+    ],
+    "id": "shi-hun-sang-dan"
+  },
+  {
+    "chinese": "夭桃穠李",
+    "pinyin": "yāo táo nóng lǐ",
+    "literal": "tender, peach, lush, plum",
+    "meaning": "A metaphor for youthful beauty, originally describing the vibrant blossoms of peach and plum trees. It is most commonly used as a congratulatory phrase for weddings, praising the beauty of a young bride and groom.",
+    "origin": "The phrase traces back to the Classic of Poetry (诗经), China's oldest collection of verse from the Zhou dynasty. Two separate poems inspired it: '桃夭' describes peach blossoms in full glory ('桃之夭夭，灼灼其华'), while '何彼秾矣' praises flowers as resplendent as peach and plum ('何彼秾矣，华如桃李'). Later generations fused these images into the idiom '夭桃秾李' to symbolize youthful beauty and marital blessings.",
+    "example_zh": "婚礼上，宾客们纷纷称赞新人夭桃穠李，天作之合。",
+    "example_en": "At the wedding, guests praised the newlyweds as a radiant match made in heaven.",
+    "category": "Quality",
+    "similar": [
+      "夭桃秾李",
+      "花容月貌",
+      "郎才女貌"
+    ],
+    "opposite": [
+      "明日黄花",
+      "徐娘半老"
+    ],
+    "id": "yao-tao-nong-li"
+  },
+  {
+    "chinese": "无恶不作",
+    "pinyin": "wú è bù zuò",
+    "literal": "no, evil, not, do",
+    "meaning": "To commit every conceivable evil; to stop at no wickedness. It describes someone who has done all manner of bad deeds without exception.",
+    "origin": "The phrase originates from a letter by the Qing dynasty scholar Zheng Xie (郑燮), commonly known as Zheng Banqiao, written to his younger brother while serving as an official in Fan County. In the letter, Zheng denounced the Southern Song dynasty's policies since the Shaoxing era, accusing its rulers of pursuing peace talks, increasing tributes, accepting humiliating titles, and executing great generals—doing every evil and stooping to every baseness. The expression thus originally critiqued political cowardice and corruption, but later broadened to describe any person who commits all kinds of atrocities.",
+    "example_zh": "这伙土匪烧杀抢掠，无恶不作，百姓恨之入骨。",
+    "example_en": "This band of bandits burned, killed, looted, and committed every conceivable atrocity; the common people hated them to the bone.",
+    "category": "Morality",
+    "similar": [
+      "作恶多端",
+      "罪恶滔天",
+      "为非作歹"
+    ],
+    "opposite": [
+      "乐善好施",
+      "行善积德"
+    ],
+    "id": "wu-e-bu-zuo"
+  },
+  {
+    "chinese": "秋水伊人",
+    "pinyin": "qiū shuǐ yī rén",
+    "literal": "autumn, water, that, person",
+    "meaning": "Refers to the person one deeply misses and yearns for, often with a sense of wistful longing and unattainable distance. The imagery of clear autumn waters evokes both the beauty of the beloved and the depth of the longing gaze.",
+    "origin": "The idiom comes from the poem 'Jianjia' (The Reeds and Rushes) in the 'Airs of Qin' section of the Book of Poetry (Shijing), the oldest collection of Chinese poetry dating to the Zhou dynasty. The poem describes a seeker wandering along a misty riverbank in autumn, searching for the beloved one who always seems to be just beyond reach on the opposite shore. The line 'The so-called one I yearn for is somewhere on the other side of the water' captures the essence of longing and elusive beauty. Over centuries, 'autumn waters' became a poetic metaphor for limpid, longing eyes, and 'that person' became synonymous with the one held dear in memory and desire.",
+    "example_zh": "秋水伊人远在异乡，他日夜思念。",
+    "example_en": "The one he longs for is far away in a distant land, and he misses her day and night.",
+    "category": "Emotion",
+    "similar": [
+      "望穿秋水",
+      "朝思暮想",
+      "魂牵梦萦"
+    ],
+    "opposite": [
+      "形同陌路",
+      "漠不关心"
+    ],
+    "id": "qiu-shui-yi-ren"
+  },
+  {
+    "chinese": "有文无行",
+    "pinyin": "yǒu wén wú xíng",
+    "literal": "have, literary talent, without, moral conduct",
+    "meaning": "Describes a person who possesses literary talent or scholarly ability but lacks moral character and integrity. Such a person may write well but behaves dishonorably, bringing disgrace upon themselves despite their gifts.",
+    "origin": "This idiom first appears in Ji Yun's 'Notes of the Thatched Abode of Close Observations' (阅微草堂笔记) during the Qing dynasty, in the section 'Thus I Have Heard, Part One.' Ji Yun observed that some literary figures have talent but no moral conduct, and over time their disgraceful deeds and foul reputation cause others to disdain even mentioning their names. The idiom was later echoed by Qian Daxin in his Qing-dynasty work 'Notes from the Studio of Ten Rides for Learning,' where he criticized the Han-dynasty thinker Wang Chong as a prime example of having literary talent without proper conduct.",
+    "example_zh": "此人有文无行，纵使才华横溢，也不足为敬。",
+    "example_en": "This person has literary talent without moral conduct; even if his brilliance overflows, he is not worthy of respect.",
+    "category": "Morality",
+    "similar": [
+      "有才无德",
+      "文人无行",
+      "才高行薄"
+    ],
+    "opposite": [
+      "德才兼备",
+      "文行兼优"
+    ],
+    "id": "you-wen-wu-xing"
+  },
+  {
+    "chinese": "传为美谈",
+    "pinyin": "chuán wéi měi tán",
+    "literal": "spread, become, beautiful, talk",
+    "meaning": "To be passed down and become a widely admired and cherished story. It refers to a praiseworthy deed or event that people delight in recounting, turning it into a celebrated anecdote that endures through time.",
+    "origin": "The idiom traces back to the 'Gongyang Commentary on the Spring and Autumn Annals' (《公羊传》), under the second year of Duke Min of Lu (闵公二年). The text records that the people of the state of Lu, even long afterward, still regarded a certain matter as a beautiful tale worth telling. This phrase evolved into '传为美谈,' used to describe events so admirable that they spread far and wide as cherished stories. It captures the idea that genuine virtue naturally earns lasting praise and becomes part of collective memory.",
+    "example_zh": "他拾金不昧的事迹在当地传为美谈。",
+    "example_en": "His deed of returning lost money became a much-told and admired story in the local area.",
+    "category": "Communication",
+    "similar": [
+      "脍炙人口",
+      "口碑载道",
+      "有口皆碑"
+    ],
+    "opposite": [
+      "遗臭万年",
+      "臭名昭著"
+    ],
+    "id": "chuan-wei-mei-tan"
+  },
+  {
+    "chinese": "眷红偎翠",
+    "pinyin": "juàn hóng wēi cuì",
+    "literal": "cherish red, nestle against green",
+    "meaning": "This idiom describes a deep attachment to and fondness for spring scenery, particularly the vibrant red blossoms and lush green foliage. It conveys a sense of lingering appreciation for nature's beauty during springtime.",
+    "origin": "The idiom originates from the Song dynasty poet Liu Yong's ci poem 'Nei Jia Jiao' (《内家娇》). Liu Yong, a renowned lyricist of the Northern Song dynasty, depicted people enjoying spring outings — stepping on the grass and competing in games — with everyone cherishing the red flowers and nestling against the green foliage. The phrase captures the collective joy of springtime appreciation in classical Chinese literary culture.",
+    "example_zh": "春日游园，游人眷红偎翠，流连忘返。",
+    "example_en": "In the spring garden, visitors cherish the blossoms and nestle among the greenery, lingering long and reluctant to leave.",
+    "category": "Emotion",
+    "similar": [
+      "流连忘返",
+      "恋恋不舍",
+      "赏心悦目"
+    ],
+    "opposite": [
+      "无动于衷",
+      "视若无睹"
+    ],
+    "id": "juan-hong-wei-cui"
+  },
+  {
+    "chinese": "解纷排难",
+    "pinyin": "jiě fēn pái nán",
+    "literal": "resolve, dispute, remove, difficulty",
+    "meaning": "To mediate disputes and eliminate difficulties or dangers for others. It describes someone who steps in to settle conflicts and help people out of predicaments, often acting as a peacemaker or problem-solver.",
+    "origin": "This idiom has no single attested classical source. It is a compound formed from two common classical expressions: '解纷' (resolving entanglements) and '排难' (removing difficulties). The reversed form '排难解纷' appears in similar contexts throughout Chinese literature, both referring to the act of intervening to settle disputes and rescue others from trouble. The idiom likely coalesced during the Ming or Qing dynasty as a set phrase in vernacular usage.",
+    "example_zh": "他为人正直，常替邻里解纷排难。",
+    "example_en": "He is upright and often helps his neighbors resolve disputes and overcome difficulties.",
+    "category": "Action",
+    "similar": [
+      "排难解纷",
+      "排忧解难",
+      "息事宁人"
+    ],
+    "opposite": [
+      "挑拨离间",
+      "兴风作浪"
+    ],
+    "id": "jie-fen-pai-nan"
+  },
+  {
+    "chinese": "字里行间",
+    "pinyin": "zì lǐ háng jiān",
+    "literal": "character, within, line, between",
+    "meaning": "Refers to the thoughts, feelings, or deeper meaning in a piece of writing that are not stated outright but are subtly revealed through the choice of words and the flow of the text as a whole. It describes the art of reading between the lines to grasp what the author truly intends to convey.",
+    "origin": "The idiom first appeared in a letter written by Emperor Jianwen of the Liang Dynasty (Southern Dynasties period, 6th century), titled 'Reply to the Marquis of Xinyu's Poem Letter.' In it, the emperor praised the marquis's three poems, writing that 'wind and clouds surge between the lines, and pearls and jade are born within the characters.' This vivid metaphor described how the poems' brilliance and emotional power were embedded in the very fabric of the writing, giving rise to the expression we use today.",
+    "example_zh": "他字里行间都流露出对故乡的深深思念。",
+    "example_en": "Between the lines of his writing, a deep longing for his hometown shines through.",
+    "category": "Communication",
+    "similar": [
+      "言外之意",
+      "弦外之音",
+      "意在言外"
+    ],
+    "opposite": [
+      "直截了当",
+      "直言不讳"
+    ],
+    "id": "zi-li-hang-jian"
+  },
+  {
+    "chinese": "文武兼备",
+    "pinyin": "wén wǔ jiān bèi",
+    "literal": "civil, martial, both, possess",
+    "meaning": "To be proficient in both literary and military arts; a person who excels in scholarly pursuits as well as martial skills. This idiom describes a well-rounded individual who is equally capable with pen and sword, embodying the ideal of the complete talent in traditional Chinese culture.",
+    "origin": "The concept of balancing civil and martial prowess dates back to the Zhou Dynasty, where the ideal gentleman was expected to master the Six Arts, including archery and charioteering alongside rites and music. While no single text is attributed as the definitive source, the idiom crystallized in later dynastic records and historical writings to praise officials and generals who demonstrated excellence in both governance and warfare. Figures such as the Three Kingdoms strategist Zhuge Liang and the Tang Dynasty general Li Jing are often cited as exemplars of this well-rounded ideal.",
+    "example_zh": "这位将军文武兼备，既能运筹帷幄，又能冲锋陷阵。",
+    "example_en": "This general is accomplished in both civil and martial arts, capable of devising strategies in the command tent as well as charging into battle.",
+    "category": "Quality",
+    "similar": [
+      "文武双全",
+      "文武兼济",
+      "文武兼全"
+    ],
+    "opposite": [
+      "有勇无谋",
+      "文弱书生"
+    ],
+    "id": "wen-wu-jian-bei"
+  },
+  {
+    "chinese": "暴殄天物",
+    "pinyin": "bào tiǎn tiān wù",
+    "literal": "violently damage, extinguish, heaven, things",
+    "meaning": "To wantonly destroy or waste natural resources and precious things. It originally referred to the cruel extermination of all living creatures, and later came to describe any reckless squandering of valuable items without appreciation.",
+    "origin": "The idiom originates from the 'Book of Documents' (《尚书·武成》), an ancient Chinese classic. It describes the tyrannical King Zhou of Shang (商纣王), who was said to have cruelly destroyed all living things and persecuted the common people. The phrase was used to condemn his wanton destruction of nature's gifts. Over time, the meaning broadened to refer to any wasteful or destructive behavior toward valuable things.",
+    "example_zh": "这么好的食材被随便倒掉，真是暴殄天物。",
+    "example_en": "Throwing away such fine ingredients so casually is truly a reckless waste of heaven's gifts.",
+    "category": "Morality",
+    "similar": [
+      "挥霍无度",
+      "铺张浪费",
+      "焚琴煮鹤"
+    ],
+    "opposite": [
+      "物尽其用",
+      "勤俭节约"
+    ],
+    "id": "bao-tian-tian-wu"
+  },
+  {
+    "chinese": "冬扇夏炉",
+    "pinyin": "dōng shàn xià lú",
+    "literal": "winter, fan, summer, stove",
+    "meaning": "A fan offered in winter and a stove offered in summer — both are completely out of season and serve no purpose. The idiom is used to describe anything that is untimely, ill-suited to the occasion, or utterly useless in context.",
+    "origin": "This idiom comes from the Han Dynasty philosopher Wang Chong's work Lunheng (《论衡》), in the chapter 'Feng Yu' (《逢遇》). Wang Chong argued that presenting a stove in summer or a fan in winter is like offering useless skills and unwanted advice — actions that are not only unhelpful but may even bring misfortune. He wrote that doing what nobody wants and saying what nobody wishes to hear will rarely lead to good fortune. The phrase later condensed into '冬扇夏炉' as a metaphor for things that are out of place and time.",
+    "example_zh": "他提的建议犹如冬扇夏炉，完全不合时宜。",
+    "example_en": "His suggestion was like a fan in winter or a stove in summer — completely out of place.",
+    "category": "Logic",
+    "similar": [
+      "不合时宜",
+      "夏炉冬扇",
+      "对牛弹琴"
+    ],
+    "opposite": [
+      "雪中送炭",
+      "恰到好处"
+    ],
+    "id": "dong-shan-xia-lu"
+  },
+  {
+    "chinese": "孤苦伶仃",
+    "pinyin": "gū kǔ líng dīng",
+    "literal": "orphaned, suffering, solitary, alone",
+    "meaning": "Describes a person who is utterly alone, destitute, and without anyone to rely on. It conveys a deep sense of isolation combined with hardship and misery. The phrase paints a picture of someone abandoned by fate, with no family or support network.",
+    "origin": "The idiom originates from Li Mi's 'Memorial Expressing My Feelings' (陈情表), written during the Western Jin Dynasty. Li Mi recounted his tragic childhood: his father died when he was only six months old, and his mother remarried when he was four, leaving him in the care of his elderly grandmother. He described himself as '零丁孤苦' — lonely and suffering — with no one to depend on, often ill and barely surviving. The emperor was so moved by this heartfelt memorial that he granted Li Mi's request to stay and care for his grandmother rather than take up an official post. Over time, the phrase evolved into the fixed four-character idiom 孤苦伶仃.",
+    "example_zh": "他自幼父母双亡，孤苦伶仃，靠邻居接济长大。",
+    "example_en": "He lost both parents in early childhood, utterly alone and destitute, and grew up relying on the charity of neighbors.",
+    "category": "Condition",
+    "similar": [
+      "无依无靠",
+      "形单影只",
+      "孑然一身"
+    ],
+    "opposite": [
+      "儿孙满堂",
+      "天伦之乐"
+    ],
+    "id": "gu-ku-ling-ding"
   }
 ]
