@@ -2995,3 +2995,251 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-08-06 12:00:07] === Catch-up push done ===
 [2026-08-06 20:00:00] === Catch-up push start (8 unpushed commits) ===
+[main 83df897] Auto-update: 2026-08-06 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   f39f309..83df897  main -> main
+
+Push OK (attempt 1)
+[2026-08-06 20:00:14] === Catch-up push done ===
+[2026-08-07 03:15:00] === Daily cron start ===
+[2026-08-07 03:15:00] === Daily cron start ===
+[2026-08-07 03:15:01] Generating 100 new idioms...
+[2026-08-07 03:15:01] Generating 100 new idioms...
+Existing: 3557 idioms
+Whitelist: 30894 total
+Candidates available: 25944 (4-char, not yet generated)
+Generating 100 new idioms...
+
+[1/100] -> 生死予夺 (shēng sǐ yǔ duó)
+    OK (saved, total now: 3558): literal='life, death, give, take...'
+[2/100] -> 千方百计 (qiān fāng bǎi jì)
+    OK (saved, total now: 3559): literal='thousand, methods, hundred, schemes...'
+[3/100] -> 披沙剖璞 (pī shā pōu pú)
+    OK (saved, total now: 3560): literal='sift, sand, cut open, uncut jade...'
+[4/100] -> 视同路人 (shì tóng lù rén)
+    OK (saved, total now: 3561): literal='regard, as, road, stranger...'
+[5/100] -> 怡情悦性 (yí qíng yuè xìng)
+    OK (saved, total now: 3562): literal='joy, mood, delight, nature...'
+[6/100] -> 浑金白玉 (hún jīn bái yù)
+    OK (saved, total now: 3563): literal='unrefined gold, white jade...'
+[7/100] -> 作辍无常 (zuò chuò wú cháng)
+    OK (saved, total now: 3564): literal='do, stop, without constancy...'
+[8/100] -> 一身是胆 (yī shēn shì dǎn)
+    OK (saved, total now: 3565): literal='one, body, is, gallbladder...'
+[9/100] -> 读书三余 (dú shū sān yú)
+    OK (saved, total now: 3566): literal='read, books, three, spare times...'
+[10/100] -> 鼠齧虫穿 (shǔ niè chóng chuān)
+    OK (saved, total now: 3567): literal='rat gnaws, insect bores through...'
+[11/100] -> 相煎太急 (xiāng jiān tài jí)
+    OK (saved, total now: 3568): literal='mutual, boil, too, urgent...'
+[12/100] -> 羿射九日 (yì shè jiǔ rì)
+    OK (saved, total now: 3569): literal='Yi, shoot, nine, suns...'
+[13/100] -> 龙拏虎跳 (lóng ná hǔ tiào)
+    OK (saved, total now: 3570): literal='dragon, seize, tiger, leap...'
+[14/100] -> 一晦一明 (yī huì yī míng)
+    OK (saved, total now: 3571): literal='one dark, one bright...'
+[15/100] -> 铮铮铁骨 (zhēng zhēng tiě gǔ)
+    OK (saved, total now: 3572): literal='clanging, clanging, iron, bone...'
+[16/100] -> 富在知足 (fù zài zhī zú)
+    OK (saved, total now: 3573): literal='wealth, lies in, knowing, contentment...'
+[17/100] -> 东风马耳 (dōng fēng mǎ ěr)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "东风马耳" (pinyin: dōng fēng mǎ ěr).\n\nAuthoritative Chinese context:\n- 释义: 比喻把别人的话当作耳边风。\n- 出处: 唐·李白《答王十二寒夜独钓有怀》诗世人闻此皆掉头，有如东风射马耳。”\n- 例句: 我当初劝谏你多少来，你就当东风吹马耳，反被旁人说我是苛待妾的，今日你可省得了！★清·黄小配《廿载繁华梦》第四十回\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "东风马耳",\n  "pinyin": "dōng fēng mǎ ěr",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "东风马耳" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[18/100] -> 肥头大耳 (féi tóu dà ěr)
+    OK (saved, total now: 3574): literal='fat, head, big, ears...'
+[19/100] -> 仓皇出逃 (cāng huáng chū táo)
+    OK (saved, total now: 3575): literal='panic, fluster, flee, escape...'
+[20/100] -> 知命不忧 (zhī mìng bù yōu)
+    OK (saved, total now: 3576): literal='know, fate, not, worry...'
+[21/100] -> 闲神野鬼 (xián shén yě guǐ)
+    OK (saved, total now: 3577): literal='idle, god, wild, ghost...'
+[22/100] -> 模山范水 (mó shān fàn shuǐ)
+    OK (saved, total now: 3578): literal='model, mountain, pattern, water...'
+[23/100] -> 东偷西摸 (dōng tōu xī mō)
+    OK (saved, total now: 3579): literal='east, steal, west, touch...'
+[24/100] -> 补阙挂漏 (bǔ quē guà lòu)
+    OK (saved, total now: 3580): literal='mend, gap, concern, omission...'
+[25/100] -> 能者为师 (néng zhě wéi shī)
+    OK (saved, total now: 3581): literal='able, person, act as, teacher...'
+[26/100] -> 轻怜痛惜 (qīng lián tòng xī)
+    OK (saved, total now: 3582): literal='gentle, pity, aching, cherish...'
+[27/100] -> 行不由径 (xíng bù yóu jìng)
+    OK (saved, total now: 3583): literal='walk, not, by, shortcut...'
+[28/100] -> 被甲持兵 (pī jiǎ chí bīng)
+    OK (saved, total now: 3584): literal='wear armor, grasp weapon...'
+[29/100] -> 冰解的破 (bīng jiě dì pò)
+    OK (saved, total now: 3585): literal='ice, melt, target, hit...'
+[30/100] -> 狂风暴雨 (kuáng fēng bào yǔ)
+    OK (saved, total now: 3586): literal='violent wind, fierce rain...'
+[31/100] -> 晬面盎背 (zuì miàn àng bèi)
+    OK (saved, total now: 3587): literal='warm, face, abundant, back...'
+[32/100] -> 玉律金科 (yù lǜ jīn kē)
+    OK (saved, total now: 3588): literal='jade, law, gold, statute...'
+[33/100] -> 赞口不绝 (zàn kǒu bù jué)
+    OK (saved, total now: 3589): literal='praise, mouth, not, cease...'
+[34/100] -> 分烟析产 (fēn yān xī chǎn)
+    OK (saved, total now: 3590): literal='divide smoke, split property...'
+[35/100] -> 肤粟股栗 (fū sù gǔ lì)
+    OK (saved, total now: 3591): literal='skin, goosebumps, thigh, tremble...'
+[36/100] -> 事款则圆 (shì kuǎn zé yuán)
+    OK (saved, total now: 3592): literal='matter, relaxed, then,圆满...'
+[37/100] -> 以身试险 (yǐ shēn shì xiǎn)
+    OK (saved, total now: 3593): literal='with body, test danger...'
+[38/100] -> 动荡不安 (dòng dàng bù ān)
+    OK (saved, total now: 3594): literal='move, shake, not, peaceful...'
+[39/100] -> 革新变旧 (gé xīn biàn jiù)
+    OK (saved, total now: 3595): literal='reform, new, change, old...'
+[40/100] -> 声情并茂 (shēng qíng bìng mào)
+    OK (saved, total now: 3596): literal='sound, emotion, both, flourishing...'
+[41/100] -> 刻意求工 (kè yì qiú gōng)
+    OK (saved, total now: 3597): literal='deliberately, mind, seek, refinement...'
+[42/100] -> 骈兴错出 (pián xīng cuò chū)
+    OK (saved, total now: 3598): literal='side by side, rise, interlocked, emerge...'
+[43/100] -> 三灾八难 (sān zāi bā nàn)
+    OK (saved, total now: 3599): literal='three disasters, eight calamities...'
+[44/100] -> 走花溜水 (zǒu huā liū bīng)
+    OK (saved, total now: 3600): literal='walk, flower, slip, water...'
+[45/100] -> 攀今吊古 (pān jīn diào gǔ)
+    OK (saved, total now: 3601): literal='climb present, mourn past...'
+[46/100] -> 良工苦心 (liáng gōng kǔ xīn)
+    OK (saved, total now: 3602): literal='good, artisan, bitter, heart...'
+[47/100] -> 是是非非 (shì shì fēi fēi)
+    OK (saved, total now: 3603): literal='right, right, wrong, wrong...'
+[48/100] -> 耳满鼻满 (ěr mǎn bí mǎn)
+    OK (saved, total now: 3604): literal='ears full, nose full...'
+[49/100] -> 要而言之 (yào ér yán zhī)
+    OK (saved, total now: 3605): literal='essentially, thus, speaking, it...'
+[50/100] -> 移宫换羽 (yí dōng huàn yǔ)
+    OK (saved, total now: 3606): literal='shift, gong (first note of pentatonic scale), chan...'
+[51/100] -> 冤家对头 (yuān jia duì tóu)
+    OK (saved, total now: 3607): literal='grievance person, opposing head...'
+[52/100] -> 遮天映日 (zhē tiān yìng rì)
+    OK (saved, total now: 3608): literal='cover, sky, reflect, sun...'
+[53/100] -> 将无作有 (jiāng wú zuò yǒu)
+    OK (saved, total now: 3609): literal='take, nothing, as, having...'
+[54/100] -> 涅而不淄 (niè ér bù zī)
+    OK (saved, total now: 3610): literal='dyed, yet, not, blackened...'
+[55/100] -> 守正不阿 (shǒu zhèng bù ē)
+    OK (saved, total now: 3611): literal='uphold, righteousness, not, partial...'
+[56/100] -> 铁面无私 (tiě miàn wú sī)
+    OK (saved, total now: 3612): literal='iron, face, without, selfishness...'
+[57/100] -> 趋吉避凶 (qū jí bì xiōng)
+    OK (saved, total now: 3613): literal='seek, auspicious, avoid, calamity...'
+[58/100] -> 劫富济贫 (jié fù jì pín)
+    OK (saved, total now: 3614): literal='rob, rich, aid, poor...'
+[59/100] -> 昭然若揭 (zhāo rán ruò jiē)
+    OK (saved, total now: 3615): literal='bright, thus, as if, raised high...'
+[60/100] -> 目量意营 (mù liàng yì yíng)
+    OK (saved, total now: 3616): literal='eye measure, mind manage...'
+[61/100] -> 口燥唇干 (kǒu zào chún gān)
+    OK (saved, total now: 3617): literal='mouth dry, lips parched...'
+[62/100] -> 枯燥无味 (kū zào wú wèi)
+    OK (saved, total now: 3618): literal='dry, parched, without, flavor...'
+[63/100] -> 达官显宦 (dá guān xiǎn huàn)
+    OK (saved, total now: 3619): literal='prominent, official, illustrious, bureaucrat...'
+[64/100] -> 自负不凡 (zì fù bù fán)
+    OK (saved, total now: 3620): literal='self, conceited, not, ordinary...'
+[65/100] -> 心灰意懒 (xīn huī yì lǎn)
+    OK (saved, total now: 3621): literal='heart, ashes, will, sluggish...'
+[66/100] -> 不容置辩 (bù róng zhì biàn)
+    OK (saved, total now: 3622): literal='not, allow, place, debate...'
+[67/100] -> 少见多怪 (shǎo jiàn duō guài)
+    OK (saved, total now: 3623): literal='see little, find much strange...'
+[68/100] -> 不乏其人 (bù fá qí rén)
+    OK (saved, total now: 3624): literal='not, lack, such, people...'
+[69/100] -> 行不胜衣 (xíng bù shèng yī)
+    OK (saved, total now: 3625): literal='walk, not, bear, clothes...'
+[70/100] -> 楚歌四起 (chǔ gē sì qǐ)
+    OK (saved, total now: 3626): literal='Chu, songs, four, directions, rise...'
+[71/100] -> 军法从事 (jūn fǎ cóng shì)
+    OK (saved, total now: 3627): literal='military, law, according to, handle...'
+[72/100] -> 猪突豨勇 (zhū tū xī yǒng)
+    OK (saved, total now: 3628): literal='pig, charge, wild boar, brave...'
+[73/100] -> 坚定不移 (jiān dìng bù yí)
+    OK (saved, total now: 3629): literal='firm, fixed, not, move...'
+[74/100] -> 青史标名 (qīng shǐ biāo míng)
+    OK (saved, total now: 3630): literal='green, history, inscribe, name...'
+[75/100] -> 东南之秀 (dōng nán zhī xiù)
+    OK (saved, total now: 3631): literal='east, south, of, outstanding talent...'
+[76/100] -> 村歌社舞 (cūn gē shè wǔ)
+    OK (saved, total now: 3632): literal='village, song, community, dance...'
+[77/100] -> 款学寡闻 (kuǎn xué guǎ wén)
+    OK (saved, total now: 3633): literal='narrow, learning, few, knowledge...'
+[78/100] -> 计穷智短 (jì qióng zhì duǎn)
+    OK (saved, total now: 3634): literal='plan exhausted, wisdom short...'
+[79/100] -> 一应俱全 (yī yīng jù quán)
+    OK (saved, total now: 3635): literal='one, all, all, complete...'
+[80/100] -> 隋珠和璧 (suí zhū hé bì)
+    OK (saved, total now: 3636): literal='Sui pearl, He jade...'
+[81/100] -> 同功一体 (tóng gōng yī tǐ)
+    OK (saved, total now: 3637): literal='same, merit, one, body...'
+[82/100] -> 一五一十 (yī wú yī shí)
+    OK (saved, total now: 3638): literal='one, five, one, ten...'
+[83/100] -> 志得气盈 (zhì dé qì yíng)
+    OK (saved, total now: 3639): literal='ambition, achieved, spirit, swelling...'
+[84/100] -> 远愁近虑 (yuǎn chóu jìn lǜ)
+    OK (saved, total now: 3640): literal='distant, worry, near, anxiety...'
+[85/100] -> 衣紫腰金 (yī zǐ yāo jīn)
+    OK (saved, total now: 3641): literal='wear, purple, waist, gold...'
+[86/100] -> 王后卢前 (wáng hòu lú qián)
+    OK (saved, total now: 3642): literal='behind Wang, ahead of Lu...'
+[87/100] -> 吞声忍气 (tūn shēng rěn qì)
+    OK (saved, total now: 3643): literal='swallow, sound, endure, anger...'
+[88/100] -> 强词夺正 (qiǎng cí duó zhèng)
+    OK (saved, total now: 3644): literal='force, words, seize, righteousness...'
+[89/100] -> 默换潜移 (mò huàn qián yí)
+    OK (saved, total now: 3645): literal='silent, exchange, stealthy, shift...'
+[90/100] -> 逆耳利行 (nì ěr lì xíng)
+    OK (saved, total now: 3646): literal='against, ear, benefit, conduct...'
+[91/100] -> 手无寸刃 (shǒu wú cùn rèn)
+    OK (saved, total now: 3647): literal='hand, without, inch, blade...'
+[92/100] -> 贪功起衅 (tān gōng qǐ xìn)
+    OK (saved, total now: 3648): literal='covet, merit, provoke, dispute...'
+[93/100] -> 遵养待时 (zūn yǎng dài shí)
+    OK (saved, total now: 3649): literal='comply, nurture, wait, timing...'
+[94/100] -> 士饱马腾 (shì bǎo mǎ téng)
+    OK (saved, total now: 3650): literal='soldiers full, horses prancing...'
+[95/100] -> 诗肠鼓吹 (shī chá gǔ chuì)
+    OK (saved, total now: 3651): literal='poetry, gut, drum-and-wind ensemble...'
+[96/100] -> 奋武扬威 (fèn wǔ yáng wēi)
+    OK (saved, total now: 3652): literal='rouse force, display might...'
+[97/100] -> 杳不可闻 (yǎo bù kě wén)
+    OK (saved, total now: 3653): literal='distant, not, can, hear...'
+[98/100] -> 覆宗灭祀 (fù zōng miè sì)
+    OK (saved, total now: 3654): literal='overturn, ancestral temple, extinguish, sacrifice...'
+[99/100] -> 偃武崇文 (yǎn wǔ chóng wén)
+    OK (saved, total now: 3655): literal='cease, military, promote, culture...'
+[100/100] -> 酣嬉淋漓 (hān xī lín lí)
+    OK (saved, total now: 3656): literal='hearty, frolic, dripping, thoroughly...'
+
+Added 99 idioms. Total: 3656
+Failed: 1 (东风马耳...)
+[2026-08-07 04:18:09] Generation OK
+[2026-08-07 04:18:09] Generation OK
+[2026-08-07 04:18:09] Regenerating site...
+[2026-08-07 04:18:09] Regenerating site...
+Loading data...
+  → 3656 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 3656 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 3656 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-07 04:18:17] Site regenerated
+[2026-08-07 04:18:17] Site regenerated
+[2026-08-07 04:18:17] Pushing to GitHub...
+[2026-08-07 04:18:17] Pushing to GitHub...
