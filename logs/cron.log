@@ -4101,3 +4101,249 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-08-09 12:00:06] === Catch-up push done ===
 [2026-08-09 20:00:01] === Catch-up push start (17 unpushed commits) ===
+[main f2e3852] Auto-update: 2026-08-09 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   94232d5..f2e3852  main -> main
+
+Push OK (attempt 1)
+[2026-08-09 20:00:05] === Catch-up push done ===
+[2026-08-10 03:15:00] === Daily cron start ===
+[2026-08-10 03:15:00] === Daily cron start ===
+[2026-08-10 03:15:00] Generating 100 new idioms...
+[2026-08-10 03:15:00] Generating 100 new idioms...
+Existing: 3851 idioms
+Whitelist: 30894 total
+Candidates available: 25650 (4-char, not yet generated)
+Generating 100 new idioms...
+
+[1/100] -> 头梢自领 (tóu shāo zì lǐng)
+    FAIL
+[2/100] -> 破产荡业 (pò chǎn dàng yè)
+    FAIL
+[3/100] -> 钳口挢舌 (qián kǒu jiǎo shé)
+    FAIL
+[4/100] -> 风吹马耳 (fēng chuī mǎ ěr)
+    FAIL
+[5/100] -> 衣冠礼乐 (yī guàn lǐ lè)
+    FAIL
+[6/100] -> 皇亲国戚 (huáng qīn guó qī)
+    FAIL
+[7/100] -> 东风入律 (dōng fēng rù lǜ)
+    FAIL
+[8/100] -> 做贼心虚 (zuò zéi xīn xū)
+    FAIL
+[9/100] -> 辩口利辞 (biàn kǒu lì cí)
+    FAIL
+[10/100] -> 置之不顾 (zhì zhī bù gù)
+    FAIL
+[11/100] -> 雀马鱼龙 (què mǎ yú lóng)
+    FAIL
+[12/100] -> 洞察秋毫 (dòng chá qiū háo)
+    FAIL
+[13/100] -> 诞谩不经 (dàn màn bù jīng)
+    FAIL
+[14/100] -> 枯脑焦心 (kū nǎo jiāo xīn)
+    FAIL
+[15/100] -> 怆地呼天 (chuàng dì hū tiān)
+    FAIL
+[16/100] -> 连三并四 (lián sān bìng sì)
+    FAIL
+[17/100] -> 生灵涂地 (shēng líng tú dì)
+    FAIL
+[18/100] -> 包打天下 (bāo dǎ tiān xià)
+    FAIL
+[19/100] -> 绵里藏针 (mián lǐ cáng zhēn)
+    FAIL
+[20/100] -> 来之不易 (lái zhī bù yì)
+    FAIL
+[21/100] -> 饥附饱飏 (jī fù bǎo yáng)
+    FAIL
+[22/100] -> 半路修行 (bàn lù xiū xíng)
+    FAIL
+[23/100] -> 重迹屏气 (chóng jì bǐng qì)
+    FAIL
+[24/100] -> 慷慨陈词 (kāng kǎi chén cí)
+    FAIL
+[25/100] -> 闭月羞花 (bì yuè xiū huā)
+    FAIL
+[26/100] -> 贪官污吏 (tān guān wū lì)
+    FAIL
+[27/100] -> 践律蹈礼 (jiàn lǜ dǎo lǐ)
+    FAIL
+[28/100] -> 辞严气正 (cí yán qì zhèng)
+    FAIL
+[29/100] -> 黑天墨地 (hēi tiān mò dì)
+    FAIL
+[30/100] -> 同尘合污 (tóng chén hé wū)
+    FAIL
+[31/100] -> 忙中有失 (máng zhōng yǒu shī)
+    FAIL
+[32/100] -> 一举千里 (yī jǔ qiān lǐ)
+    FAIL
+[33/100] -> 前俯后仰 (qián fǔ hòu yǎng)
+    FAIL
+[34/100] -> 防芽遏萌 (fáng yá è méng)
+    FAIL
+[35/100] -> 漱流枕石 (shù liú zhěn shí)
+    FAIL
+[36/100] -> 气满志得 (qì mǎn zhì dé)
+    FAIL
+[37/100] -> 行尸走骨 (xíng shī zǒu gǔ)
+    FAIL
+[38/100] -> 祸福由人 (huò fú yóu rén)
+    FAIL
+[39/100] -> 鸿鴆满纸 (hóng yǐ mǎn zhǐ)
+    FAIL
+[40/100] -> 彰明昭著 (zhāng míng zhāo zhù)
+    FAIL
+[41/100] -> 仁言利博 (rén yán lì bó)
+    FAIL
+[42/100] -> 问寒问暖 (wèn hán wèn nuǎn)
+    FAIL
+[43/100] -> 残暴不仁 (cán bào bù rén)
+    FAIL
+[44/100] -> 伤筋动骨 (shāng jīn dòng gǔ)
+    FAIL
+[45/100] -> 阿时趋俗 (ē shí qū sú)
+    FAIL
+[46/100] -> 文章宗匠 (wén zhāng zōng jiàng)
+    FAIL
+[47/100] -> 比肩继踵 (bǐ jiān jì zhǒng)
+    FAIL
+[48/100] -> 析珪胙土 (xī guī zuò tǔ)
+    FAIL
+[49/100] -> 毓子孕孙 (yù zǐ yùn sūn)
+    FAIL
+[50/100] -> 潢池盗弄 (huáng shi dào nòng)
+    FAIL
+[51/100] -> 蹄闲三寻 (tí xián sān xún)
+    FAIL
+[52/100] -> 铮铮有声 (zhēng zhēng yǒu shēng)
+    FAIL
+[53/100] -> 势成骑虎 (shì chéng qí hǔ)
+    FAIL
+[54/100] -> 桑枢瓮牖 (sāng shū wěng yǒu)
+    FAIL
+[55/100] -> 岁丰年稔 (suì fēng nián rěn)
+    FAIL
+[56/100] -> 败不旋踵 (bài bù xuán zhǒng)
+    FAIL
+[57/100] -> 深沟壁垒 (shēn gōu bì lěi)
+    FAIL
+[58/100] -> 连三跨五 (lián sān kuà wǔ)
+    FAIL
+[59/100] -> 白鱼登舟 (bái yú dēng zhōu)
+    FAIL
+[60/100] -> 披发左衽 (pī fà zuǒ rèn)
+    FAIL
+[61/100] -> 鸱张鼠伏 (chī zhāng shǔ fú)
+    FAIL
+[62/100] -> 弃甲曳兵 (qì jiǎ yè bīng)
+    FAIL
+[63/100] -> 变躬迁席 (biàn gōng qiān xí)
+    FAIL
+[64/100] -> 与时推移 (yǔ shí tuī yí)
+    FAIL
+[65/100] -> 得不补失 (dé bù bǔ shī)
+    FAIL
+[66/100] -> 陈古刺今 (chén gǔ cì jīn)
+    FAIL
+[67/100] -> 泣不可仰 (qì bù kě yǎng)
+    FAIL
+[68/100] -> 铄石流金 (shuò shí liú jīn)
+    FAIL
+[69/100] -> 须发皆白 (xū fà jiē bái)
+    FAIL
+[70/100] -> 情真意切 (qíng zhēn yì qiè)
+    FAIL
+[71/100] -> 荣华富贵 (róng huá fù guì)
+    FAIL
+[72/100] -> 奔逸绝尘 (bēn yì jué chén)
+    FAIL
+[73/100] -> 绝妙好辞 (jué miào hǎo cí)
+    FAIL
+[74/100] -> 衣冠枭獍 (yī guān xiāo jìng)
+    FAIL
+[75/100] -> 以貍至鼠 (yǐ lí zhì shǔ)
+    FAIL
+[76/100] -> 生生世世 (shēng shēng shì shì)
+    FAIL
+[77/100] -> 老朽无能 (lǎo xiǔ wú néng)
+    FAIL
+[78/100] -> 砥节砺行 (dǐ jié lì xíng)
+    FAIL
+[79/100] -> 负德辜恩 (fù dé gū ēn)
+    FAIL
+[80/100] -> 推东主西 (tuī dōng zhǔ xī)
+    FAIL
+[81/100] -> 装点门面 (zhuāng diǎn mén miàn)
+    FAIL
+[82/100] -> 吉日良时 (jí rì liáng shí)
+    FAIL
+[83/100] -> 稚齿婑媠 (zhì chǐ wǒ tuǒ)
+    FAIL
+[84/100] -> 黄风雾罩 (huáng fēng wù zhào)
+    FAIL
+[85/100] -> 手脚无措 (shǒu jiǎo wú cuò)
+    FAIL
+[86/100] -> 不忮不求 (bù zhì bù qiú)
+    FAIL
+[87/100] -> 纳履决踵 (nà lǚ jué zhǒng)
+    FAIL
+[88/100] -> 绩学之士 (jì xué zhī shì)
+    FAIL
+[89/100] -> 大而无当 (dà ér wú dàng)
+    FAIL
+[90/100] -> 一家老小 (yī jiā lǎo xiǎo)
+    FAIL
+[91/100] -> 干卿底事 (gān qīng dǐ shì)
+    FAIL
+[92/100] -> 千金买笑 (qiān jīn mǎi xiào)
+    FAIL
+[93/100] -> 毁誉参半 (huǐ yù cān bàn)
+    FAIL
+[94/100] -> 不次之迁 (bù cì zhī qiān)
+    FAIL
+[95/100] -> 前功尽灭 (qián gōng jìn miè)
+    FAIL
+[96/100] -> 六出纷飞 (liù chū fēn fēi)
+    FAIL
+[97/100] -> 情投谊合 (qíng tóu yì hé)
+    FAIL
+[98/100] -> 批风抹月 (pī fēng mò yuè)
+    FAIL
+[99/100] -> 身先士卒 (shēn xiān shì zú)
+    FAIL
+[100/100] -> 扼吭拊背 (è gāng fǔ bèi)
+    FAIL
+
+No new idioms generated. Exiting.
+[2026-08-10 03:21:04] Generation FAILED - continuing with existing data
+[2026-08-10 03:21:04] Generation FAILED - continuing with existing data
+[2026-08-10 03:21:04] Regenerating site...
+[2026-08-10 03:21:04] Regenerating site...
+Loading data...
+  → 3851 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 3851 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 3851 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-10 03:21:13] Site regenerated
+[2026-08-10 03:21:13] Site regenerated
+[2026-08-10 03:21:13] Pushing to GitHub...
+[2026-08-10 03:21:13] Pushing to GitHub...
