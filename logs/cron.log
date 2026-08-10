@@ -4368,3 +4368,252 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-08-10 12:00:06] === Catch-up push done ===
 [2026-08-10 20:00:01] === Catch-up push start (20 unpushed commits) ===
+[main 281da37] Auto-update: 2026-08-10 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   ab3a5f4..281da37  main -> main
+
+Push OK (attempt 1)
+[2026-08-10 20:00:08] === Catch-up push done ===
+[2026-08-11 03:15:00] === Daily cron start ===
+[2026-08-11 03:15:00] === Daily cron start ===
+[2026-08-11 03:15:00] Generating 100 new idioms...
+[2026-08-11 03:15:00] Generating 100 new idioms...
+Existing: 3851 idioms
+Whitelist: 30894 total
+Candidates available: 25650 (4-char, not yet generated)
+Generating 100 new idioms...
+
+[1/100] -> 东声西击 (dōng shēng xī jī)
+    OK (saved, total now: 3852): literal='east, sound, west, strike...'
+[2/100] -> 有生之年 (yǒu shēng zhī nián)
+    OK (saved, total now: 3853): literal='have, life, of, years...'
+[3/100] -> 画饼充饥 (huà bǐng chōng jī)
+    OK (saved, total now: 3854): literal='draw, cake, satisfy, hunger...'
+[4/100] -> 当务始终 (dang wu shi zhong)
+    OK (saved, total now: 3855): literal='should, strive, beginning, end...'
+[5/100] -> 同归于尽 (tóng guī yú jìn)
+    OK (saved, total now: 3856): literal='together, return, at, end...'
+[6/100] -> 投石下井 (tóu shí xià jǐng)
+    OK (saved, total now: 3857): literal='throw, stone, down, well...'
+[7/100] -> 洗心革面 (xǐ xīn gé miàn)
+    OK (saved, total now: 3858): literal='wash, heart, reform, face...'
+[8/100] -> 巾帼须眉 (jīn guó xū méi)
+    OK (saved, total now: 3859): literal='woman's headscarf, beard and eyebrows...'
+[9/100] -> 人己一视 (rén jǐ yī shì)
+    OK (saved, total now: 3860): literal='others, self, one, regard...'
+[10/100] -> 触目崩心 (chù mù bēng xīn)
+    OK (saved, total now: 3861): literal='touch, eye, collapse, heart...'
+[11/100] -> 惊愕失色 (jīng è shī sè)
+    OK (saved, total now: 3862): literal='startled, stunned, lose, complexion...'
+[12/100] -> 日复一日 (rì fù yī rì)
+    OK (saved, total now: 3863): literal='day, again, one, day...'
+[13/100] -> 引风吹火 (yǐn fēng chuī huǒ)
+    OK (saved, total now: 3864): literal='draw, wind, blow, fire...'
+[14/100] -> 三长四短 (sān cháng sì duǎn)
+    OK (saved, total now: 3865): literal='three long, four short...'
+[15/100] -> 悬头刺股 (xuán tóu cì gǔ)
+    OK (saved, total now: 3866): literal='hang head, prick thigh...'
+[16/100] -> 东洋大海 (dōng yáng dà hǎi)
+    OK (saved, total now: 3867): literal='east, ocean, great, sea...'
+[17/100] -> 久假不归 (jiǔ jiǎ bù guī)
+    OK (saved, total now: 3868): literal='long, borrow, not, return...'
+[18/100] -> 如此而已 (rú cǐ ér yǐ)
+    OK (saved, total now: 3869): literal='like this, that's all...'
+[19/100] -> 排山压卵 (pái shān yā luǎn)
+    OK (saved, total now: 3870): literal='push mountain, crush egg...'
+[20/100] -> 洞烛其奸 (dòng zhú qí jiān)
+    OK (saved, total now: 3871): literal='thoroughly illuminate its treachery...'
+[21/100] -> 五月披裘 (wǔ yuè pī qiú)
+    OK (saved, total now: 3872): literal='May, wear, fur, coat...'
+[22/100] -> 劈风斩浪 (pī fēng zhǎn làng)
+    OK (saved, total now: 3873): literal='split, wind, cleave, waves...'
+[23/100] -> 沅茞澧兰 (yuán zhǐ lǐ lán)
+    OK (saved, total now: 3874): literal='Yuan (river) angelica, Li (river) orchid...'
+[24/100] -> 肚里蛔虫 (dù lǐ huí chóng)
+  WARN: example_zh doesn't contain the idiom, regenerating...
+    FAIL
+[25/100] -> 东磕西撞 (dōng kē xī zhuàng)
+    OK (saved, total now: 3875): literal='east, bump, west, crash...'
+[26/100] -> 知书达礼 (zhī shū dá lǐ)
+    OK (saved, total now: 3876): literal='know, books, understand, propriety...'
+[27/100] -> 灾梨祸枣 (zāi lí huò zǎo)
+    OK (saved, total now: 3877): literal='disaster to pear, calamity to jujube...'
+[28/100] -> 遇人不淑 (yù rén bù shū)
+    OK (saved, total now: 3878): literal='meet, person, not, virtuous...'
+[29/100] -> 三茶六礼 (sān chá liù lǐ)
+    OK (saved, total now: 3879): literal='three teas, six ceremonies...'
+[30/100] -> 荣华富贵 (róng huá fù guì)
+    OK (saved, total now: 3880): literal='glory, splendor, wealth, nobility...'
+[31/100] -> 平头正脸 (píng tóu zhèng liǎn)
+    OK (saved, total now: 3881): literal='flat head, straight face...'
+[32/100] -> 悬崖撒手 (xuán yá sā shǒu)
+    OK (saved, total now: 3882): literal='cliff, release, hand...'
+[33/100] -> 目眩头晕 (mù xuàn tóu yūn)
+    OK (saved, total now: 3883): literal='eyes, dazzled, head, dizzy...'
+[34/100] -> 头晕眼花 (tóu yūn yǎn huā)
+    OK (saved, total now: 3884): literal='head dizzy, eyes blurred...'
+[35/100] -> 朱干玉戚 (zhū gān yù qī)
+    OK (saved, total now: 3885): literal='vermilion shield, jade axe...'
+[36/100] -> 未卜先知 (wèi bǔ xiān zhī)
+    OK (saved, total now: 3886): literal='not, divine, beforehand, know...'
+[37/100] -> 束身就缚 (shù shēn jiù fù)
+    OK (saved, total now: 3887): literal='bind, body, submit, tie...'
+[38/100] -> 尺泽之鲵 (chǐ zé zhī ní)
+    OK (saved, total now: 3888): literal='foot, pond, possessive particle, small fish...'
+[39/100] -> 赏贤罚暴 (shǎng xián fá bào)
+    OK (saved, total now: 3889): literal='reward, virtuous, punish, violent...'
+[40/100] -> 自身难保 (zì shēn nán bǎo)
+    OK (saved, total now: 3890): literal='self, body, difficult, protect...'
+[41/100] -> 运筹决胜 (yùn chóu jué shèng)
+    OK (saved, total now: 3891): literal='maneuver, plan, decide, victory...'
+[42/100] -> 枯木朽株 (kū mù xiǔ zhū)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "枯木朽株" (pinyin: kū mù xiǔ zhū).\n\nAuthoritative Chinese context:\n- 释义: 朽腐烂；株露出地面的树桩。枯木头，烂树根。比喻衰朽的力量或衰老无用的人。\n- 出处: 汉·邹阳《狱中上梁王书》故有人先谈，则枯木朽树功而不忘。”\n- 例句: 白云山头云欲立，白云山下呼声急，～齐努力。★毛泽东《渔家傲·反第二次大围剿”》词\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "枯木朽株",\n  "pinyin": "kū mù xiǔ zhū",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "枯木朽株" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[43/100] -> 不名一文 (bù míng yī wén)
+    OK (saved, total now: 3892): literal='not possess one penny...'
+[44/100] -> 招是生非 (zhāo shì shēng fēi)
+    OK (saved, total now: 3893): literal='provoke, affairs, generate, trouble...'
+[45/100] -> 帷灯匣剑 (wéi dēng xiá jiàn)
+    OK (saved, total now: 3894): literal='curtain, lamp, box, sword...'
+[46/100] -> 争短论长 (zhēng duǎn lùn cháng)
+    OK (saved, total now: 3895): literal='contend, short, argue, long...'
+[47/100] -> 神谟远算 (shén mó yuǎn suàn)
+    OK (saved, total now: 3896): literal='divine, strategy, far-reaching, calculation...'
+[48/100] -> 趾踵相接 (zhǐ zhǒng xiāng jiē)
+    OK (saved, total now: 3897): literal='toe, heel, mutually, connect...'
+[49/100] -> 白饭青刍 (bái fàn qīng chú)
+    OK (saved, total now: 3898): literal='white rice, green hay...'
+[50/100] -> 水天一色 (shuǐ tiān yī sè)
+    OK (saved, total now: 3899): literal='water, sky, one, color...'
+[51/100] -> 巷议街谈 (xiàng yì jiē tán)
+    OK (saved, total now: 3900): literal='alley, discussion, street, talk...'
+[52/100] -> 有隙可乘 (yǒu xì kě chèng)
+    OK (saved, total now: 3901): literal='have, gap, can, exploit...'
+[53/100] -> 进可替不 (jìn kě tì bù)
+    OK (saved, total now: 3902): literal='advance, good, replace, wrong...'
+[54/100] -> 劝善戒恶 (quàn shàn jiè è)
+    OK (saved, total now: 3903): literal='advise good, warn against evil...'
+[55/100] -> 燕跃鹄踊 (yàn yuè hú yǒng)
+    OK (saved, total now: 3904): literal='swallow leaps, swan bounds...'
+[56/100] -> 打入冷宫 (dǎ rù lěng gōng)
+    OK (saved, total now: 3905): literal='strike, into, cold, palace...'
+[57/100] -> 大计小用 (dà jì xiǎo yòng)
+    OK (saved, total now: 3906): literal='big, plan, small, use...'
+[58/100] -> 束广就狭 (shù guǎng jiù xiá)
+    OK (saved, total now: 3907): literal='bind, broad, approach, narrow...'
+[59/100] -> 林林总总 (lín lín zǒng zǒng)
+    OK (saved, total now: 3908): literal='forest, forest, multitude, multitude...'
+[60/100] -> 避烦斗捷 (bì fán dòu jié)
+    OK (saved, total now: 3909): literal='avoid trouble, compete in quickness...'
+[61/100] -> 一丝半粟 (yī sī bàn sù)
+    OK (saved, total now: 3910): literal='one thread, half a grain of millet...'
+[62/100] -> 龙潜凤采 (lóng qián fèng cǎi)
+    OK (saved, total now: 3911): literal='dragon, hidden, phoenix, brilliance...'
+[63/100] -> 拖麻拽布 (tuō má zhuài bù)
+    OK (saved, total now: 3912): literal='drag, hemp, pull, cloth...'
+[64/100] -> 投桃之报 (tóu táo zhī bào)
+    OK (saved, total now: 3913): literal='throw, peach, possessive, repayment...'
+[65/100] -> 鬼哭神愁 (guǐ kū shén chóu)
+    OK (saved, total now: 3914): literal='ghost, cry, god, worry...'
+[66/100] -> 略无忌惮 (lüè wú jì dàn)
+    OK (saved, total now: 3915): literal='slightly, without, fear, dread...'
+[67/100] -> 割襟之盟 (gē jīn zhī méng)
+    OK (saved, total now: 3916): literal='cut, lapel, of, pledge...'
+[68/100] -> 钓游之地 (diào yóu zhī dì)
+    OK (saved, total now: 3917): literal='fishing, roaming, of, place...'
+[69/100] -> 杯蛇鬼车 (bēi shé guǐ chē)
+    OK (saved, total now: 3918): literal='cup, snake, ghost, chariot...'
+[70/100] -> 蚕丛鸟道 (cán cóng niǎo dào)
+    OK (saved, total now: 3919): literal='silkworm cluster, bird path...'
+[71/100] -> 坐冷板凳 (zuò lěng bǎn dèng)
+    OK (saved, total now: 3920): literal='sit, cold, wooden, bench...'
+[72/100] -> 失道寡助 (shī dào guǎ zhù)
+    OK (saved, total now: 3921): literal='lose, justice, few, help...'
+[73/100] -> 一介之士 (yī jiè zhī shì)
+    OK (saved, total now: 3922): literal='one, humble, of, scholar...'
+[74/100] -> 惊慌失色 (jīng huāng shī sè)
+    OK (saved, total now: 3923): literal='startled, flustered, lose, color...'
+[75/100] -> 充箱盈架 (chōng xiāng yíng jià)
+    OK (saved, total now: 3924): literal='fill, box, fill, shelf...'
+[76/100] -> 零打碎敲 (líng dǎ suì qiāo)
+    OK (saved, total now: 3925): literal='scattered, strike, broken, knock...'
+[77/100] -> 沉声静气 (chén shēng jìng qì)
+    OK (saved, total now: 3926): literal='deep, voice, calm, breath...'
+[78/100] -> 济世匡时 (jì shì kuāng shí)
+    OK (saved, total now: 3927): literal='save, world, rectify, times...'
+[79/100] -> 辞简义赅 (cí jiǎn yì gāi)
+    OK (saved, total now: 3928): literal='words, brief, meaning, complete...'
+[80/100] -> 人取我与 (rén qǔ wǒ yǔ)
+    OK (saved, total now: 3929): literal='others acquire, I supply...'
+[81/100] -> 见风使船 (jiàn fēng shǐ chuán)
+    OK (saved, total now: 3930): literal='see, wind, steer, boat...'
+[82/100] -> 继继绳绳 (jì jì mǐn mǐn)
+    OK (saved, total now: 3931): literal='continue, continue, unceasing, unceasing...'
+[83/100] -> 山陬海澨 (shān zōu hǎi shì)
+    OK (saved, total now: 3932): literal='mountain corner, sea shore...'
+[84/100] -> 感慨系之 (gǎn kǎi xì zhī)
+    OK (saved, total now: 3933): literal='feel, sigh, tie, this...'
+[85/100] -> 征名责实 (zhēng míng zé shí)
+    OK (saved, total now: 3934): literal='examine name, demand reality...'
+[86/100] -> 蚁聚蜂屯 (yǐ jù fēng tún)
+    OK (saved, total now: 3935): literal='ant, gather, bee, swarm...'
+[87/100] -> 东扶西倒 (dōng fú xī dǎo)
+    OK (saved, total now: 3936): literal='east, support, west, fall...'
+[88/100] -> 零零星星 (líng líng xīng xīng)
+    OK (saved, total now: 3937): literal='zero, zero, star, star...'
+[89/100] -> 持衡拥璇 (chí héng yōng xuán)
+    OK (saved, total now: 3938): literal='hold balance, embrace jade...'
+[90/100] -> 以卵投石 (yǐ luǎn tóu shí)
+    OK (saved, total now: 3939): literal='use egg, throw stone...'
+[91/100] -> 覆水难收 (fù shuǐ nán shōu)
+    OK (saved, total now: 3940): literal='spilled, water, hard, to retrieve...'
+[92/100] -> 功成身退 (gōng chéng shēn tuì)
+    OK (saved, total now: 3941): literal='achievement, complete, self, retreat...'
+[93/100] -> 立业安邦 (lì yè ān bāng)
+    OK (saved, total now: 3942): literal='establish, enterprise, stabilize, nation...'
+[94/100] -> 拔葵啖枣 (bá kuí dàn zǎo)
+    OK (saved, total now: 3943): literal='pull up sunflower, eat jujube...'
+[95/100] -> 顺风驶船 (shǔn fēng shǐ chuán)
+    OK (saved, total now: 3944): literal='follow, wind, sail, boat...'
+[96/100] -> 一言为定 (yī yán wéi dìng)
+    OK (saved, total now: 3945): literal='one, word, as, settled...'
+[97/100] -> 騣女痴男 (ái nǚ chī nán)
+    OK (saved, total now: 3946): literal='foolish woman, infatuated man...'
+[98/100] -> 蚁附蝇集 (yǐ fù yíng jí)
+    OK (saved, total now: 3947): literal='ants attach, flies gather...'
+[99/100] -> 闻风而至 (wén fēng ér zhì)
+    OK (saved, total now: 3948): literal='hear, wind, thus, arrive...'
+[100/100] -> 心忙意急 (xīn máng yì jí)
+    OK (saved, total now: 3949): literal='heart, busy, mind, anxious...'
+
+Added 98 idioms. Total: 3949
+Failed: 2 (肚里蛔虫, 枯木朽株...)
+[2026-08-11 03:54:31] Generation OK
+[2026-08-11 03:54:31] Generation OK
+[2026-08-11 03:54:31] Regenerating site...
+[2026-08-11 03:54:31] Regenerating site...
+Loading data...
+  → 3949 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 3949 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 3949 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-11 03:54:41] Site regenerated
+[2026-08-11 03:54:41] Site regenerated
+[2026-08-11 03:54:41] Pushing to GitHub...
+[2026-08-11 03:54:41] Pushing to GitHub...
