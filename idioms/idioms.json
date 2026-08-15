@@ -86431,5 +86431,1999 @@
       "死而无憾"
     ],
     "id": "bai-shen-he-shu"
+  },
+  {
+    "chinese": "添枝增叶",
+    "pinyin": "tiān zhī zēng yè",
+    "literal": "add, branches, increase, leaves",
+    "meaning": "Literally meaning 'to add branches and leaves,' this idiom describes the act of adding supplementary details or embellishments to something already in place. It conveys the idea of continuously attaching extra elements, often making a story, description, or plan more elaborate than the original.",
+    "origin": "No independent classical origin is recorded for this idiom, which is generally regarded as a variant of the better-documented '添枝接叶' (tiān zhī jiē yè). The underlying image—of a tree putting forth ever more branches and leaves—is rooted in the agrarian imagery common in classical Chinese writing. Related forms such as '添枝加叶' appear in Song-dynasty discourse, where scholars warned against over-embellishing the words of sages with extra commentary. As a later variation, it carries the same metaphor of ceaseless accretion.",
+    "example_zh": "他讲故事时总喜欢添枝增叶，把简单的事说得天花乱坠。",
+    "example_en": "He always loves to embellish when telling a story, embellishing a simple matter into something wildly exaggerated.",
+    "category": "Communication",
+    "similar": [
+      "添枝接叶",
+      "添油加醋",
+      "画蛇添足"
+    ],
+    "opposite": [
+      "简明扼要",
+      "删繁就简"
+    ],
+    "id": "tian-zhi-zeng-ye"
+  },
+  {
+    "chinese": "林栖谷隐",
+    "pinyin": "lín qī gǔ yǐn",
+    "literal": "forest, dwell, valley, hide",
+    "meaning": "Living in seclusion among forests and mountain valleys, withdrawn from worldly affairs. It describes both the act of retiring to nature as a recluse and the hermits themselves. The phrase evokes a life of quiet detachment devoted to mountains and streams.",
+    "origin": "No single classical source is documented for this idiom; it arises from the long Chinese tradition of hermit culture that venerates retreat from public life. The paired imagery of nesting in forests and hiding in valleys echoes themes found in Daoist writings and in the poetry of recluses such as Tao Yuanming. Throughout Chinese history, scholars who refused official posts in times of turmoil were admired for choosing such a life.",
+    "example_zh": "他厌倦官场纷争，从此林栖谷隐，与山水为伴。",
+    "example_en": "Weary of the intrigues of officialdom, he withdrew to dwell in forests and hide in valleys, taking mountains and streams as his only companions.",
+    "category": "Lifestyle",
+    "similar": [
+      "归隐山林",
+      "遁世隐居",
+      "栖隐林泉"
+    ],
+    "opposite": [
+      "入朝为官",
+      "经世致用"
+    ],
+    "id": "lin-qi-gu-yin"
+  },
+  {
+    "chinese": "师出无名",
+    "pinyin": "shī chū wú míng",
+    "literal": "army, dispatched, without, justification",
+    "meaning": "To launch a military campaign without a legitimate cause. By extension, it means to undertake any action without proper justification or grounds.",
+    "origin": "The phrase traces back to the 'Tan Gong' chapter of the Book of Rites (礼记·檀弓下), where it is said that if a ruler pardons another state's faults rather than punishing them, sending troops would lack a righteous name. It is also recorded in the History of the Former Han (汉书·高帝纪): 'When troops are dispatched without a just cause, the endeavor will not succeed.' The saying encapsulates the classical Chinese principle, later endorsed by Han-dynasty thinkers, that warfare or any major undertaking must rest on a moral and legitimate justification to prevail.",
+    "example_zh": "这次进攻师出无名，恐怕难以服众。",
+    "example_en": "This offensive has no legitimate cause behind it, and will hardly convince anyone.",
+    "category": "Morality",
+    "similar": [
+      "无理取闹",
+      "强词夺理",
+      "莫须有"
+    ],
+    "opposite": [
+      "师出有名",
+      "名正言顺"
+    ],
+    "id": "shi-chu-wu-ming"
+  },
+  {
+    "chinese": "专心致志",
+    "pinyin": "zhuān xīn zhì zhì",
+    "literal": "focus, mind, attain, will",
+    "meaning": "To devote one's whole mind and attention to a single task. It describes being completely absorbed and single-mindedly concentrated, with no distractions dividing one's focus. The idiom emphasizes total mental dedication to achieving a goal.",
+    "origin": "The idiom originates from the Mengzi (《孟子·告子上》), a Warring States period text by the philosopher Mencius (孟子, 372–289 BCE). Mencius uses the example of learning the board game Go (弈), taught by the master Qiu (弈秋), to illustrate that even a minor skill cannot be mastered without undivided attention. He contrasts two students: one who concentrates fully and one whose mind wanders to imagine shooting a swan. The story teaches that success in any pursuit demands single-minded devotion, giving rise to the idiom.",
+    "example_zh": "他专心致志地研究这道难题，连晚饭都忘了吃。",
+    "example_en": "He devoted himself so completely to solving the difficult problem that he even forgot to eat dinner.",
+    "category": "Attitude",
+    "similar": [
+      "聚精会神",
+      "全神贯注",
+      "一心一意"
+    ],
+    "opposite": [
+      "心猿意马",
+      "三心二意"
+    ],
+    "id": "zhuan-xin-zhi-zhi"
+  },
+  {
+    "chinese": "起凤腾蛟",
+    "pinyin": "qǐ fèng téng jiāo",
+    "literal": "rise phoenix, soar flood dragon",
+    "meaning": "Like a phoenix rising and a dragon soaring — used to describe someone with extraordinary literary talent or brilliant, graceful writing. It praises writing that is so magnificent it seems to take flight.",
+    "origin": "The idiom originates from the Tang Dynasty masterpiece 'Preface to the Pavilion of Prince Teng' (滕王阁序) by the celebrated poet Wang Bo (王勃). The original line reads '腾蛟起凤，孟学士之词宗' — 'Soaring dragons and rising phoenixes, the literary lineage of Master Meng.' Wang Bo used this vivid imagery to honor the assembled scholars' dazzling command of words. The phrase was later reordered and frozen into the four-character idiom 起凤腾蛟 to praise outstanding literary accomplishment.",
+    "example_zh": "他的文笔起凤腾蛟，每篇文章都令人叹为观止。",
+    "example_en": "His prose rises like a phoenix and soars like a dragon — every essay he writes leaves readers in awe.",
+    "category": "Quality",
+    "similar": [
+      "才华横溢",
+      "文采飞扬",
+      "笔走龙蛇"
+    ],
+    "opposite": [
+      "平淡无奇",
+      "味同嚼蜡"
+    ],
+    "id": "qi-feng-teng-jiao"
+  },
+  {
+    "chinese": "尤云殢雨",
+    "pinyin": "yóu yún zhì yǔ",
+    "literal": "linger, cloud, entangle, rain",
+    "meaning": "A classical euphemism describing a couple deeply absorbed in sensual intimacy and romantic passion. The phrase draws on the traditional imagery of 'clouds and rain' (云雨), an age-old Chinese metaphor for sexual union. It conveys being luxuriously entangled in physical love between a man and a woman.",
+    "origin": "The idiom builds upon the enduring Chinese poetic metaphor of 'clouds and rain' (云雨) as a symbol of sexual intimacy. That metaphor traces back to the ancient legend of the Goddess of Mount Wu (巫山神女), first recorded in 'Gaotang Fu' (高唐赋) by the Warring States poet Song Yu (宋玉), where the goddess describes herself as 'morning clouds and evening rain' (朝云暮雨). The specific four-character form '尤云殢雨'—with 尤 and 殢 both suggesting lingering, indulgent attachment—became a favored expression in Song dynasty lyric poetry and Yuan dynasty drama (元曲), where writers depicted romantic and erotic love between lovers.",
+    "example_zh": "他们成婚之后，整日尤云殢雨，沉浸于甜蜜之中。",
+    "example_en": "After they married, the two spent their days lost in passionate intimacy, utterly immersed in sweet bliss.",
+    "category": "Lifestyle",
+    "similar": [
+      "巫山云雨",
+      "朝云暮雨",
+      "颠鸾倒凤"
+    ],
+    "opposite": [
+      "坐怀不乱",
+      "冷若冰霜"
+    ],
+    "id": "you-yun-zhi-yu"
+  },
+  {
+    "chinese": "沽名要誉",
+    "pinyin": "gū míng yào yù",
+    "literal": "fish for fame, seek praise",
+    "meaning": "It refers to using improper or deceptive means to fish for reputation and accolades one has not genuinely earned. It is a variant of the more common idiom 沽名钓誉. The expression conveys contempt for those who chase fame through showmanship rather than real merit.",
+    "origin": "The idiom originates from the Zhuzi Yulei (Records of Master Zhu), a Song-dynasty compilation of the sayings of the Neo-Confucian philosopher Zhu Xi (1130–1200). In volume 42, while commenting on a passage in the Analects where the disciple Zizhang asks about the difference between 'being heard' (闻) and 'truly attaining' (达), Zhu Xi explains that '达' is attained through earnest personal practice and conduct, whereas '闻' is nothing more than fishing for fame and seeking praise. The phrase thus distinguishes genuine achievement from hollow self-promotion.",
+    "example_zh": "他做公益只是为了沽名要誉，并非真心想帮助别人。",
+    "example_en": "He engages in charity merely to fish for fame and seek praise, not out of any genuine desire to help others.",
+    "category": "Morality",
+    "similar": [
+      "沽名钓誉",
+      "欺世盗名",
+      "好大喜功"
+    ],
+    "opposite": [
+      "名副其实",
+      "实至名归"
+    ],
+    "id": "gu-ming-yao-yu"
+  },
+  {
+    "chinese": "困兽犹斗",
+    "pinyin": "kùn shòu yóu dòu",
+    "literal": "trapped, beast, still, fight",
+    "meaning": "A cornered beast will still put up a desperate fight. It is used metaphorically to describe someone who, even when driven into a hopeless situation, will still struggle and resist rather than surrender.",
+    "origin": "The phrase originates from the 'Zuo Zhuan' (左传), specifically from the fourth year of Duke Ding (定公四年), during the Spring and Autumn period. When the State of Wu attacked the State of Chu, a Chu minister warned that even a cornered beast will fight back, let alone men, urging his lord not to underestimate the enemy. The saying later became a proverb for desperate resistance in hopeless circumstances.",
+    "example_zh": "敌军虽已溃败，但困兽犹斗，我们不可掉以轻心。",
+    "example_en": "Though the enemy forces have been routed, like a cornered beast they will still fight desperately, so we must not let our guard down.",
+    "category": "Perseverance",
+    "similar": [
+      "负隅顽抗",
+      "垂死挣扎",
+      "背城借一"
+    ],
+    "opposite": [
+      "束手就擒",
+      "望风而逃"
+    ],
+    "id": "kun-shou-you-dou"
+  },
+  {
+    "chinese": "池鱼之祸",
+    "pinyin": "chí yú zhī huò",
+    "literal": "pond, fish, of, disaster",
+    "meaning": "A disaster that befalls someone due to being caught up in someone else's conflict or circumstances. The idiom likens the sufferer to fish in a pond that are harmed when the surrounding environment is disturbed. It emphasizes being innocently implicated in troubles not of one's own making.",
+    "origin": "The phrase appears in the Ming dynasty story collection 'Erke Paian Jingqi' (二刻拍案惊奇), compiled by Ling Mengchu (凌濛初) during the late Ming era. In Volume 24, a Daoist warns that within three years the region will fall into war and turmoil, advising the listener to move to a safer place to avoid the 'disaster of the pond fish.' The expression alludes to the classical metaphor '城门失火，殃及池鱼' (when the city gate catches fire, the fish in the nearby pond suffer), where innocent bystanders are harmed by events originating elsewhere.",
+    "example_zh": "他因同事贪污案被调查，受池鱼之祸而被免职。",
+    "example_en": "He was implicated in the investigation of a colleague's embezzlement case and, suffering collateral fallout, was dismissed from his post.",
+    "category": "Condition",
+    "similar": [
+      "殃及池鱼",
+      "城门失火，殃及池鱼",
+      "无辜受累"
+    ],
+    "opposite": [
+      "独善其身",
+      "明哲保身"
+    ],
+    "id": "chi-yu-zhi-huo"
+  },
+  {
+    "chinese": "补天柱地",
+    "pinyin": "bǔ tiān zhù dì",
+    "literal": "mend, sky, support, earth",
+    "meaning": "Literally meaning to mend the heavens and prop up the earth, this idiom is used as a metaphor for extraordinary and magnificent deeds. It describes achievements of such magnitude that they seem capable of holding the cosmos itself together.",
+    "origin": "The imagery draws upon two ancient Chinese mythological motifs. Mending the sky evokes the goddess Nüwa, who melted five-colored stones to repair the broken heavens after a great catastrophe. Supporting the earth recalls the legendary giant who held up the sky with pillars when the world was in danger. Together these cosmic acts of salvage came to symbolize epoch-defining merit.",
+    "example_zh": "将军此战功勋补天柱地,足以名垂青史。",
+    "example_en": "The general's merits in this battle are so great they could mend the sky and prop up the earth, enough to echo through history.",
+    "category": "Success",
+    "similar": [
+      "补天浴日",
+      "丰功伟绩",
+      "经天纬地"
+    ],
+    "opposite": [
+      "雕虫小技",
+      "微不足道"
+    ],
+    "id": "bu-tian-zhu-di"
+  },
+  {
+    "chinese": "东观续史",
+    "pinyin": "dōng guān xù shǐ",
+    "literal": "Eastern Library, continue, history",
+    "meaning": "Originally referred to Ban Zhao, a female historian of the Han dynasty, who was ordered by Emperor He to complete the unfinished 'Book of Han' at the Dongguan imperial library after her brother Ban Gu's death. It is now used to praise a woman's profound scholarship, literary talent, and learning.",
+    "origin": "This idiom comes from the 'Book of Later Han' (后汉书), in the biography of Cao Shishu's wife. During the Eastern Han dynasty, Ban Zhao (styled Huiban), daughter of the scholar Ban Biao and younger sister of Ban Gu, was a renowned female scholar. When Ban Gu died before completing the 'Book of Han' — specifically the Eight Tables and the Astronomical Treatise — Emperor He summoned Ban Zhao to the Dongguan imperial library to finish the work. Her achievement made her one of the most celebrated female scholars in Chinese history.",
+    "example_zh": "她学富五车，文采斐然，堪称当代的东观续史。",
+    "example_en": "With her vast learning and brilliant literary talent, she can rightly be called a modern-day heir to Ban Zhao's legacy.",
+    "category": "Knowledge",
+    "similar": [
+      "咏絮之才",
+      "扫眉才子",
+      "巾帼不让须眉"
+    ],
+    "opposite": [
+      "胸无点墨",
+      "不学无术"
+    ],
+    "id": "dong-guan-xu-shi"
+  },
+  {
+    "chinese": "兼人之勇",
+    "pinyin": "jiān rén zhī yǒng",
+    "literal": "surpass, others, 's, courage",
+    "meaning": "Courage that equals or exceeds that of several men; exceptional bravery surpassing ordinary people. Used to describe a person of outstanding valor and fearlessness.",
+    "origin": "From the 'Book of Han' (汉书), in the Biography of Han Xin (韩信传). When Han Xin was young and still unknown, he endured the humiliation of crawling between a ruffian's legs rather than fight. Observers mocked him, saying he 'lacked the courage to rival several men' (无兼人之勇) and therefore was not worth fearing — a judgment that proved utterly mistaken when Han Xin later became one of the greatest military strategists of the Chu-Han Contention under Liu Bang, founder of the Han Dynasty.",
+    "example_zh": "他素具兼人之勇，冲锋陷阵从未退缩半步。",
+    "example_en": "He has always possessed courage surpassing that of several men, never once flinching on the battlefield.",
+    "category": "Quality",
+    "similar": [
+      "勇冠三军",
+      "万夫莫当",
+      "浑身是胆"
+    ],
+    "opposite": [
+      "胆小如鼠",
+      "贪生怕死"
+    ],
+    "id": "jian-ren-zhi-yong"
+  },
+  {
+    "chinese": "发奸擿伏",
+    "pinyin": "fā jiān tì fú",
+    "literal": "expose wicked, uncover hidden",
+    "meaning": "To expose hidden wrongdoers and uncover concealed crimes. It describes someone with a remarkable ability to bring secret misdeeds to light, often used to praise an official or detective whose investigative skill seems almost supernatural.",
+    "origin": "The phrase originates from the Book of Han (汉书), in the Biography of Zhao Guanghan (赵广汉传). Zhao Guanghan was a celebrated official of the Western Han dynasty who served as governor of Jingzhao (京兆尹). The historian Ban Gu recorded that 'his exposing of villains and uncovering of hidden crimes was like that of a god' (其发奸擿伏如神). The expression later became a standard tribute to upright officials whose discernment of concealed wrongdoing was thought to border on the divine.",
+    "example_zh": "他办案如神，发奸擿伏，深受百姓爱戴。",
+    "example_en": "He solved cases with uncanny skill, exposing hidden villains and uncovering concealed crimes, and was deeply beloved by the common people.",
+    "category": "Wisdom",
+    "similar": [
+      "明察秋毫",
+      "察见渊鱼",
+      "洞若观火"
+    ],
+    "opposite": [
+      "讳莫如深",
+      "粉饰太平"
+    ],
+    "id": "fa-jian-ti-fu"
+  },
+  {
+    "chinese": "普济群生",
+    "pinyin": "pǔ jì qún shēng",
+    "literal": "universally, aid, all, living beings",
+    "meaning": "A Buddhist term meaning to universally save and relieve all sentient beings from suffering. It reflects the Buddha's compassionate vow to use his great spiritual power to ferry the struggling masses, likened to people drowning in a sea of suffering, to the other shore of liberation. It is synonymous with the more common phrase 普度众生.",
+    "origin": "This phrase originates from Buddhist teaching and cosmology, in which worldly beings are described as endlessly restless and troubled, like people floundering in a vast sea of suffering. Drawing on Mahayana ideals of compassion (慈悲), the Buddha and bodhisattvas vow to use their vast spiritual power to rescue every sentient being and guide them to the far shore of enlightenment. No single classical text or historical figure is exclusively credited as the source; the expression crystallizes a core Mahayana doctrine that evolved through scriptures and commentaries translated into Chinese during the Han, Jin, and Tang dynasties.",
+    "example_zh": "老方丈一生悬壶济世，发愿普济群生，远近百姓无不感念其恩德。",
+    "example_en": "The old abbot spent his life healing the sick, vowing to bring relief to all sentient beings, and the common people near and far were deeply grateful for his kindness.",
+    "category": "Morality",
+    "similar": [
+      "普度众生",
+      "救苦救难",
+      "慈悲为怀"
+    ],
+    "opposite": [
+      "见死不救",
+      "损人利己"
+    ],
+    "id": "pu-ji-qun-sheng"
+  },
+  {
+    "chinese": "抱火厝薪",
+    "pinyin": "bào huǒ cuò xīn",
+    "literal": "hold, fire, place, firewood",
+    "meaning": "Literally 'to hold fire and place it under firewood.' It is a metaphor for a situation where danger is imminent yet people mistakenly believe they are safe, like sleeping on a pile of kindling with a flame hidden beneath. It warns of concealed crisis lurking beneath apparent tranquility.",
+    "origin": "The idiom originates from the 'Biography of Jia Yi' in the Book of Han (汉书·贾谊传). Jia Yi was a brilliant scholar of the early Western Han dynasty serving under Emperor Wen. Although the empire appeared peaceful and prosperous, Jia Yi submitted a memorial warning that the current state of affairs was like holding fire and placing it beneath a pile of firewood while sleeping on top — just because the fire had not yet ignited, one could not call the situation safe. He argued that the dynasty's circumstances were no different from this peril. His warnings were largely overlooked at the time but later proved remarkably prescient.",
+    "example_zh": "面对日益严峻的债务危机，若仍不及时改革，无异于抱火厝薪。",
+    "example_en": "Faced with an ever-graver debt crisis, to delay reform now is tantamount to holding fire beneath a pile of kindling.",
+    "category": "Condition",
+    "similar": [
+      "厝火积薪",
+      "燕雀处堂",
+      "危如累卵"
+    ],
+    "opposite": [
+      "安如泰山",
+      "高枕无忧"
+    ],
+    "id": "bao-huo-cuo-xin"
+  },
+  {
+    "chinese": "天机云锦",
+    "pinyin": "tiān jī yún jǐn",
+    "literal": "heaven, loom, cloud, brocade",
+    "meaning": "This idiom likens exquisite writing to silk brocade woven on a heavenly loom, glowing with the beauty of clouds. It praises poetry or prose that is gorgeously crafted yet flows so naturally it seems divinely produced. It is used to commend literary work of the highest beauty and seamless artistry.",
+    "origin": "The phrase draws on celestial-weaving imagery from Chinese mythology, where 天机 refers to a loom in heaven and 云锦 to cloud-like silk brocade, a prized fabric produced in Nanjing since the Wei and Jin dynasties. Classical poets and literary critics adopted this imagery to describe verse and prose of unearthly refinement. The metaphor recurs in poetry criticism (诗话) across the Tang, Song, and later dynasties as a benchmark for the finest literary achievement. No single canonical source is universally cited; it evolved as a familiar metaphor within the Chinese literary-critical tradition rather than stemming from one specific text or figure.",
+    "example_zh": "这篇散文辞藻华美，宛如天机云锦，令人读后久久难忘。",
+    "example_en": "This essay's language is as exquisitely beautiful as heavenly-woven brocade, lingering in the reader's mind long after.",
+    "category": "Quality",
+    "similar": [
+      "锦心绣口",
+      "妙笔生花",
+      "字字珠玑"
+    ],
+    "opposite": [
+      "词不达意",
+      "平淡无奇"
+    ],
+    "id": "tian-ji-yun-jin"
+  },
+  {
+    "chinese": "淡饭黄齑",
+    "pinyin": "dàn fàn huáng jī",
+    "literal": "bland rice, yellow pickled vegetables",
+    "meaning": "A phrase referring to very coarse and poor food. It uses bland rice and yellow pickled vegetable paste (黄齑) to symbolize the frugal, humble diet of the impoverished. Often used to depict a life of austerity or poverty.",
+    "origin": "This idiom has no single definitive origin story but is a recurring literary phrase in classical Chinese texts. 黄齑 refers to a yellow pickled condiment made from finely chopped vegetables, a staple of commoners and poor scholars in ancient China. The pairing of 淡饭 with 黄齑 evokes the typical fare of those living in hardship. It appears in vernacular fiction and essays of the Ming and Qing dynasties as a stock image of austere living.",
+    "example_zh": "他一生清贫，每日淡饭黄齑，从不抱怨。",
+    "example_en": "He lived his life in poverty, eating only coarse rice and pickled vegetables every day, yet never once complained.",
+    "category": "Lifestyle",
+    "similar": [
+      "粗茶淡饭",
+      "布衣蔬食",
+      "糠菜半年粮"
+    ],
+    "opposite": [
+      "山珍海味",
+      "锦衣玉食"
+    ],
+    "id": "dan-fan-huang-ji"
+  },
+  {
+    "chinese": "说梅止渴",
+    "pinyin": "shuō méi zhǐ kě",
+    "literal": "talk, plum, quench, thirst",
+    "meaning": "A metaphor for comforting oneself with empty fantasies when one's wishes cannot be realized. It is a variant of the more common idiom 望梅止渴 (looking at plums to quench thirst). The phrase describes self-consolation through idle imagination rather than real action.",
+    "origin": "The idiom derives from a famous story about the warlord Cao Cao (曹操) during the late Eastern Han dynasty. While leading his troops on a long, grueling march through arid terrain, the soldiers grew desperately thirsty and their morale faltered. Cao Cao told them that ahead lay a forest of sour plums, and the mere thought of the tart fruit made their mouths water, temporarily easing their thirst and encouraging them to press on. Unlike the related form 望梅止渴 ('looking at plums'), the variant 说梅止渴 emphasizes the act of speaking or talking about the plums to deceive and comfort.",
+    "example_zh": "与其说梅止渴，不如脚踏实地去争取。",
+    "example_en": "Rather than comforting yourself with empty talk, it's better to work practically to achieve it.",
+    "category": "Attitude",
+    "similar": [
+      "望梅止渴",
+      "画饼充饥",
+      "指雁为羹"
+    ],
+    "opposite": [
+      "脚踏实地",
+      "实事求是"
+    ],
+    "id": "shuo-mei-zhi-ke"
+  },
+  {
+    "chinese": "拙口钝腮",
+    "pinyin": "zhuō kǒu dùn sāi",
+    "literal": "clumsy mouth, blunt cheeks",
+    "meaning": "A metaphor for being inarticulate, tongue-tied, and lacking eloquence. It describes someone whose speech is awkward and clumsy, unable to express themselves fluently or persuasively. The phrase uses the imagery of a clumsy mouth and dull cheeks to convey poor oral communication skills.",
+    "origin": "This idiom originates from Chapter 88 of 'Journey to the West' (西游记) by Wu Cheng'en of the Ming Dynasty. In the chapter, the characters humbly describe themselves with the words '我等愚鲁，拙口钝腮，不会说话' (We are foolish and dull, with clumsy mouths and blunt cheeks, unable to speak well), presenting themselves as lacking in eloquence. The self-deprecating phrase later became a fixed expression for someone who is verbally clumsy or tongue-tied.",
+    "example_zh": "他为人老实，拙口钝腮，谈判时总是吃亏。",
+    "example_en": "He is honest by nature but inarticulate, so he always ends up at a disadvantage during negotiations.",
+    "category": "Communication",
+    "similar": [
+      "笨嘴拙舌",
+      "拙嘴笨腮",
+      "张口结舌"
+    ],
+    "opposite": [
+      "伶牙俐齿",
+      "辩才无碍"
+    ],
+    "id": "zhuo-kou-dun-sai"
+  },
+  {
+    "chinese": "撞头搕脑",
+    "pinyin": "zhuàng tóu kē nǎo",
+    "literal": "bump head, knock brain",
+    "meaning": "To run into walls everywhere and suffer repeated setbacks or frustrations. It vividly depicts a person figuratively bumping their head and knocking their brain against obstacles when pursuing goals or seeking help. The phrase is often used to describe the painful experience of meeting constant rebuffs in life or study.",
+    "origin": "This idiom originates from Volume 49 of 'Zhuzi Yulei' (Conversations of Master Zhu), compiled during the Song Dynasty by disciples of the eminent neo-Confucian philosopher Zhu Xi. Zhu Xi used it to criticize scholars who, having grasped only two or three parts of righteousness and principle, wrongly assume they have fully mastered the subject, not realizing that further obstacles and frustrations await them on the path of learning. The character 搕 is a variant of 磕 (to knock). Over time, the phrase evolved into a general metaphor for encountering difficulties and rebuffs in any endeavor.",
+    "example_zh": "他在商场上撞头搕脑多年，才终于摸索出一条属于自己的路。",
+    "example_en": "After bumping into walls in the business world for years, he finally found a path of his own.",
+    "category": "Condition",
+    "similar": [
+      "四处碰壁",
+      "头破血流",
+      "到处碰钉子"
+    ],
+    "opposite": [
+      "一帆风顺",
+      "左右逢源"
+    ],
+    "id": "zhuang-tou-ke-nao"
+  },
+  {
+    "chinese": "金人之箴",
+    "pinyin": "jīn rén zhī zhēn",
+    "literal": "golden, person, 's, admonition",
+    "meaning": "A metaphor for keeping silent out of caution or concern about the consequences of speaking. It describes someone who refrains from voicing their thoughts, akin to a bronze statue whose mouth is deliberately sealed.",
+    "origin": "Derived from 'Kongzi Jiayu: Guan Zhou' (《孔子家语·观周》), a Han-era text attributed to the school of Confucius. It recounts that when Confucius visited the ancestral temple of Hou Ji during the Zhou dynasty, he saw a bronze figure (金人) standing before the right steps of the hall with its mouth sealed three times (三缄其口). On its back was inscribed that it represented an ancient person who was cautious in speech. Confucius used it as a lesson on the virtue of speaking carefully, and the image later became a metaphor for silence born of prudence or restraint.",
+    "example_zh": "面对敏感话题，他如金人之箴，始终沉默不语。",
+    "example_en": "When faced with sensitive topics, he remained as silent as the golden figure's admonition, never saying a word.",
+    "category": "Communication",
+    "similar": [
+      "三缄其口",
+      "噤若寒蝉",
+      "默不作声"
+    ],
+    "opposite": [
+      "口若悬河",
+      "滔滔不绝"
+    ],
+    "id": "jin-ren-zhi-zhen"
+  },
+  {
+    "chinese": "阔论高谈",
+    "pinyin": "kuò lùn gāo tán",
+    "literal": "broad, discuss, high, talk",
+    "meaning": "To talk at great length in a lofty, expansive manner, often without addressing concrete realities. It describes someone holding forth grandly and abstractly, usually with more rhetoric than substance.",
+    "origin": "The phrase traces to a poem by the Tang dynasty figure Lü Yan (吕岩), titled 'Hui Zong Zhai Hui' (《徽宗斋会》), which contains the line '高谈阔论若无人，可惜明君不遇真' — 'talking loftily and broadly as if no one else were present, alas that no true wise ruler appears.' Over time the character order shifted to 阔论高谈 while retaining the same sense of grand, impractical discourse.",
+    "example_zh": "会议上他阔论高谈，却提不出任何实际可行的方案。",
+    "example_en": "At the meeting he held forth in lofty, sweeping terms, yet failed to propose any actually workable plan.",
+    "category": "Communication",
+    "similar": [
+      "高谈阔论",
+      "夸夸其谈",
+      "纸上谈兵"
+    ],
+    "opposite": [
+      "脚踏实地",
+      "言简意赅"
+    ],
+    "id": "kuo-lun-gao-tan"
+  },
+  {
+    "chinese": "础润而雨",
+    "pinyin": "chǔ rùn ér yǔ",
+    "literal": "pillar base, damp, then, rain",
+    "meaning": "When the stone base of a pillar becomes damp, rain is imminent. It is a metaphor for recognizing the direction of future events from small early signs, demonstrating keen foresight and observation.",
+    "origin": "The phrase traces back to the Western Han text 《淮南子·说林训》, which notes that 'when clouds gather over the mountains, the pillar bases become damp.' It was popularized by the Northern Song scholar Su Xun (苏洵), father of the renowned poets Su Shi and Su Zhe, in his essay 《辨奸论》. There he wrote '月晕而风，础润而雨，人人知之'—when a lunar halo appears, wind follows; when a pillar base grows damp, rain comes—arguing that obvious signs warn us of coming dangers and that we should heed them.",
+    "example_zh": "他阅历深厚，础润而雨，早早就预见了行业风向的转变。",
+    "example_en": "With deep experience, he saw the early signs and anticipated the shift in the industry's direction long before others.",
+    "category": "Wisdom",
+    "similar": [
+      "一叶知秋",
+      "见微知著",
+      "月晕而风"
+    ],
+    "opposite": [
+      "麻木不仁",
+      "后知后觉"
+    ],
+    "id": "chu-run-er-yu"
+  },
+  {
+    "chinese": "严霜烈日",
+    "pinyin": "yán shuāng liè rì",
+    "literal": "severe frost, fierce sun",
+    "meaning": "A metaphor for severe trials endured in harsh conditions, or the firm and upright integrity one maintains while passing through such tests. It pairs the imagery of biting frost and scorching sun—two punishing extremes—to evoke resolve tested to its limits.",
+    "origin": "This is a compound idiom rather than one tied to a single classical text, pairing two opposing natural extremes to symbolize harsh adversity. Variants such as 烈日秋霜 and 秋霜烈日 appear in later literary usage, reflecting the same pairing of frost and sun as punishing forces of nature. The imagery draws on traditional Chinese symbolism in which only the resolute—like pine and cypress in winter—can withstand such trials. Over time it has come to describe both severe hardship itself and the unyielding character of those who endure it.",
+    "example_zh": "他在严霜烈日般的考验中始终坚守信念。",
+    "example_en": "He remained steadfast in his convictions through trials as harsh as biting frost and scorching sun.",
+    "category": "Perseverance",
+    "similar": [
+      "岁寒松柏",
+      "坚贞不屈",
+      "风霜雨雪"
+    ],
+    "opposite": [
+      "娇生惯养",
+      "贪生怕死"
+    ],
+    "id": "yan-shuang-lie-ri"
+  },
+  {
+    "chinese": "研精覃思",
+    "pinyin": "yán jīng tán sī",
+    "literal": "research, refine, deeply, think",
+    "meaning": "To carefully research a subject and think about it deeply and thoroughly. It describes someone devoting meticulous attention and profound contemplation to study or scholarship, leaving no detail unexamined.",
+    "origin": "This idiom comes from the Tang dynasty scholar Kong Yingda's preface to his commentary on the 'Book of Documents' (Shangshu). After receiving an imperial decree to write commentaries on the fifty-nine chapters, Kong Yingda devoted himself to meticulous study and deep contemplation, broadly consulting the classics and drawing upon the insights of various thinkers to establish authoritative interpretations. The phrase captures the rigorous scholarly spirit characteristic of Tang-era Confucian exegesis.",
+    "example_zh": "他研精覃思十余年，终于在经学领域自成一家。",
+    "example_en": "After more than ten years of meticulous research and deep contemplation, he finally established his own school of thought in classical studies.",
+    "category": "Learning",
+    "similar": [
+      "深思熟虑",
+      "潜心钻研",
+      "苦心孤诣"
+    ],
+    "opposite": [
+      "浅尝辄止",
+      "走马观花"
+    ],
+    "id": "yan-jing-tan-si"
+  },
+  {
+    "chinese": "万民涂炭",
+    "pinyin": "wàn mín tú tàn",
+    "literal": "ten thousand, people, mud, charcoal",
+    "meaning": "Describes the common people being trapped as if in mire and fire. It depicts a situation where the masses suffer extreme hardship and misery, often due to war, tyranny, or disaster.",
+    "origin": "The phrase traces back to the 'Charge to Zhonghui' (仲虺之诰) chapter of the Book of Documents (尚书), an ancient text recording speeches from early Chinese history. When King Tang of Shang was overthrowing the Xia dynasty, his minister Zhonghui declared that the tyrant King Jie of Xia had been so morally corrupt that 'the people had fallen into mire and charcoal.' This powerful metaphor of suffering later crystallized into the four-character idiom used to condemn any ruler or era that brought widespread misery upon the populace.",
+    "example_zh": "战乱连年，致使万民涂炭，百姓流离失所。",
+    "example_en": "Years of endless warfare drove the people into misery, leaving the common folk displaced and homeless.",
+    "category": "Condition",
+    "similar": [
+      "生灵涂炭",
+      "民不聊生",
+      "哀鸿遍野"
+    ],
+    "opposite": [
+      "国泰民安",
+      "安居乐业"
+    ],
+    "id": "wan-min-tu-tan"
+  },
+  {
+    "chinese": "死而复生",
+    "pinyin": "sǐ ér fù shēng",
+    "literal": "die, and then, again, live",
+    "meaning": "Literally 'to die and come back to life.' It describes someone or something reviving after apparent death, or a situation being rescued from the brink of failure. Often used metaphorically for miraculous recovery or renewal.",
+    "origin": "The idiom originates from the work 'Bian Dao Lun' (辩道论) by Cao Zhi of the state of Wei during the Three Kingdoms period. The text recounts a story about an alchemist named Dong Zhongjun who was imprisoned for a crime. He feigned death for several days, with his eyes sinking and maggots appearing, then came back to life—though he eventually died for real later. This tale of apparent death and revival gave rise to the phrase.",
+    "example_zh": "经过医生的全力抢救，他竟然死而复生，奇迹般地活了下来。",
+    "example_en": "After the doctors' best efforts to save him, he miraculously came back to life and survived.",
+    "category": "Recovery",
+    "similar": [
+      "起死回生",
+      "枯木逢春",
+      "劫后余生"
+    ],
+    "opposite": [
+      "一命呜呼",
+      "万劫不复"
+    ],
+    "id": "si-er-fu-sheng"
+  },
+  {
+    "chinese": "独具只眼",
+    "pinyin": "dú jù zhī yǎn",
+    "literal": "alone, possess, single, eye",
+    "meaning": "To possess a uniquely sharp perspective and insight. It describes someone whose vision is keen, able to discern things that others easily overlook or fail to notice.",
+    "origin": "The phrase traces back to the Southern Song dynasty poet Yang Wanli, who in his poem 'Sending Peng Yuanzhong, County Assistant, Back North' wrote the line: 'Recently I have gained another special eye, wanting to tread the highest pass of the Tang people.' The expression '别具一只眼' (to possess another kind of eye) from this poem later evolved into the idiom '独具只眼,' praising a person of exceptional discernment. Modern usage was notably reinforced when Lu Xun employed it in his essay collection 'Quasi-Fengyue Tan.'",
+    "example_zh": "他在众多画作中一眼挑出真品，真可谓独具只眼。",
+    "example_en": "Among the many paintings, he picked out the genuine one at a glance—truly possessing exceptional discernment.",
+    "category": "Wisdom",
+    "similar": [
+      "别具慧眼",
+      "明察秋毫",
+      "慧眼识珠"
+    ],
+    "opposite": [
+      "人云亦云",
+      "随波逐流"
+    ],
+    "id": "du-ju-zhi-yan"
+  },
+  {
+    "chinese": "冰炭不投",
+    "pinyin": "bīng tàn bù tóu",
+    "literal": "ice, charcoal, not, fit",
+    "meaning": "A metaphor for two people who are fundamentally incompatible and cannot get along with each other. Ice is cold and charcoal is hot, so they cannot coexist harmoniously — likened to personalities or views that clash entirely.",
+    "origin": "The phrase originates from the Warring States period text Han Feizi, specifically the chapter 'Xian Xue' (Eminent Learning) by the Legalist philosopher Han Fei. Han Fei wrote that ice and charcoal cannot long be kept in the same vessel, just as cold and heat cannot arrive at the same time, using this to argue that contradictory teachings cannot jointly govern a state. Over time the metaphor narrowed to describe interpersonal incompatibility.",
+    "example_zh": "两人的性格冰炭不投，合作不到一周便分道扬镳了。",
+    "example_en": "Their personalities were completely incompatible, and they parted ways less than a week into their collaboration.",
+    "category": "Attitude",
+    "similar": [
+      "水火不容",
+      "格格不入",
+      "势不两立"
+    ],
+    "opposite": [
+      "情投意合",
+      "水乳交融"
+    ],
+    "id": "bing-tan-bu-tou"
+  },
+  {
+    "chinese": "眩目惊心",
+    "pinyin": "xuàn mù jīng xīn",
+    "literal": "dazzle, eye, startle, heart",
+    "meaning": "Something that dazzles the eyes and startles the heart. It describes a sight so striking, splendid, or shocking that it overwhelms both one's vision and one's emotions at once.",
+    "origin": "The phrase derives from a passage by a writer of the Song dynasty surnamed Liu, in the essay 'Record of Rebuilding the Temple of King Wenxuan' (《重修文宣王庙记》). The temple, dedicated to Confucius (posthumously honored as King Wenxuan), was described after its renovation as having been made increasingly ornate and magnificent—'增华崇丽'—so that its splendor dazzled the eyes and stirred the heart. The expression later came to be used for any spectacle whose visual grandeur or intensity leaves a viewer both awestruck and shaken.",
+    "example_zh": "夜空中绽放的烟花层层叠叠，绚烂得令人眩目惊心。",
+    "example_en": "The fireworks blooming in the night sky were layered one upon another, so brilliant that they dazzled the eyes and startled the heart.",
+    "category": "Emotion",
+    "similar": [
+      "触目惊心",
+      "惊心动魄",
+      "骇目惊心"
+    ],
+    "opposite": [
+      "平淡无奇",
+      "司空见惯"
+    ],
+    "id": "xuan-mu-jing-xin"
+  },
+  {
+    "chinese": "入室升堂",
+    "pinyin": "rù shì shēng táng",
+    "literal": "enter, room, ascend, hall",
+    "meaning": "A metaphor for reaching a profound level of mastery in scholarship, skill, or art. It portrays someone who has progressed past the superficial stages to attain refined, sophisticated expertise.",
+    "origin": "The phrase echoes a remark in the Analects (论语·先进), where Confucius commented on his disciple Zilu: his learning had 'ascended the hall' (升堂) but had 'not yet entered the room' (未入于室). Traditional Chinese courtyard houses placed the hall at the front for receiving guests and the inner room deeper within, so the imagery maps stages of accomplishment onto spatial depth. Later generations merged both stages into this idiom to denote complete, advanced attainment in a craft or discipline.",
+    "example_zh": "他的书法造诣已入室升堂，令业内同行叹为观止。",
+    "example_en": "His mastery of calligraphy has entered the inner chamber and ascended the hall, leaving his peers in the field in awe.",
+    "category": "Skill",
+    "similar": [
+      "登堂入室",
+      "升堂入室",
+      "炉火纯青"
+    ],
+    "opposite": [
+      "初出茅庐",
+      "门外汉"
+    ],
+    "id": "ru-shi-sheng-tang"
+  },
+  {
+    "chinese": "疾恶若雠",
+    "pinyin": "jí è ruò chóu",
+    "literal": "hate, evil, like, foe",
+    "meaning": "To detest evil and wrongdoing as one would detest a personal enemy. It describes a person of strong moral principle who shows zero tolerance for bad conduct and treats wrongdoers as adversaries. The idiom is an older, literary variant of the more common 疾恶如仇.",
+    "origin": "The phrase originates from a memorial written during the late Eastern Han dynasty by the scholar-official Kong Rong, titled 'Recommendation of Mi Heng' (《荐祢衡表》). In it, Kong Rong praised the brilliant but eccentric scholar Mi Heng before the imperial court, describing him as one who reacts to virtue with joyful astonishment and abhors wickedness as though it were a sworn enemy. The text helped establish Mi Heng's reputation as a man of fierce moral clarity, though his blunt righteousness ultimately brought him into fatal conflict with powerful figures.",
+    "example_zh": "他为人刚正，疾恶若雠，从不向权贵低头。",
+    "example_en": "Upright by nature, he detested evil as he would an enemy and never bowed to the powerful.",
+    "category": "Morality",
+    "similar": [
+      "疾恶如仇",
+      "爱憎分明",
+      "嫉恶如仇"
+    ],
+    "opposite": [
+      "同流合污",
+      "朋比为奸"
+    ],
+    "id": "ji-e-ruo-chou"
+  },
+  {
+    "chinese": "薄技在身",
+    "pinyin": "bó jì zài shēn",
+    "literal": "meager, skill, in, body",
+    "meaning": "Literally 'a meager skill in one's body.' It refers to possessing some small but practical skill that one can rely on for a living. The idiom emphasizes that even a humble skill is more dependable than passive wealth.",
+    "origin": "The phrase originates from the 'Yanshi Jiaxun' (Family Instructions of Master Yan), written by Yan Zhitui during the Northern Qi dynasty (6th century CE). In the chapter 'Mianxue' (Encouraging Learning), he wrote: 'Accumulating ten million in wealth is not as good as having a meager skill in oneself.' Yan Zhitui, a scholar-official who lived through several dynastic upheavals, warned his descendants that fortunes can be lost but a practical skill endures. The quote became a classical maxim on the value of self-reliance through learning.",
+    "example_zh": "他没有高深的学问，但薄技在身，走到哪里都能养活自己。",
+    "example_en": "He has no profound learning, but with a humble skill in hand, he can make a living wherever he goes.",
+    "category": "Skill",
+    "similar": [
+      "一技之长",
+      "身怀绝技"
+    ],
+    "opposite": [
+      "不学无术",
+      "胸无点墨"
+    ],
+    "id": "bo-ji-zai-shen"
+  },
+  {
+    "chinese": "主守自盗",
+    "pinyin": "zhǔ shǒu zì dào",
+    "literal": "master, guard, self, steal",
+    "meaning": "To steal property that one has been officially entrusted to guard or manage. It describes an official or custodian who embezzles the very assets placed under their care, violating the trust of their position. The idiom emphasizes the betrayal inherent when a guardian becomes the thief.",
+    "origin": "The phrase originates from the Han Shu (Book of Han), specifically the Treatise on Penal Law (刑法志), which records Han dynasty statutes prescribing execution by exposure in the marketplace (弃市) for anyone guarding government property who then steals it. The Tang dynasty scholar Yan Shigu, in his commentary on this passage, clarified that this offense is precisely what the contemporary law termed 主守自盗 (stealing as the responsible custodian). It thus stems from ancient Chinese legal codes concerning official misconduct and breach of trust.",
+    "example_zh": "仓库管理员竟然主守自盗，将库中财物据为己有。",
+    "example_en": "The warehouse manager actually stole from his own charge, taking the goods in storage for himself.",
+    "category": "Morality",
+    "similar": [
+      "监守自盗",
+      "假公济私",
+      "见财起意"
+    ],
+    "opposite": [
+      "奉公守法",
+      "两袖清风"
+    ],
+    "id": "zhu-shou-zi-dao"
+  },
+  {
+    "chinese": "果熟蒂落",
+    "pinyin": "guǒ shú dì luò",
+    "literal": "fruit, ripe, stem, fall",
+    "meaning": "When fruit is fully ripe, it naturally separates from its stem. Figuratively, it means that once conditions or timing are right, success follows naturally and without forced effort. It describes situations where results come effortlessly when the proper moment arrives.",
+    "origin": "The idiom draws from a simple natural phenomenon: ripe fruit drops from its stalk on its own. It was popularized in modern literary usage by the writer Bing Xin (冰心) in her essay 'In Mourning of Mr. Mao' (《悼念茅公》), where she described renowned literary figures of the time as brilliant flowers that, after fading, bore deep red fruit that fell when ripe—each contributing themselves when their moment came. The image has since become a metaphor for things succeeding naturally once they reach maturity.",
+    "example_zh": "只要前期准备充分，这项工程自然果熟蒂落。",
+    "example_en": "As long as the preliminary preparations are thorough, this project will naturally come to fruition when the time is right.",
+    "category": "Success",
+    "similar": [
+      "水到渠成",
+      "瓜熟蒂落",
+      "顺理成章"
+    ],
+    "opposite": [
+      "揠苗助长",
+      "欲速不达"
+    ],
+    "id": "guo-shu-di-luo"
+  },
+  {
+    "chinese": "安邦治国",
+    "pinyin": "ān bāng zhì guó",
+    "literal": "pacify the nation, govern the country",
+    "meaning": "To bring stability and order to a nation through wise governance. The phrase describes the great undertaking of securing peace within the state and ruling it well. It is commonly used in praise of statesmen, rulers, or policies that foster national prosperity and tranquility.",
+    "origin": "The phrase traces back to the Song dynasty anonymous work 'Xinbian Wudai Shi Pinghua: Zhou Shi' (Newly Compiled Tales of the Five Dynasties: History of Zhou). In one passage, a character offers to sell a sword to a worthy hero, declaring that for great purposes it could be used to 'pacify and settle the state' (安邦定国), while for lesser matters it would defend against insults and harm. Over time the parallel form 安邦治国 became a stock expression for sound statecraft, later echoed by modern writers such as Bing Xin.",
+    "example_zh": "古往今来，凡能安邦治国之人，无不心怀天下、勤政爱民。",
+    "example_en": "From ancient times to the present, all who could bring peace and order to the nation have cared deeply for the world and governed with diligence and compassion.",
+    "category": "Leadership",
+    "similar": [
+      "安邦定国",
+      "治国安邦",
+      "经邦济世"
+    ],
+    "opposite": [
+      "祸国殃民"
+    ],
+    "id": "an-bang-zhi-guo"
+  },
+  {
+    "chinese": "燃萁煮豆",
+    "pinyin": "rán qí zhǔ dòu",
+    "literal": "burn, beanstalks, boil, beans",
+    "meaning": "A metaphor for close relatives harming one another, especially brothers harming brothers. It is equivalent to the idiom \"煮豆燃萁\" and conveys the tragedy of kin destroying kin.",
+    "origin": "The idiom derives from the famous story of the Cao brothers during the Three Kingdoms period. After Cao Pi became Emperor of Wei, he distrusted his talented younger brother Cao Zhi and ordered him to compose a poem within seven paces or face execution. Cao Zhi composed the renowned \"Seven Steps Poem,\" which depicts beanstalks being burned to boil beans—an image of siblings consuming one another. The exact phrase \"燃萁煮豆\" was later used by the Song dynasty poet Liu Kezhuang in his poem \"寄题建阳宋景高友于堂\".",
+    "example_zh": "曹氏兄弟为争夺皇位而燃萁煮豆，令人唏嘘。",
+    "example_en": "The Cao brothers turning on one another over the throne is truly lamentable.",
+    "category": "Morality",
+    "similar": [
+      "煮豆燃萁",
+      "骨肉相残",
+      "同室操戈"
+    ],
+    "opposite": [
+      "兄友弟恭",
+      "和睦相处"
+    ],
+    "id": "ran-qi-zhu-dou"
+  },
+  {
+    "chinese": "弃甲负弩",
+    "pinyin": "qì jiǎ fù nǔ",
+    "literal": "discard, armor, bear on back, crossbow",
+    "meaning": "To throw away one's armor and carry one's crossbow, describing soldiers abandoning equipment after a defeat in battle. It depicts a routed army fleeing in disarray with broken morale. The phrase conveys complete military collapse and surrender.",
+    "origin": "The idiom draws on the imagery of ancient Chinese warfare, where soldiers wore armor (甲) and carried crossbows (弩) as standard equipment. After a crushing defeat, fleeing soldiers would cast off heavy armor to run faster while slinging the lighter crossbow across their backs in retreat. The phrase became a conventional description of a beaten, retreating army in classical historical writings and military narratives.",
+    "example_zh": "敌军大败，将士们纷纷弃甲负弩而逃。",
+    "example_en": "The enemy army was soundly defeated, and soldiers fled in panic, abandoning their armor and slinging their crossbows as they ran.",
+    "category": "Condition",
+    "similar": [
+      "弃甲曳兵",
+      "丢盔弃甲",
+      "溃不成军"
+    ],
+    "opposite": [
+      "旗开得胜",
+      "马到成功"
+    ],
+    "id": "qi-jia-fu-nu"
+  },
+  {
+    "chinese": "齐东野语",
+    "pinyin": "qí dōng yě yǔ",
+    "literal": "eastern Qi, rustic, speech",
+    "meaning": "Baseless, unfounded talk that cannot be trusted. The phrase originates from Mencius's contemptuous dismissal of commoners' words as unreliable hearsay. It is used to describe absurd rumors or claims lacking any factual foundation.",
+    "origin": "The idiom originates from the Warring States period text 《孟子·万章上》, recorded in the words of Mencius (孟子), a prominent Confucian philosopher of the Qi state. When discussing ancient historical events with his disciple Wan Zhang (万章), Mencius rejected certain popular accounts as '齐东野人之语' — the words of the rustic people living in the eastern part of the Qi state — rather than the words of a gentleman. He thereby dismissed peasant talk as groundless and unworthy of belief. Over time, the phrase was shortened to '齐东野语' and came to signify any absurd, unsubstantiated claim.",
+    "example_zh": "这些传闻纯属齐东野语，实在不足为信。",
+    "example_en": "These rumors are nothing but baseless rustic chatter, and are not worth taking seriously.",
+    "category": "Communication",
+    "similar": [
+      "无稽之谈",
+      "道听途说",
+      "荒诞不经"
+    ],
+    "opposite": [
+      "言之凿凿",
+      "凿凿有据"
+    ],
+    "id": "qi-dong-ye-yu"
+  },
+  {
+    "chinese": "金壶墨汁",
+    "pinyin": "jīn hú mò zhī",
+    "literal": "golden pot, ink, juice",
+    "meaning": "Refers to extraordinarily precious and rare calligraphy or painting materials. By extension, it denotes any writing or painting implement of exceptional rarity and value. The phrase evokes a sense of wonder at the sacredness of the written word.",
+    "origin": "The idiom originates from Wang Jia's 'Shiyiji' (Records of Gleanings) written during the Jin dynasty. It describes an episode during the reign of King Ling of Zhou, when envoys from the legendary state of Futi presented two mysterious men skilled in calligraphy who could shift between youth and old age and become invisible at will. From their elbows they drew a four-inch golden pot sealed with five dragons and blue clay, containing ink as thick as lacquer; when spilled upon the ground or rocks, it instantly formed characters in seal, clerical, and tadpole scripts.",
+    "example_zh": "这件宋代御墨被收藏家视为金壶墨汁般的稀世珍宝，世代珍藏。",
+    "example_en": "This Song dynasty imperial inkstick is treasured by collectors as a rare gem akin to the legendary golden pot of ink, kept and passed down through generations.",
+    "category": "Quality",
+    "similar": [
+      "稀世之珍",
+      "奇珍异宝",
+      "价值连城"
+    ],
+    "opposite": [
+      "粗制滥造",
+      "一文不值"
+    ],
+    "id": "jin-hu-mo-zhi"
+  },
+  {
+    "chinese": "逾墙窥蠙",
+    "pinyin": "yú qiáng kuī pín",
+    "literal": "cross over, wall, peep, clam",
+    "meaning": "This idiom refers to clandestine or illicit love affairs between men and women. It is equivalent to the related expression '逾墙钻穴' (climbing over walls and drilling holes), evoking the image of lovers secretly scaling walls to spy on or rendezvous with their beloved in defiance of social propriety.",
+    "origin": "This phrase is a variant of the classical expression '逾墙钻穴,' imagery that appears in early Chinese literature denouncing improper conduct between the sexes. The picture it conjures—of someone stealthily climbing over a wall to peep at a lover—became a stock metaphor for romantic transgression against Confucian norms of decorum. The specific final character '蠙' (a pearl-bearing clam) in this formulation is unusual and likely reflects a particular textual tradition. No single dynasty or historical figure is definitively associated with this exact variant.",
+    "example_zh": "那对男女逾墙窥蠙，终被人当场撞破。",
+    "example_en": "That man and woman carried on their clandestine tryst until they were caught red-handed.",
+    "category": "Morality",
+    "similar": [
+      "逾墙钻穴",
+      "偷香窃玉",
+      "桑中之约"
+    ],
+    "opposite": [
+      "光明正大",
+      "行不逾矩"
+    ],
+    "id": "yu-qiang-kui-pin"
+  },
+  {
+    "chinese": "危言竦论",
+    "pinyin": "wēi yán sǒng lùn",
+    "literal": "alarming words, shocking arguments",
+    "meaning": "This idiom describes speech or arguments that frighten, shock, or deeply unsettle the audience. It is used to characterize provocative or sensational discourse intended to awe or alarm those who hear or read it.",
+    "origin": "Unlike the more widely documented variant 危言耸听, the form 危言竦论 lacks a clearly established textual source and is rarely encountered in classical literature. It appears to be a later compound expression built from 危言 (alarming words) and 竦论 (shocking discourse), with 竦 conveying a sense of awe, dread, or being startled. Its usage parallels that of 危言耸听, though it carries a slightly more literary or rhetorical tone.",
+    "example_zh": "他在文中发表了不少危言竦论，让读者深感不安。",
+    "example_en": "In his essay he put forward a number of alarming and shocking arguments that left readers deeply uneasy.",
+    "category": "Communication",
+    "similar": [
+      "危言耸听",
+      "耸人听闻",
+      "骇人听闻"
+    ],
+    "opposite": [
+      "和风细雨",
+      "平铺直叙"
+    ],
+    "id": "wei-yan-song-lun"
+  },
+  {
+    "chinese": "用夏变夷",
+    "pinyin": "yòng xià biàn yí",
+    "literal": "use, Xia (Chinese civilization), transform, barbarians",
+    "meaning": "Xia refers to the feudal states of the Zhou dynasty in the central plains, while Yi refers to the tribes outside the central plains region. The idiom means to use the advanced culture of the central Chinese states to influence and assimilate the remote tribes. It reflects the ancient Chinese belief in the superiority of civilized culture and its transformative power.",
+    "origin": "This idiom originates from the Mencius (孟子·滕文公上), a foundational Confucian text of the Warring States period. Mencius stated, 'I have heard of using Xia to transform the barbarians, but I have never heard of being transformed by barbarians.' He made this remark while discussing the legendary sage-king Shun and others who arose from remote regions but were transformed by Chinese civilization. The phrase reflects the cultural worldview of ancient China, in which the Zhou dynasty's ritual culture was regarded as a civilizing force.",
+    "example_zh": "儒家主张用夏变夷，以礼义教化四方之民。",
+    "example_en": "Confucian scholars advocated using Chinese civilization to transform the barbarians, civilizing peoples in all directions through ritual and righteousness.",
+    "category": "Philosophy",
+    "similar": [
+      "以夏变夷",
+      "移风易俗",
+      "教化四方"
+    ],
+    "opposite": [
+      "被发左衽",
+      "用夷变夏"
+    ],
+    "id": "yong-xia-bian-yi"
+  },
+  {
+    "chinese": "心如刀割",
+    "pinyin": "xīn rú dāo gē",
+    "literal": "heart, like, knife, cutting",
+    "meaning": "One's heart feels as if it were being cut by a knife. It describes a state of deep emotional pain, sorrow, or anguish. The idiom is commonly used to convey intense grief or heartbreak.",
+    "origin": "The idiom originates from the Yuan dynasty play 《赵礼让肥》 by playwright Qin Jianfu. In the first act, a character reflects on being separated from family and living on coarse food, expressing that recalling such hardships makes his heart ache as if sliced by a blade. The line vividly conveys the deep pain of a mother and son being torn apart by war and poverty. From this dramatic scene, the phrase entered common usage as a metaphor for overwhelming emotional suffering.",
+    "example_zh": "听到孩子离世的噩耗，母亲心如刀割，泣不成声。",
+    "example_en": "Upon hearing the heartbreaking news of her child's passing, the mother felt as if her heart were being cut by a knife and wept uncontrollably.",
+    "category": "Emotion",
+    "similar": [
+      "肝肠寸断",
+      "痛不欲生",
+      "心如刀绞"
+    ],
+    "opposite": [
+      "心花怒放",
+      "喜笑颜开"
+    ],
+    "id": "xin-ru-dao-ge"
+  },
+  {
+    "chinese": "拾人涕唾",
+    "pinyin": "shí rén tì tuò",
+    "literal": "pick up, others, snot, spit",
+    "meaning": "Literally meaning 'picking up other people's snot and spit,' this idiom is a derogatory metaphor for someone who lacks any original ideas of their own and merely copies or repeats the statements and opinions of others. It is commonly used to criticize unoriginal scholarship, writing, or commentary.",
+    "origin": "The idiom traces back to the Song Dynasty scholar Yan Yu's work 'Canglang Poetry Talks' (《沧浪诗话》), in his 'Reply Letter to Wu Jingxian' (答吴景先书). In the letter, Yan Yu argues that genuine poetic attainment comes from one's own hard-won insight, stating that he broke through new ground through solitary study rather than by leaning on others' fences and picking up their discarded words—'拾人涕唾.' The phrase thus arose as a sharp critique of literary imitation, emphasizing that true creation demands original labor rather than borrowed ornament.",
+    "example_zh": "他这番言论拾人涕唾，毫无自己的见解。",
+    "example_en": "His remarks merely parrot others, entirely lacking any original insight of his own.",
+    "category": "Knowledge",
+    "similar": [
+      "拾人牙慧",
+      "人云亦云",
+      "鹦鹉学舌"
+    ],
+    "opposite": [
+      "独树一帜",
+      "自出机杼"
+    ],
+    "id": "shi-ren-ti-tuo"
+  },
+  {
+    "chinese": "烟销灰灭",
+    "pinyin": "yān xiāo huī miè",
+    "literal": "smoke, dissipate, ash, extinguish",
+    "meaning": "A metaphor for things disappearing completely without a trace. It likens the total vanishing of wealth, power, or worldly glory to smoke dispersing and ashes being extinguished. Often used to lament the impermanence of worldly things.",
+    "origin": "This idiom originates from the preface to Yuan dynasty scholar Liu Qi's work 'Gui Qian Zhi' (《归潜志》). In the preface, Liu Qi reflects that over twenty years he had witnessed many powerful and wealthy individuals whose splendor once blazed like fire, yet after suffering chaos and upheaval, they all vanished like smoke and ash without remainder. The phrase expresses his sorrow over the impermanence of glory amid war and calamity.",
+    "example_zh": "历经战火洗礼，曾经辉煌的古城如今烟销灰灭。",
+    "example_en": "After enduring the ravages of war, the once-glorious ancient city has vanished like smoke and ash.",
+    "category": "Condition",
+    "similar": [
+      "烟消云散",
+      "灰飞烟灭",
+      "冰消瓦解"
+    ],
+    "opposite": [
+      "万古长青",
+      "永垂不朽"
+    ],
+    "id": "yan-xiao-hui-mie"
+  },
+  {
+    "chinese": "人非木石",
+    "pinyin": "rén fēi mù shí",
+    "literal": "person, not, wood, stone",
+    "meaning": "People are not made of wood or stone. It means that human beings have thoughts and feelings, and can be easily moved by external events, unlike lifeless, senseless, and emotionless trees and stones.",
+    "origin": "The idiom originates from a letter titled 'Bao Ren Shao Qing Shu' (Letter to Ren Shaoqing) written by Sima Qian, a famous historian of the Han Dynasty. In the letter, Sima Qian lamented his unjust imprisonment and severe punishment, writing that he was 'not made of wood and stone' to endure such suffering alone without anyone to confide in. The letter expressed his deep anguish and the emotional torment he experienced. The phrase has since become a classical way to emphasize that humans possess tender feelings and can be deeply affected by circumstance.",
+    "example_zh": "听到老友离世的噩耗，他人非木石，怎能不悲痛万分？",
+    "example_en": "Hearing the news of his old friend's passing, he is only human—how could he not be overcome with grief?",
+    "category": "Emotion",
+    "similar": [
+      "人非草木",
+      "铁石心肠",
+      "七情六欲"
+    ],
+    "opposite": [
+      "铁石心肠",
+      "麻木不仁"
+    ],
+    "id": "ren-fei-mu-shi"
+  },
+  {
+    "chinese": "超然自引",
+    "pinyin": "chāo rán zì yǐn",
+    "literal": "transcendently, thus, self, withdraw",
+    "meaning": "To rise above worldly affairs and voluntarily withdraw from contention or office. It describes a person who, having understood the limits of fortune and power, chooses to step back with dignity and detachment.",
+    "origin": "The phrase originates from the preface to 'Ode on the Heroic Men' (《豪士赋序》) by Lu Ji (陆机), a renowned literatus of the Western Jin dynasty (晋朝). In the preface, Lu Ji reflects on the philosophy of knowing when to retreat: he argues that those who comprehend the way of heaven (天道) understand that fullness cannot endure and perfection cannot be surpassed. Such a person should therefore withdraw with dignity, bowing out with hands clasped high in farewell.",
+    "example_zh": "功成名就之后，他选择超然自引，远离朝堂纷争。",
+    "example_en": "Having achieved success and fame, he chose to transcendently withdraw, distancing himself from the court's conflicts.",
+    "category": "Attitude",
+    "similar": [
+      "功成身退",
+      "急流勇退",
+      "挂冠归隐"
+    ],
+    "opposite": [
+      "贪位慕禄",
+      "尸位素餐"
+    ],
+    "id": "chao-ran-zi-yin"
+  },
+  {
+    "chinese": "淡写轻描",
+    "pinyin": "dàn xiě qīng miáo",
+    "literal": "light, write, gentle, depict",
+    "meaning": "An idiom describing a delicate, gentle, and detailed style of writing or depiction. It originally referred to the unhurried, leisurely prose style of traditional novels, where scenes unfold softly and gradually rather than with dramatic emphasis.",
+    "origin": "The phrase originates from Huang Yuanyong (黄远庸), an influential journalist and essayist of the late Qing and early Republican era, in his work \"新剧杂论·说脚本\" (Miscellaneous Essays on New Drama: On Scripts). Contrasting novels with stage scripts, he observed that novels could unfold leisurely and windingly with light, delicate description — like a traveler on a long road who pauses at relay stations every few miles. The phrase thus evokes a meandering, finely textured narrative style.",
+    "example_zh": "作者在小说中淡写轻描地刻画人物的内心世界。",
+    "example_en": "In the novel, the author delicately and gently portrays the inner world of the characters.",
+    "category": "Method",
+    "similar": [
+      "轻描淡写",
+      "精雕细刻",
+      "工笔细描"
+    ],
+    "opposite": [
+      "浓墨重彩",
+      "大刀阔斧"
+    ],
+    "id": "dan-xie-qing-miao"
+  },
+  {
+    "chinese": "谢兰燕桂",
+    "pinyin": "xiè lán yàn guì",
+    "literal": "Xie's orchids, Yan's cassia",
+    "meaning": "A metaphor for talented nephews and younger descendants who bring honor and glory to their family. It pairs two classical references celebrating the excellence of younger generations within a distinguished household.",
+    "origin": "The idiom fuses two historical allusions. \"Xie's orchids\" abbreviates \"Xie ting lan yu\" (orchids and jade trees in Xie's courtyard), referring to the gifted nephews of Eastern Jin statesman Xie An, whose young relatives were famously likened to orchids and jade trees. \"Yan's cassia\" comes from the Song History's biography of Dou Yi: Dou Yi and his four brothers all passed the imperial examinations, prompting official Feng Dao to write a poem for their father Dou Yujun reading \"one aged spiritual cedar, five fragrant cassia branches.\" The five Dou brothers were celebrated as the Five Dragons of Yan Mountain (燕山五龙).",
+    "example_zh": "他家子弟个个才华横溢，真可谓谢兰燕桂，光耀门楣。",
+    "example_en": "Every child in his family is brilliantly talented—truly Xie's orchids and Yan's cassia, bringing glory to the household.",
+    "category": "Quality",
+    "similar": [
+      "谢庭兰玉",
+      "兰桂齐芳",
+      "芝兰玉树"
+    ],
+    "opposite": [
+      "不肖子孙",
+      "败家之子"
+    ],
+    "id": "xie-lan-yan-gui"
+  },
+  {
+    "chinese": "一模一样",
+    "pinyin": "yī mó yī yàng",
+    "literal": "one, mold, one, appearance",
+    "meaning": "Used to describe two or more things that are exactly identical in appearance, shape, or characteristics, with no discernible difference. It emphasizes perfect sameness, as if cast from the same mold.",
+    "origin": "This idiom traces back to Chapter 54 of Wu Jingzi's Qing Dynasty novel 'The Scholars' (《儒林外史》). In the scene, a character looks up and sees a sallow-faced, bald-headed person who looks exactly like the nun who had grabbed him in a dream the day before, which instantly upsets him. The phrase literally means 'one mold, one appearance,' conveying the idea of being shaped from the very same mold. Over time it has become a common expression for any two things that are indistinguishable from each other.",
+    "example_zh": "这两件衣服看起来一模一样，其实质量差很多。",
+    "example_en": "These two pieces of clothing look exactly the same, but their quality is actually very different.",
+    "category": "Quality",
+    "similar": [
+      "如出一辙",
+      "毫无二致",
+      "别无二致"
+    ],
+    "opposite": [
+      "截然不同",
+      "天差地别"
+    ],
+    "id": "yi-mo-yi-yang"
+  },
+  {
+    "chinese": "划一不二",
+    "pinyin": "huà yī bù èr",
+    "literal": "drawn one, not two",
+    "meaning": "Originally it referred to selling goods at a fixed price without any discount. By extension, it describes someone whose manner of doing things is rigid, uniform, and inflexible, allowing no deviation or exception.",
+    "origin": "The phrase traces back to the Han Dynasty work 'Book of Han: Biography of Cao Shen' (《汉书·曹参传》), which records how Xiao He (萧何), the first chancellor of the Han Dynasty under Emperor Gaozu, established laws that were clear, uniform, and consistent, described as 'as if drawn with one line' (讲若画一). When Cao Shen (曹参) succeeded him as chancellor, he preserved Xiao He's laws without alteration, giving rise to the famous saying about following established rules. Over centuries the expression evolved to denote acting with unwavering uniformity and no compromise.",
+    "example_zh": "这家老店规矩严格，售价划一不二，从不打折。",
+    "example_en": "The old shop keeps strict rules and sells at fixed prices without exception, never offering discounts.",
+    "category": "Method",
+    "similar": [
+      "一成不变",
+      "千篇一律",
+      "说一不二"
+    ],
+    "opposite": [
+      "随机应变",
+      "灵活变通"
+    ],
+    "id": "hua-yi-bu-er"
+  },
+  {
+    "chinese": "长吁短叹",
+    "pinyin": "cháng xū duǎn tàn",
+    "literal": "long, sigh, short, sigh",
+    "meaning": "To keep sighing with long and short breaths continuously. It describes a distressed or worried look, often shown through repeated sighing. The idiom conveys a melancholic mood arising from anxiety, sorrow, or frustration.",
+    "origin": "This idiom originates from the Yuan dynasty collection 'Yuefu Qunzhu' (乐府群珠), in an anonymous poem titled 'Jinzi Jing' (金字经), which contains the line 'three or two sounds of short sighs and long sighs.' It also famously appears in Wang Shifu's classic Yuan dynasty play 'Romance of the Western Chamber' (西厢记), where the lovesick scholar Zhang Junrui sighs endlessly thinking of Cui Yingying. Through these classical literary works, the phrase became a standard expression for depicting deep worry and melancholy.",
+    "example_zh": "他最近总是愁眉不展，整天长吁短叹的，不知出了什么事。",
+    "example_en": "He's been frowning and sighing endlessly all day; I wonder what could have happened.",
+    "category": "Emotion",
+    "similar": [
+      "唉声叹气",
+      "愁眉苦脸",
+      "长嘘短叹"
+    ],
+    "opposite": [
+      "喜笑颜开",
+      "欢呼雀跃"
+    ],
+    "id": "chang-xu-duan-tan"
+  },
+  {
+    "chinese": "石沉大海",
+    "pinyin": "shí chén dà hǎi",
+    "literal": "stone, sink, big, sea",
+    "meaning": "A stone sinking to the bottom of the sea. It is used metaphorically to describe a message, letter, or inquiry that disappears without any response or news. The idiom conveys a complete and enduring silence following an action that should have produced a reply.",
+    "origin": "The idiom originates from Wang Shifu's Yuan Dynasty drama 'Romance of the Western Chamber' (《西厢记》), specifically Book Four, Act One, where the line reads 'If he does not come, it is like a stone sinking into the sea.' The imagery evokes a heavy stone dropped into the ocean, vanishing without a trace beneath the waves. Later classical works such as Li Ruzhen's Qing Dynasty novel 'Flowers in the Mirror' (《镜花缘》) reused the phrase to describe fruitless searches. Over centuries it has become a standard metaphor for unanswered letters and lost contact.",
+    "example_zh": "信件寄出后如石沉大海，至今没有半点回音。",
+    "example_en": "After the letter was sent, it was like a stone dropped into the sea — to this day there has not been the slightest reply.",
+    "category": "Communication",
+    "similar": [
+      "杳无音信",
+      "泥牛入海",
+      "音信杳然"
+    ],
+    "opposite": [
+      "鸿雁传书",
+      "佳音频传"
+    ],
+    "id": "shi-chen-da-hai"
+  },
+  {
+    "chinese": "从俗浮沉",
+    "pinyin": "cóng sú fú chén",
+    "literal": "follow, custom, float, sink",
+    "meaning": "To drift with the currents of society, rising and falling as circumstances change. It describes adapting oneself to prevailing customs and trends rather than resisting them. The phrase carries a tone of worldly resignation or pragmatic flexibility.",
+    "origin": "The phrase originates from a letter titled 'Bào Rèn Shàoqīng Shū' (Letter to Ren Shaoqing), written by the Han dynasty historian Sima Qian after he had suffered the humiliating punishment of castration. In the letter, he explains why he chose to live on in disgrace rather than take his own life, stating that he would 'follow the ways of the world, floating or sinking with the times' so that he might complete his great historical work, the 'Records of the Grand Historian' (Shiji). The line expresses both his submission to circumstance and his hidden resolve.",
+    "example_zh": "他性情恬淡，仕途上从俗浮沉，从不强求功名。",
+    "example_en": "With a placid temperament, he drifted along with the ups and downs of officialdom, never forcing his way toward fame.",
+    "category": "Attitude",
+    "similar": [
+      "随波逐流",
+      "与时俯仰",
+      "与世推移"
+    ],
+    "opposite": [
+      "特立独行",
+      "卓尔不群"
+    ],
+    "id": "cong-su-fu-chen"
+  },
+  {
+    "chinese": "大车以载",
+    "pinyin": "dà chē yǐ zài",
+    "literal": "big, cart, by means of, carry",
+    "meaning": "A large, sturdy cart is capable of bearing heavy loads. Metaphorically, it describes a person of great talent and ability who can shoulder major responsibilities and demanding duties.",
+    "origin": "Originates from the Zhou Dynasty divination classic 'I Ching' (Book of Changes), specifically the 'Da You' (Great Possession) hexagram. The original text reads '大车以载，有攸往无咎' — using a large cart to carry heavy goods, one may proceed without fault. The image of a strong cart bearing weight serves as a metaphor for a capable person entrusted with significant responsibilities.",
+    "example_zh": "他能力出众，大车以载，被董事会一致推举为新任董事长。",
+    "example_en": "With outstanding ability and the capacity to shoulder great responsibility, he was unanimously elected as the new chairman by the board.",
+    "category": "Quality",
+    "similar": [
+      "栋梁之材",
+      "中流砥柱",
+      "委以重任"
+    ],
+    "opposite": [
+      "大材小用",
+      "不堪重任"
+    ],
+    "id": "da-che-yi-zai"
+  },
+  {
+    "chinese": "兼程前进",
+    "pinyin": "jiān chéng qián jìn",
+    "literal": "double, journey, forward, advance",
+    "meaning": "To travel at double pace, covering two days' journey in one day. It figuratively describes hastening one's progress and pressing rapidly onward toward a destination or goal.",
+    "origin": "The phrase traces back to the 'Records of the Three Kingdoms (Sanguozhi), Biography of Jia Kui,' where the general Jia Kui 'marched his troops at double speed (jiān dào), setting up many flags and drums as a feint force' to gain a tactical advantage during the Three Kingdoms period. The expression captures the military tactic of accelerating one's march to seize the initiative. Later writers such as Cao Xueqin in 'Dream of the Red Chamber' used the phrase to describe travelers hurrying onward without pausing to enjoy the scenery.",
+    "example_zh": "为了按时抵达灾区，救援队一路兼程前进，片刻也不敢耽搁。",
+    "example_en": "To reach the disaster zone on time, the rescue team pressed onward at double pace, not daring to delay for even a moment.",
+    "category": "Action",
+    "similar": [
+      "兼程而进",
+      "倍道而行",
+      "星夜兼程"
+    ],
+    "opposite": [
+      "蜗行牛步",
+      "缓步徐行"
+    ],
+    "id": "jian-cheng-qian-jin"
+  },
+  {
+    "chinese": "锦营花阵",
+    "pinyin": "jǐn yíng huā zhèn",
+    "literal": "brocade, camp, flower, formation",
+    "meaning": "A metaphor for places of romantic pleasure, particularly brothels and entertainment quarters. The phrase uses ornate imagery—brocade tents and flower-like arrangements—to evoke the seductive allure of such venues. It often carries a cautionary undertone about the dangers hidden behind beautiful facades.",
+    "origin": "This idiom first appears in Act Four of the Yuan Dynasty play 'Yun Chuang Meng' (《云窗梦》) by an anonymous author, in the line '锦营花阵，偎红倚翠' (brocade camps and flower formations, cuddling the red and leaning on the green). It was later famously quoted by the Ming Dynasty playwright Meng Chengshun (孟称舜) in his play 'Si Li Tao Sheng' (《死里逃生》), where the beautiful imagery is contrasted with hidden peril. The phrase draws on military imagery—'营' (camp) and '阵' (formation)—reimagined as ornate pleasure quarters.",
+    "example_zh": "他年轻时沉迷锦营花阵，荒废了大好前程。",
+    "example_en": "In his youth, he squandered his promising future by losing himself in the pleasure quarters.",
+    "category": "Lifestyle",
+    "similar": [
+      "偎红倚翠",
+      "寻花问柳",
+      "秦楼楚馆"
+    ],
+    "opposite": [
+      "坐怀不乱",
+      "清心寡欲"
+    ],
+    "id": "jin-ying-hua-zhen"
+  },
+  {
+    "chinese": "弃末反本",
+    "pinyin": "qì mò fǎn běn",
+    "literal": "discard, branch, return, root",
+    "meaning": "In ancient Chinese economic thought, this referred to abandoning commerce and crafts (the 'branches') to return to agriculture and sericulture (the 'root'). It embodies the traditional policy of valuing farming as the foundation of society while restraining mercantile pursuits.",
+    "origin": "The idiom originates from ancient Chinese agrarian philosophy prominent during the Warring States and Han dynasty periods. Thinkers such as those in the Legalist and Confucian traditions held that agriculture was the 'root' (本) of a stable state, while commerce and crafts were the 'branches' (末). Rulers and reformers, notably under Emperor Wen and Emperor Wu of Han, promoted policies of 'valuing the fundamental and restraining the secondary' (重本抑末) to secure grain production and social order. The phrase is also written as 弃末返本.",
+    "example_zh": "古人重农抑商，提倡弃末反本，以求富国强兵。",
+    "example_en": "The ancients valued farming over commerce and advocated returning to agriculture as the root, seeking to enrich the state and strengthen the military.",
+    "category": "Philosophy",
+    "similar": [
+      "务本抑末",
+      "重农抑商",
+      "返璞归真"
+    ],
+    "opposite": [
+      "舍本逐末",
+      "本末倒置"
+    ],
+    "id": "qi-mo-fan-ben"
+  },
+  {
+    "chinese": "生动活泼",
+    "pinyin": "shēng dòng huó pō",
+    "literal": "alive, moving, lively, spirited",
+    "meaning": "Vivid and lively, full of life and energy. It describes content, forms, or atmospheres that are rich, engaging, and dynamic rather than dull or rigid.",
+    "origin": "This is a modern descriptive phrase rather than a classical idiom with a literary origin. It combines 生 (life), 动 (movement), 活 (liveliness), and 泼 (spiritedness) to evoke a sense of vitality. It became widely used in twentieth-century Chinese to characterize discussions, articles, gatherings, and educational activities that are engaging and varied in form and content.",
+    "example_zh": "这次联欢会的节目安排得非常生动活泼，大家都十分尽兴。",
+    "example_en": "The programs at this get-together were arranged so vividly and lively that everyone had a wonderful time.",
+    "category": "Quality",
+    "similar": [
+      "栩栩如生",
+      "活灵活现",
+      "朝气蓬勃"
+    ],
+    "opposite": [
+      "死气沉沉",
+      "呆板乏味"
+    ],
+    "id": "sheng-dong-huo-po"
+  },
+  {
+    "chinese": "变化无穷",
+    "pinyin": "biàn huà wú qióng",
+    "literal": "change, transform, without, end",
+    "meaning": "Describes something that continuously changes without ever reaching an end or limit. It emphasizes the inexhaustible, ceaseless nature of transformation, often used for phenomena that are endlessly varied and impossible to fully anticipate.",
+    "origin": "This idiom originates from 'Gaotang Fu' (《高唐赋》), a celebrated rhapsody composed by Song Yu, a poet of the Chu state during the Warring States period. In the original passage, Song Yu describes the mist and clouds swirling around Mount Gaotang, noting that 'in an instant, the changes are without end.' The phrase vividly captures the ceaseless, ever-shifting transformations of natural scenery as imagined by one of ancient China's great literary masters.",
+    "example_zh": "春天的天气变化无穷，早上还艳阳高照，下午就下起了大雨。",
+    "example_en": "Spring weather is endlessly variable—the morning may be bright and sunny, yet by afternoon a heavy rain can fall.",
+    "category": "Variety",
+    "similar": [
+      "千变万化",
+      "变幻莫测",
+      "瞬息万变"
+    ],
+    "opposite": [
+      "一成不变",
+      "千篇一律"
+    ],
+    "id": "bian-hua-wu-qiong"
+  },
+  {
+    "chinese": "素未谋面",
+    "pinyin": "sù wèi móu miàn",
+    "literal": "usually, not yet, meet, face",
+    "meaning": "It means two people have never met each other in person before. The phrase is commonly used to describe strangers or online acquaintances who have interacted but never seen one another face to face.",
+    "origin": "Unlike many classical chengyu tied to a specific historical anecdote, this expression has no single textual origin and developed from everyday literary usage. '素' means 'ordinarily' or 'all along,' '未' means 'not yet,' and '谋面' is a classical term for 'to meet face to face.' It appears in modern Chinese fiction, correspondence, and journalism to emphasize that two parties have no prior personal acquaintance despite possibly knowing of each other.",
+    "example_zh": "我和这位网友素未谋面，却聊得十分投机。",
+    "example_en": "I have never met this online friend in person, yet we chat very congenially.",
+    "category": "Status",
+    "similar": [
+      "素不相识",
+      "素昧平生"
+    ],
+    "opposite": [
+      "一见如故"
+    ],
+    "id": "su-wei-mou-mian"
+  },
+  {
+    "chinese": "倚门卖笑",
+    "pinyin": "yǐ mén mài xiào",
+    "literal": "lean, door, sell, smile",
+    "meaning": "An old expression describing the life of prostitutes who would stand at doorways enticing passersby with smiles. It depicts the profession of selling one's charms for a living in ancient society.",
+    "origin": "The phrase traces back to Sima Qian's 'Records of the Grand Historian' (史记·货殖列传) from the Western Han dynasty, where the original line reads '刺绣文不如倚市门' — 'embroidering fine patterns is not as profitable as leaning against the marketplace door.' The remark noted the stark economic reality that skilled handicraft earned less than prostitution. Over time the expression evolved into '倚门卖笑' to specifically describe women luring customers at the doorway.",
+    "example_zh": "旧社会里，许多穷苦女子被迫倚门卖笑，过着屈辱的生活。",
+    "example_en": "In the old society, many impoverished women were forced into a life of soliciting at doorways, living in humiliation.",
+    "category": "Lifestyle",
+    "similar": [
+      "卖笑生涯",
+      "烟花柳巷",
+      "青楼卖笑"
+    ],
+    "opposite": [
+      "安分守己",
+      "贞洁自守"
+    ],
+    "id": "yi-men-mai-xiao"
+  },
+  {
+    "chinese": "深居简出",
+    "pinyin": "shēn jū jiǎn chū",
+    "literal": "deep, dwell, sparingly, go out",
+    "meaning": "Originally referred to wild beasts hiding in dense, remote places and rarely appearing. By extension, it describes someone who stays at home most of the time and seldom goes out into society. It conveys a reclusive or retiring lifestyle.",
+    "origin": "The phrase originates from the Tang Dynasty writer Han Yu (韩愈), in his preface 'Preface Sending Off the Monk Wenchang' (《送浮屠文畅师序》). He observed that beasts dwell deep in the mountains and rarely venture out, fearing that other creatures might harm them—yet even so, they cannot entirely escape danger. Later writers such as Qin Guan of the Song Dynasty adopted the expression to describe scholars who, after withdrawing from public life, lived secluded and disciplined, rarely engaging with the outside world.",
+    "example_zh": "他退休后深居简出，整日读书写字，很少与外人往来。",
+    "example_en": "After retiring, he lives a secluded life, reading and practicing calligraphy all day, with little contact with the outside world.",
+    "category": "Lifestyle",
+    "similar": [
+      "闭门不出",
+      "足不出户",
+      "遁世隐居"
+    ],
+    "opposite": [
+      "抛头露面",
+      "走南闯北"
+    ],
+    "id": "shen-ju-jian-chu"
+  },
+  {
+    "chinese": "百载树人",
+    "pinyin": "bǎi zǎi shù rén",
+    "literal": "hundred, years, cultivate, people",
+    "meaning": "It takes a hundred years to cultivate a person. It means that nurturing talent is a long-term endeavor requiring sustained effort and patience. It is a variant of the more common idiom \"百年树人.\"",
+    "origin": "The phrase echoes a passage in the ancient text Guanzi (《管子·权修》), a Warring States period work attributed to the statesman Guan Zhong of Qi: \"For a year's plan, plant grain; for ten years' plan, plant trees; for a lifetime's plan, cultivate people.\" The exact wording \"百载树人\" appears in the fifth act of the Cantonese opera Sou Shuyuan (《搜书院》), where a character declares that cultivating people is his lifelong aspiration. Through this lineage, the idiom underscores that educating and developing talent is a project spanning generations.",
+    "example_zh": "教育是民族复兴的根本，正所谓百载树人，必须从长计议。",
+    "example_en": "Education is the foundation of national rejuvenation; as the saying goes, cultivating talent takes a hundred years, so it must be planned for the long term.",
+    "category": "Education",
+    "similar": [
+      "百年树人",
+      "十年树木",
+      "作育英才"
+    ],
+    "opposite": [
+      "拔苗助长",
+      "急功近利"
+    ],
+    "id": "bai-zai-shu-ren"
+  },
+  {
+    "chinese": "刮肠洗胃",
+    "pinyin": "guā cháng xǐ wèi",
+    "literal": "scrape intestines, wash stomach",
+    "meaning": "An idiom describing the determination to thoroughly repent and correct past mistakes in order to start anew. It conveys a visceral willingness to undergo painful self-reform, as if scouring one's inner self clean.",
+    "origin": "The phrase originates from the 'Biography of Xun Boyu' in the 'History of the Southern Dynasties' (南史·荀伯玉传), a work documenting the Southern Dynasties period. Xun Boyu, a loyal official, used striking imagery to express his resolve to reform if given the chance, saying he would 'swallow swords to scrape his intestines and drink ashes to wash his stomach.' The metaphor was meant to demonstrate the extremity of his contrition and commitment to becoming a better person. Over time, the full phrase was condensed into the four-character idiom '刮肠洗胃'.",
+    "example_zh": "出狱之后，他决心刮肠洗胃，从此告别过去那段不堪回首的生活。",
+    "example_en": "After his release from prison, he resolved to completely turn his life around and leave behind that shameful chapter of his past.",
+    "category": "Recovery",
+    "similar": [
+      "痛改前非",
+      "洗心革面",
+      "改过自新"
+    ],
+    "opposite": [
+      "执迷不悟",
+      "死不改悔"
+    ],
+    "id": "gua-chang-xi-wei"
+  },
+  {
+    "chinese": "不偏不倚",
+    "pinyin": "bù piān bù yǐ",
+    "literal": "not, lean, not, incline",
+    "meaning": "The phrase means to be impartial, taking neither side in a dispute. It describes an attitude of neutrality, fairness, and objectivity without favoritism or prejudice. It is closely associated with the Confucian doctrine of the Mean, advocating balance and avoidance of extremes.",
+    "origin": "The idiom originates from Zhu Xi's preface to 'Zhongyong Zhangju' (Commentary on the Doctrine of the Mean), written during the Song Dynasty. Zhu Xi was a leading Neo-Confucian philosopher who compiled the Four Books as the foundation of Confucian education. In his annotation, he defined the concept of 'zhong' (中, the central Mean) as 'not leaning, not inclining, neither excessive nor deficient' (不偏不倚，无过不及). Through this commentary, the phrase became a lasting expression of Confucian impartiality and the philosophy of the golden mean.",
+    "example_zh": "裁判在比赛中保持不偏不倚的态度，赢得了观众的尊重。",
+    "example_en": "The referee maintained an impartial attitude throughout the match, earning the respect of the audience.",
+    "category": "Morality",
+    "similar": [
+      "中庸之道",
+      "一视同仁",
+      "大公无私"
+    ],
+    "opposite": [
+      "偏听偏信",
+      "厚此薄彼"
+    ],
+    "id": "bu-pian-bu-yi"
+  },
+  {
+    "chinese": "一路福星",
+    "pinyin": "yī lù fú xīng",
+    "literal": "one, road, fortune, star",
+    "meaning": "Originally referred to a virtuous official who brought blessings to the people under his jurisdiction, likened to an auspicious star that brings good fortune. It later became a polite expression wishing someone a safe and pleasant journey. The idiom conveys the hope that good luck will accompany a traveler along the way.",
+    "origin": "The idiom originates from the Song Dynasty, where '路' (lù) referred to an administrative district rather than a road, and '福星' (fú xīng) denotes Jupiter (岁星), traditionally regarded as an auspicious star. In his 'Biography of Xianyu Zijun' (鲜于子骏行状), the scholar Qin Guan lamented the loss of such a benevolent official, writing that 'the fortune star has departed, how could we get a hundred Zijun posted across the realm?' Song-era writer Dai Yi similarly praised good governance in his 'Congratulatory Letter to Chen Daizhi,' associating fortune stars with the songs of the people along the road. Over time, the phrase shifted from praising virtuous officials to a courteous blessing for travelers.",
+    "example_zh": "老朋友要远行，我祝他一路福星，平安到达目的地。",
+    "example_en": "As my old friend was about to depart on a long journey, I wished him safe travels under the protection of an auspicious star, arriving peacefully at his destination.",
+    "category": "Communication",
+    "similar": [
+      "一路平安",
+      "一帆风顺",
+      "一路顺风"
+    ],
+    "opposite": [
+      "凶多吉少",
+      "多灾多难"
+    ],
+    "id": "yi-lu-fu-xing"
+  },
+  {
+    "chinese": "分化瓦解",
+    "pinyin": "fēn huà wǎ jiě",
+    "literal": "divide, transform, tile, dissolve",
+    "meaning": "To split apart and disintegrate an opposing force or group. It refers to weakening an adversary by breaking their unity and causing internal collapse. Often used in political or military contexts to describe strategic efforts to make enemies surrender or disperse.",
+    "origin": "The phrase appears in Qin Mu's essay '湘阴热浪记' (Notes on the Heat of Xiangyin), where he describes how for small bands of bandits who still harbored hesitation, officials used policy-based psychological warfare to divide and disintegrate them, ultimately forcing their surrender. The term combines 分化 (to cause divisions among) and 瓦解 (to collapse like tiles breaking apart). It reflects classical Chinese strategic thinking about defeating enemies not only through force but by eroding their cohesion from within.",
+    "example_zh": "敌人内部矛盾重重，我们可以用政策攻心来分化瓦解他们。",
+    "example_en": "The enemy is rife with internal conflicts; we can use psychological warfare to divide and disintegrate them.",
+    "category": "Method",
+    "similar": [
+      "分崩离析",
+      "离间瓦解",
+      "各个击破"
+    ],
+    "opposite": [
+      "团结一致",
+      "众志成城"
+    ],
+    "id": "fen-hua-wa-jie"
+  },
+  {
+    "chinese": "广见洽闻",
+    "pinyin": "guǎng jiàn qià wén",
+    "literal": "broad, see, extensive, hear",
+    "meaning": "To see widely and hear much. It describes a person whose knowledge and experience are extensive and well-rounded. The term emphasizes having broad exposure through both observation and learning.",
+    "origin": "This idiom originates from the Tang dynasty writer Yang Jiong (杨炯), specifically from his inscription on the spirit way stele for Li Chucai, magistrate of Baiquan County. In praising Li Chucai's talents and learning, Yang Jiong wrote that he could harmonize the eight tones and master the ninefold music, and that his broad knowledge was like opening five carts of books and reciting three chests of texts. The phrase has since been used to praise those with extensive learning and worldly experience.",
+    "example_zh": "他一生游历四方，广见洽闻，对各地风土人情颇有心得。",
+    "example_en": "Having traveled widely throughout his life and seen much of the world, he had genuine insight into the customs and ways of various regions.",
+    "category": "Knowledge",
+    "similar": [
+      "见多识广",
+      "博闻强识",
+      "博学多闻"
+    ],
+    "opposite": [
+      "孤陋寡闻",
+      "井底之蛙"
+    ],
+    "id": "guang-jian-qia-wen"
+  },
+  {
+    "chinese": "送故迎新",
+    "pinyin": "sòng gù yíng xīn",
+    "literal": "send off the old, welcome the new",
+    "meaning": "Originally referred to the ceremonial practice of bidding farewell to departing officials and welcoming newly appointed replacements. It is now also used more generally for personnel turnover or the comings and goings of social life. The phrase conveys the cyclical nature of replacement and succession.",
+    "origin": "The idiom originates from the 'Book of Han' (汉书), specifically the biography of Wang Jia (王嘉), a high-ranking official during the Western Han dynasty. Wang Jia memorialized the throne, lamenting that officials would often serve only a few months before being replaced, with the constant process of sending off the old and welcoming the new clogging the roads. He criticized the instability this brought to governance. The phrase later extended beyond official transfers to describe any cyclical succession of people.",
+    "example_zh": "每逢岁末，公司里送故迎新，人来人往，早已见怪不怪。",
+    "example_en": "At the end of each year, the company sees a constant turnover—bidding farewell to old colleagues and welcoming new ones—which has long become unremarkable.",
+    "category": "Status",
+    "similar": [
+      "新陈代谢",
+      "送往迎来",
+      "除旧布新"
+    ],
+    "opposite": [
+      "一成不变",
+      "故步自封"
+    ],
+    "id": "song-gu-ying-xin"
+  },
+  {
+    "chinese": "戛玉敲冰",
+    "pinyin": "jiá yù qiāo bīng",
+    "literal": "strike jade, knock ice",
+    "meaning": "Literally 'striking jade and knocking ice,' this idiom describes a sound that is rhythmic, resonant, and delightfully clear to the ear. It is most often applied to singing, recitation, or music whose tone is crisp and musical. Figuratively, it can also characterize a person of upright and awe-inspiring moral integrity.",
+    "origin": "The phrase originates from the Tang Dynasty poet Bai Juyi's work 'Listening to Tian Shun'er Sing' (《听田顺儿歌》), where he wrote the line '戛玉敲冰声未停，嫌云不遏入青冥' ('The sound of striking jade and knocking ice does not cease; one might complain the clouds do not halt its passage into the blue heavens'). Bai Juyi uses the imagery of percussion on jade and ice to evoke the crisp, luminous quality of the singer Tian Shun'er's voice. The poem praises how her singing carried beautifully through the air, as if piercing the clouds.",
+    "example_zh": "她的歌声戛玉敲冰，令在场听众沉醉其中。",
+    "example_en": "Her singing voice was as crisp and resonant as striking jade and tapping ice, leaving the audience utterly mesmerized.",
+    "category": "Quality",
+    "similar": [
+      "铿锵悦耳",
+      "珠圆玉润",
+      "抑扬顿挫"
+    ],
+    "opposite": [
+      "不堪入耳",
+      "其声如犬"
+    ],
+    "id": "jia-yu-qiao-bing"
+  },
+  {
+    "chinese": "急于星火",
+    "pinyin": "jí yú xīng huǒ",
+    "literal": "urgent, than, star, fire",
+    "meaning": "Like a shooting star flashing swiftly across the sky. It describes a situation that is extremely urgent and pressing, demanding immediate action. Often used to characterize summonses, orders, or needs that brook no delay.",
+    "origin": "The phrase comes from 'Chen Qing Biao' (Petition Expressing My Feelings), a famous memorial written by Li Mi of the Western Jin Dynasty to Emperor Wu of Jin. Li Mi wrote the memorial to respectfully decline an official appointment so that he could care for his ailing grandmother. In it he described how local officials kept coming to his door pressing him to take office, writing '州司临门，急于星火' — the authorities arriving at his gate with demands as urgent as a shooting star's flash.",
+    "example_zh": "前线军情急于星火，将军连夜召集幕僚商议对策。",
+    "example_en": "The military situation at the front was as urgent as a shooting star, so the general summoned his advisors overnight to discuss a response.",
+    "category": "Condition",
+    "similar": [
+      "十万火急",
+      "刻不容缓",
+      "迫在眉睫"
+    ],
+    "opposite": [
+      "从容不迫",
+      "慢条斯理"
+    ],
+    "id": "ji-yu-xing-huo"
+  },
+  {
+    "chinese": "擂鼓鸣金",
+    "pinyin": "léi gǔ míng jīn",
+    "literal": "beat the drum, sound the gong",
+    "meaning": "In ancient Chinese warfare, drums were beaten to spur troops forward and gongs were struck to command retreat or signal movements. The phrase describes the dramatic sounding of battlefield instruments to rally soldiers, boost morale, and awe the enemy. By extension, it conveys the act of creating a loud, imposing display of strength or momentum.",
+    "origin": "The phrase originates from the Yuan dynasty anonymous play Wushi Pai (《午时牌》), in the second act. In the cited passage, a commander issues strict battlefield orders to his troops, forbidding them from waving flags and shouting or beating drums and sounding gongs without authorization. It reflects the disciplined use of military signals in classical Chinese warfare, where drums and gongs were essential instruments for coordinating troop movements.",
+    "example_zh": "将军一声令下，全军将士擂鼓鸣金，浩浩荡荡地向敌阵冲去。",
+    "example_en": "At the general's command, the entire army beat the drums and sounded the gongs, surging forward toward the enemy lines in a mighty tide.",
+    "category": "Action",
+    "similar": [
+      "摇旗呐喊",
+      "击鼓鸣金",
+      "战鼓齐鸣"
+    ],
+    "opposite": [
+      "偃旗息鼓"
+    ],
+    "id": "lei-gu-ming-jin"
+  },
+  {
+    "chinese": "自觉自愿",
+    "pinyin": "zì jué zì yuàn",
+    "literal": "self, aware, self, willing",
+    "meaning": "To do something of one's own free will, with conscious awareness and genuine willingness. It describes acting voluntarily without external pressure or coercion, motivated by one's own recognition of the right thing to do.",
+    "origin": "This is a modern Chinese idiom without a classical literary origin. It is formed by the reduplication of the structure '自X自Y', where 觉 means 'to be aware' and 愿 means 'to be willing'. It emerged in everyday usage to emphasize the inner disposition behind an action — distinguishing voluntary action from forced compliance. It is frequently used in moral, civic, and organizational contexts.",
+    "example_zh": "我们要自觉自愿地维护国家和民族的利益。",
+    "example_en": "We should safeguard the interests of the nation and the people of our own free will.",
+    "category": "Attitude",
+    "similar": [
+      "心甘情愿",
+      "自告奋勇",
+      "心甘情服"
+    ],
+    "opposite": [
+      "迫不得已",
+      "勉为其难"
+    ],
+    "id": "zi-jue-zi-yuan"
+  },
+  {
+    "chinese": "攻城略地",
+    "pinyin": "gōng chéng lüè dì",
+    "literal": "attack, city, seize, land",
+    "meaning": "Literally 'to attack cities and seize territory.' It describes military conquest and expansion of dominion by force. In extended usage, it can refer to aggressively expanding one's sphere of influence or market presence in any competitive arena.",
+    "origin": "The phrase originates from the Han Dynasty text 《淮南子·兵略训》, a treatise on military strategy compiled under Liu An (刘安) of the Western Han. The original line '攻城略地，莫不降下' praises the overwhelming momentum of a conquering army, before which every city surrendered. It became a fixed expression denoting victorious territorial expansion through warfare.",
+    "example_zh": "古代战争中，名将们常常攻城略地，以扩张自己的版图。",
+    "example_en": "In ancient warfare, renowned generals would attack cities and seize territory to expand their domains.",
+    "category": "Power",
+    "similar": [
+      "攻城拔寨",
+      "横扫千军",
+      "所向披靡"
+    ],
+    "opposite": [
+      "望风而逃",
+      "节节败退"
+    ],
+    "id": "gong-cheng-lue-di"
+  },
+  {
+    "chinese": "彼众我寡",
+    "pinyin": "bǐ zhòng wǒ guǎ",
+    "literal": "they numerous, we few",
+    "meaning": "A phrase describing a situation in which the opposing side has greater numbers or strength while one's own side is smaller and weaker. It is most often used in military, competitive, or strategic contexts to convey being at a numerical disadvantage.",
+    "origin": "This idiom comes from the Han Feizi, chapter 'Nan Yi' (难一), composed by the Legalist philosopher Han Fei during the late Warring States period. It records a conversation between Duke Wen of Jin (晋文公) and his advisor Jiu Fan (舅犯) on the eve of battle against the state of Chu in the Spring and Autumn period. The Duke asks, 'I am about to fight the Chu army—they are many and we are few; what should I do?' The dialogue illustrates strategic deliberation when facing an outnumbering foe.",
+    "example_zh": "面对彼众我寡的局面，将军依然沉着应战。",
+    "example_en": "Facing a situation where the enemy outnumbered his own troops, the general nonetheless fought back with calm composure.",
+    "category": "Condition",
+    "similar": [
+      "寡不敌众",
+      "敌众我寡",
+      "众寡悬殊"
+    ],
+    "opposite": [
+      "彼寡我众",
+      "势均力敌"
+    ],
+    "id": "bi-zhong-wo-gua"
+  },
+  {
+    "chinese": "大快人心",
+    "pinyin": "dà kuài rén xīn",
+    "literal": "big, satisfying, people's, heart",
+    "meaning": "It describes a situation where bad people or bad deeds are punished or suppressed, bringing great satisfaction and delight to everyone. The phrase conveys the collective sense of justice being served and gratification felt by the public. It is typically used in contexts involving the downfall of villains or corrupt figures.",
+    "origin": "The idiom originates from the Ming dynasty play 'Jiéxiá Jì' (Record of the Chivalrous), specifically the chapter 'Zhū Nìng' (Executing the Flatterer) by playwright Xǔ Sānjiē. In one scene, a character named Lǐ Qínshòu, a notorious villain, is sentenced to death by imperial decree, which is described as 'greatly satisfying to everyone's heart.' The line encourages a senior figure to take the main seat and carry out the execution so that the speaker may witness justice being served firsthand.",
+    "example_zh": "贪官被绳之以法，真是大快人心。",
+    "example_en": "The corrupt official was brought to justice, which was immensely satisfying to everyone.",
+    "category": "Emotion",
+    "similar": [
+      "拍手称快",
+      "普天同庆",
+      "欢欣鼓舞"
+    ],
+    "opposite": [
+      "民怨沸腾",
+      "怨声载道"
+    ],
+    "id": "da-kuai-ren-xin"
+  },
+  {
+    "chinese": "一字千钧",
+    "pinyin": "yī zì qiān jūn",
+    "literal": "one, character, thousand, jun (ancient weight unit)",
+    "meaning": "A single character carries the weight of a thousand jun (an ancient unit equal to thirty catties). It praises writing or speech of tremendous force, gravity, and consequence, where every word is chosen with extraordinary care and wields profound impact.",
+    "origin": "The expression builds upon the tradition established by Zhong Rong of the Liang dynasty (Southern Dynasties), who in his 'Shipin' (Rankings of Poetry) praised ancient verse with the phrase 'one word worth a thousand gold,' describing poetry so moving it startled the soul and gripped the heart. Later writers substituted 'a thousand jun'—an enormous weight measure—for 'a thousand gold' to emphasize not merely the monetary value but the sheer gravitational force of powerful prose. Over centuries the idiom came to describe writings or utterances of unmatched weight and consequence.",
+    "example_zh": "这篇社论笔力雄健，可谓一字千钧，发人深省。",
+    "example_en": "This editorial is written with such force that every word carries tremendous weight, leaving readers deep in thought.",
+    "category": "Quality",
+    "similar": [
+      "一字千金",
+      "字斟句酌",
+      "言简意赅"
+    ],
+    "opposite": [
+      "言之无物",
+      "废话连篇"
+    ],
+    "id": "yi-zi-qian-jun"
+  },
+  {
+    "chinese": "横赋暴敛",
+    "pinyin": "héng fù bào liǎn",
+    "literal": "overbearing, tax, violent, exact",
+    "meaning": "To impose tyrannical taxes and extort wealth from the people by violent means. It describes oppressive rulers who ruthlessly levy heavy burdens and confiscate resources, treating the populace with cruelty and greed. The idiom condemns the exploitative behavior of corrupt or despotic regimes.",
+    "origin": "This idiom originates from a memorial written by the Song dynasty Neo-Confucian scholar Zhu Xi, titled 'Yi You Ni Shang Feng Shi' (A Memorial Drafted in the Yi You Year). Zhu Xi warned that since the state's finances all derive from the people, if expenditures are not controlled and fiscal shortfalls arise, then tyrannical taxation and violent extortion would inevitably fall upon the common folk. He argued that even if a ruler possesses benevolent intentions, the people would not benefit from such grace if they are ground down by oppressive levies. The phrase thus became a lasting critique of despotic governance and the greed of ruling classes throughout Chinese history.",
+    "example_zh": "封建统治者横赋暴敛，致使百姓流离失所、怨声载道。",
+    "example_en": "The feudal rulers imposed ruthless taxes and extorted the people mercilessly, leaving the common folk displaced and filled with grievance.",
+    "category": "Power",
+    "similar": [
+      "横征暴敛",
+      "苛捐杂税",
+      "敲骨吸髓"
+    ],
+    "opposite": [
+      "轻徭薄赋",
+      "休养生息"
+    ],
+    "id": "heng-fu-bao-lian"
+  },
+  {
+    "chinese": "綦溪利跂",
+    "pinyin": "qí xī lì guì",
+    "literal": "extremely-deep, depart-stand-apart",
+    "meaning": "To deliberately act profound and conspicuously set oneself apart from the crowd. It describes someone who cultivates an air of unusual depth and eccentricity merely to appear superior by being different.",
+    "origin": "The phrase comes from the Warring States period text 《荀子·非十二子》, written by the Confucian philosopher Xunzi in the 3rd century BCE. Xunzi used it to criticize thinkers who suppressed their true nature and adopted bizarre, contrarian views merely to flaunt their superiority, arguing such posturing cannot unite the masses or illuminate the great moral principles. The Qing dynasty scholar Wang Xianqian glossed '綦溪' as 'extremely deep' and '利' as a variant of '离' (to depart), portraying a figure who leaves the world behind to stand alone. Another reading interprets the phrase as 'treading a crooked path and delighting in divergent byways instead of the proper road.'",
+    "example_zh": "他学问浅薄却綦溪利跂，总爱提出奇谈怪论来标榜自己与众不同。",
+    "example_en": "Despite his shallow learning, he deliberately acts profound and eccentric, always advancing bizarre theories to flaunt his difference from everyone else.",
+    "category": "Attitude",
+    "similar": [
+      "标新立异",
+      "故弄玄虚",
+      "离群索居"
+    ],
+    "opposite": [
+      "随波逐流",
+      "平易近人"
+    ],
+    "id": "qi-xi-li-gui"
+  },
+  {
+    "chinese": "闻宠若惊",
+    "pinyin": "wén chǒng ruò jīng",
+    "literal": "hear, favor, as if, startled",
+    "meaning": "To be both delighted and uneasy upon receiving favor, appreciation, or praise from someone of higher status. It conveys a sense of humility and surprise that one has been so honored. The phrase is essentially a variant of the more common idiom 受宠若惊.",
+    "origin": "The idiom is a close variant of the well-known phrase 受宠若惊, whose philosophical root traces back to Laozi's Dao De Jing (Chapter 13), where the sage writes '宠辱若惊'—meaning one should treat both favor and disgrace with vigilance and trepidation, since both can unsettle the self. Later writers in the Song dynasty, such as Ouyang Xiu, formalized the sentiment in memorials and letters to the throne, expressing that any imperial kindness left the recipient simultaneously grateful and anxious. The specific wording 闻宠若惊 emerged as a literary alternative, emphasizing the moment of hearing about the favor as the cause of the startled reaction. No single canonical textual origin is recorded for this exact variant.",
+    "example_zh": "接到董事长的亲自邀请，他闻宠若惊，连忙推辞了好几次。",
+    "example_en": "Upon receiving a personal invitation from the chairman, he was both flattered and uneasy, politely declining several times.",
+    "category": "Emotion",
+    "similar": [
+      "受宠若惊",
+      "宠辱若惊"
+    ],
+    "opposite": [
+      "安之若素",
+      "泰然自若"
+    ],
+    "id": "wen-chong-ruo-jing"
+  },
+  {
+    "chinese": "恣无忌惮",
+    "pinyin": "zì wú jì dàn",
+    "literal": "unrestrained, without, scruple, dread",
+    "meaning": "To act in a completely unrestrained and reckless manner, with no scruples or fear of consequences. It describes someone who behaves willfully and brazenly, disregarding all rules, norms, or potential reprimand.",
+    "origin": "The phrase originates from Wu Jianren's Qing dynasty novel 'Strange Events Witnessed in the Past Twenty Years' (二十年目睹之怪现状), Chapter 105. In the scene, a character named Cheng Hui takes over as the household's accountant, and having placed his own loyal followers in every position above and below him, he becomes utterly unrestrained and acts without any scruple or fear. The idiom thus emerged from a depiction of someone abusing newly acquired power with complete disregard for restraint.",
+    "example_zh": "他仗着背后有人撑腰，在公司里恣无忌惮地欺压同事。",
+    "example_en": "Backed by powerful supporters, he bullied his colleagues at the company in a completely brazen and unrestrained manner.",
+    "category": "Attitude",
+    "similar": [
+      "肆无忌惮",
+      "恣意妄为",
+      "横行无忌"
+    ],
+    "opposite": [
+      "谨言慎行",
+      "循规蹈矩"
+    ],
+    "id": "zi-wu-ji-dan"
+  },
+  {
+    "chinese": "博学多闻",
+    "pinyin": "bó xué duō wén",
+    "literal": "widely learned, much heard",
+    "meaning": "This idiom describes a person who has broad, extensive learning and rich, varied experience. It praises someone whose knowledge spans many fields and whose awareness of the world is well-informed.",
+    "origin": "The phrase draws from two classical sources. The 'Book of Rites' (礼记·中庸), a Confucian text from the Zhou dynasty, advises one to 'study broadly, inquire carefully, think cautiously, distinguish clearly, and practice earnestly.' The philosopher Xunzi (荀子), also of the late Warring States period, wrote in his essay 'Cultivating Oneself' (修身) that 'hearing much is called broad.' Together these gave rise to the four-character idiom praising broad learning and extensive experience.",
+    "example_zh": "李教授博学多闻，授课时旁征博引，深受学生敬重。",
+    "example_en": "Professor Li is broadly learned and well-informed; he cites examples from many sources during lectures and is deeply respected by his students.",
+    "category": "Knowledge",
+    "similar": [
+      "学富五车",
+      "见多识广",
+      "才高八斗"
+    ],
+    "opposite": [
+      "孤陋寡闻",
+      "才疏学浅"
+    ],
+    "id": "bo-xue-duo-wen"
+  },
+  {
+    "chinese": "渺不足道",
+    "pinyin": "miǎo bù zú dào",
+    "literal": "tiny, not, sufficient, to, speak of",
+    "meaning": "Used to describe something so small or insignificant that it is not worth mentioning. It conveys an attitude of belittlement toward a subject by emphasizing its minuteness in comparison to something larger. Often employed to express modesty or to diminish the importance of a matter.",
+    "origin": "The phrase appears in modern Chinese literary works, notably cited by the essayist Qin Mu (秦牧) in the preface to one of his collections, where he contrasts the smallness of natural things with the greatness of advanced figures of the socialist revolutionary era. It is also found in Sha Ting's (沙汀) short story 'The Story of Old Yan,' where the protagonist reflects on the insignificance of life amid grand historical currents. The idiom builds on classical components: '渺' meaning tiny or distant, '不足' meaning not sufficient, and '道' meaning to speak of or mention. Together they form a modest, self-deprecating expression.",
+    "example_zh": "比起那些为理想献身的先烈，我个人的得失实在渺不足道。",
+    "example_en": "Compared to those martyrs who sacrificed themselves for their ideals, my personal gains and losses are truly too insignificant to mention.",
+    "category": "Status",
+    "similar": [
+      "微不足道",
+      "九牛一毛",
+      "沧海一粟"
+    ],
+    "opposite": [
+      "举足轻重",
+      "至关重要"
+    ],
+    "id": "miao-bu-zu-dao"
+  },
+  {
+    "chinese": "千差万错",
+    "pinyin": "qiān chà wàn cuò",
+    "literal": "thousand, mistake, ten thousand, error",
+    "meaning": "This idiom describes a situation where there are many errors or significant mistakes. It emphasizes the abundance or severity of mistakes made. The phrase is often used to express frustration or to highlight that things have gone badly wrong.",
+    "origin": "Unlike many classical idioms, this phrase does not have a specific literary origin story tied to a particular dynasty or historical figure. It is a colloquial expression built from the common Chinese rhetorical pattern of pairing 'thousand' (千) and 'ten thousand' (万) to signify a vast quantity. By combining two near-synonymous characters for error — 差 (chà) and 错 (cuò) — the phrase conveys that mistakes are countless or grievous. It has been used in everyday speech and vernacular fiction to lament bungled situations.",
+    "example_zh": "这份报告千差万错,根本没法用。",
+    "example_en": "This report is full of countless errors and is completely unusable.",
+    "category": "Quality",
+    "similar": [
+      "千错万错",
+      "漏洞百出",
+      "错误百出"
+    ],
+    "opposite": [
+      "万无一失",
+      "完美无缺"
+    ],
+    "id": "qian-cha-wan-cuo"
+  },
+  {
+    "chinese": "半上半下",
+    "pinyin": "bàn shàng bàn xià",
+    "literal": "half, up, half, down",
+    "meaning": "Describes being caught in an in-between state, neither fully one thing nor another. It refers to ambiguity, indecision, or a transitional position between two choices.",
+    "origin": "This phrase originates from \"Zhuzi Quanshu\" (《朱子全书》), the collected writings of Zhu Xi, a leading Neo-Confucian philosopher of the Song dynasty. In one passage, Zhu Xi uses it to describe matters in a transitional state where changes should be made carefully rather than hastily. In another, he uses it to characterize the predicament of Jizi (箕子), who—unlike Weizi (微子) who fled or Bigan (比干) who chose death—was trapped in an in-between position, which Zhu Xi deemed the most difficult situation of all.",
+    "example_zh": "他在这件事上半上半下，一直拿不定主意。",
+    "example_en": "He has been caught in an in-between state on this matter, unable to make up his mind.",
+    "category": "Condition",
+    "similar": [
+      "不上不下",
+      "半信半疑",
+      "举棋不定"
+    ],
+    "opposite": [
+      "当机立断",
+      "干脆利落"
+    ],
+    "id": "ban-shang-ban-xia"
+  },
+  {
+    "chinese": "粪土不如",
+    "pinyin": "fèn tú bù rú",
+    "literal": "dung, earth, not, like",
+    "meaning": "Literally 'worse than dung and dirt.' It describes something utterly worthless, holding even less value than refuse and soil. The idiom is used to express extreme contempt for people or things deemed completely valueless.",
+    "origin": "The idiom originates from the Ming Dynasty work 'Xingshi Hengyan' (Stories to Awaken the World) by Feng Menglong, a renowned vernacular short story writer. In Chapter 27, the narrative criticizes cruel stepmothers who mistreat their stepchildren from a previous marriage, tormenting them so harshly that their treatment is deemed 'worse than dung and dirt.' The phrase reflects the moral outrage of the era toward familial cruelty and the low status afforded to such abused children.",
+    "example_zh": "他把祖传的字画当粪土不如，随手扔进了垃圾堆。",
+    "example_en": "He treated the family heirloom calligraphy and paintings as utterly worthless, casually tossing them into the garbage pile.",
+    "category": "Quality",
+    "similar": [
+      "一文不值",
+      "分文不值",
+      "轻如鸿毛"
+    ],
+    "opposite": [
+      "价值连城",
+      "无价之宝"
+    ],
+    "id": "fen-tu-bu-ru"
+  },
+  {
+    "chinese": "颜丹鬓绿",
+    "pinyin": "yán dān bìn lǜ",
+    "literal": "face red, temples dark",
+    "meaning": "Describes a youthful appearance with rosy cheeks and dark, lustrous hair at the temples. It vividly evokes the vigor and freshness of youth, contrasting with the pallor and gray hair of old age.",
+    "origin": "The idiom originates from the Qing dynasty poet Gong Zizhen (龚自珍), specifically his poem 'Néng Lìng Gōng Shào Nián Xíng' (能令公少年行, 'I Can Make You Young Again'). In the relevant line, the poet claims that with a cup of mica wine he could make the recipient's face rosy and hair dark, allowing him to rival young men in radiant vigor. The phrase was later adopted by writers such as Huang Zunxian (黄遵宪), who used it to express how the beauty of one's homeland could restore a sense of youth and vitality.",
+    "example_zh": "他年近半百却依然颜丹鬓绿，丝毫看不出岁月的痕迹。",
+    "example_en": "Though nearing fifty, he still has a rosy complexion and dark hair, showing not the slightest trace of age.",
+    "category": "Quality",
+    "similar": [
+      "朱颜绿发",
+      "鹤发童颜",
+      "年富力强"
+    ],
+    "opposite": [
+      "老态龙钟",
+      "鸡皮鹤发"
+    ],
+    "id": "yan-dan-bin-lu"
+  },
+  {
+    "chinese": "多歧亡羊",
+    "pinyin": "duō qí wáng yáng",
+    "literal": "many, forked-paths, lose, sheep",
+    "meaning": "With too many diverging paths, the lost sheep cannot be recovered. It metaphorically means that when things are complex and varied, without a clear direction one easily goes astray; it also means that pursuing too many fields of study prevents one from attaining true depth.",
+    "origin": "This idiom comes from the Daoist text《列子·说符》, attributed to Liezi of the Warring States period. A neighbor of the scholar Yangzi lost a sheep and sent many people to chase it, yet returned empty-handed. When Yangzi asked why, the neighbor explained that the roads kept forking and the searchers had to split up, so the sheep was lost. Yangzi fell silent for days, recognizing that scholars likewise lose the Way when they pursue too many doctrines without focus. The text famously states: 'The great Way loses its sheep through many forked paths; the scholar loses his essence through many directions.'",
+    "example_zh": "在追求知识的道路上，若没有明确的方向，便容易多歧亡羊。",
+    "example_en": "On the path of pursuing knowledge, without a clear direction, one easily loses their way like the sheep among many forked roads.",
+    "category": "Learning",
+    "similar": [
+      "朝三暮四",
+      "三心二意",
+      "见异思迁"
+    ],
+    "opposite": [
+      "专心致志",
+      "始终如一"
+    ],
+    "id": "duo-qi-wang-yang"
+  },
+  {
+    "chinese": "雨昫时若",
+    "pinyin": "yǔ yáng shí ruò",
+    "literal": "rain, sunshine, timely, as it should be",
+    "meaning": "Rain and sunshine come in their proper seasons and in just the right measure, so the weather is harmonious and the climate favorable. The phrase is traditionally used for propitious weather that promises a good harvest, and by extension for the peace and prosperity of a well-ordered reign.",
+    "origin": "The phrase traces to the 'Hongfan' ('Great Plan') chapter of the Shangshu (Book of Documents), one of the Confucian Five Classics, which states that when a ruler is reverent, timely rain will follow (时雨若), and when he governs with order, timely sunshine will follow (时昫若). Later writers condensed these two parallel clauses into the four-character idiom 雨昫时若. The Yuan-dynasty playwright Ma Zhiyuan (马致远) gave it wider currency in Act Two of his zaju play Jianfu Bei (荐福碑), with the couplet: 'Timely rain and sunshine rest with a benevolent ruler; harmony within the state rests with great ministers.' Since then it has been used both literally for favorable weather and figuratively for good governance.",
+    "example_zh": "今年雨水适时、阳光和煦，可谓雨昫时若，定有好收成。",
+    "example_en": "This year the rain has fallen in season and the sunlight has been gentle — truly timely rain and sun, so a good harvest is assured.",
+    "category": "Condition",
+    "similar": [
+      "风调雨顺",
+      "五风十雨",
+      "时和年丰"
+    ],
+    "opposite": [
+      "天灾人祸",
+      "凶年饥岁"
+    ],
+    "id": "yu-yang-shi-ruo"
+  },
+  {
+    "chinese": "挂肚牵肠",
+    "pinyin": "guà dù qiān cháng",
+    "literal": "hang, belly, pull, intestines",
+    "meaning": "Deeply worried and anxious about someone, unable to put them out of one's mind. It paints a vivid picture of care and longing felt in the pit of the stomach, as if concern were physically tugging at one's insides.",
+    "origin": "The phrase comes from the Qing dynasty folk song anthology 《白雪遗音》, compiled around the early 19th century by Hua Guangsheng. It appears in the tune '从别后' (Since We Parted) under the 岭儿调 section, whose lyrics lament the pain of separation: '心儿里挂肚牵肠，废寝忘食' — the heart hangs from the belly and pulls at the intestines, so distraught that one forgets to eat and sleep. The idiom thus originated in vernacular love songs expressing the longing between parted lovers.",
+    "example_zh": "孩子远赴他乡打拼，老母亲日夜挂肚牵肠，只盼他能平安归来。",
+    "example_en": "With her son working far from home, the old mother worries about him day and night, longing only for his safe return.",
+    "category": "Emotion",
+    "similar": [
+      "牵肠挂肚",
+      "朝思暮想",
+      "寝食难安"
+    ],
+    "opposite": [
+      "无牵无挂",
+      "漠不关心"
+    ],
+    "id": "gua-du-qian-chang"
+  },
+  {
+    "chinese": "操戈同室",
+    "pinyin": "cāo gē tóon shì",
+    "literal": "take up, spear, same, room",
+    "meaning": "Literally 'taking up weapons within the same room,' this idiom refers to internal strife or fratricidal conflict among people who should be united, especially brothers or members of the same group. It is used critically to describe infighting that brings shame and benefits outsiders.",
+    "origin": "The phrase is famously quoted in Sun Yat-sen's 1912 'Exhortation to the Officers and Soldiers of the Northern Army,' written during the early Republic of China period. In it, Sun condemns the Manchu Qing dynasty for exploiting divisions among Han Chinese, writing that 'with the selfish heart of Manchu usurpation, they unleashed the tragic calamity of Han killing Han, wielding weapons within the same room and becoming a laughingstock before foreigners.' The expression draws on the much older classical image of 同室操戈, found in works such as the 'Book of Rites' commentary tradition, to denounce internal violence among kin or compatriots.",
+    "example_zh": "兄弟俩为争夺家产操戈同室，让旁人看了笑话。",
+    "example_en": "The two brothers turned on each other fighting over the family inheritance, making a laughingstock of themselves before outsiders.",
+    "category": "Action",
+    "similar": [
+      "同室操戈",
+      "兄弟阋墙",
+      "煮豆燃萁"
+    ],
+    "opposite": [
+      "同舟共济",
+      "兄友弟恭"
+    ],
+    "id": "cao-ge-toon-shi"
+  },
+  {
+    "chinese": "时不再来",
+    "pinyin": "shí bù zài lái",
+    "literal": "time, not, again, come",
+    "meaning": "Time and opportunity will not come again. The idiom warns that once a favorable moment passes it can never be recovered, urging one to act decisively and seize the chance while it lasts.",
+    "origin": "The phrase originates from the 'Discourses of the States' (《国语·越语下》), a Warring States-era text chronicling the affairs of the state of Yue. In the Spring and Autumn period, the strategist Fan Li (范蠡) advised King Goujian of Yue (越王勾践) after Yue's humiliating defeat by Wu, counseling patience in rebuilding strength and then striking at the right moment. Fan Li warned the king not to let a favorable opportunity slip, declaring that what Heaven offers yet is refused will turn back into disaster. The full line reads: 'Gain the moment without slackening; time will not come again; what Heaven gives and you do not take becomes calamity.'",
+    "example_zh": "事机一失，时不再来，必须当机立断。",
+    "example_en": "Once the opportunity slips away, it will never return — we must decide right now.",
+    "category": "Wisdom",
+    "similar": [
+      "机不可失",
+      "时不可失",
+      "失不再来"
+    ],
+    "opposite": [
+      "错失良机",
+      "坐失良机"
+    ],
+    "id": "shi-bu-zai-lai"
+  },
+  {
+    "chinese": "米粒之珠",
+    "pinyin": "mǐ lì zhī zhū",
+    "literal": "rice, grain, of, pearl",
+    "meaning": "A pearl the size of a grain of rice. It is used metaphorically to describe something tiny, weak, and of little consequence. The phrase often appears in a dismissive tone to belittle an opponent's power, talent, or influence.",
+    "origin": "The idiom originates from the Ming dynasty vernacular novel 'Investiture of the Gods' (封神演义) by Xu Zhonglin, specifically Chapter 53. In the passage, a boastful character belittles his opponents, declaring that their rice-grain-sized pearls can emit little light and their flies' wings can flutter only briefly before falling. The imagery draws on the contrast between something supposedly precious or powerful (a pearl, flight) and its diminutive, feeble reality.",
+    "example_zh": "你的这点本事不过是米粒之珠，怎能与我相提并论？",
+    "example_en": "Your meager skills are but a grain-sized pearl—how could you even be mentioned in the same breath as me?",
+    "category": "Quality",
+    "similar": [
+      "沧海一粟",
+      "微乎其微",
+      "九牛一毛"
+    ],
+    "opposite": [
+      "庞然大物",
+      "举足轻重"
+    ],
+    "id": "mi-li-zhi-zhu"
+  },
+  {
+    "chinese": "拒狼进虎",
+    "pinyin": "jù láng jìn hǔ",
+    "literal": "refuse, wolf, admit, tiger",
+    "meaning": "A metaphor for getting rid of one harm only to have another take its place. It describes the futile situation where eliminating one danger simply invites an equally serious threat. The phrase is a variant of the more common 拒虎进狼.",
+    "origin": "This idiom derives from folk wisdom reflecting the rural reality that both wolves and tigers posed deadly threats to livestock and people. While no single classical text is cited as its definitive source, it circulates as a proverbial expression warning against trading one peril for another. It is often used interchangeably with the more widely recorded 拒虎进狼, which appears in vernacular fiction and commentary literature of the Ming and Qing dynasties.",
+    "example_zh": "刚辞退了一个庸医，又遇上一个更黑的诊所，真是拒狼进虎，病情愈发延误。",
+    "example_en": "Having just dismissed one quack doctor, he ended up at an even more unscrupulous clinic—truly a case of refusing the wolf only to let in the tiger, and his illness grew even more delayed.",
+    "category": "Condition",
+    "similar": [
+      "拒虎进狼",
+      "前门拒虎，后门进狼",
+      "才出狼窝，又入虎口"
+    ],
+    "opposite": [
+      "化险为夷",
+      "转危为安"
+    ],
+    "id": "ju-lang-jin-hu"
+  },
+  {
+    "chinese": "问心无愧",
+    "pinyin": "wèn xīn wú kuì",
+    "literal": "ask, heart, no, shame",
+    "meaning": "To examine one's own conscience and find no guilt. It describes a state of having acted honorably and having nothing to be ashamed of. Used to indicate that one's conscience is clear despite external criticism or suspicion.",
+    "origin": "The phrase appears in Qing dynasty writer Li Baojia's novel 'A Revealing Mirror of Officialdom' (《官场现形记》), Chapter 22. In the context, a character argues that even if rumors circulate, since the money was not taken by the master himself, he can face his conscience without guilt. The expression has since become a common way to affirm one's moral innocence.",
+    "example_zh": "只要我们尽心尽力去做，结果如何都能问心无愧。",
+    "example_en": "As long as we do our utmost, we can face our conscience with no regrets, regardless of the outcome.",
+    "category": "Morality",
+    "similar": [
+      "心安理得",
+      "坦坦荡荡",
+      "俯仰无愧"
+    ],
+    "opposite": [
+      "问心有愧",
+      "心怀鬼胎"
+    ],
+    "id": "wen-xin-wu-kui"
+  },
+  {
+    "chinese": "鸡犬不惊",
+    "pinyin": "jī quǎn bù jīng",
+    "literal": "chickens, dogs, not, startled",
+    "meaning": "Literally meaning 'not even chickens and dogs are startled,' this idiom describes strict military discipline where troops pass through without disturbing anyone. It also broadly means all is peaceful and quiet, with no disturbance or alarm.",
+    "origin": "The phrase originates from a poem by Peng Guinian of the Song Dynasty, in his collection 'Zhitang Ji,' where he praised the benevolence of an official named Zhang with the line 'the old man smiles with great joy, not even chickens and dogs are startled—such abundant kindness.' It later came to describe armies marching with such discipline that civilians and livestock remain undisturbed. The idiom also appears in Ming Dynasty works such as Xu Zhonglin's 'Investiture of the Gods,' where it depicts King Wen's well-ordered army.",
+    "example_zh": "大军进城之后秋毫无犯，鸡犬不惊，百姓安居如故。",
+    "example_en": "After the army entered the city, they took nothing and disturbed no one—even the chickens and dogs remained unalarmed—and the people lived on as before.",
+    "category": "Quality",
+    "similar": [
+      "秋毫无犯",
+      "鸡犬不宁",
+      "鸡犬不留"
+    ],
+    "opposite": [
+      "鸡犬不宁",
+      "鸡飞狗跳"
+    ],
+    "id": "ji-quan-bu-jing"
+  },
+  {
+    "chinese": "东墙处子",
+    "pinyin": "dōng qiáng chǔ zǐ",
+    "literal": "east, wall, virgin, girl",
+    "meaning": "A virgin girl living on the other side of the eastern wall, referring to a neighbor's unmarried daughter. It comes from a passage in Mencius about whether one would climb over a wall to seize a neighbor's daughter as a wife. The idiom is used metaphorically to refer to a young woman of marriageable age living nearby.",
+    "origin": "The phrase originates from the Book of Mencius (《孟子·告子下》), a foundational Confucian text of the Warring States period compiled by Mencius and his disciples. In the passage, Mencius poses a rhetorical question: if climbing over a neighbor's eastern wall and seizing their daughter would get you a wife, while not doing so would leave you without one, would you do it? The anecdote was meant to illustrate the conflict between moral propriety and personal desire. Later writers such as the Ming dynasty playwright Sun Renru in 《东郭记》 quoted the phrase to evoke the image of a desirable maiden next door.",
+    "example_zh": "那书生终日凝望邻家少女，颇有踰东墙处子之意。",
+    "example_en": "The young scholar gazed all day at the girl next door, harboring thoughts quite like climbing the wall for the neighbor's daughter.",
+    "category": "Lifestyle",
+    "similar": [
+      "东家之子",
+      "邻女窥墙",
+      "逾墙钻穴"
+    ],
+    "opposite": [
+      "坐怀不乱",
+      "非礼勿视"
+    ],
+    "id": "dong-qiang-chu-zi"
+  },
+  {
+    "chinese": "暮夜先容",
+    "pinyin": "mù yè xiān róng",
+    "literal": "evening, night, beforehand, tolerate",
+    "meaning": "It refers to secretly offering bribes in advance—typically under the cover of night—to secure leniency, favorable judgment, or protection from someone in authority. The idiom highlights the covert, pre-emptive nature of such corruption.",
+    "origin": "The phrase draws on the longstanding tradition in imperial China of offering bribes at night to avoid public scrutiny. It is commonly associated with the Eastern Han story of Yang Zhen (杨震), who famously rejected a nighttime bribe from Wang Mi with the rebuke that Heaven, the gods, he himself, and the briber all knew of the act. Over time, '暮夜' became a shorthand for clandestine bribery, and '暮夜先容' came to denote bribing officials in advance to curry favor or leniency.",
+    "example_zh": "他早在案发之前便暮夜先容，向主审官员暗送重金，企图逃脱罪责。",
+    "example_en": "Long before the case came to trial, he had secretly bribed the presiding official under cover of night, hoping to escape punishment.",
+    "category": "Morality",
+    "similar": [
+      "暮夜怀金",
+      "私相授受",
+      "暗通款曲"
+    ],
+    "opposite": [
+      "两袖清风",
+      "廉洁奉公"
+    ],
+    "id": "mu-ye-xian-rong"
   }
 ]
