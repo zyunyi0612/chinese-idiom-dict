@@ -6079,3 +6079,112 @@ To preview locally:
 [2026-08-15 03:59:18] Site regenerated
 [2026-08-15 03:59:18] Pushing to GitHub...
 [2026-08-15 03:59:18] Pushing to GitHub...
+[main 47e84b2] Auto-update: 2026-08-15 03:59 - regenerate idioms
+ 146 files changed, 37509 insertions(+), 8660 deletions(-)
+ create mode 100644 docs/idiom/ai-bie-li-ku.html
+ create mode 100644 docs/idiom/bai-shen-he-shu.html
+ create mode 100644 docs/idiom/bao-xiao-wan-yi.html
+ create mode 100644 docs/idiom/bi-jian-die-zhong.html
+ create mode 100644 docs/idiom/bi-keng-luo-jing.html
+ create mode 100644 docs/idiom/bian-ru-xuan-he.html
+ create mode 100644 docs/idiom/bu-shi-yan-huo.html
+ create mode 100644 docs/idiom/bu-yi-er-fei.html
+ create mode 100644 docs/idiom/cai-jian-wen-wu.html
+ create mode 100644 docs/idiom/cao-shuai-cong-shi.html
+ create mode 100644 docs/idiom/chan-shang-yi-xia.html
+ create mode 100644 docs/idiom/che-chi-ma-zhou.html
+ create mode 100644 docs/idiom/chi-cu-zhi-gong.html
+ create mode 100644 docs/idiom/chi-xin-wang-xiang.html
+ create mode 100644 docs/idiom/cui-wei-zhu-rao.html
+ create mode 100644 docs/idiom/da-di-chun-hui.html
+ create mode 100644 docs/idiom/dai-li-sa-jian.html
+ create mode 100644 docs/idiom/di-lu-yan-zhu.html
+ create mode 100644 docs/idiom/di-zhang-er-tan.html
+ create mode 100644 docs/idiom/dong-zhi-yi-qing.html
+ create mode 100644 docs/idiom/e-mi-ba-yin.html
+ create mode 100644 docs/idiom/er-wen-mu-ji.html
+ create mode 100644 docs/idiom/fa-fan-qi-li.html
+ create mode 100644 docs/idiom/fu-gua-chen-li.html
+ create mode 100644 docs/idiom/huo-fu-wu-chang.html
+ create mode 100644 docs/idiom/ji-ji-ke-cha.html
+ create mode 100644 docs/idiom/ji-wang-luo-qian.html
+ create mode 100644 docs/idiom/jin-chan-hai-xian.html
+ create mode 100644 docs/idiom/jin-tui-wang-ju.html
+ create mode 100644 docs/idiom/jin-tui-you-jie.html
+ create mode 100644 docs/idiom/jin-zhen-jian-xue.html
+ create mode 100644 docs/idiom/jing-xing-qing-yun.html
+ create mode 100644 docs/idiom/jiu-tai-fu-meng.html
+ create mode 100644 docs/idiom/ju-tu-wen-shou.html
+ create mode 100644 docs/idiom/juan-lao-yang-wu.html
+ create mode 100644 docs/idiom/kou-kou-xiang-chuan.html
+ create mode 100644 docs/idiom/lang-ben-tu-tuo.html
+ create mode 100644 docs/idiom/lei-tian-dao-di.html
+ create mode 100644 docs/idiom/liao-shi-ru-shen.html
+ create mode 100644 docs/idiom/lin-nan-gou-mian.html
+ create mode 100644 docs/idiom/long-gan-feng-nao.html
+ create mode 100644 docs/idiom/lu-an-ti-feng.html
+ create mode 100644 docs/idiom/ming-yue-ru-huai.html
+ create mode 100644 docs/idiom/nu-mao-lang-cai.html
+ create mode 100644 docs/idiom/po-ju-wei-yuan.html
+ create mode 100644 docs/idiom/po-kou-da-ma.html
+ create mode 100644 docs/idiom/pou-bang-de-zhu.html
+ create mode 100644 docs/idiom/qian-nan-wan-ku.html
+ create mode 100644 docs/idiom/qing-yan-qing-yu.html
+ create mode 100644 docs/idiom/qing-zhi-yi-jin.html
+ create mode 100644 docs/idiom/ren-chou-zuo-fu.html
+ create mode 100644 docs/idiom/ren-duo-shi-zhong.html
+ create mode 100644 docs/idiom/rou-ru-gua-duan.html
+ create mode 100644 docs/idiom/ruan-nang-xiu-se.html
+ create mode 100644 docs/idiom/san-chao-yuan-lao.html
+ create mode 100644 docs/idiom/se-ru-si-hui.html
+ create mode 100644 docs/idiom/she-ji-wei-ren.html
+ create mode 100644 docs/idiom/shen-wu-gua-guan.html
+ create mode 100644 docs/idiom/shi-bu-zhong-rou.html
+ create mode 100644 docs/idiom/shi-jie-gong-bei.html
+ create mode 100644 docs/idiom/shi-you-ba-jiu.html
+ create mode 100644 docs/idiom/shou-zheng-bu-hui.html
+ create mode 100644 docs/idiom/shou-zu-yi-chu.html
+ create mode 100644 docs/idiom/tan-guo-qi-shi.html
+ create mode 100644 docs/idiom/tao-tian-zui-xing.html
+ create mode 100644 docs/idiom/wang-biao-zhi-li.html
+ create mode 100644 docs/idiom/wen-an-shi-shan.html
+ create mode 100644 docs/idiom/wen-xiu-wu-yan.html
+ create mode 100644 docs/idiom/wu-ji-suo-nai.html
+ create mode 100644 docs/idiom/wu-tong-duan-jiao.html
+ create mode 100644 docs/idiom/xi-gan-gui-dan.html
+ create mode 100644 docs/idiom/xi-shi-zhi-bao.html
+ create mode 100644 docs/idiom/xia-yu-hu-xian.html
+ create mode 100644 docs/idiom/xiang-geng-niao-yun.html
+ create mode 100644 docs/idiom/xiao-ti-zhong-xin.html
+ create mode 100644 docs/idiom/xin-xiong-wan-fu.html
+ create mode 100644 docs/idiom/xin-yun-dan-po.html
+ create mode 100644 docs/idiom/xing-chi-dian-che.html
+ create mode 100644 docs/idiom/xun-yu-pen-zhu.html
+ create mode 100644 docs/idiom/yan-ge-dao-ge.html
+ create mode 100644 docs/idiom/yan-jing-ku-si.html
+ create mode 100644 docs/idiom/yan-qi-gu-yin.html
+ create mode 100644 docs/idiom/yan-yu-ying-ti.html
+ create mode 100644 docs/idiom/yang-hua-xin-xing.html
+ create mode 100644 docs/idiom/yi-huo-jiu-huo.html
+ create mode 100644 docs/idiom/yi-qin-zai-huai.html
+ create mode 100644 docs/idiom/yi-re-qing-qian.html
+ create mode 100644 docs/idiom/yin-rong-ru-zai.html
+ create mode 100644 docs/idiom/yin-shan-bei-hou.html
+ create mode 100644 docs/idiom/yin-shi-li-dao.html
+ create mode 100644 docs/idiom/yu-gao-sheng-fu.html
+ create mode 100644 docs/idiom/yun-zhao-yu-mu.html
+ create mode 100644 docs/idiom/zhen-qing-shi-gan.html
+ create mode 100644 docs/idiom/zhu-ru-yi-jie.html
+ create mode 100644 docs/idiom/zhuo-ran-bu-qun.html
+ create mode 100644 docs/idiom/zi-can-xing-hui.html
+ create mode 100644 docs/idiom/zui-yu-zi-shou.html
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   f371018..47e84b2  main -> main
+
+Push OK (attempt 1)
+[2026-08-15 03:59:25] Push OK
+[2026-08-15 03:59:25] Push OK
+[2026-08-15 03:59:25] === Daily cron done ===
+[2026-08-15 03:59:25] === Daily cron done ===
+[2026-08-15 12:00:00] === Catch-up push start (34 unpushed commits) ===
