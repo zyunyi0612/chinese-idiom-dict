@@ -90423,5 +90423,205 @@
       "温文尔雅"
     ],
     "id": "ji-yan-ju-se"
+  },
+  {
+    "chinese": "前庭悬鱼",
+    "pinyin": "qián tíng xuán yú",
+    "literal": "front, courtyard, hang, fish",
+    "meaning": "A metaphor for refusing gifts and bribes and maintaining personal integrity. It describes an honest, incorruptible official who declines presents offered to curry favor. The image of hanging a fish in the front courtyard symbolizes publicly showing one's refusal to be bought.",
+    "origin": "The idiom comes from the Biography of Yang Xu in the Book of the Later Han. During the Eastern Han Dynasty, Yang Xu served as governor of Nanyang and lived a frugal life. When an official under him once presented him with a fresh fish, Yang Xu hung it in the front courtyard instead of eating it. When the official later offered another fish, Yang Xu pointed to the fish he had hung earlier to discourage him. Through this gesture Yang Xu demonstrated his refusal to accept gifts and was celebrated for his uprightness and incorruptibility.",
+    "example_zh": "他为官清正，前庭悬鱼，从不收受任何贿赂。",
+    "example_en": "He served as an upright official who, like the one hanging fish in the courtyard, never accepted a single bribe.",
+    "category": "Morality",
+    "similar": [
+      "羊续悬鱼",
+      "两袖清风",
+      "一尘不染"
+    ],
+    "opposite": [
+      "贪赃枉法",
+      "中饱私囊"
+    ],
+    "id": "qian-ting-xuan-yu"
+  },
+  {
+    "chinese": "回嗔作喜",
+    "pinyin": "huí chēn zuò xǐ",
+    "literal": "turn, anger, become, joy",
+    "meaning": "To change from anger to happiness; to put aside one's wrath and become pleased. It describes a person who, though initially angry, is won over or mollified so that their mood turns to delight.",
+    "origin": "The idiom originates from the Yuan dynasty play '还牢末' (Huan Lao Mo) by playwright Li Zhiyuan, in which a character resigns himself to an unpleasant situation and must 'turn anger into joy' to get by. The phrase literally describes suppressing one's displeasure and adopting a cheerful demeanor. It later became a common set phrase meaning to switch from anger to gladness, also appearing in Ming dynasty works such as Fengshen Yanyi (Investiture of the Gods).",
+    "example_zh": "母亲见儿子认错诚恳，不由得回嗔作喜。",
+    "example_en": "Seeing her son sincerely admit his mistake, the mother couldn't help but turn her anger into joy.",
+    "category": "Emotion",
+    "similar": [
+      "转怒为喜",
+      "破涕为笑",
+      "转忧为喜"
+    ],
+    "opposite": [
+      "勃然大怒",
+      "怒不可遏"
+    ],
+    "id": "hui-chen-zuo-xi"
+  },
+  {
+    "chinese": "鸣野食苹",
+    "pinyin": "míng yě shí píng",
+    "literal": "call, wild, eat, wild celery herb",
+    "meaning": "Deer calling to each other in the field while feeding together on wild herbs. It is a metaphor for treating people with complete sincerity and sharing both hardship and joy with them, just as the deer gather and graze in harmony.",
+    "origin": "The idiom derives from the poem \"Lu Ming\" (Deer Cry) in the \"Lesser Court Hymns\" (Xiaoya) section of the Book of Songs (Shijing), China's earliest poetry anthology, with most poems dating to the Western Zhou period (c. 11th-8th century BCE) through the Spring and Autumn era. The original line \"呦呦鹿鸣，食野之苹\" depicts a herd of deer bleating happily as they graze together on wild herbs, symbolizing harmonious fellowship. Traditionally, this poem was sung at banquets to welcome honored guests, so later writers condensed its opening image into this idiom to express sincere hospitality and the bond of sharing weal and woe.",
+    "example_zh": "他鸣野食苹以待友，一片诚心，令人动容。",
+    "example_en": "He treated his friends with the sincerity of deer calling and feeding together in the wild, and his wholehearted honesty moved everyone.",
+    "category": "Attitude",
+    "similar": [
+      "同甘共苦",
+      "推心置腹",
+      "肝胆相照"
+    ],
+    "opposite": [
+      "尔虞我诈",
+      "离心离德"
+    ],
+    "id": "ming-ye-shi-ping"
+  },
+  {
+    "chinese": "妄谈祸福",
+    "pinyin": "wàng tán huò fú",
+    "literal": "recklessly talk, disaster and fortune",
+    "meaning": "To speak of good and bad fortune without any basis or evidence. The idiom criticizes people who casually predict future outcomes or divine fortunes based on nothing but speculation or hearsay. It carries a strong negative tone, implying that such talk is groundless, irresponsible, and unworthy of belief.",
+    "origin": "This idiom has no documented origin and does not trace back to any specific classical text, dynasty, or historical figure. It is formed by combining 妄 (reckless, groundless), 谈 (to talk), and 祸福 (misfortune and fortune), a phrase frequently seen in classical literature such as the Book of Changes. As a compound expression, it draws on the long-standing Chinese tradition of fortune-telling and divination, where predicting one's fate was a serious matter. Over time it came to describe those who speak of luck and calamity casually, without any real basis.",
+    "example_zh": "算命先生不过是妄谈祸福，千万别当真。",
+    "example_en": "The fortune-teller is only making groundless predictions about our fortunes, so don't take him seriously at all.",
+    "category": "Communication",
+    "similar": [
+      "信口开河",
+      "无稽之谈",
+      "胡说八道"
+    ],
+    "opposite": [
+      "言之有据",
+      "实事求是"
+    ],
+    "id": "wang-tan-huo-fu"
+  },
+  {
+    "chinese": "坐拥书城",
+    "pinyin": "zuò yōng shū chéng",
+    "literal": "sit, possess, books, city",
+    "meaning": "Describes possessing a book collection so vast and impressive that it is likened to owning an entire city of books. It is used to praise someone's abundant, extensive library, implying they command a wealth of knowledge as if seated at the center of a great literary fortress.",
+    "origin": "The idiom comes from Sun Baigang's biography of the modern Chinese writer Yu Dafu, titled \"Yu Dafu's Unofficial Biography: Stormy Thatched Cottage\" (风雨茅庐). The author notes that everyone always knew Dafu owned many books, but since he had previously lived in cramped lane houses without a proper study, the full extent of his collection had never been seen. Once his books were displayed in his new study, the sight was truly magnificent, prompting the remark that Dafu was 'seated in a city of books.' The phrase thus grew to describe someone whose library is as vast and imposing as a walled city.",
+    "example_zh": "他的书房藏书上万册，真可谓坐拥书城了。",
+    "example_en": "With tens of thousands of books in his study, he can truly be said to sit in a city of books.",
+    "category": "Knowledge",
+    "similar": [
+      "坐拥百城",
+      "汗牛充栋",
+      "学富五车"
+    ],
+    "opposite": [
+      "胸无点墨",
+      "不学无术"
+    ],
+    "id": "zuo-yong-shu-cheng"
+  },
+  {
+    "chinese": "胡天胡帝",
+    "pinyin": "hú tiān hú dì",
+    "literal": "what heaven, what god",
+    "meaning": "Originally used to describe clothing and bearing so beautiful and dignified that one wonders 'what heaven is this, what god is this,' likening a person to a deity. It later came to express great admiration and reverence. In modern usage it often carries a pejorative sense, describing absurd speech and reckless, unrestrained behavior.",
+    "origin": "The idiom comes from the poem 'Gentleman with His Wife' (君子偕老) in the Yong Feng section of the Book of Songs (《诗经·鄘风》), composed during the Western Zhou to Spring and Autumn period. The poem praises the beauty and dignity of the noble lady, exclaiming '胡然而天也！胡然而帝也！' — 'How is she like a goddess! How is she like a deity!' This rhetorical exclamation marvels at her god-like splendor. Over time the phrase was condensed into the four-character idiom 胡天胡帝, which later took on both admiring and critical senses.",
+    "example_zh": "他那胡天胡帝的言行，实在令人不敢恭维。",
+    "example_en": "His reckless and absurd words and deeds are truly beyond praise.",
+    "category": "Attitude",
+    "similar": [
+      "胡作非为",
+      "肆无忌惮",
+      "放荡不羁"
+    ],
+    "opposite": [
+      "循规蹈矩",
+      "谨言慎行"
+    ],
+    "id": "hu-tian-hu-di"
+  },
+  {
+    "chinese": "雾锁烟迷",
+    "pinyin": "wù suǒ yān mí",
+    "literal": "fog locks, smoke obscures",
+    "meaning": "Describes a scene where the landscape is shrouded and hidden by cloud and mist, so that it cannot be seen clearly. The characters 'lock' (锁) and 'obscure' (迷) convey a sense of being sealed off and enveloped. It is often used in poetry and prose to depict misty mountains, rivers, or a hazy, veiled atmosphere.",
+    "origin": "This idiom has no recorded origin in classical texts (出处无), so no specific dynasty, text, or figure can be named for it. It belongs to the class of descriptive four-character literary phrases used to paint scenic imagery. The pairing of 雾 (fog) and 烟 (mist) is a common trope in traditional Chinese landscape poetry and painting, evoking remote, veiled scenery. Over time such phrases passed into common usage as fixed expressions for mist-shrouded vistas.",
+    "example_zh": "清晨的山谷雾锁烟迷，游人只能隐约看见远处的峰峦。",
+    "example_en": "In the early morning the mountain valley was shrouded in fog and mist, and visitors could only faintly make out the distant peaks.",
+    "category": "Condition",
+    "similar": [
+      "云雾缭绕",
+      "烟雾弥漫",
+      "云遮雾罩"
+    ],
+    "opposite": [
+      "云开雾散",
+      "拨云见日"
+    ],
+    "id": "wu-suo-yan-mi"
+  },
+  {
+    "chinese": "不识抬举",
+    "pinyin": "bù shí tái jǔ",
+    "literal": "not, know, lift up, promote",
+    "meaning": "To fail to recognize or appreciate the kindness or good intentions that others show toward one. It describes someone who ignores or rejects the favor, honor, or praise offered to them, often perceived as ungrateful or unworthy of the goodwill shown.",
+    "origin": "The idiom appears in the Ming dynasty novel 'Fengshen Yanyi' (Investiture of the Gods), attributed to Xu Zhonglin. In the seventh chapter, the character Daji berates the concubine Jiang Huan, who refuses to yield to her schemes, with the words 'This lowly woman does not appreciate kindness shown to her' (这贱人不识抬举). The phrase 'tai ju' originally means to lift up or promote, and by extension refers to the favor and esteem someone bestows upon another, so to be 'bu shi tai ju' is to be blind to that favor. Over time it became a common rebuke for ungratefulness or for rejecting well-meant help.",
+    "example_zh": "领导特意提拔你，你却当面拒绝，真是太不识抬举了。",
+    "example_en": "The leader went out of his way to promote you, yet you turned it down to his face — you really don't know how to appreciate a good thing.",
+    "category": "Attitude",
+    "similar": [
+      "不识好歹",
+      "不知好歹",
+      "给脸不要脸"
+    ],
+    "opposite": [
+      "知恩图报",
+      "感恩戴德"
+    ],
+    "id": "bu-shi-tai-ju"
+  },
+  {
+    "chinese": "拾掇无遗",
+    "pinyin": "shi duo wu yi",
+    "literal": "pick up, gather, without, leftover",
+    "meaning": "To pick up and collect everything completely, leaving nothing behind. It describes an act of gathering or salvaging so thoroughly that no item or detail is omitted. The idiom emphasizes absolute completeness and exhaustiveness in retrieval.",
+    "origin": "No documented origin exists for this idiom, and it is not attributed to any specific classical text, dynasty, or historical figure. The expression is a straightforward compound of 拾掇 (to pick up and gather) and 无遗 (without anything left behind), creating a vivid image of collecting until nothing remains. Because it is built from common classical components rather than drawn from an allusion or anecdote, its meaning is transparent from its constituent characters. It functions as a descriptive phrase whose force comes from its own literal imagery.",
+    "example_zh": "他把田里散落的谷穗拾掇无遗，一粒都不肯浪费。",
+    "example_en": "He picked up every scattered grain ear in the field without missing a single one, unwilling to waste a grain.",
+    "category": "Method",
+    "similar": [
+      "一网打尽",
+      "颗粒归仓",
+      "涓滴无遗"
+    ],
+    "opposite": [
+      "丢三落四",
+      "挂一漏万"
+    ],
+    "id": "shi-duo-wu-yi"
+  },
+  {
+    "chinese": "百品千条",
+    "pinyin": "bǎi pǐn qiān tiáo",
+    "literal": "hundred, kind, thousand, item",
+    "meaning": "This idiom refers to an extremely large number of names, categories, or designations. It describes a situation where items or specifications proliferate so greatly that they seem endless and impossible to enumerate. It is typically used to convey a sense of overwhelming variety or excessive complexity.",
+    "origin": "The idiom originates from the History of the Southern Dynasties (《南史》), specifically the annals of the Southern Qi dynasty's reign of Emperor Feidi Donghunhou (废帝东昏侯, Xiao Baojuan). The notoriously extravagant emperor ordered luxurious garments and ornaments such as pheasant-head decorations, crane-feather cloaks, and egret-plume edgings to be devised. The original text reads that these items came in 'hundreds of kinds and thousands of items, with no end to them' (百品千条，无复穷已). The phrase was thus coined to describe the ruler's ceaseless, ever-multiplying demands.",
+    "example_zh": "如今市面上的商品百品千条，挑选起来让人眼花缭乱。",
+    "example_en": "The goods on the market today come in countless varieties, making it dazzling and confusing to choose.",
+    "category": "Variety",
+    "similar": [
+      "五花八门",
+      "名目繁多",
+      "形形色色"
+    ],
+    "opposite": [
+      "屈指可数",
+      "寥寥无几"
+    ],
+    "id": "bai-pin-qian-tiao"
   }
 ]
