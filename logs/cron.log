@@ -7025,3 +7025,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-08-18 12:00:03] === Catch-up push done ===
 [2026-08-18 20:00:00] === Catch-up push start (44 unpushed commits) ===
+[main d555a74] Auto-update: 2026-08-18 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   8a7da80..d555a74  main -> main
+
+Push OK (attempt 1)
+[2026-08-18 20:00:07] === Catch-up push done ===
+[2026-08-19 03:15:00] === Daily cron start ===
+[2026-08-19 03:15:00] === Daily cron start ===
+[2026-08-19 03:15:00] Generating 10 new idioms...
+[2026-08-19 03:15:00] Generating 10 new idioms...
+Existing: 4559 idioms
+Whitelist: 30894 total
+Candidates available: 24942 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 归之若水 (guī zhī ruò shuǐ)
+    OK (saved, total now: 4560): literal='come back, them, like, water...'
+[2/10] -> 事往日迁 (shì wǎng rì qiān)
+    OK (saved, total now: 4561): literal='affairs, gone, days, moved on...'
+[3/10] -> 众目昭彰 (zhòng mù zhāo zhāng)
+    OK (saved, total now: 4562): literal='all eyes, clear and manifest...'
+[4/10] -> 一语破的 (yī yǔ pò dì)
+    OK (saved, total now: 4563): literal='one, sentence, hits, the bullseye...'
+[5/10] -> 龙颜凤姿 (lóng yán fèng zī)
+    OK (saved, total now: 4564): literal='dragon, face, phoenix, bearing...'
+[6/10] -> 面目全非 (miàn mù quán fēi)
+    OK (saved, total now: 4565): literal='face, eyes, entirely, not the same...'
+[7/10] -> 送往视居 (sòng wǎng shì jū)
+    OK (saved, total now: 4566): literal='send off, the departed, tend to, the living...'
+[8/10] -> 由近及远 (yóu jìn jí yuǎn)
+    OK (saved, total now: 4567): literal='from, near, to, far...'
+[9/10] -> 极情尽致 (jí qíng jìn zhì)
+    OK (saved, total now: 4568): literal='utmost feeling, fully refined...'
+[10/10] -> 来迎去送 (lái yíng qù sòng)
+    OK (saved, total now: 4569): literal='come, welcome, go, see off...'
+
+Added 10 idioms. Total: 4569
+[2026-08-19 03:17:23] Generation OK
+[2026-08-19 03:17:23] Generation OK
+[2026-08-19 03:17:23] Regenerating site...
+[2026-08-19 03:17:23] Regenerating site...
+Loading data...
+  → 4569 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4569 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4569 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-19 03:17:35] Site regenerated
+[2026-08-19 03:17:35] Site regenerated
+[2026-08-19 03:17:35] Pushing to GitHub...
+[2026-08-19 03:17:35] Pushing to GitHub...
