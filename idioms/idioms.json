@@ -90822,5 +90822,204 @@
       "拒人千里之外"
     ],
     "id": "lai-ying-qu-song"
+  },
+  {
+    "chinese": "鹤唳华亭",
+    "pinyin": "hè lì huá tíng",
+    "literal": "crane, cry, Huating",
+    "meaning": "The idiom expresses nostalgic longing for the past and one's homeland. It also laments the perils of an official career and the impermanence of human life—how the simple joys once taken for granted can never be recovered once fortune turns against you.",
+    "origin": "In the Western Jin dynasty (265–316), the celebrated poet and writer Lu Ji (陆机) of Wujun was defeated at the Battle of Heqiao in 303. Afterwards he was slandered by his rival Lu Zhi and sentenced to death. Facing execution, Lu Ji sighed: 'Do I still wish to hear the cranes of Huating cry—can that ever be again?' Huating was his hometown, and listening to its cranes had once been an everyday pleasure he never valued. The tale was recorded by Liu Yiqing in A New Account of the Tales of the World (Shishuo Xinyu), compiled during the Liu Song dynasty of the Southern Dynasties, in the chapter on regrets (Youhui).",
+    "example_zh": "多年后他重游故地，不禁生出鹤唳华亭之感，往事历历在目。",
+    "example_en": "Years later, when he revisited his old haunts, a wave of nostalgic longing washed over him, the past flooding back as vividly as ever.",
+    "category": "Emotion",
+    "similar": [
+      "华亭鹤唳",
+      "莼鲈之思",
+      "物是人非"
+    ],
+    "opposite": [
+      "乐不思蜀"
+    ],
+    "id": "he-li-hua-ting"
+  },
+  {
+    "chinese": "筛锣擂鼓",
+    "pinyin": "shāi luó léi gǔ",
+    "literal": "strike gong, beat drum",
+    "meaning": "To beat gongs and drums, making a loud, clamorous noise. It describes a boisterous uproar or commotion, and is also used metaphorically to mean exaggerating something or making a great public show of it.",
+    "origin": "The idiom first appears in Journey to the West (《西游记》), a novel by the Ming dynasty author Wu Cheng'en, in chapter 28. In this chapter, the Monkey King Sun Wukong returns to Flower Fruit Mountain and learns from the surviving monkeys that human hunters had captured many of his kin and forced them to perform tricks for entertainment, such as jumping through hoops, doing somersaults, standing on their heads, and 'beating gongs and drums in the street'. The phrase was thus coined to describe making a loud commotion or staging a noisy spectacle.",
+    "example_zh": "他在村里筛锣擂鼓地宣扬自己中了头奖。",
+    "example_en": "He beat gongs and drums in the village, noisily publicizing that he had won the first prize.",
+    "category": "Communication",
+    "similar": [
+      "敲锣打鼓",
+      "大张旗鼓",
+      "鸣锣开道"
+    ],
+    "opposite": [
+      "悄无声息",
+      "鸦雀无声"
+    ],
+    "id": "shai-luo-lei-gu"
+  },
+  {
+    "chinese": "披肝沥胆",
+    "pinyin": "pī gān lì dǎn",
+    "literal": "reveal liver, drip gallbladder",
+    "meaning": "It means to open one's heart and speak honestly, revealing one's innermost true feelings to another person. It also describes extreme loyalty and devotion, being willing to give everything for someone or a cause.",
+    "origin": "The idiom is recorded in a letter by Huang Tao, a poet of the late Tang dynasty, in his 'Qi Pei Shilang', where he vowed his heartfelt loyalty in serving his lord. It was later echoed by Sima Guang, the great historian and statesman of the Northern Song dynasty, in his memorial 'Ti Yao Shu', in which he pledged to pour out his honest opinions and serve with utmost devotion even on matters the ruler had not asked about. Together these sources established the phrase as an expression of sincere candor and unwavering loyalty.",
+    "example_zh": "他对患难与共的老友向来披肝沥胆，毫无保留。",
+    "example_en": "He has always been completely open and unreserved with his old friend who shared hardships with him.",
+    "category": "Morality",
+    "similar": [
+      "肝胆相照",
+      "赤胆忠心",
+      "推心置腹"
+    ],
+    "opposite": [
+      "尔虞我诈",
+      "勾心斗角"
+    ],
+    "id": "pi-gan-li-dan"
+  },
+  {
+    "chinese": "格物穷理",
+    "pinyin": "gé wù qióng lǐ",
+    "literal": "investigate, things, exhaust, principle",
+    "meaning": "To investigate things thoroughly in order to reach the very bottom of their underlying principles and truth. It embodies the Neo-Confucian ideal of pursuing knowledge by studying the world and exhausting the reasons behind phenomena. The idiom urges deep, systematic inquiry rather than superficial understanding.",
+    "origin": "The phrase appears in 'Reply to Zheng Zhongbian' (答郑仲辩), an essay by the Ming-dynasty scholar Fang Xiaoru, who wrote of 'broadening oneself through investigating things and exhausting principles.' It draws on the classical concept of gewu zhizhi ('the investigation of things to extend knowledge') from the 'Great Learning' (大学), a core text of Confucian education. Fang Xiaoru, a celebrated Confucian scholar and martyr of the Ming court, used the expression to advocate rigorous study as the path to moral and intellectual fulfillment. Over time it became a standard term in Confucian learning for exhaustive inquiry into the principles of things.",
+    "example_zh": "做学问须有格物穷理的精神，方能探求事物之本质。",
+    "example_en": "One must approach scholarship with the spirit of investigating things to exhaust their principles; only then can one probe the true essence of things.",
+    "category": "Learning",
+    "similar": [
+      "格物致知",
+      "穷理尽性",
+      "追本溯源"
+    ],
+    "opposite": [
+      "不求甚解",
+      "浅尝辄止"
+    ],
+    "id": "ge-wu-qiong-li"
+  },
+  {
+    "chinese": "横槊赋诗",
+    "pinyin": "héng shuò fù shī",
+    "literal": "holding crosswise, long spear, compose, poetry",
+    "meaning": "Describes a person who composes poetry while holding a long spear crosswise, evoking the bold, heroic bearing of a warrior who is equally accomplished in martial and literary arts. It praises someone of extraordinary spirit who combines military might with scholarly talent. The idiom celebrates the majestic confidence of a great hero.",
+    "origin": "The idiom comes from Su Shi's 'Former Ode to the Red Cliff' (前赤壁赋), written in 1082 during the Northern Song Dynasty. In the ode, Su Shi describes Cao Cao, the late Eastern Han warlord and founder of the state of Wei, at the time of the Battle of Red Cliffs in 208 AD. He pictures Cao Cao pouring wine into the river and composing poetry while grasping his spear crosswise, calling him a true hero of his era. The phrase was later extracted to praise a person who wields both the pen and the sword with heroic grandeur.",
+    "example_zh": "他横槊赋诗，尽显一代英雄的豪迈气概。",
+    "example_en": "He composed poetry while holding his spear crosswise, fully displaying the heroic spirit of a great hero of his generation.",
+    "category": "Leadership",
+    "similar": [
+      "文武双全",
+      "能文能武",
+      "文韬武略"
+    ],
+    "opposite": [
+      "一介武夫",
+      "文弱书生"
+    ],
+    "id": "heng-shuo-fu-shi"
+  },
+  {
+    "chinese": "曲突徙薪",
+    "pinyin": "qū tū xǐ xīn",
+    "literal": "bend, chimney, move, firewood",
+    "meaning": "Qū (曲) means to bend, tū (突) refers to a chimney, xǐ (徙) means to move, and xīn (薪) means firewood—literally, 'to bend the chimney and move the firewood.' It is used as a metaphor for taking measures in advance to prevent potential disasters, rather than only responding after trouble has already occurred.",
+    "origin": "The idiom comes from the Biography of Huo Guang in the Book of Han (Hanshu), a history compiled during the Eastern Han dynasty. A guest visiting a host's home noticed that the chimney was straight and firewood was piled right beside the stove, so he advised the host to bend the chimney and move the firewood away, warning that a fire might otherwise break out. The host paid no heed. Soon the house did catch fire, and the neighbors helped put it out. When the host later rewarded those who helped, he forgot the very guest who had given the warning—hence the idiom came to symbolize preventing disaster before it happens.",
+    "example_zh": "做事应曲突徙薪，提前排查隐患，方能避免灾祸。",
+    "example_en": "One should bend the chimney and move the firewood—address hidden dangers in advance to avert disaster.",
+    "category": "Method",
+    "similar": [
+      "防患未然",
+      "未雨绸缪",
+      "有备无患"
+    ],
+    "opposite": [
+      "临渴掘井",
+      "亡羊补牢"
+    ],
+    "id": "qu-tu-xi-xin"
+  },
+  {
+    "chinese": "锦绣河山",
+    "pinyin": "jǐn xiù hé shān",
+    "literal": "brocade, embroidery, rivers, mountains",
+    "meaning": "Describes the magnificent, beautiful, and ornate scenery of one's homeland or a great country. It conveys a sense of awe and pride in the splendor of the land. The imagery of embroidered brocade evokes richness and grandeur.",
+    "origin": "The phrase originates from a line in 'Two Poems of Qingming Festival (Part Two)' (清明二首) by Du Fu, a great poet of the Tang Dynasty. The line reads: '秦城楼阁烟花里，汉主山河锦绣中' (The towers of the Qin city lie amid festive fireworks; the mountains and rivers of the Han realm rest in brocade and embroidery). Though written in the Tang Dynasty, the poem references earlier dynasties (Qin and Han) to glorify the enduring splendor of Chinese territory. Later writers adopted the phrase '锦绣河山' as a set expression for the beautiful landscape of the country.",
+    "example_zh": "望着这锦绣河山，我心中涌起无限的自豪与热爱。",
+    "example_en": "Gazing upon this magnificent land of brocade-like rivers and mountains, boundless pride and love well up in my heart.",
+    "category": "Quality",
+    "similar": [
+      "大好河山",
+      "山河壮丽",
+      "山清水秀"
+    ],
+    "opposite": [
+      "满目疮痍",
+      "断壁残垣"
+    ],
+    "id": "jin-xiu-he-shan"
+  },
+  {
+    "chinese": "大马金刀",
+    "pinyin": "dà mǎ jīn dāo",
+    "literal": "big horse, golden knife",
+    "meaning": "This idiom describes someone who carries themselves with a bold, imposing, and majestic bearing, as if mounted on a great horse wielding a gleaming blade. It can also describe speech or manner that is blunt, sharp, and ruthless, leaving no room for politeness or face-saving.",
+    "origin": "The idiom first appears in the Qing dynasty novel 《儿女英雄传》 (The Story of Heroic Sons and Daughters) by Wen Kang (文康). In the eighth chapter, the heroine Thirteenth Sister (十三妹) is described sitting '大马金刀' — in an imposing, warrior-like posture, as if astride a great horse with a golden saber. The phrase originally evoked the majestic bearing of a mounted warrior and came to signify a bold, unconstrained, and imposing manner.",
+    "example_zh": "经理大马金刀地坐在主位上，开口说话直来直去，毫不留情面。",
+    "example_en": "The manager sat squarely in the main seat with an imposing air, speaking bluntly and without sparing anyone's feelings.",
+    "category": "Attitude",
+    "similar": [
+      "威风凛凛",
+      "大刀阔斧",
+      "大摇大摆"
+    ],
+    "opposite": [
+      "温文尔雅",
+      "细声细气"
+    ],
+    "id": "da-ma-jin-dao"
+  },
+  {
+    "chinese": "不可胜记",
+    "pinyin": "bù kě shèng jì",
+    "literal": "not, able to, exhaustively, record",
+    "meaning": "Describes something so numerous or abundant that it cannot be fully recorded or listed one by one. It is used to emphasize an overwhelming quantity of deeds, people, or events, suggesting that any attempt to enumerate them would be futile.",
+    "origin": "The idiom comes from the memorial '为宋公求加赠刘前军表' (Memorial on Behalf of Duke Song Requesting Additional Posthumous Honors for the Vanguard General) written by Fu Liang (傅亮) of the Southern Dynasties Liu Song period. Fu Liang, a court official and noted writer, composed this petition on behalf of Liu Yu (刘裕), then Duke of Song and later founding emperor of the Liu Song dynasty, requesting greater posthumous honors for the vanguard general Liu Muzhi (刘穆之). Praising Liu Muzhi's contributions, Fu Liang wrote '功隐于视听，不可胜记' — meaning his merits, though not always visible to the eye or ear, were so great that they could not all be recorded. This line gave rise to the idiom, which has since been used to describe anything too plentiful to enumerate.",
+    "example_zh": "他为公司做出的贡献不可胜记。",
+    "example_en": "The contributions he made to the company are too numerous to be fully recorded.",
+    "category": "Variety",
+    "similar": [
+      "不可胜数",
+      "数不胜数",
+      "不胜枚举"
+    ],
+    "opposite": [
+      "屈指可数",
+      "寥寥无几"
+    ],
+    "id": "bu-ke-sheng-ji"
+  },
+  {
+    "chinese": "东央西浼",
+    "pinyin": "dōng yāng xī měi",
+    "literal": "east, entreat, west, beseech",
+    "meaning": "To entreat and beg everywhere, going around to various people to plead for help or favors. It describes someone who exhaustively solicits assistance from all quarters, often in an anxious or importunate manner.",
+    "origin": "The idiom appears in Chapter 84 of 《歧路灯》 (The Lamp at the Crossroads), a novel written by the Qing dynasty author Li Lüyuan during the Qianlong reign. In the passage, the servant Wang Xiangjin, acting on his mistress's orders and following the rules of Master Cheng, 'begs east and entreats west' — going around everywhere asking the property brokers to find a buyer for the estate. The 'east... west...' framing conveys the sense of 'here and there, everywhere,' so the phrase describes going about pleading with people in all directions. It has since come to mean entreating and soliciting favors from various quarters.",
+    "example_zh": "为了孩子上学的事，他东央西浼，四处求人帮忙。",
+    "example_en": "To get his child into school, he went around entreating everyone, begging for help wherever he could.",
+    "category": "Action",
+    "similar": [
+      "求爷爷告奶奶",
+      "东奔西走",
+      "低声下气"
+    ],
+    "opposite": [
+      "自力更生",
+      "独当一面"
+    ],
+    "id": "dong-yang-xi-mei"
   }
 ]
