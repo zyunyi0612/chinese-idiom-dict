@@ -7219,3 +7219,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-08-20 12:00:03] === Catch-up push done ===
 [2026-08-20 20:00:01] === Catch-up push start (50 unpushed commits) ===
+[main 206192d] Auto-update: 2026-08-20 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   6bb0ec9..206192d  main -> main
+
+Push OK (attempt 1)
+[2026-08-20 20:00:04] === Catch-up push done ===
+[2026-08-21 03:15:00] === Daily cron start ===
+[2026-08-21 03:15:00] === Daily cron start ===
+[2026-08-21 03:15:00] Generating 10 new idioms...
+[2026-08-21 03:15:00] Generating 10 new idioms...
+Existing: 4579 idioms
+Whitelist: 30894 total
+Candidates available: 24922 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 莺俦燕侣 (yīng chóu yàn lǚ)
+    OK (saved, total now: 4580): literal='oriole companion, swallow mate...'
+[2/10] -> 行住坐卧 (xíng zhù zuò wò)
+    OK (saved, total now: 4581): literal='walk, stand, sit, lie...'
+[3/10] -> 遁世绝俗 (dùn shì jué sú)
+    OK (saved, total now: 4582): literal='flee, world, sever, mundane...'
+[4/10] -> 刚中柔外 (gāng zhōng róu wài)
+    OK (saved, total now: 4583): literal='hard, inside, soft, outside...'
+[5/10] -> 有来无回 (yǒu lái wú huí)
+    OK (saved, total now: 4584): literal='have come, no return...'
+[6/10] -> 名符其实 (míng fú qí shí)
+    OK (saved, total now: 4585): literal='name, match, its, reality...'
+[7/10] -> 神输鬼运 (shén shū guǐ yùn)
+    OK (saved, total now: 4586): literal='gods transport, ghosts carry...'
+[8/10] -> 放达不羁 (fàng dá bù jī)
+    OK (saved, total now: 4587): literal='unrestrained, broad-minded, not, bound...'
+[9/10] -> 思深忧远 (sī shēn yōu yuǎn)
+    OK (saved, total now: 4588): literal='think, deep, worry, far...'
+[10/10] -> 热可炙手 (rè kě zhì shǒu)
+    OK (saved, total now: 4589): literal='hot, can, scorch, hand...'
+
+Added 10 idioms. Total: 4589
+[2026-08-21 03:17:14] Generation OK
+[2026-08-21 03:17:14] Generation OK
+[2026-08-21 03:17:14] Regenerating site...
+[2026-08-21 03:17:14] Regenerating site...
+Loading data...
+  → 4589 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4589 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4589 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-21 03:17:27] Site regenerated
+[2026-08-21 03:17:27] Site regenerated
+[2026-08-21 03:17:27] Pushing to GitHub...
+[2026-08-21 03:17:27] Pushing to GitHub...
