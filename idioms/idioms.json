@@ -91221,5 +91221,205 @@
       "默默无闻"
     ],
     "id": "re-ke-zhi-shou"
+  },
+  {
+    "chinese": "啮血沁骨",
+    "pinyin": "niè xuè qìn gǔ",
+    "literal": "bite, blood, seep into, bone",
+    "meaning": "Describes extreme sincerity and unwavering faithfulness. The imagery is of biting one's own flesh until the blood soaks into the bone, a metaphor for commitment so genuine it penetrates to the very core. It praises a person whose integrity and trustworthiness are beyond any doubt.",
+    "origin": "The idiom comes from a tale recorded in the Qing dynasty scholar Gu Sili's compilation Selected Poems of the Yuan Dynasty (元诗选), in the section on Ding Henian, a celebrated filial son of the late Yuan and early Ming period. When the wars that ended the Yuan dynasty scattered his family, Ding Henian's birth mother, Lady Feng, was stranded in the eastern village, where she fell ill and died. Learning of her death, Ding went to the village; because time had passed, he bit his finger to draw blood until it seeped into her bones (啮血沁骨) before he gathered and reverently reburied her remains. The story was preserved to honor his piercing sincerity and extreme filial devotion.",
+    "example_zh": "他对朋友的承诺啮血沁骨，绝无半点虚言。",
+    "example_en": "His promise to his friend was made with bone-deep sincerity, and not a single word of it was false.",
+    "category": "Morality",
+    "similar": [
+      "一诺千金",
+      "金石为开",
+      "言而有信"
+    ],
+    "opposite": [
+      "背信弃义",
+      "出尔反尔"
+    ],
+    "id": "nie-xue-qin-gu"
+  },
+  {
+    "chinese": "肉袒面缚",
+    "pinyin": "ròu tǎn miàn fù",
+    "literal": "bare the flesh, bind the hands, face the victor",
+    "meaning": "To bare one's upper body and have one's hands bound behind the back while facing the victor, showing readiness to accept punishment and abandonment of all resistance. It describes the humblest, most complete form of surrender and submission. Figuratively, it means to capitulate and submit obediently.",
+    "origin": "According to the 'Hereditary House of Weizi of Song' in Sima Qian's Records of the Grand Historian (《史记·宋微子世家》), after King Wu of Zhou overthrew the Shang dynasty around 1046 BC, Weizi, the elder half-brother of the deposed tyrant King Zhou, carried his ancestral ritual vessels to King Wu's military camp. He bared his upper body, bound his own hands behind his back, led a sheep with his left hand, and held a bundle of thatch with his right hand — symbols of submission and offering — then knelt and crawled forward to surrender. Impressed by his sincerity and humility, King Wu released him and restored his rank, later enfeoffing him in the state of Song, which became a major feudal state of the Zhou dynasty.",
+    "example_zh": "战败后，敌将肉袒面缚，亲赴我军阵前请降。",
+    "example_en": "After the defeat, the enemy general bared his chest and bound his own hands, personally coming to the front of our camp to beg for surrender.",
+    "category": "Action",
+    "similar": [
+      "负荆请罪",
+      "俯首称臣",
+      "束手就擒"
+    ],
+    "opposite": [
+      "负隅顽抗",
+      "宁死不屈"
+    ],
+    "id": "rou-tan-mian-fu"
+  },
+  {
+    "chinese": "履霜坚冰",
+    "pinyin": "lǚ shuāng jiān bīng",
+    "literal": "tread on, frost, hard, ice",
+    "meaning": "Walking on frost, one anticipates that the season of hard ice is approaching. The idiom is a metaphor for recognizing the early signs of a situation and staying vigilant about how it will develop. It urges people to perceive problems at their inception and act before they grow serious.",
+    "origin": "The idiom originates from the Book of Changes (易经), specifically the first line (初六) of the Kun hexagram (坤卦), which reads: '履霜，坚冰至' ('Tread on frost; hard ice will come'). The accompanying Xiang commentary explains that treading on frost and ice means the yin force is beginning to congeal, and if left to follow its course it will eventually form hard ice. The Song dynasty Neo-Confucian scholar Cheng Yi (程颐) elaborated on this line in his Yichuan Yizhuan (伊川易传), the work cited in the example from the Er Cheng Quanshu. The idiom thus teaches that from small early signs one should foresee and guard against their full development.",
+    "example_zh": "见他已有贪腐苗头，应有履霜坚冰之警，及早制止。",
+    "example_en": "Seeing the early signs of his corruption, one should be as alert as one who steps on frost and expects hard ice, and put a stop to it before it grows.",
+    "category": "Wisdom",
+    "similar": [
+      "见微知著",
+      "防微杜渐",
+      "未雨绸缪"
+    ],
+    "opposite": [
+      "麻木不仁",
+      "亡羊补牢"
+    ],
+    "id": "lu-shuang-jian-bing"
+  },
+  {
+    "chinese": "弦外之意",
+    "pinyin": "xián wài zhī yì",
+    "literal": "string, beyond, of, meaning",
+    "meaning": "The meaning that lies beyond the literal words, the implied or underlying message that is hinted at indirectly rather than stated explicitly. It refers to what a speaker truly intends but leaves unspoken, requiring the listener to read between the lines.",
+    "origin": "The idiom originates from the 'History of the Southern Dynasties' (南史), in the biography of Fan Ye (范晔), a historian and musician of the Liu Song dynasty (5th century) best known for compiling the 'Book of the Later Han'. Fan Ye, discussing the subtle pleasures of playing the lute, remarked that the charm of such music could not be fully expressed in words: 'the meaning beyond the strings, the resonance of empty sounds, one knows not whence they come.' The phrase thus came to describe meaning that is conveyed subtly and indirectly, beyond what is plainly said.",
+    "example_zh": "他虽未明说，但弦外之意已很明显。",
+    "example_en": "Although he did not say it directly, the implied meaning was already quite clear.",
+    "category": "Communication",
+    "similar": [
+      "言外之意",
+      "弦外之音",
+      "意在言外"
+    ],
+    "opposite": [
+      "直言不讳",
+      "开门见山"
+    ],
+    "id": "xian-wai-zhi-yi"
+  },
+  {
+    "chinese": "春蛙秋蝉",
+    "pinyin": "chūn wā qiū chán",
+    "literal": "spring frog, autumn cicada",
+    "meaning": "This idiom compares empty, exaggerated talk to the noisy chorus of frogs in spring and cicadas in autumn. It describes speech that is loud, pretentious, and full of florid rhetoric but utterly lacking in substance. The implication is that such talk makes a great clamor yet says nothing of value.",
+    "origin": "The idiom comes from the Jin dynasty (晋) philosopher Yang Quan's work 《物理论》(Discourse on the Principles of Things). In it, Yang Quan criticizes the fashion for empty and baseless discussions that prize ornate literary flourish, declaring that such talk 'is no different from the spring frog and autumn cicada, which merely rasp and clamor with their tongues.' Through this natural metaphor, he scorns verbose but hollow speech as mere noise, no more meaningful than the seasonal cries of frogs and cicadas. The phrase thus entered the language as a vivid critique of sound without sense.",
+    "example_zh": "他的演讲辞藻华丽却空洞无物，如春蛙秋蝉，聒噪一时。",
+    "example_en": "His speech was florid yet utterly hollow, like the spring frog and autumn cicada — merely clamorous for a moment.",
+    "category": "Communication",
+    "similar": [
+      "夸夸其谈",
+      "华而不实",
+      "空洞无物"
+    ],
+    "opposite": [
+      "真知灼见",
+      "言之有物"
+    ],
+    "id": "chun-wa-qiu-chan"
+  },
+  {
+    "chinese": "断长续短",
+    "pinyin": "duàn chāng xù duǎn",
+    "literal": "cut, long, continue, short",
+    "meaning": "To cut off a portion from what is long and use it to extend what is short. It is used as a metaphor for taking advantage of others' strengths to make up for one's own weaknesses, emphasizing balance and mutual supplementation.",
+    "origin": "The idiom originates from the Warring States period work Xunzi, in the chapter \"Discourse on Rituals\" (《荀子·礼论》). The philosopher Xunzi argues that ritual (礼) serves to cut off from the long and extend the short, reducing surplus and benefiting deficiency. Through this regulation, ritual perfects the expression of respect and love and cultivates the beauty of righteous conduct. Thus the phrase originally described the balancing function of ritual and later came to mean learning from others' merits to remedy one's own shortcomings.",
+    "example_zh": "学习中我们应断长续短，弥补自身的不足。",
+    "example_en": "In our studies, we should draw on others' strengths to make up for our own weaknesses.",
+    "category": "Method",
+    "similar": [
+      "取长补短",
+      "截长补短",
+      "扬长避短"
+    ],
+    "opposite": [
+      "舍长取短",
+      "扬短避长"
+    ],
+    "id": "duan-chang-xu-duan"
+  },
+  {
+    "chinese": "风花雪夜",
+    "pinyin": "fēng huā xuě yè",
+    "literal": "wind, flower, snow, night",
+    "meaning": "Originally referred to the natural scenery — spring wind, flowers, snow, and moonlit nights — most commonly depicted in classical poetry and prose. By extension, it is used to criticize writing that piles up ornate, flowery language while being poor and hollow in actual content. It describes artful words that lack real substance.",
+    "origin": "No recorded origin story exists for this idiom, and dictionaries generally note its provenance as unknown. It is widely regarded as a variant of the more common idiom 风花雪月 (wind, flower, snow, moon), which originally denoted the beautiful seasonal scenes that classical poets most loved to describe. As later writers overused such imagery merely for ornament, the phrase gradually came to mean ornate, flowery writing that was rich in words but poor in substance. Because no specific dynasty, text, or author can be credited with coining it, its origin is listed simply as none.",
+    "example_zh": "我们对过去那些描写风花雪夜的作品，要用历史唯物主义的观点加以分析。",
+    "example_en": "We must analyze past works that describe such romanticized scenery from a historical materialist perspective.",
+    "category": "Quality",
+    "similar": [
+      "华而不实",
+      "堆砌辞藻",
+      "花言巧语"
+    ],
+    "opposite": [
+      "言简意赅",
+      "字字珠玑"
+    ],
+    "id": "feng-hua-xue-ye"
+  },
+  {
+    "chinese": "喜逐颜开",
+    "pinyin": "xǐ zhú yán kāi",
+    "literal": "delight, follow, countenance, open",
+    "meaning": "It describes someone so delighted that a smile spreads across their whole face. The phrase conveys overwhelming joy that visibly brightens one's expression. It is typically used to depict a person's happy and beaming countenance.",
+    "origin": "The idiom comes from chapter seven of the Qing dynasty novel The Scholars (儒林外史) by Wu Jingzi (吴敬梓). In the story, an examination official reads a candidate's paper and, delighted by what he sees, breaks into a broad smile, and all his worries vanish. The original line reads: '学道看罢，不觉喜逐颜开，一天愁都没有了' (After reading it, the examiner unconsciously beamed with joy, and his worries of the day were gone).",
+    "example_zh": "听到儿子考上大学的喜讯，她喜逐颜开。",
+    "example_en": "Upon hearing the good news that her son had been admitted to university, her face lit up with joy.",
+    "category": "Emotion",
+    "similar": [
+      "笑逐颜开",
+      "眉开眼笑",
+      "喜笑颜开"
+    ],
+    "opposite": [
+      "愁眉苦脸",
+      "闷闷不乐"
+    ],
+    "id": "xi-zhu-yan-kai"
+  },
+  {
+    "chinese": "佛眼相看",
+    "pinyin": "fó yǎn xiāng kàn",
+    "literal": "Buddha, eye, mutually, look",
+    "meaning": "To look at someone through the eyes of a Buddha, meaning to treat others with kindness and goodwill, refraining from doing them harm. It describes an attitude of benevolence and compassion, often implying a tolerant, merciful disposition toward others.",
+    "origin": "The phrase originates from the commentary Guan Jing Shu (《观经疏》) by Shandao, the renowned Tang dynasty Pure Land master, in a passage dedicating his work's merit to sentient beings so that they might awaken the bodhisattva mind and 'face each other with kind hearts and look upon one another with Buddha eyes.' It expresses the ideal of viewing all people with the compassionate, non-harming gaze of the Buddha. The idiom was later popularized in Ming dynasty writer Feng Menglong's story collection Jingshi Tongyan (《警世通言》), where it is used in a warning to treat others kindly rather than bring harm.",
+    "example_zh": "若能以佛眼相看他人，世间便少了许多纷争。",
+    "example_en": "If people could look upon one another with the Buddha's compassionate eyes, the world would see far less strife.",
+    "category": "Attitude",
+    "similar": [
+      "慈眉善目",
+      "菩萨心肠",
+      "以德报怨"
+    ],
+    "opposite": [
+      "刀剑相向",
+      "视如仇敌"
+    ],
+    "id": "fo-yan-xiang-kan"
+  },
+  {
+    "chinese": "漫天大谎",
+    "pinyin": "màn tiān dà huǎng",
+    "literal": "boundless, sky, great, lie",
+    "meaning": "A lie so enormous it seems to fill the whole sky — a boundless, outrageous falsehood with no limit or measure. It describes a fabrication so exaggerated and shameless that it defies any belief.",
+    "origin": "The idiom appears in Lu Xun's essay '谚语' (Proverbs), collected in his 1930s work 《南腔北调集》 (Nán Qiāng Běi Diào Jí). Lu Xun criticizes the self-conceited scholars (秀才) of old China, who boasted that 'the scholar who never leaves his gate still knows all that happens under heaven.' He called this arrogant claim a boundless, sky-covering lie (漫天大谎), yet the common people believed it readily, and so it gradually spread as an accepted proverb. Through this example, Lu Xun mocked pretentious, baseless assertions that are nonetheless taken as wisdom.",
+    "example_zh": "他为了逃避责罚，竟然编造漫天大谎欺骗上司。",
+    "example_en": "In order to escape punishment, he actually fabricated a monstrous lie to deceive his superior.",
+    "category": "Communication",
+    "similar": [
+      "弥天大谎",
+      "天花乱坠",
+      "信口开河"
+    ],
+    "opposite": [
+      "实话实说",
+      "实事求是"
+    ],
+    "id": "man-tian-da-huang"
   }
 ]
