@@ -91421,5 +91421,204 @@
       "实事求是"
     ],
     "id": "man-tian-da-huang"
+  },
+  {
+    "chinese": "绿女红男",
+    "pinyin": "lǜ nǚ hóng nán",
+    "literal": "green women, red men",
+    "meaning": "Refers to young men and women dressed in bright, colorful clothing. It is often used to describe a lively scene full of elegantly dressed youths, such as at festivals, fairs, or scenic spots.",
+    "origin": "The idiom appears in the Qing dynasty work 'Yanjing Suishi Ji' (Record of the Seasonal Customs of Beijing) by Fucha Dunchong, in the entry on Wanshou Temple (万寿寺). The text describes the many visitors at the temple, noting that 'green women and red men' — young people in vivid dress — thronged the roads together. The phrase highlights the colorful attire of the crowds, and over time it came to stand for fashionable young people in general.",
+    "example_zh": "庙会上绿女红男，游人如织，热闹非凡。",
+    "example_en": "At the temple fair, young men and women in colorful dress milled about among the thronging crowds, making it a scene of great bustle and festivity.",
+    "category": "Lifestyle",
+    "similar": [
+      "红男绿女",
+      "男男女女",
+      "花枝招展"
+    ],
+    "opposite": [
+      "白发苍苍",
+      "老态龙钟"
+    ],
+    "id": "lu-nu-hong-nan"
+  },
+  {
+    "chinese": "斤斤计较",
+    "pinyin": "jīn jīn jì jiào",
+    "literal": "attentive to minutiae, attentive to minutiae, calculate, contend",
+    "meaning": "斤斤 originally describes keen, clear-sighted observation, and by extension came to mean trivial and petty matters. The idiom describes someone who fusses excessively over unimportant or inconsequential things, haggling over every trifle at the expense of the bigger picture.",
+    "origin": "The idiom derives from the poem 'Zhi Jing' (Holding Fast to Reverence) in the Zhou Hymns section of the Book of Songs (Shijing), a eulogy composed during the Western Zhou dynasty to honor the wise reign of Kings Cheng and Kang. The line reads: 'From the time of Cheng and Kang, they held sway over all four quarters, and their intelligence was keen (斤斤其明).' Here 斤斤 describes their clear and penetrating wisdom. Over the centuries the term shifted in sense from 'clear-sighted' to 'petty and trivial', eventually giving rise to the modern meaning of haggling over insignificant details.",
+    "example_zh": "做人要大度一点，不必对小事斤斤计较。",
+    "example_en": "One should be magnanimous in life and not fuss over trifles.",
+    "category": "Attitude",
+    "similar": [
+      "锱铢必较",
+      "睚眦必报",
+      "患得患失"
+    ],
+    "opposite": [
+      "宽宏大量",
+      "既往不咎"
+    ],
+    "id": "jin-jin-ji-jiao"
+  },
+  {
+    "chinese": "力有未逮",
+    "pinyin": "lì yǒu wèi dǎi",
+    "literal": "strength, have, not yet, reach",
+    "meaning": "One's strength or ability is not sufficient to accomplish what one wants to do. It describes a situation where someone has the intention or desire but falls short of the capacity required, so the goal remains unachieved. The tone is one of regretful admission of limitation.",
+    "origin": "\"力有未逮\" has no single documented origin story; Chinese dictionaries record no classical source (出处: 无). It is a modern-formed idiom assembled from classical vocabulary: 力 (strength/ability), 有 (to have), 未 (not yet), and 逮 (to reach, attain), a word with roots in classical texts such as the Shangshu and the Analects. The structure \"有未…\" (there is still something not yet...) follows a classical grammatical pattern, so the phrase reads literally as \"one's strength has not yet reached [the goal].\" It became a standard expression in modern Chinese, widely used in essays and reports to acknowledge that one's capability falls short of the task at hand.",
+    "example_zh": "我想独自完成这项任务，却力有未逮，只好求助他人。",
+    "example_en": "I wanted to complete this task on my own, but my ability fell short, so I had to ask others for help.",
+    "category": "Condition",
+    "similar": [
+      "力不从心",
+      "无能为力",
+      "爱莫能助"
+    ],
+    "opposite": [
+      "游刃有余",
+      "力所能及"
+    ],
+    "id": "li-you-wei-dai"
+  },
+  {
+    "chinese": "苦思冥想",
+    "pinyin": "kǔ sī míng xiǎng",
+    "literal": "bitter, think, deep, ponder",
+    "meaning": "To rack one's brains and think deeply about something, devoting one's whole mind to contemplation or imagination. It describes the effort of pondering hard over a problem, idea, or creative work, often to the point of being lost in thought.",
+    "origin": "The idiom is attested in modern Chinese literature, most notably in Ba Jin's creative memoirs (创作回忆录), where the writer reflects on his own working habits. In the essay on his novel, Ba Jin remarks that he never racked his brains when he picked up the pen, claiming he wrote quickly, even if critics called his work careless, as long as the work existed. His usage captures the idiom's sense of deliberately and anxiously straining one's thoughts. The four characters combine 苦 (painstaking), 思 (think), 冥 (deep/dark), and 想 (ponder), together meaning intense and absorbed mental effort.",
+    "example_zh": "与其整天苦思冥想，不如去现场亲眼看看实际情况。",
+    "example_en": "Rather than racking your brains all day, it's better to go to the site and see the actual situation with your own eyes.",
+    "category": "Knowledge",
+    "similar": [
+      "绞尽脑汁",
+      "冥思苦想",
+      "搜肠刮肚"
+    ],
+    "opposite": [
+      "不假思索",
+      "灵机一动"
+    ],
+    "id": "ku-si-ming-xiang"
+  },
+  {
+    "chinese": "身微力薄",
+    "pinyin": "shēn wēi lì báo",
+    "literal": "person, humble, strength, weak",
+    "meaning": "Describes a person of low social standing with little wealth or power. It conveys a sense of insignificance and meager means, often used as a humble, self-deprecating way of saying one is in no position to offer much help or support.",
+    "origin": "This idiom has no recorded origin in classical texts and is not attributed to any specific dynasty, historical figure, or literary work. It is a self-formed four-character expression assembled from common classical Chinese vocabulary: 身 (body/person), 微 (humble, lowly), 力 (strength), and 薄 (thin, weak). Its structure mirrors other classical phrases that pair 微 and 薄 to express insignificance and scant resources. It functions as a modest way to acknowledge one's low position and limited means.",
+    "example_zh": "我身微力薄，实在无力资助这次筹款活动。",
+    "example_en": "Being of humble standing and limited means, I truly cannot afford to fund this fundraising campaign.",
+    "category": "Status",
+    "similar": [
+      "人微言轻",
+      "微薄之力",
+      "势单力薄"
+    ],
+    "opposite": [
+      "位高权重",
+      "财大气粗"
+    ],
+    "id": "shen-wei-li-bao"
+  },
+  {
+    "chinese": "孔席不暖",
+    "pinyin": "kǒng xí bù nuǎn",
+    "literal": "Confucius, mat, not, warm",
+    "meaning": "The idiom depicts Confucius rushing from place to place to promote his doctrine, never staying anywhere long enough for his seat mat to grow warm. It describes someone who is tirelessly on the move, devoting every moment to a cause and refusing to settle into leisure.",
+    "origin": "The allusion centers on Confucius (551–479 BC) of the Spring and Autumn period, who, troubled by the disorder of his age, journeyed among the feudal states seeking rulers who would adopt his ideal of benevolent, ritual-based governance. He would depart before his sitting mat had even warmed, so eager was he to press on to the next audience. The image was famously paired with the story of Mozi in Ban Gu's 'Answer to a Guest's Jest' of the Eastern Han dynasty: while Confucius' mat never grew warm, the Mohist Mozi's chimney never grew soot-blackened, because neither sage tarried long in one place. The phrase thus came to epitomize single-minded, restless dedication to one's mission.",
+    "example_zh": "他孔席不暖，奔走各地传播新思想。",
+    "example_en": "He, like Confucius whose mat never warmed, rushed from place to place spreading new ideas.",
+    "category": "Perseverance",
+    "similar": [
+      "席不暇暖",
+      "墨突不黔",
+      "东奔西走"
+    ],
+    "opposite": [
+      "安居乐业",
+      "优哉游哉"
+    ],
+    "id": "kong-xi-bu-nuan"
+  },
+  {
+    "chinese": "与世长辞",
+    "pinyin": "yǔ shì cháng cí",
+    "literal": "with, world, forever, farewell",
+    "meaning": "To bid farewell to the world forever and depart from human life. It is a euphemistic expression meaning to pass away or die, often used respectfully for the deceased.",
+    "origin": "The idiom originates from the story \"贾奉雉\" (Jia Fengzhi) in Strange Tales from a Lonely Studio (《聊斋志异》) by the Qing dynasty writer Pu Songling. In the tale, the scholar Jia Fengzhi gains fame through examination essays he himself despises, likening his achievement to storing dog excrement in a golden basin and jade bowl. Feeling he has no face to meet his peers, he declares that he will soon retreat into the mountains and \"bid farewell to the world forever.\" The phrase later became a euphemism for death.",
+    "example_zh": "曹冷元那斑白的头发楂和胡须都烧焦了，脸上起着一片红泡，眼睛含着浑泪，与世长辞了。",
+    "example_en": "Cao Lengyuan's graying stubble and beard were scorched, red blisters covered his face, tears welled in his eyes—and he passed away from the world forever.",
+    "category": "Condition",
+    "similar": [
+      "溘然长逝",
+      "撒手人寰",
+      "寿终正寝"
+    ],
+    "opposite": [
+      "长生不老",
+      "长命百岁"
+    ],
+    "id": "yu-shi-chang-ci"
+  },
+  {
+    "chinese": "南面称孤",
+    "pinyin": "nán miàn chēng gū",
+    "literal": "face south, call oneself the lone one",
+    "meaning": "In ancient Chinese court ritual, the ruler always sat facing south, so 'facing south' became a symbol of reigning; '孤' (the lone one) was the humble self-title used by kings and emperors. The idiom means to sit enthroned facing south and style oneself ruler, i.e., to rule a region and become a king or emperor.",
+    "origin": "The idiom originates from the chapter 'Robber Zhi' (盗跖) in the Daoist classic Zhuangzi, written by the Warring States thinker Zhuang Zhou. In that passage, the text states that a person who possesses even one of certain virtues would be sufficient to face south and call himself ruler (南面称孤). The saying reflects the ancient Chinese convention in which a sovereign's throne faced south, so 'facing south' became a stock metaphor for holding royal or imperial power.",
+    "example_zh": "乱世之中，割据一方的枭雄皆欲南面称孤。",
+    "example_en": "In times of chaos, every warlord carving out his own territory aspired to sit facing south and proclaim himself ruler.",
+    "category": "Power",
+    "similar": [
+      "称王称霸",
+      "南面为王",
+      "君临天下"
+    ],
+    "opposite": [
+      "俯首称臣"
+    ],
+    "id": "nan-mian-cheng-gu"
+  },
+  {
+    "chinese": "一日千里",
+    "pinyin": "yī rì qiān lǐ",
+    "literal": "one day, thousand li",
+    "meaning": "Literally describing a swift horse covering a thousand li in a single day, this idiom now metaphorically refers to extremely rapid progress or development. It emphasizes how fast something improves, grows, or advances in a very short span of time.",
+    "origin": "The idiom first appears in Zhuangzi's 'Autumn Floods' (《庄子·秋水》) from the Warring States period, which compares fine horses such as 骐骥 and 骅骝 to galloping a thousand li in a day. It is also cited in Sima Qian's 'Records of the Grand Historian', Biographies of Assassins (《史记·刺客列传》) of the Western Han dynasty, where the saying notes that a strong swift horse can cover a thousand li in a day, yet when it grows old even a slow nag overtakes it. Over time the image of the flying horse was borrowed to describe any endeavor advancing with extraordinary speed.",
+    "example_zh": "随着科技的进步，我国航天事业发展一日千里。",
+    "example_en": "With the advancement of science and technology, China's aerospace industry is developing at a remarkable pace.",
+    "category": "Success",
+    "similar": [
+      "突飞猛进",
+      "日新月异",
+      "蒸蒸日上"
+    ],
+    "opposite": [
+      "每况愈下",
+      "停滞不前"
+    ],
+    "id": "yi-ri-qian-li"
+  },
+  {
+    "chinese": "千载一弹",
+    "pinyin": "qiān zǎi yī dàn",
+    "literal": "thousand years, one flick",
+    "meaning": "The idiom extols an exceptionally deep and heartfelt friendship that is extraordinarily hard to come by — so rare it may occur only once in a thousand years. It conveys that a bond of mutual understanding, shared purpose, and loyalty between friends is a priceless, once-in-a-lifetime treasure.",
+    "origin": "The idiom is traced to the 'Book of Han' (《汉书》), in the biography of Wang Ji (王吉, courtesy name Ziyang, known as Wang Yang). Wang Ji, an official of the Western Han dynasty, was a close friend of the scholar Gong Yu (贡禹), and the saying of their day ran: 'When Wang Yang holds office, Gong dusts his cap' — meaning that when one friend rose to high rank, the other was ready to follow and tread the same path. This mutual devotion gave rise to the idiom, and the Jin dynasty poet Lu Ji later used it in a poem to praise a friendship so profound that it was deemed to occur but once in a thousand years.",
+    "example_zh": "能得千载一弹的知己，实乃人生一大幸事。",
+    "example_en": "To find a kindred spirit as rare as one in a thousand years is truly one of life's greatest blessings.",
+    "category": "Emotion",
+    "similar": [
+      "弹冠相庆",
+      "莫逆之交",
+      "刎颈之交"
+    ],
+    "opposite": [
+      "泛泛之交",
+      "一面之交"
+    ],
+    "id": "qian-zai-yi-dan"
   }
 ]

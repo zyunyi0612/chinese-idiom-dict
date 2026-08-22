@@ -7413,3 +7413,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-08-22 12:00:03] === Catch-up push done ===
 [2026-08-22 20:00:00] === Catch-up push start (56 unpushed commits) ===
+[main 857eae9] Auto-update: 2026-08-22 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   5f78e3d..857eae9  main -> main
+
+Push OK (attempt 1)
+[2026-08-22 20:00:03] === Catch-up push done ===
+[2026-08-23 03:15:00] === Daily cron start ===
+[2026-08-23 03:15:00] === Daily cron start ===
+[2026-08-23 03:15:00] Generating 10 new idioms...
+[2026-08-23 03:15:00] Generating 10 new idioms...
+Existing: 4599 idioms
+Whitelist: 30894 total
+Candidates available: 24902 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 绿女红男 (lǜ nǚ hóng nán)
+    OK (saved, total now: 4600): literal='green women, red men...'
+[2/10] -> 斤斤计较 (jīn jīn jì jiào)
+    OK (saved, total now: 4601): literal='attentive to minutiae, attentive to minutiae, calc...'
+[3/10] -> 力有未逮 (lì yǒu wèi dǎi)
+    OK (saved, total now: 4602): literal='strength, have, not yet, reach...'
+[4/10] -> 苦思冥想 (kǔ sī míng xiǎng)
+    OK (saved, total now: 4603): literal='bitter, think, deep, ponder...'
+[5/10] -> 身微力薄 (shēn wēi lì báo)
+    OK (saved, total now: 4604): literal='person, humble, strength, weak...'
+[6/10] -> 孔席不暖 (kǒng xí bù nuǎn)
+    OK (saved, total now: 4605): literal='Confucius, mat, not, warm...'
+[7/10] -> 与世长辞 (yǔ shì cháng cí)
+    OK (saved, total now: 4606): literal='with, world, forever, farewell...'
+[8/10] -> 南面称孤 (nán miàn chēng gū)
+    OK (saved, total now: 4607): literal='face south, call oneself the lone one...'
+[9/10] -> 一日千里 (yī rì qiān lǐ)
+    OK (saved, total now: 4608): literal='one day, thousand li...'
+[10/10] -> 千载一弹 (qiān zǎi yī dàn)
+    OK (saved, total now: 4609): literal='thousand years, one flick...'
+
+Added 10 idioms. Total: 4609
+[2026-08-23 03:17:20] Generation OK
+[2026-08-23 03:17:20] Generation OK
+[2026-08-23 03:17:20] Regenerating site...
+[2026-08-23 03:17:20] Regenerating site...
+Loading data...
+  → 4609 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4609 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4609 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-23 03:17:33] Site regenerated
+[2026-08-23 03:17:33] Site regenerated
+[2026-08-23 03:17:33] Pushing to GitHub...
+[2026-08-23 03:17:33] Pushing to GitHub...
