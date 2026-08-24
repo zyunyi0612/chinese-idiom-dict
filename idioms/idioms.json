@@ -91819,5 +91819,185 @@
       "见死不救"
     ],
     "id": "ba-dao-xiang-zhu"
+  },
+  {
+    "chinese": "唾面自干",
+    "pinyin": "tuò miàn zì gān",
+    "literal": "spit, face, self, dry",
+    "meaning": "When someone spits on your face, you do not wipe it off but let it dry on its own. It describes the extreme tolerance of one who endures humiliation without any resistance or retaliation, meekly accepting disgrace.",
+    "origin": "The idiom comes from the Biography of Lou Shide in the New Book of Tang (《新唐书·娄师德传》). Lou Shide, a Tang dynasty chancellor celebrated for his forbearance, was seeing off his younger brother who was departing to govern Daizhou and advised him to be tolerant. The brother replied that if someone spat on his face, he would simply wipe it clean. Lou Shide corrected him, saying that wiping it off would only provoke the offender's anger, and that one should instead let the spit dry on its own. The story illustrates the highest degree of patience in enduring humiliation.",
+    "example_zh": "面对旁人的羞辱，他竟能唾面自干，从不计较。",
+    "example_en": "Facing others' insults, he could simply let the spittle dry on his face and never took offense.",
+    "category": "Attitude",
+    "similar": [
+      "忍气吞声",
+      "委曲求全",
+      "逆来顺受"
+    ],
+    "opposite": [
+      "睚眦必报",
+      "针锋相对"
+    ],
+    "id": "tuo-mian-zi-gan"
+  },
+  {
+    "chinese": "雁影分飞",
+    "pinyin": "yàn yǐng fēn fēi",
+    "literal": "wild goose, shadow, separate, fly",
+    "meaning": "A metaphor for two people who were once close parting ways, drawn from the image of wild geese scattering from their orderly flying formation. It describes the sorrow of separation between spouses, friends, or family members. The idiom emphasizes the inevitability and regret of two formerly united parties going their separate directions.",
+    "origin": "The idiom comes from the Qing dynasty (清) writer Pu Songling's (蒲松龄) classical short-story collection Liaozhai Zhiyi (聊斋志异), in the tale \"Ma Jiefu\" (马介甫). In this story a meek husband is tormented by his cruel, domineering wife, and the family descends into disorder as the couple is torn apart. The original text reads \"甚而雁影纷飞，涕空沾于荆树\" — geese flying in formation symbolize togetherness, so their scattered flight moving in opposite directions pictures the couple's separation. Though the source text uses 纷飞 (scattered flying), the later standardized form 雁影分飞 came to mean simply \"two parties parting\".",
+    "example_zh": "多年的好友如今雁影分飞，令人唏嘘不已。",
+    "example_en": "The friends of many years have now parted ways like wild geese scattering, truly a lamentable sight.",
+    "category": "Condition",
+    "similar": [
+      "劳燕分飞",
+      "各奔东西",
+      "分道扬镳"
+    ],
+    "opposite": [
+      "形影不离",
+      "如胶似漆"
+    ],
+    "id": "yan-ying-fen-fei"
+  },
+  {
+    "chinese": "留有余地",
+    "pinyin": "liú yǒu yú dì",
+    "literal": "leave, have, surplus, room",
+    "meaning": "To leave some room for maneuver when speaking or acting, rather than taking things to the extreme. It advises keeping a margin of flexibility so that one can adjust or retreat if circumstances change. The idiom emphasizes prudence and foresight in dealings with people and affairs.",
+    "origin": "The phrase comes from a poem written by the Song dynasty poet Wang Ling (王令), who lived from 1032 to 1059. In his poem '寄介甫' (Sent to Jiefu), addressed to his friend Wang Anshi (whose courtesy name was Jiefu), he wrote the line '终见乘桴去沧海，好留余地许相依' — 'In the end we shall ride the raft across the vast sea; it is good to leave some room to rely on each other.' The line suggests keeping spare space or leeway for future companionship, which later gave rise to the idiom's meaning of leaving room to maneuver.",
+    "example_zh": "说话办事都要留有余地，不要把话说得太满。",
+    "example_en": "One should leave some room for maneuver in both speech and action, and not speak too absolutely.",
+    "category": "Wisdom",
+    "similar": [
+      "网开一面",
+      "手下留情",
+      "适可而止"
+    ],
+    "opposite": [
+      "赶尽杀绝",
+      "不留余地"
+    ],
+    "id": "liu-you-yu-di"
+  },
+  {
+    "chinese": "局促不安",
+    "pinyin": "jú cù bù ān",
+    "literal": "constrained, ill at ease, not, at peace",
+    "meaning": "Describes someone who is fidgety, awkward, and ill at ease in manner, feeling nervous and uneasy because of embarrassment, guilt, or being in an unfamiliar or intimidating situation. The person's movements are constrained and their mind is unsettled, unable to relax.",
+    "origin": "The idiom originates from the Ming-dynasty novel 《东周列国志》 (Chronicles of the Eastern Zhou Kingdoms) by Feng Menglong, Chapter 12, set in the Spring and Autumn period. After Duke Zhao of Zheng ascended the throne, he nursed a grudge against the minister Zhai Zu but did not punish him, only treating him with noticeably reduced favor. Feeling constrained and uneasy over their strained relations, Zhai Zu frequently claimed illness and stopped attending court. This scene of anxious, fidgety behavior was condensed into the idiom 局促不安 to describe a person's uneasy, restless demeanor.",
+    "example_zh": "面对老师的严厉批评，他站在办公室里局促不安，双手不知该往哪里放。",
+    "example_en": "Facing the teacher's stern criticism, he stood in the office feeling ill at ease, not knowing where to put his hands.",
+    "category": "Emotion",
+    "similar": [
+      "忐忑不安",
+      "坐立不安",
+      "如坐针毡"
+    ],
+    "opposite": [
+      "泰然自若",
+      "从容不迫"
+    ],
+    "id": "ju-cu-bu-an"
+  },
+  {
+    "chinese": "回天运斗",
+    "pinyin": "huí tiān yùn dǒu",
+    "literal": "turn back, heaven, rotate, Dipper",
+    "meaning": "A metaphor for wielding supreme power to overturn the established order of heaven and earth, turning a hopeless situation around completely. It describes someone of extraordinary ability who can reverse the course of events, as if rotating the sky and spinning the stars themselves.",
+    "origin": "The idiom originates from the line '荡海吞江制中国，回天运斗应南面' in 《邺城引》(Song of Ye City), a poem by Zhang Ding of the Tang dynasty. It portrays a ruler who sweeps the seas and swallows rivers to dominate the Central Kingdom, then 'turns heaven and rotates the Big Dipper' while facing south — the traditional posture of a sovereign on the throne. The imagery of moving the celestial bodies symbolizes supreme power to command the cosmic order. Ye City, the ancient capital associated with the Wei kingdom of the Three Kingdoms period, gives the poem its grand imperial setting. The phrase later became a fixed idiom meaning to reverse a dire situation through overwhelming power.",
+    "example_zh": "纵有回天运斗之力，亦难改时代潮流。",
+    "example_en": "Even with the power to turn heaven and move the Dipper, one cannot change the tide of the times.",
+    "category": "Power",
+    "similar": [
+      "旋转乾坤",
+      "回天之力",
+      "扭转乾坤"
+    ],
+    "opposite": [
+      "回天乏术",
+      "力不从心"
+    ],
+    "id": "hui-tian-yun-dou"
+  },
+  {
+    "chinese": "玉食锦衣",
+    "pinyin": "yù shí jǐn yī",
+    "literal": "jade food, brocade clothing",
+    "meaning": "Refers to the finest, most exquisite food and beautiful embroidered clothing, symbolizing a life of luxury and extravagance. The idiom describes someone who enjoys the most opulent material comforts and a lavish lifestyle.",
+    "origin": "The idiom originates from the Book of Wei (魏书), an official history compiled during the Northern Qi dynasty, in the biography of Chang Jing (常景), who wrote that one with brocade clothing and jade-like delicacies can properly nourish his body. The phrasing was later popularized in Ming-dynasty literature, notably in Xie Dang's play Four Joys (四喜记), where it depicts the privileged casually enjoying such grandeur. Over time the two elements were sometimes reordered, giving rise to the variant form seen here.",
+    "example_zh": "他出身豪门，自幼玉食锦衣，从不知民间疾苦。",
+    "example_en": "Born into a wealthy family, he enjoyed jade-like delicacies and brocade clothing from childhood, never knowing the hardships of common people.",
+    "category": "Lifestyle",
+    "similar": [
+      "锦衣玉食",
+      "钟鸣鼎食",
+      "山珍海味"
+    ],
+    "opposite": [
+      "粗茶淡饭",
+      "布衣蔬食"
+    ],
+    "id": "yu-shi-jin-yi"
+  },
+  {
+    "chinese": "龙翔虎跃",
+    "pinyin": "lóng xiáng hǔ yuè",
+    "literal": "dragon soaring, tiger leaping",
+    "meaning": "A metaphor for striving vigorously to achieve great things. It describes a person of grand ambition who acts with dynamic, powerful energy, charging forward boldly in their undertakings. The imagery of a dragon gliding through the sky and a tiger springing forward conveys unstoppable enterprise and vitality.",
+    "origin": "The idiom comes from a preface written by Ye Fan of the Ming dynasty to the collection 《写情集》(Xie Qing Ji). Praising the subject's extraordinary bearing and towering ambitions, the preface argues that a person with such world-covering stature and a heart devoted to state affairs would inevitably pour forth myriad marvelous forms of expression, 'soaring like a dragon and leaping like a tiger.' The phrase thus captures the ideal of a vigorous, enterprising spirit bursting into action.",
+    "example_zh": "新时代青年当龙翔虎跃，奋发有为，建功立业。",
+    "example_en": "The youth of the new era should soar like dragons and leap like tigers, striving vigorously to make their mark.",
+    "category": "Determination",
+    "similar": [
+      "龙腾虎跃",
+      "生龙活虎",
+      "奋发有为"
+    ],
+    "opposite": [
+      "死气沉沉",
+      "萎靡不振"
+    ],
+    "id": "long-xiang-hu-yue"
+  },
+  {
+    "chinese": "无所不晓",
+    "pinyin": "wú suǒ bù xiǎo",
+    "literal": "not, that which, not, know",
+    "meaning": "To know everything; there is nothing one does not understand or is unacquainted with. It describes someone of vast knowledge who is versed in all matters, from high culture to everyday trivia.",
+    "origin": "The idiom comes from Act One of \"Dongpo Dream\" (《东坡梦》), a Yuan dynasty (1279–1368) zaju play by Wu Changling. In the play, a character praises an exceedingly clever woman, saying she is fluent in the speech of all Three Religions and Nine Schools of thought (三教九流) — nothing eludes her understanding. The phrase '无所不通，无所不晓' thus entered the language as a set expression for omniscience, combining the parallel construction typical of classical Chinese rhetoric.",
+    "example_zh": "这位老先生博闻强识，天文地理无所不晓。",
+    "example_en": "This learned old gentleman is erudite and sharp-witted; there is nothing about astronomy or geography he does not know.",
+    "category": "Knowledge",
+    "similar": [
+      "无所不知",
+      "博古通今",
+      "见多识广"
+    ],
+    "opposite": [
+      "一无所知",
+      "孤陋寡闻"
+    ],
+    "id": "wu-suo-bu-xiao"
+  },
+  {
+    "chinese": "闲云野鹤",
+    "pinyin": "xián yún yě hè",
+    "literal": "leisurely cloud, wild crane",
+    "meaning": "Literally \"idle clouds and wild cranes,\" this idiom describes a person who lives a leisurely, carefree life, free from the restraints of worldly affairs. It evokes the image of drifting clouds and untethered cranes, symbolizing freedom, solitude, and detachment from social duties. It is often used to praise someone who has withdrawn from worldly concerns to live in seclusion or tranquility.",
+    "origin": "The idiom originates from a story recorded in the Song dynasty work 《全唐诗话》 (Complete Tang Poetry Talks) compiled by 尤袤 (You Mao). The story involves the Tang monk-poet 贯休 (Guanxiu), who presented a poem to 钱镠 (Qian Liu), the king of Wuyue, which contained the line \"一剑霜寒十四州\" (a single sword chills fourteen prefectures). Qian Liu asked Guanxiu to change \"十四州\" to \"四十州\" (forty prefectures) to flatter his expanding territory. Guanxiu refused, replying, \"州亦难添，诗亦难改，然闲云孤鹤，何天而不可飞?\" (States are hard to add and poems hard to change, but as a lone cloud or solitary crane, what sky is there I cannot fly to?), and promptly left. The phrase \"闲云孤鹤\" later evolved into the more common form \"闲云野鹤\" to signify a free-spirited person unattached to worldly affairs.",
+    "example_zh": "退休后的他过着闲云野鹤般的生活，无拘无束。",
+    "example_en": "After retiring, he lives a life as free as idle clouds and wild cranes, utterly unconstrained.",
+    "category": "Lifestyle",
+    "similar": [
+      "逍遥自在",
+      "悠然自得",
+      "无拘无束"
+    ],
+    "opposite": [
+      "案牍劳形",
+      "俗务缠身"
+    ],
+    "id": "xian-yun-ye-he"
   }
 ]
