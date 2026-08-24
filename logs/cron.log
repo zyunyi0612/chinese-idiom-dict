@@ -7576,3 +7576,25 @@ To preview locally:
 [2026-08-24 03:17:37] Site regenerated
 [2026-08-24 03:17:37] Pushing to GitHub...
 [2026-08-24 03:17:37] Pushing to GitHub...
+[main 1dad036] Auto-update: 2026-08-24 03:17 - regenerate idioms
+ 20 files changed, 12247 insertions(+), 9243 deletions(-)
+ create mode 100644 docs/idiom/ba-dao-xiang-zhu.html
+ create mode 100644 docs/idiom/chao-du-zhong-sheng.html
+ create mode 100644 docs/idiom/diao-gu-shang-jin.html
+ create mode 100644 docs/idiom/fen-miao-bi-zheng.html
+ create mode 100644 docs/idiom/ge-wei-qi-zhu.html
+ create mode 100644 docs/idiom/neng-mou-shan-duan.html
+ create mode 100644 docs/idiom/si-tong-ba-da.html
+ create mode 100644 docs/idiom/wei-feng-ba-mian.html
+ create mode 100644 docs/idiom/wen-qing-mi-yi.html
+ create mode 100644 docs/idiom/xuan-chun-bai-jie.html
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   912ac84..1dad036  main -> main
+
+Push OK (attempt 1)
+[2026-08-24 03:17:47] Push OK
+[2026-08-24 03:17:47] Push OK
+[2026-08-24 03:17:47] === Daily cron done ===
+[2026-08-24 03:17:47] === Daily cron done ===
+[2026-08-24 12:00:00] === Catch-up push start (61 unpushed commits) ===
