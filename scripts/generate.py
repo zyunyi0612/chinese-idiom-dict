@@ -213,6 +213,13 @@ def main():
     # Ensure CNAME for GitHub Pages custom domain
     (OUTPUT_DIR / "CNAME").write_text("chinese-idioms.top\n", encoding="utf-8")
 
+    # IndexNow key file (Bing/Yandex/Seznam/Naver instant-notification).
+    # Key is stable; regenerate() wipes docs/ so we rewrite it every run.
+    indexnow_key = (BASE_DIR / "data" / "indexnow_key.txt").read_text().strip() \
+        if (BASE_DIR / "data" / "indexnow_key.txt").exists() else ""
+    if indexnow_key:
+        (OUTPUT_DIR / f"{indexnow_key}.txt").write_text(indexnow_key, encoding="utf-8")
+
     print()
     print("=" * 50)
     print(f"✓ Done! {len(idioms)} idiom pages + index + categories + about + sitemap")

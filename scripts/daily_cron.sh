@@ -41,7 +41,15 @@ else
     log "Push FAILED"
 fi
 
-# 4. Cleanup old logs
+# 4. Ping IndexNow (Bing/Yahoo/DuckDuckGo instant notification) for new pages
+log "Pinging IndexNow..."
+if $PYTHON "$PROJECT/scripts/indexnow_ping.py" 10 >> "$LOG" 2>&1; then
+    log "IndexNow OK"
+else
+    log "IndexNow FAILED (non-fatal)"
+fi
+
+# 5. Cleanup old logs
 find "$LOG_DIR" -name "cron.log" -mtime +30 -delete 2>/dev/null || true
 
 log "=== Daily cron done ==="

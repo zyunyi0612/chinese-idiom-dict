@@ -7696,3 +7696,11 @@ Push OK (attempt 1)
 [2026-08-25 03:17:42] === Daily cron done ===
 [2026-08-25 03:17:42] === Daily cron done ===
 [2026-08-25 12:00:00] === Catch-up push start (64 unpushed commits) ===
+[main 7b398be] Auto-update: 2026-08-25 12:00 - regenerate idioms
+ 1 file changed, 21 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   2edeed8..7b398be  main -> main
+
+Push OK (attempt 1)
+[2026-08-25 12:00:05] === Catch-up push done ===
