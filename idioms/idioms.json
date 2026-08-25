@@ -16361,7 +16361,7 @@
       "勤俭节约",
       "艰苦朴素"
     ],
-    "id": "jiao-she-yin-yi"
+    "id": "jiao-she-yin-yi-2"
   },
   {
     "chinese": "指空话空",
@@ -17670,7 +17670,7 @@
       "井井有条",
       "井然有序"
     ],
-    "id": "yi-ta-hu-tu"
+    "id": "yi-ta-hu-tu-2"
   },
   {
     "chinese": "不牧之地",
@@ -19743,7 +19743,7 @@
       "雪中送炭",
       "扶危济困"
     ],
-    "id": "luo-jing-xia-shi"
+    "id": "luo-jing-xia-shi-2"
   },
   {
     "chinese": "盘水加剑",
@@ -20677,7 +20677,7 @@
       "价值连城",
       "无价之宝"
     ],
-    "id": "bu-zhi-yi-qian"
+    "id": "bu-zhi-yi-qian-2"
   },
   {
     "chinese": "非愚则诬",
@@ -23158,7 +23158,7 @@
       "支支吾吾",
       "断章取义"
     ],
-    "id": "yuan-yuan-ben-ben"
+    "id": "yuan-yuan-ben-ben-2"
   },
   {
     "chinese": "精耕细作",
@@ -29444,7 +29444,7 @@
       "两袖清风",
       "清正廉洁"
     ],
-    "id": "zang-wu-lang-ji"
+    "id": "zang-wu-lang-ji-2"
   },
   {
     "chinese": "器满则覆",
@@ -31857,7 +31857,7 @@
       "阳奉阴违",
       "抗命不尊"
     ],
-    "id": "feng-ming-wei-jin"
+    "id": "feng-ming-wei-jin-2"
   },
   {
     "chinese": "先发制人",
@@ -36167,7 +36167,7 @@
       "司空见惯",
       "屡见不鲜"
     ],
-    "id": "sheng-yan-nan-zai"
+    "id": "sheng-yan-nan-zai-2"
   },
   {
     "chinese": "瓜李之嫌",
@@ -36661,7 +36661,7 @@
     "opposite": [
       "一马平川"
     ],
-    "id": "chong-shan-jun-ling"
+    "id": "chong-shan-jun-ling-2"
   },
   {
     "chinese": "龟龙麟凤",
@@ -36821,7 +36821,7 @@
       "强词夺理",
       "歪曲事实"
     ],
-    "id": "ci-yan-yi-zheng"
+    "id": "ci-yan-yi-zheng-2"
   },
   {
     "chinese": "清都绛阙",
@@ -37499,7 +37499,7 @@
       "事与愿违",
       "大失所望"
     ],
-    "id": "chen-xin-ru-yi"
+    "id": "chen-xin-ru-yi-2"
   },
   {
     "chinese": "知情不举",
@@ -43101,7 +43101,7 @@
       "欢天喜地",
       "喜笑颜开"
     ],
-    "id": "ai-sheng-tan-qi"
+    "id": "ai-sheng-tan-qi-2"
   },
   {
     "chinese": "达人知命",
@@ -46154,7 +46154,7 @@
       "言简意赅",
       "要言不烦"
     ],
-    "id": "zhi-ci-man-yu"
+    "id": "zhi-ci-man-yu-2"
   },
   {
     "chinese": "全神关注",
@@ -49128,7 +49128,7 @@
       "庸碌无能",
       "才疏学浅"
     ],
-    "id": "da-cai-cui-pan"
+    "id": "da-cai-cui-pan-2"
   },
   {
     "chinese": "鱼水和谐",
@@ -49886,7 +49886,7 @@
       "柳暗花明",
       "绝处逢生"
     ],
-    "id": "dao-jin-tu-qiong"
+    "id": "dao-jin-tu-qiong-2"
   },
   {
     "chinese": "法家拂士",
@@ -50163,7 +50163,7 @@
       "聚精会神",
       "全神贯注"
     ],
-    "id": "shen-bu-shou-she"
+    "id": "shen-bu-shou-she-2"
   },
   {
     "chinese": "尺幅千里",
@@ -52772,7 +52772,7 @@
       "门庭若市",
       "宾客盈门"
     ],
-    "id": "bi-men-sao-gui"
+    "id": "bi-men-sao-gui-2"
   },
   {
     "chinese": "名重一时",
@@ -54740,7 +54740,7 @@
       "自给自足",
       "丰衣足食"
     ],
-    "id": "yan-men-tuo-bo"
+    "id": "yan-men-tuo-bo-2"
   },
   {
     "chinese": "荡然无存",
@@ -55036,7 +55036,7 @@
       "断章取义",
       "一知半解"
     ],
-    "id": "shi-mo-yuan-you"
+    "id": "shi-mo-yuan-you-2"
   },
   {
     "chinese": "连天烽火",
@@ -56741,7 +56741,7 @@
     "opposite": [
       "千篇一律"
     ],
-    "id": "ge-se-ge-yang"
+    "id": "ge-se-ge-yang-2"
   },
   {
     "chinese": "拿班做势",
@@ -59259,7 +59259,7 @@
       "游手好闲",
       "碌碌无为"
     ],
-    "id": "jin-de-xiu-ye"
+    "id": "jin-de-xiu-ye-2"
   },
   {
     "chinese": "此唱彼和",
@@ -59379,7 +59379,7 @@
       "乱七八糟",
       "杂乱无章"
     ],
-    "id": "si-ting-ba-dang"
+    "id": "si-ting-ba-dang-2"
   },
   {
     "chinese": "沧海一鳞",
@@ -59615,7 +59615,7 @@
     "opposite": [
       "听天由命"
     ],
-    "id": "wei-li-shi-shi"
+    "id": "wei-li-shi-shi-2"
   },
   {
     "chinese": "黄齑白饭",
@@ -59855,7 +59855,7 @@
       "安居乐业",
       "和睦相处"
     ],
-    "id": "jia-fan-zhai-luan"
+    "id": "jia-fan-zhai-luan-2"
   },
   {
     "chinese": "动荡不定",
@@ -60783,7 +60783,7 @@
     "opposite": [
       "助纣为虐"
     ],
-    "id": "zuo-yong-de-chang"
+    "id": "zuo-yong-de-chang-2"
   },
   {
     "chinese": "暮翠朝红",
@@ -63507,7 +63507,7 @@
       "枯燥无味",
       "词不达意"
     ],
-    "id": "yang-yang-sa-sa"
+    "id": "yang-yang-sa-sa-2"
   },
   {
     "chinese": "从头彻尾",
@@ -63746,7 +63746,7 @@
       "洁身自好",
       "特立独行"
     ],
-    "id": "bu-zao-chuo-li"
+    "id": "bu-zao-chuo-li-2"
   },
   {
     "chinese": "虚晃一枪",
@@ -65560,7 +65560,7 @@
       "人尽其才",
       "物尽其用"
     ],
-    "id": "chu-cai-jin-yong"
+    "id": "chu-cai-jin-yong-2"
   },
   {
     "chinese": "砺山带河",
@@ -66578,7 +66578,7 @@
       "无源之水",
       "无本之木"
     ],
-    "id": "you-ben-you-yuan"
+    "id": "you-ben-you-yuan-2"
   },
   {
     "chinese": "孤身只影",
@@ -70412,7 +70412,7 @@
       "不孝不悌",
       "忤逆不孝"
     ],
-    "id": "ru-xiao-chu-ti"
+    "id": "ru-xiao-chu-ti-2"
   },
   {
     "chinese": "鞭擗向里",
@@ -70432,7 +70432,7 @@
       "浮光掠影",
       "浅尝辄止"
     ],
-    "id": "bian-bi-xiang-li"
+    "id": "bian-bi-xiang-li-2"
   },
   {
     "chinese": "众毁销骨",
@@ -72630,7 +72630,7 @@
       "学以致用",
       "经世致用"
     ],
-    "id": "tu-long-zhi-ji"
+    "id": "tu-long-zhi-ji-2"
   },
   {
     "chinese": "层出不穷",
@@ -72809,7 +72809,7 @@
       "华而不实",
       "虚有其表"
     ],
-    "id": "fan-pu-gui-zhen"
+    "id": "fan-pu-gui-zhen-2"
   },
   {
     "chinese": "巢毁卵破",
@@ -74128,7 +74128,7 @@
       "人山人海",
       "地狭人稠"
     ],
-    "id": "di-guang-ren-xi"
+    "id": "di-guang-ren-xi-2"
   },
   {
     "chinese": "殚诚毕虑",
@@ -74327,7 +74327,7 @@
       "艰苦朴素",
       "克勤克俭"
     ],
-    "id": "jiao-she-yin-yi"
+    "id": "jiao-she-yin-yi-3"
   },
   {
     "chinese": "正法直度",
@@ -75584,7 +75584,7 @@
       "安居乐业",
       "安土重迁"
     ],
-    "id": "geng-fan-ping-piao"
+    "id": "geng-fan-ping-piao-2"
   },
   {
     "chinese": "情理难容",
@@ -76262,7 +76262,7 @@
       "胡作非为",
       "为非作歹"
     ],
-    "id": "an-fen-shou-ji"
+    "id": "an-fen-shou-ji-2"
   },
   {
     "chinese": "虚无飘渺",
@@ -76960,7 +76960,7 @@
       "卑鄙无耻",
       "蝇营狗苟"
     ],
-    "id": "yuan-zhi-li-lan"
+    "id": "yuan-zhi-li-lan-2"
   },
   {
     "chinese": "东磕西撞",
@@ -78574,7 +78574,7 @@
       "薄情寡义",
       "势利之交"
     ],
-    "id": "shen-qing-hou-yi"
+    "id": "shen-qing-hou-yi-2"
   },
   {
     "chinese": "世风日下",
@@ -78812,7 +78812,7 @@
       "直截了当",
       "一往无前"
     ],
-    "id": "zhuan-wan-mo-jiao"
+    "id": "zhuan-wan-mo-jiao-2"
   },
   {
     "chinese": "日暮途远",
@@ -81526,7 +81526,7 @@
       "得道多助",
       "民心所向"
     ],
-    "id": "yuan-yu-cong-que"
+    "id": "yuan-yu-cong-que-2"
   },
   {
     "chinese": "十拷九棒",
@@ -82364,7 +82364,7 @@
       "留有余地",
       "有所保留"
     ],
-    "id": "jin-duo-jin-shao"
+    "id": "jin-duo-jin-shao-2"
   },
   {
     "chinese": "宗师案临",
@@ -82643,7 +82643,7 @@
       "对牛弹琴",
       "索然无味"
     ],
-    "id": "han-shang-ju-zheng"
+    "id": "han-shang-ju-zheng-2"
   },
   {
     "chinese": "镂心鉥肝",
@@ -83520,7 +83520,7 @@
       "安如泰山",
       "稳如磐石"
     ],
-    "id": "feng-yu-piao-yao"
+    "id": "feng-yu-piao-yao-2"
   },
   {
     "chinese": "一花独放",
@@ -84656,7 +84656,7 @@
       "虚怀若谷",
       "谦虚谨慎"
     ],
-    "id": "pang-ruo-wu-ren"
+    "id": "pang-ruo-wu-ren-2"
   },
   {
     "chinese": "不翼而飞",
@@ -85475,7 +85475,7 @@
       "千篇一律",
       "单调乏味"
     ],
-    "id": "feng-fu-duo-cai"
+    "id": "feng-fu-duo-cai-2"
   },
   {
     "chinese": "旧态复萌",
@@ -85930,7 +85930,7 @@
       "谨言慎行",
       "言之有据"
     ],
-    "id": "xin-kou-kai-he"
+    "id": "xin-kou-kai-he-2"
   },
   {
     "chinese": "析肝刿胆",
@@ -87050,7 +87050,7 @@
       "初出茅庐",
       "门外汉"
     ],
-    "id": "ru-shi-sheng-tang"
+    "id": "ru-shi-sheng-tang-2"
   },
   {
     "chinese": "疾恶若雠",
@@ -88804,7 +88804,7 @@
       "言简意赅",
       "简明扼要"
     ],
-    "id": "die-chuang-jia-wu"
+    "id": "die-chuang-jia-wu-2"
   },
   {
     "chinese": "言之有序",
@@ -90202,7 +90202,7 @@
       "怨天尤人",
       "患得患失"
     ],
-    "id": "sui-yu-er-an"
+    "id": "sui-yu-er-an-2"
   },
   {
     "chinese": "祸结兵连",

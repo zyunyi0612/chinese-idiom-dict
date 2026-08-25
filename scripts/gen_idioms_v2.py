@@ -88,7 +88,7 @@ def slugify_pinyin(pinyin):
     return ascii_only.lower().replace(" ", "-")
 
 
-def gen_idiom(chinese, pinyin, explanation, derivation, example):
+def gen_idiom(chinese, pinyin, explanation, derivation, example, used_ids=None):
     prompt = build_detail_prompt(chinese, pinyin, explanation, derivation, example)
     try:
         result = subprocess.run(
@@ -129,6 +129,14 @@ def gen_idiom(chinese, pinyin, explanation, derivation, example):
         return None
 
     data["id"] = slugify_pinyin(data.get("pinyin", pinyin))
+    # Variant idioms share pinyin -> same slug. Dedup so no page silently overwrites.
+    if used_ids is not None:
+        base_id = data["id"]
+        n = 2
+        while data["id"] in used_ids:
+            data["id"] = f"{base_id}-{n}"
+            n += 1
+        used_ids.add(data["id"])
     return data
 
 
@@ -138,6 +146,7 @@ def main():
 
     existing_data, existing_set = load_existing()
     print(f"Existing: {len(existing_data)} idioms")
+    used_ids = {e["id"] for e in existing_data}
 
     whitelist = load_whitelist()
     print(f"Whitelist: {len(whitelist)} total")
@@ -166,7 +175,7 @@ def main():
         derivation = item.get("derivation", "")[:200]
         example = item.get("example", "")[:200]
         print(f"[{i}/{len(selected)}] -> {chinese} ({pinyin})")
-        entry = gen_idiom(chinese, pinyin, explanation, derivation, example)
+        entry = gen_idiom(chinese, pinyin, explanation, derivation, example, used_ids)
         if entry:
             new_entries.append(entry)
             # Incremental save: append to file immediately

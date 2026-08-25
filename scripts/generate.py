@@ -5,6 +5,7 @@ Generates all HTML pages from idioms.json + templates/.
 """
 import json
 import os
+import sys
 import html
 from datetime import datetime
 from pathlib import Path
@@ -162,6 +163,13 @@ def main():
     print("Loading data...")
     idioms = load_json(DATA_DIR / "idioms.json")
     print(f"  → {len(idioms)} idioms loaded")
+
+    # Guard: duplicate ids would silently overwrite pages — fail loudly instead.
+    ids = [i["id"] for i in idioms]
+    dups = {i for i in ids if ids.count(i) > 1}
+    if dups:
+        print(f"ERROR: {len(dups)} duplicate ids in idioms.json: {', '.join(sorted(dups)[:10])}")
+        sys.exit(1)
 
     print("Loading templates...")
     page_tpl = load_template("page.html")
