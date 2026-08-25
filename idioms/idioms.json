@@ -91999,5 +91999,205 @@
       "俗务缠身"
     ],
     "id": "xian-yun-ye-he"
+  },
+  {
+    "chinese": "好肉剜疮",
+    "pinyin": "hǎo ròu wān chuāng",
+    "literal": "good flesh, gouge out, sore",
+    "meaning": "This idiom means to deliberately create problems where none exist, or to make trouble for oneself. It describes someone who, out of idleness or excessive fussing, invents difficulties and brings unnecessary suffering upon themselves, like cutting a fresh wound into perfectly healthy flesh. It is often used to criticize pointless meddling or self-inflicted vexation.",
+    "origin": "The idiom comes from the 《续传灯录》(Continued Transmission of the Lamp), a Chan (Zen) Buddhist lineage text. The original line reads: 说佛说祖，正如好肉剜疮；举古举今，犹若残羹馊饭 — 'Discussing the Buddha and the patriarchs is just like cutting a sore out of healthy flesh; invoking the ancients and the present is like leftover soup and stale rice.' It was a Chan master's rebuke of empty, verbose talk about the dharma, suggesting that over-elaborate discussion harms the truth rather than helps it, just as carving a wound into healthy flesh injures what was sound. The work continues the Song-dynasty transmission-of-the-lamp tradition of Chan records, with the commonly cited version compiled in the Ming dynasty.",
+    "example_zh": "你本来好好的，何必好肉剜疮，自寻烦恼？",
+    "example_en": "You were doing just fine, so why cut a sore into healthy flesh and bring trouble on yourself?",
+    "category": "Action",
+    "similar": [
+      "无事生非",
+      "自寻烦恼",
+      "画蛇添足"
+    ],
+    "opposite": [
+      "息事宁人",
+      "知足常乐"
+    ],
+    "id": "hao-rou-wan-chuang"
+  },
+  {
+    "chinese": "诈败佯输",
+    "pinyin": "zhà bài yáng shū",
+    "literal": "feign, defeat, pretend, lose",
+    "meaning": "To deliberately pretend to be defeated and retreat, in order to trick the enemy into letting down their guard or pursuing into a trap. It describes a tactical ruse where apparent weakness or loss is used to lure an opponent into a fatal mistake.",
+    "origin": "The idiom comes from Chapter 85 of Water Margin (《水浒传》), a Ming dynasty novel by Shi Nai'an. During the siege of the city, Lin Chong and Hua Rong held the suspension bridge and turned back to fight again, feigning defeat and retreat to lure Lu Junyi and his forces into charging into the city. Once the enemy was drawn inside, the troops behind them raised a great shout, and Song Jiang's forces inside rose up simultaneously to take them by surprise, capturing everyone. The phrase thus embodies a classic feigned-retreat ambush tactic.",
+    "example_zh": "他诈败佯输，引敌军入埋伏圈，一举全歼。",
+    "example_en": "He feigned defeat to lure the enemy into the ambush circle and annihilated them in one stroke.",
+    "category": "Method",
+    "similar": [
+      "兵不厌诈",
+      "欲擒故纵",
+      "以退为进"
+    ],
+    "opposite": [
+      "光明正大",
+      "堂堂正正"
+    ],
+    "id": "zha-bai-yang-shu"
+  },
+  {
+    "chinese": "坏法乱纪",
+    "pinyin": "huài fǎ luàn jì",
+    "literal": "break, law, disorder, discipline",
+    "meaning": "To break the law and disrupt discipline or established order. It describes the act of undermining legal and moral standards, typically by those in power who should instead uphold them. The phrase condemns behavior that destroys the very rules meant to govern society.",
+    "origin": "The idiom appears in the Rites of Zhou-era text compiled by the Western Han scholar Dai Sheng in his Book of Rites (《礼记·礼运》). The passage states that when the Son of Heaven visits a feudal lord, if he takes up residence in the ancestral temple instead of entering according to proper ritual protocol, this is called the Son of Heaven breaking the law and disrupting discipline (坏法乱纪). The line illustrates how even the supreme ruler, by disregarding established rites, corrupts the legal and social order he is meant to protect. Over time the phrase came to be applied to anyone who destroys laws and discipline.",
+    "example_zh": "为官者若坏法乱纪，必将受到法律严惩。",
+    "example_en": "Officials who break the law and disrupt discipline will surely face severe legal punishment.",
+    "category": "Morality",
+    "similar": [
+      "违法乱纪",
+      "作奸犯科",
+      "无法无天"
+    ],
+    "opposite": [
+      "遵纪守法",
+      "安分守己"
+    ],
+    "id": "huai-fa-luan-ji"
+  },
+  {
+    "chinese": "一举一动",
+    "pinyin": "yī jǔ yī dòng",
+    "literal": "one, move, one, action",
+    "meaning": "Refers to every single action or movement a person makes. It emphasizes the totality of someone's behavior, often implying that all of their gestures and conduct are being observed or considered. The phrase is commonly used to describe how one's overall manner of acting reveals character or is watched closely by others.",
+    "origin": "The idiom originates from the Qing dynasty novel 《镜花缘》 (Flowers in the Mirror) by Li Ruzhen. In chapter seventy-four, the text reads that one can see the ancients' every move was meant to guide people toward the right path, so that even their games carried moral instruction. The phrase thus originally carried a moralizing tone, suggesting that all behavior should be upright and exemplary. It later became a neutral way to refer to a person's every action.",
+    "example_zh": "她的一举一动都透着大家闺秀的气质。",
+    "example_en": "Every move she makes carries the poise of a well-bred young lady.",
+    "category": "Action",
+    "similar": [
+      "举手投足",
+      "言谈举止",
+      "行为举止"
+    ],
+    "opposite": [
+      "纹丝不动",
+      "一动不动"
+    ],
+    "id": "yi-ju-yi-dong"
+  },
+  {
+    "chinese": "对症下药",
+    "pinyin": "duì zhèng xià yào",
+    "literal": "aim at, symptom, administer, medicine",
+    "meaning": "Literally meaning to prescribe medicine according to the diagnosis of the illness, this idiom is used metaphorically to describe taking effective measures that address the root of a specific problem. It emphasizes analyzing the actual situation and choosing an approach tailored to the particular case rather than applying a one-size-fits-all solution.",
+    "origin": "The idiom originates from the Records of the Three Kingdoms (三国志·魏志·华佗传), during the Three Kingdoms period. Two government clerks, Ni Xun and Li Yan, came to the famous physician Hua Tuo with identical symptoms of headache and fever. Hua Tuo prescribed different treatments — a purgative for Ni Xun and a sweating remedy for Li Yan — explaining that although the symptoms looked the same, Ni Xun's condition was external (外实) while Li Yan's was internal (内实), so different cures were needed. Both recovered by the next morning, demonstrating the principle of treating based on the underlying cause.",
+    "example_zh": "老师根据每个学生的弱项对症下药，帮助他们提高成绩。",
+    "example_en": "The teacher prescribed remedies according to each student's weak points, helping them improve their grades.",
+    "category": "Method",
+    "similar": [
+      "有的放矢",
+      "因地制宜",
+      "量体裁衣"
+    ],
+    "opposite": [
+      "无的放矢",
+      "隔靴搔痒"
+    ],
+    "id": "dui-zheng-xia-yao"
+  },
+  {
+    "chinese": "愁红惨绿",
+    "pinyin": "chóu hóng cǎn lü",
+    "literal": "sorrowful red, bleak green",
+    "meaning": "Red and green here refer to flowers and leaves; the idiom depicts withered flowers and fallen leaves damaged by wind and rain. It is often used to express a desolate, melancholy feeling about one's own miserable circumstances, evoking the passing of youth and the harshness of fate.",
+    "origin": "The idiom originates from Song Dynasty ci poetry. The earliest source is Liu Yong's ci poem 定风波 (Ding Feng Bo): '自春来，惨绿愁红，芳心是事可可' (Since spring came, the green is bleak and the red is sorrowful; the heart is listless about everything). It also appears in Xin Qiji's ci poem 鹧鸪天·赋牡丹 (Partridge in the Sky: On Peonies): '愁红惨绿今宵看，恰似吴宫教阵图' (This night we view the sorrowful red and bleak green, just like the drill formation diagram in the Wu palace). Later writers such as the Yuan dynasty playwright Lan Chufang also used the phrase, cementing it as a set expression for blighted, sorrowful flowers.",
+    "example_zh": "秋风起处，满园愁红惨绿，令人黯然神伤。",
+    "example_en": "Wherever the autumn wind blows, the whole garden is full of sorrowful red and bleak green, leaving one deeply dejected.",
+    "category": "Emotion",
+    "similar": [
+      "残花败柳",
+      "花残月缺",
+      "黯然销魂"
+    ],
+    "opposite": [
+      "姹紫嫣红",
+      "花团锦簇"
+    ],
+    "id": "chou-hong-can-lu"
+  },
+  {
+    "chinese": "顽梗不化",
+    "pinyin": "wán gěng bù huà",
+    "literal": "obstinate, rigid, not, change",
+    "meaning": "Describes someone who is extremely stubborn and inflexible, refusing to adapt or change their ways even in the face of persuasion or new circumstances. The idiom emphasizes both unyielding obstinacy and an inability to be moved or transformed.",
+    "origin": "The idiom appears in Guo Moruo's play 'Tangdi Zhi Hua' (棠棣之花), Act 3, Scene 1, where a character remarks of Yan Zhongzi: 'His stubborn obstinacy, you well understand.' Although the phrase was recorded in this modern work rather than a classical classic, the play itself is set in the Warring States period and retells the story of the assassin Nie Zheng. Through this dramatic dialogue, the term came to capture the idea of a person locked in stubbornness who cannot be persuaded or changed.",
+    "example_zh": "他顽梗不化，无论别人怎么劝说都不肯改变自己的决定。",
+    "example_en": "He is incorrigibly stubborn — no matter how others try to persuade him, he refuses to change his decision.",
+    "category": "Attitude",
+    "similar": [
+      "顽固不化",
+      "固执己见",
+      "冥顽不灵"
+    ],
+    "opposite": [
+      "通权达变",
+      "随机应变"
+    ],
+    "id": "wan-geng-bu-hua"
+  },
+  {
+    "chinese": "晨钟暮鼓",
+    "pinyin": "chén zhōng mù gǔ",
+    "literal": "morning, bell, evening, drum",
+    "meaning": "Literally 'morning bell, evening drum,' this idiom refers to the Buddhist temple practice of striking the bell in the morning and beating the drum at night to mark the hours and rouse the faithful. It is used figuratively to describe words, advice, or admonitions that are sobering and awakening, capable of jolting people out of complacency and leading them to reflection.",
+    "origin": "The idiom derives from the daily ritual of Chinese Buddhist temples, where the morning bell and evening drum both marked the passage of time and called monks to devotion. It is attributed to the Tang dynasty poet Li Xianyong (李咸用), whose poem 'In the Mountains' (《山中》) contains the line '朝钟暮鼓不到耳，明月孤云长挂情' ('the morning bell and evening drum never reach my ears; only the bright moon and lone clouds linger in my heart'). The Song dynasty writer Ouyang Xiu (欧阳修) later used the expression in his poem 'Song of Mount Lu' (《庐山高》). Over time, the temple bells and drums came to symbolize words of warning that awaken and enlighten the listener.",
+    "example_zh": "他的劝诫如晨钟暮鼓，及时点醒了我。",
+    "example_en": "His admonition was like the morning bell and evening drum, awakening me in time.",
+    "category": "Wisdom",
+    "similar": [
+      "当头棒喝",
+      "振聋发聩",
+      "醍醐灌顶"
+    ],
+    "opposite": [
+      "执迷不悟",
+      "充耳不闻"
+    ],
+    "id": "chen-zhong-mu-gu"
+  },
+  {
+    "chinese": "好善恶恶",
+    "pinyin": "hǎo shàn wù è",
+    "literal": "love good, hate evil",
+    "meaning": "好善恶恶 means to love and uphold what is good while detesting and rejecting what is evil. It describes a person of clear moral conviction who prizes virtue and is repelled by wrongdoing. The idiom captures the ideal of firm moral judgment and upright character.",
+    "origin": "The idiom appears in Chapter 73 of the Qing-dynasty novel Shuō Yuè Quán Zhuàn (The Complete Story of Yue Fei), attributed to Qian Cai and written in the eighteenth century. The line reads, \"好善恶恶，人人如此\" (To love good and hate evil is how everyone should be). Though the phrase echoes older classical sentiments on moral discernment, this novel — which celebrates the patriotic Song general Yue Fei and condemns treachery — is the source cited for the idiom, framing it as a universal moral standard.",
+    "example_zh": "他生性好善恶恶，见不义之事必定挺身而出。",
+    "example_en": "By nature he loves good and hates evil, and he never hesitates to stand up against injustice.",
+    "category": "Morality",
+    "similar": [
+      "爱憎分明",
+      "嫉恶如仇",
+      "善恶分明"
+    ],
+    "opposite": [
+      "助纣为虐",
+      "同流合污"
+    ],
+    "id": "hao-shan-wu-e"
+  },
+  {
+    "chinese": "坐而论道",
+    "pinyin": "zuò ér lùn dào",
+    "literal": "sit, and, discuss, the Way",
+    "meaning": "Literally 'to sit and discuss the Way,' this idiom describes someone who sits around indulging in lofty talk and empty theories while taking no real action. It criticizes the gap between words and deeds — talking big about principles but never putting them into practice. The tone is dismissive of armchair theorists.",
+    "origin": "The phrase first appears in the Western Han text 《周礼·冬官考工记》, where '坐而论道' originally carried a neutral-to-positive sense, describing rulers who sat and deliberated over policy while artisans carried it out. The negative meaning crystallized by the Eastern Jin dynasty, when Ge Hong (葛洪) wrote in 《抱朴子·用刑》 quoting the Western Han scholar Yang Xiong (扬雄): 'the broad-minded Master Yang also thought corporal punishment should be restored, but since it had long been abolished, those who sit and discuss the Way did not regard it as urgent.' Over time, the idiom shifted from describing a legitimate governing role to condemning those who only talk and never act.",
+    "example_zh": "有些人只会坐而论道，而不办实事。",
+    "example_en": "Some people only sit around and theorize, but never actually get things done.",
+    "category": "Attitude",
+    "similar": [
+      "纸上谈兵",
+      "夸夸其谈",
+      "高谈阔论"
+    ],
+    "opposite": [
+      "身体力行",
+      "脚踏实地"
+    ],
+    "id": "zuo-er-lun-dao"
   }
 ]
