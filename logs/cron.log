@@ -7807,3 +7807,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-08-26 12:00:05] === Catch-up push done ===
 [2026-08-26 20:00:00] === Catch-up push start (70 unpushed commits) ===
+[main d20f176] Auto-update: 2026-08-26 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   92394f2..d20f176  main -> main
+
+Push OK (attempt 1)
+[2026-08-26 20:00:05] === Catch-up push done ===
+[2026-08-27 03:15:00] === Daily cron start ===
+[2026-08-27 03:15:00] === Daily cron start ===
+[2026-08-27 03:15:00] Generating 10 new idioms...
+[2026-08-27 03:15:00] Generating 10 new idioms...
+Existing: 4638 idioms
+Whitelist: 30894 total
+Candidates available: 24863 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 前言往行 (qián yán wǎng xíng)
+    OK (saved, total now: 4639): literal='former, words, past, deeds...'
+[2/10] -> 辨日炎凉 (biàn rì yán liáng)
+    OK (saved, total now: 4640): literal='debate, sun, hot, cold...'
+[3/10] -> 遐尔闻名 (xiá ěr wén míng)
+    OK (saved, total now: 4641): literal='far, near, heard, name...'
+[4/10] -> 风行电击 (fēng xíng diàn jī)
+    OK (saved, total now: 4642): literal='wind move, lightning strike...'
+[5/10] -> 生生不息 (shēng shēng bù xī)
+    OK (saved, total now: 4643): literal='born, born, not, stop...'
+[6/10] -> 近乡情怯 (jìn xiāng qíng qiè)
+    OK (saved, total now: 4644): literal='near, hometown, feelings, timid...'
+[7/10] -> 窃玉偷香 (qiè yù tōu xiāng)
+    OK (saved, total now: 4645): literal='steal jade, steal fragrance...'
+[8/10] -> 谬托知己 (miù tuō zhī jǐ)
+    OK (saved, total now: 4646): literal='falsely, claim, intimate friend...'
+[9/10] -> 无寇暴死 (wu kou bào shi)
+    OK (saved, total now: 4647): literal='without, upheaval, violent, death...'
+[10/10] -> 身名俱败 (shēn míng jù bài)
+    OK (saved, total now: 4648): literal='body, reputation, both, ruined...'
+
+Added 10 idioms. Total: 4648
+[2026-08-27 03:17:23] Generation OK
+[2026-08-27 03:17:23] Generation OK
+[2026-08-27 03:17:23] Regenerating site...
+[2026-08-27 03:17:23] Regenerating site...
+Loading data...
+  → 4648 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4648 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4648 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-27 03:17:37] Site regenerated
+[2026-08-27 03:17:37] Site regenerated
+[2026-08-27 03:17:38] Pushing to GitHub...
+[2026-08-27 03:17:38] Pushing to GitHub...

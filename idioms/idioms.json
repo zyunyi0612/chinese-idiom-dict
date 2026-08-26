@@ -92199,5 +92199,204 @@
       "脚踏实地"
     ],
     "id": "zuo-er-lun-dao"
+  },
+  {
+    "chinese": "前言往行",
+    "pinyin": "qián yán wǎng xíng",
+    "literal": "former, words, past, deeds",
+    "meaning": "Refers to the words and deeds of sages and virtuous people from previous generations. It is used to encourage people to learn from and inherit the wisdom, teachings, and exemplary conduct of their predecessors as a means of cultivating their own character and virtue.",
+    "origin": "The idiom derives from the 'Dà Xù' (Great Accumulation) hexagram commentary in the I Ching (《周易·大畜》), part of the Ten Wings traditionally attributed to Confucius (5th century BC). The passage reads: 'A gentleman, by widely learning the words and deeds of those before him, accumulates his virtue' (君子以多识前言往行，以畜其德). The phrase originally designated the exemplary words and conduct of past sages and worthies, which one should study to cultivate moral character. Over time it became a general term for the wise words and virtuous deeds of earlier generations.",
+    "example_zh": "我们应该借鉴前人的前言往行，砥砺自己的德行。",
+    "example_en": "We should learn from the words and deeds of our predecessors to cultivate our own virtue.",
+    "category": "Knowledge",
+    "similar": [
+      "嘉言懿行",
+      "温故知新",
+      "前事不忘后事之师"
+    ],
+    "opposite": [
+      "数典忘祖",
+      "厚今薄古"
+    ],
+    "id": "qian-yan-wang-xing"
+  },
+  {
+    "chinese": "辨日炎凉",
+    "pinyin": "biàn rì yán liáng",
+    "literal": "debate, sun, hot, cold",
+    "meaning": "This idiom refers to the ancient fable in which two children debate whether the sun is closer to the earth at dawn or at noon. It is used to describe a child who is remarkably clever and precociously bright.",
+    "origin": "The story comes from the Tang Wen chapter of Liezi (《列子·汤问》), a Daoist text traditionally attributed to the Warring States philosopher Lie Yukou. While traveling east, Confucius came upon two children arguing and asked them why. One child claimed the sun at sunrise is as large as a chariot's canopy yet at noon as small as a plate or bowl, proving that things near appear large and things far appear small. The other countered that the sunrise air is cool and chilly while the midday sun is hot as scalding soup, proving that what is near feels hot and what is far feels cool. Unable to settle the dispute, Confucius could not decide, and the children laughed at him — a tale that later came to symbolize childhood wisdom and sharp reasoning.",
+    "example_zh": "小明五岁便能辨日炎凉，令周围的大人们惊叹不已。",
+    "example_en": "At the age of five, Xiaoming could already debate the sun's heat and cold like the clever children of old, leaving all the adults around him astonished.",
+    "category": "Wisdom",
+    "similar": [
+      "聪明伶俐",
+      "天资聪颖",
+      "冰雪聪明"
+    ],
+    "opposite": [
+      "愚不可及",
+      "笨头笨脑"
+    ],
+    "id": "bian-ri-yan-liang"
+  },
+  {
+    "chinese": "遐尔闻名",
+    "pinyin": "xiá ěr wén míng",
+    "literal": "far, near, heard, name",
+    "meaning": "Describes a person or thing whose reputation is so great that it is known everywhere, both far away and nearby. It emphasizes that fame has spread widely across all regions, leaving no one unaware of it. In this context, 尔 is a variant written form of 迩, meaning 'near'.",
+    "origin": "This idiom has no recorded literary origin and is not attributed to any specific dynasty, classic text, or historical figure. It is a variant form of the more common idiom 闻名遐迩, with the two characters 遐 (far) and 迩/尔 (near) simply swapped in order. Because of its parallel structure of 'far and near,' it became a natural and widely used expression in everyday language. As such, it belongs to the category of frequently used idioms whose precise source has been lost over time.",
+    "example_zh": "中国的景泰蓝，一向是遐尔闻名的。",
+    "example_en": "Chinese cloisonné has always been renowned far and wide.",
+    "category": "Status",
+    "similar": [
+      "远近闻名",
+      "驰名中外",
+      "闻名遐迩"
+    ],
+    "opposite": [
+      "默默无闻",
+      "无人知晓"
+    ],
+    "id": "xia-er-wen-ming-2"
+  },
+  {
+    "chinese": "风行电击",
+    "pinyin": "fēng xíng diàn jī",
+    "literal": "wind move, lightning strike",
+    "meaning": "Describes swiftness and overwhelming force, moving as fast as the wind and striking as suddenly as lightning. It conveys unstoppable momentum and decisiveness, typically used of a military advance or a swift, powerful campaign.",
+    "origin": "The idiom originates from the Biography of Yang Liang in the Book of Sui (《隋书·扬谅传》), during the Sui dynasty. In the passage, a general named Wen'an requests to lead the vanguard, with the prince following behind with the main army, so that 'moving like the wind and striking like lightning, they camp at Bashang, and everything east of Xianyang can be pacified by pointing and commanding.' The phrase vividly captures the ideal of a lightning-fast military advance that overwhelms the enemy before they can respond. It was later reused, for instance, in the Old Book of Tang (《旧唐书·李密传》) describing the campaign of Fang Yanhui.",
+    "example_zh": "我军攻势风行电击，敌军一触即溃。",
+    "example_en": "Our army's offensive moved like wind and struck like lightning, and the enemy collapsed at the first touch.",
+    "category": "Action",
+    "similar": [
+      "风驰电掣",
+      "雷厉风行",
+      "风卷残云"
+    ],
+    "opposite": [
+      "蜗行牛步",
+      "拖泥带水"
+    ],
+    "id": "feng-xing-dian-ji"
+  },
+  {
+    "chinese": "生生不息",
+    "pinyin": "shēng shēng bù xī",
+    "literal": "born, born, not, stop",
+    "meaning": "To grow, reproduce, and thrive in an endless cycle without ceasing. It describes the unbroken vitality and renewal of life, nature, or culture, suggesting an inexhaustible power of continuation.",
+    "origin": "The idiom draws on the ancient Chinese philosophical notion of 'sheng sheng' (生生), meaning the ceaseless production and renewal of life. It originates from the Book of Changes (《周易·系辞上》), which states '生生之谓易' — 'that which gives life to life is called change.' The Song dynasty Neo-Confucian philosopher Zhou Dunyi echoed this in his 'Explanation of the Diagram of the Great Ultimate' (《太极图说》): 'The two vital forces interact and transform to give birth to all things; all things are born and reborn, changing without end.' The Qing dynasty scholar Dai Zhen also used the term in his 'Evidential Commentary on the Meanings of Mencius' (《孟子字义疏证》), cementing the phrase as a description of the eternal generative process of the cosmos.",
+    "example_zh": "中华文明生生不息，绵延数千年而不断绝。",
+    "example_en": "Chinese civilization thrives in an unceasing cycle, enduring for thousands of years without interruption.",
+    "category": "Condition",
+    "similar": [
+      "生生不已",
+      "循环往复",
+      "绵延不绝"
+    ],
+    "opposite": [
+      "日薄西山",
+      "一潭死水"
+    ],
+    "id": "sheng-sheng-bu-xi"
+  },
+  {
+    "chinese": "近乡情怯",
+    "pinyin": "jìn xiāng qíng qiè",
+    "literal": "near, hometown, feelings, timid",
+    "meaning": "Describes the complex, uneasy feelings of a traveler returning home after a long absence. The closer one gets to home, the more anxious one becomes, dreading that something unfortunate may have happened there. It captures the bittersweet mix of longing, anticipation, and fear that accompanies a long-awaited homecoming.",
+    "origin": "The idiom comes from the Tang dynasty poem 'Hanjiang' by the poet Song Zhiwen. Exiled to the remote region south of the Ling mountains, he was cut off from all letters from home through winter and spring. Finally allowed to return, he wrote: 'The closer I get to home, the more timid my heart grows; I dare not ask the passersby' (近乡情更怯，不敢问来人). The lines reveal that after years without news, he feared the worst and hesitated to learn the truth about his family, giving rise to this expression for the anxious feelings of a returning wanderer.",
+    "example_zh": "离家多年，如今踏上回乡的火车，我竟有些近乡情怯。",
+    "example_en": "After years away from home, now boarding the train back, I find myself feeling oddly timid as we draw near.",
+    "category": "Emotion",
+    "similar": [
+      "归心似箭",
+      "魂牵梦萦",
+      "思乡情切"
+    ],
+    "opposite": [
+      "乐不思蜀"
+    ],
+    "id": "jin-xiang-qing-qie"
+  },
+  {
+    "chinese": "窃玉偷香",
+    "pinyin": "qiè yù tōu xiāng",
+    "literal": "steal jade, steal fragrance",
+    "meaning": "Literally 'to steal jade and steal fragrance,' it is a metaphor for seducing women or carrying on illicit love affairs. The phrase alludes to secretly winning a woman's affection, often by stealth and charm rather than proper courtship.",
+    "origin": "The phrase combines two classic tales of secret romance. The famous '偷香' part comes from the Book of Jin (《晋书·贾充传》): during the Western Jin dynasty, the emperor gave rare tribute perfume to the minister Jia Chong, but Jia's daughter secretly stole it and gave it to her lover Han Shou. When Jia Chong smelled the perfume on Han Shou, the affair was exposed and he gave his daughter to Han in marriage. The '窃玉' element echoes another famous legend of clandestine courtship involving a stolen jade ornament. Together the two allusions came to signify seduction and illicit romance.",
+    "example_zh": "他那窃玉偷香的勾当，终究被众人识破。",
+    "example_en": "His jade-stealing, fragrance-pilfering affair was ultimately exposed by everyone.",
+    "category": "Action",
+    "similar": [
+      "拈花惹草",
+      "寻花问柳",
+      "招蜂引蝶"
+    ],
+    "opposite": [
+      "从一而终",
+      "相敬如宾"
+    ],
+    "id": "qie-yu-tou-xiang"
+  },
+  {
+    "chinese": "谬托知己",
+    "pinyin": "miù tuō zhī jǐ",
+    "literal": "falsely, claim, intimate friend",
+    "meaning": "To falsely claim someone as one's bosom friend, typically to gain status, favor, or credibility by associating oneself with a person of note. It describes insincere pretension of intimacy rather than genuine friendship. The idiom carries a critical, disparaging tone toward those who exploit relationships for self-interest.",
+    "origin": "This idiom has no recorded source in classical texts, as it is a literary coinage formed from common classical elements. 谬 (miù) means false or erroneous, 托 (tuō) means to entrust or lay claim, and 知己 (zhī jǐ) refers to an intimate friend who truly understands one, a term famously associated with the friendship of Yu Boya and Zhong Ziqi. No specific dynasty or historical figure is attached to its creation. It is used primarily in modern writing and speech to criticize those who presumptuously or falsely present themselves as a confidant.",
+    "example_zh": "他不过是谬托知己，想借我的名声抬高自己罢了。",
+    "example_en": "He is merely falsely claiming to be my close friend, hoping to elevate himself by borrowing my reputation.",
+    "category": "Communication",
+    "similar": [
+      "攀龙附凤",
+      "趋炎附势",
+      "假仁假义"
+    ],
+    "opposite": [
+      "肝胆相照",
+      "推心置腹"
+    ],
+    "id": "miu-tuo-zhi-ji"
+  },
+  {
+    "chinese": "无寇暴死",
+    "pinyin": "wu kou bào shi",
+    "literal": "without, upheaval, violent, death",
+    "meaning": "To die a sudden, violent, or unnatural death even though there has been no war, rebellion, or any disturbance to bring it about. The phrase stresses how inexplicable and unjust the death is — the person perishes for no apparent external cause. It carries a tone of shock and grief over a life cut short without warning.",
+    "origin": "This phrase has no recorded classical source: standard idiom dictionaries list no origin and no early example for it. It is a rare, obscure expression built from its parts, 无寇 ('no upheaval') and 暴死 ('sudden violent death'), rather than a story-based allusion. Because no dynasty, text, or historical figure can be attached to it, its meaning must be reconstructed from its component characters. It is best regarded as a descriptive or literary phrase rather than a classical allusion.",
+    "example_zh": "他正值壮年却无寇暴死，令亲友悲痛不已。",
+    "example_en": "He was in the prime of life yet died a violent, unexplained death without any upheaval, leaving his family and friends grief-stricken.",
+    "category": "Condition",
+    "similar": [
+      "死于非命",
+      "暴病身亡",
+      "暴毙身亡"
+    ],
+    "opposite": [
+      "寿终正寝",
+      "无疾而终"
+    ],
+    "id": "wu-kou-bao-shi"
+  },
+  {
+    "chinese": "身名俱败",
+    "pinyin": "shēn míng jù bài",
+    "literal": "body, reputation, both, ruined",
+    "meaning": "Both one's life and one's good name are destroyed together. It describes total ruin in which a person loses their life (or standing) and their reputation at the same time, leaving nothing intact. Used of someone who meets complete disgrace and destruction.",
+    "origin": "This four-character form has no recorded origin in classical sources (出处:无). It is a variant of the older expression 身名俱灭, 'body and fame both perish.' The idea echoes the classical contrast drawn in the Zuo Zhuan (左传, Spring and Autumn period), where only establishing virtue, achieving merit, and leaving words behind — the 'three immortalities' — let a name outlive the body. 身名俱败 sharpens this into a warning: when neither body nor reputation survives, a person's life amounts to nothing.",
+    "example_zh": "这位昔日权臣一朝失势，落得身名俱败的下场。",
+    "example_en": "This once-powerful minister lost his position overnight and ended up with both his life and his reputation ruined.",
+    "category": "Condition",
+    "similar": [
+      "身名俱灭",
+      "身败名裂",
+      "声名扫地"
+    ],
+    "opposite": [
+      "流芳百世",
+      "名垂青史"
+    ],
+    "id": "shen-ming-ju-bai"
   }
 ]
