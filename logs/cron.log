@@ -7909,3 +7909,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-08-27 12:00:05] === Catch-up push done ===
 [2026-08-27 20:00:00] === Catch-up push start (73 unpushed commits) ===
+[main cdd0ca0] Auto-update: 2026-08-27 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   b52315b..cdd0ca0  main -> main
+
+Push OK (attempt 1)
+[2026-08-27 20:00:05] === Catch-up push done ===
+[2026-08-28 03:15:01] === Daily cron start ===
+[2026-08-28 03:15:01] === Daily cron start ===
+[2026-08-28 03:15:01] Generating 10 new idioms...
+[2026-08-28 03:15:01] Generating 10 new idioms...
+Existing: 4648 idioms
+Whitelist: 30894 total
+Candidates available: 24853 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 枯鱼衔索 (kū yú xián suǒ)
+    OK (saved, total now: 4649): literal='dried, fish, hold in mouth, rope...'
+[2/10] -> 止渴望梅 (zhǐ kě wàng méi)
+    OK (saved, total now: 4650): literal='stop, thirst, expect, plum...'
+[3/10] -> 一差半错 (yī chà bàn cuò)
+    OK (saved, total now: 4651): literal='one, error, half, mistake...'
+[4/10] -> 飞刍挽粮 (fēi chú wǎn liáng)
+    OK (saved, total now: 4652): literal='fly, fodder, pull, grain...'
+[5/10] -> 丛山峻岭 (cóng shān jùn lǐng)
+    OK (saved, total now: 4653): literal='clustered mountains, lofty ridges...'
+[6/10] -> 福寿齐天 (fú shòu qí tiān)
+    OK (saved, total now: 4654): literal='fortune, longevity, equal to, heaven...'
+[7/10] -> 松柏之寿 (sōng bǎi zhī shòu)
+    OK (saved, total now: 4655): literal='pine, cypress, of, longevity...'
+[8/10] -> 重金袭汤 (chóng jīn xí tāng)
+    OK (saved, total now: 4656): literal='repeated, gold, overlapping, boiling...'
+[9/10] -> 利欲熏心 (lì yù xūn xīn)
+    OK (saved, total now: 4657): literal='profit, desire, smoke, heart...'
+[10/10] -> 日累月积 (rì lèi yuè jī)
+    OK (saved, total now: 4658): literal='day, accumulate, month, accumulate...'
+
+Added 10 idioms. Total: 4658
+[2026-08-28 03:17:20] Generation OK
+[2026-08-28 03:17:20] Generation OK
+[2026-08-28 03:17:20] Regenerating site...
+[2026-08-28 03:17:20] Regenerating site...
+Loading data...
+  → 4658 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4658 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4658 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-28 03:17:34] Site regenerated
+[2026-08-28 03:17:34] Site regenerated
+[2026-08-28 03:17:34] Pushing to GitHub...
+[2026-08-28 03:17:34] Pushing to GitHub...

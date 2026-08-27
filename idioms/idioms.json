@@ -92398,5 +92398,205 @@
       "名垂青史"
     ],
     "id": "shen-ming-ju-bai"
+  },
+  {
+    "chinese": "枯鱼衔索",
+    "pinyin": "kū yú xián suǒ",
+    "literal": "dried, fish, hold in mouth, rope",
+    "meaning": "A dried fish strung on a rope, waiting to rot or be eaten by worms. The idiom describes something whose days of existence are numbered, often used of an aging person or a declining situation that will not last much longer.",
+    "origin": "The idiom comes from the Han dynasty text Han Shi Wai Zhuan (韩诗外传), compiled by the scholar Han Ying (韩婴). In chapter one, it poses the rhetorical question '枯鱼衔索，几何不蠹?' — a dried fish strung on a rope, how long before it rots? The image of a desiccated fish kept on a string, which cannot last before it decays, is used as a metaphor for the brevity of one's remaining days and the inevitability of decline.",
+    "example_zh": "病中的老人常说枯鱼衔索，自知来日无多。",
+    "example_en": "The ailing old man often says he is like a dried fish strung on a rope, well aware that his days are numbered.",
+    "category": "Condition",
+    "similar": [
+      "风烛残年",
+      "行将就木",
+      "日薄西山"
+    ],
+    "opposite": [
+      "来日方长",
+      "方兴未艾"
+    ],
+    "id": "ku-yu-xian-suo"
+  },
+  {
+    "chinese": "止渴望梅",
+    "pinyin": "zhǐ kě wàng méi",
+    "literal": "stop, thirst, expect, plum",
+    "meaning": "Literally meaning to quench one's thirst by looking at plums, this idiom refers to consoling oneself with empty hopes and illusions. It describes using wishful thinking or imagination to comfort oneself when reality offers no real satisfaction, just like its better-known counterpart 望梅止渴 (wàng méi zhǐ kě).",
+    "origin": "The idiom derives from the famous tale of Cao Cao (曹操) during the Three Kingdoms period (三国时期): on a long march his parched soldiers were about to collapse, so Cao Cao pointed ahead and falsely claimed a grove of sour plums awaited them. At the mere thought, the soldiers' mouths watered and their thirst seemed relieved, letting the army press on. The story is recorded in the ancient collection Shishuo Xinyu (《世说新语》), giving rise to 望梅止渴. The variant 止渴望梅 appears in the Qing dynasty play 皖江血·拒敌 by Sun Yulin (孙雨林), where it is used to mock empty consolation as ultimately useless.",
+    "example_zh": "别再止渴望梅了，空想无法解决眼下的难题。",
+    "example_en": "Stop consoling yourself with illusions—wishful thinking won't solve the problems before you.",
+    "category": "Attitude",
+    "similar": [
+      "望梅止渴",
+      "画饼充饥",
+      "痴人说梦"
+    ],
+    "opposite": [
+      "脚踏实地",
+      "实事求是"
+    ],
+    "id": "zhi-ke-wang-mei"
+  },
+  {
+    "chinese": "一差半错",
+    "pinyin": "yī chà bàn cuò",
+    "literal": "one, error, half, mistake",
+    "meaning": "This idiom refers to an unexpected change of circumstances, a mishap, or a mistake. It is used to describe a minor fault or accident that may cause trouble or misfortune. It carries a sense of worry that something might go wrong.",
+    "origin": "The idiom originates from the Ming dynasty novel 'The Plum in the Golden Vase' (金瓶梅词话) by the pseudonymous author Lanling Xiaoxiao Sheng. It appears in chapter 72, in the line '就是桂姐有些一差半错，不干小的事' (Even if Guijie makes some slight mistake, it has nothing to do with the young master). The actual identity of the author remains uncertain, and the novel is set in the Song dynasty though written during the Ming period. The phrase combines the notion of an unexpected change (差) with error (错) to convey the sense of an unforeseen mishap.",
+    "example_zh": "这桩生意若有一差半错，谁也担不起这个责任。",
+    "example_en": "If this business venture should run into even the slightest mishap, no one could bear that responsibility.",
+    "category": "Condition",
+    "similar": [
+      "阴差阳错",
+      "三长两短",
+      "差三错四"
+    ],
+    "opposite": [
+      "万无一失",
+      "十拿九稳"
+    ],
+    "id": "yi-cha-ban-cuo"
+  },
+  {
+    "chinese": "飞刍挽粮",
+    "pinyin": "fēi chú wǎn liáng",
+    "literal": "fly, fodder, pull, grain",
+    "meaning": "It means to transport military grain and fodder at great speed. The idiom describes the rapid, large-scale provisioning of an army on the march, emphasizing haste and heavy expenditure. It is synonymous with the variant form 飞刍挽粟.",
+    "origin": "The idiom comes from the Biography of Wu Wending in the History of the Ming Dynasty (《明史·伍文定传》). Wu Wending was a Ming-dynasty general who served under Wang Yangming during the suppression of Prince Zhu Chenhao's rebellion in 1519 (the Zhengde reign). The text records that Wu was resolute in advancing his troops without hesitation, and that flying fodder and grain (飞刍挽粮) consumed several hundred thousand in cost. The phrase thus entered the language as a byword for swift and costly military supply.",
+    "example_zh": "大军出征在即，飞刍挽粮刻不容缓。",
+    "example_en": "With the army about to set out on campaign, rushing the transport of grain and fodder allows no delay.",
+    "category": "Action",
+    "similar": [
+      "飞刍挽粟",
+      "星夜兼程",
+      "马不停蹄"
+    ],
+    "opposite": [
+      "按兵不动",
+      "裹足不前"
+    ],
+    "id": "fei-chu-wan-liang"
+  },
+  {
+    "chinese": "丛山峻岭",
+    "pinyin": "cóng shān jùn lǐng",
+    "literal": "clustered mountains, lofty ridges",
+    "meaning": "Refers to countless tall and precipitous mountain ridges stretching over a vast area. It describes terrain crowded with high, steep peaks and ranges, evoking a sense of grandeur, wildness, and remoteness.",
+    "origin": "The idiom comes from the modern revolutionary memoir 'Give Everything to the Party' (把一切献给党) by Wu Yunduo (吴运铎), a renowned explosives expert and model worker of the People's Republic of China era. In the chapter 'In the Mine' (在矿井里), he describes the mine's aerial cableway crossing over the cluster of lofty ridges. Unlike classical idioms with ancient textual sources, this phrase was coined in the author's contemporary prose and later entered common use as a four-character idiom.",
+    "example_zh": "火车穿行在丛山峻岭之间，窗外景色壮美如画。",
+    "example_en": "The train wound its way through the towering ridges and clustered mountains, with a magnificent landscape unfolding beyond the window.",
+    "category": "Distance",
+    "similar": [
+      "崇山峻岭",
+      "层峦叠嶂",
+      "连绵起伏"
+    ],
+    "opposite": [
+      "一马平川",
+      "沃野千里"
+    ],
+    "id": "cong-shan-jun-ling"
+  },
+  {
+    "chinese": "福寿齐天",
+    "pinyin": "fú shòu qí tiān",
+    "literal": "fortune, longevity, equal to, heaven",
+    "meaning": "A felicitous expression meaning one's fortune and longevity are as great and vast as heaven itself. It is used as a congratulatory blessing, typically wishing someone abundant blessings, happiness, and a very long life. The phrase raises the wish to a grand, almost divine scale.",
+    "origin": "The idiom comes from the Ming dynasty anonymous zaju (variety play) '贺元宵' (Celebrating the Lantern Festival), third act, in which a character says: '俺从神圣降临下方，庆贺了元宵，祝延圣主福寿齐天也' — the sacred beings descend to the mortal world, celebrate the festival, and wish the sage ruler blessings and longevity equal to heaven. It is a congratulatory blessing (祝颂之辞) used to praise rulers and elders. The expression also appears in another Ming anonymous play, '广成子' (third act), where officials gather to offer their congratulations.",
+    "example_zh": "会众官同来称贺，齐祝赞福寿齐天。",
+    "example_en": "All the officials came together to offer their congratulations, joining in praise and wishing him blessings and longevity equal to heaven.",
+    "category": "Lifestyle",
+    "similar": [
+      "福寿绵长",
+      "福如东海",
+      "寿比南山"
+    ],
+    "opposite": [
+      "福薄命短",
+      "天不假年"
+    ],
+    "id": "fu-shou-qi-tian"
+  },
+  {
+    "chinese": "松柏之寿",
+    "pinyin": "sōng bǎi zhī shòu",
+    "literal": "pine, cypress, of, longevity",
+    "meaning": "松柏之寿 (sōng bǎi zhī shòu) is a Chinese idiom that literally means 'the longevity of pine and cypress trees' and is used as a metaphor for a long life. It draws on the evergreen nature and great age that pine and cypress trees can attain, which ancient Chinese culture regarded as symbols of endurance and vitality. The phrase is typically used to wish someone a long and healthy life.",
+    "origin": "This idiom has no recorded origin in classical texts. It derives from the traditional Chinese cultural association of pine (松) and cypress (柏) trees with longevity, since these evergreens remain green through the winter and can live for centuries. This symbolism appears as early as the Book of Songs (《诗经》), where pines and cypresses are used as images of steadfastness and resilience. Over time, this imagery became condensed into the blessing phrase 松柏之寿 for wishing someone a long life.",
+    "example_zh": "祝愿老人松柏之寿，安享晚年幸福。",
+    "example_en": "May the elderly enjoy the longevity of the pine and cypress, and live out their later years in happiness.",
+    "category": "Lifestyle",
+    "similar": [
+      "寿比南山",
+      "长命百岁",
+      "万寿无疆"
+    ],
+    "opposite": [
+      "英年早逝",
+      "命不久矣"
+    ],
+    "id": "song-bai-zhi-shou"
+  },
+  {
+    "chinese": "重金袭汤",
+    "pinyin": "chóng jīn xí tāng",
+    "literal": "repeated, gold, overlapping, boiling",
+    "meaning": "Describes a defense built of multiple layers of 'golden-walled cities and boiling-moat moats', i.e., an utterly impregnable fortress. Figuratively, it refers to defenses or safeguards so firm that they are nearly impossible to breach.",
+    "origin": "The idiom comes from Sima Guang's commentary '评项羽诛韩生' (Commentary on Xiang Yu Executing Han Sheng), written in the Northern Song Dynasty. Sima Guang cites Xiang Yu, who alienated loyal advisors and suspected his own meritorious men, and argues that if a ruler behaves this way, then even with 'repeated golden walls and overlapping boiling moats' — the strongest conceivable defenses — he could not hold his state for a single day. The phrase thus contrasts physical fortifications with the true foundation of rule: retaining loyal and capable ministers. It is an extension of the classical idiom 金城汤池.",
+    "example_zh": "此城防御重金袭汤，敌军围攻经年竟不能破。",
+    "example_en": "This city's defenses are layered like golden walls and boiling moats — after years of siege, the enemy still could not break it.",
+    "category": "Condition",
+    "similar": [
+      "金城汤池",
+      "固若金汤",
+      "铜墙铁壁"
+    ],
+    "opposite": [
+      "一触即溃",
+      "不堪一击"
+    ],
+    "id": "chong-jin-xi-tang"
+  },
+  {
+    "chinese": "利欲熏心",
+    "pinyin": "lì yù xūn xīn",
+    "literal": "profit, desire, smoke, heart",
+    "meaning": "When greed for wealth and profit clouds one's heart and mind, it overwhelms reason and conscience. The phrase describes a person so consumed by covetousness that they lose sound judgment and moral restraint.",
+    "origin": "The idiom originates from the poem 'Zengbie Li Ciweng' (A Parting Gift to Li Ciweng) by Huang Tingjian, a celebrated poet and calligrapher of the Northern Song Dynasty. In the line '利欲熏心，随人翕张' he warns that when greed for gain steeps the heart like smoke, a person opens and shuts like a follower, swayed by whoever holds power and advantage. Huang Tingjian used this image to caution against letting covetousness corrupt one's integrity. The phrase later became a standard idiom warning against the moral blindness caused by avarice.",
+    "example_zh": "他利欲熏心，竟然背叛了帮助他多年的恩人。",
+    "example_en": "Blinded by greed, he went so far as to betray the benefactor who had helped him for many years.",
+    "category": "Morality",
+    "similar": [
+      "见利忘义",
+      "利令智昏",
+      "唯利是图"
+    ],
+    "opposite": [
+      "淡泊名利",
+      "高风亮节"
+    ],
+    "id": "li-yu-xun-xin"
+  },
+  {
+    "chinese": "日累月积",
+    "pinyin": "rì lèi yuè jī",
+    "literal": "day, accumulate, month, accumulate",
+    "meaning": "Describes the steady, long-term buildup of something over days and months. It refers to the gradual accumulation of wealth, knowledge, or small faults through persistent, incremental effort over time. The idiom emphasizes that major outcomes often result from small amounts added up continuously, rather than from any single act.",
+    "origin": "The idiom comes from Sima Guang's Zizhi Tongjian (资治通鉴, Comprehensive Mirror in Aid of Governance), specifically the entry for the fifth year of the Kaicheng reign of Emperor Wenzong of the Tang dynasty (840 AD). In that passage, a memorial criticizes the previous emperor for treating his high ministers with excessive formality, tolerating their minor faults silently and never admonishing them openly. Because these small faults were allowed to go unchecked, they accumulated day by day and month by month, eventually leading to disaster and the ruin of the state. The passage thus warns that even tiny failings, if left uncorrected and allowed to pile up over time, can grow into catastrophic consequences.",
+    "example_zh": "学习英语贵在日累月积，每天坚持背诵几个单词。",
+    "example_en": "Learning English thrives on day-by-day and month-by-month accumulation—insist on memorizing a few new words every single day.",
+    "category": "Perseverance",
+    "similar": [
+      "日积月累",
+      "积少成多",
+      "滴水穿石"
+    ],
+    "opposite": [
+      "一蹴而就",
+      "半途而废"
+    ],
+    "id": "ri-lei-yue-ji"
   }
 ]
