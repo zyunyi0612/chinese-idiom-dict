@@ -92598,5 +92598,205 @@
       "半途而废"
     ],
     "id": "ri-lei-yue-ji"
+  },
+  {
+    "chinese": "七男八婿",
+    "pinyin": "qī nán bā xù",
+    "literal": "seven, son, eight, son-in-law",
+    "meaning": "Describes a family with many sons and sons-in-law, that is, a large and flourishing household of male descendants and their spouses. It emphasizes abundant offspring and a prosperous, thriving family, often used to praise a man of great fortune.",
+    "origin": "This is a variant form of the idiom '七子八婿'. According to the authoritative dictionary, it has no recorded origin. Traditional folklore connects '七子八婿' with the Tang Dynasty general Guo Ziyi (郭子仪), who was said to have seven sons and eight sons-in-law, all holding high office at court; his family was celebrated as a model of extraordinary prosperity and longevity. The variant '七男八婿' uses '男' (son) in place of '子' to the same effect.",
+    "example_zh": "老将军七男八婿，个个成家立业，晚景十分热闹。",
+    "example_en": "The old general had seven sons and eight sons-in-law, each settled and established, so his later years were lively and full.",
+    "category": "Status",
+    "similar": [
+      "儿孙满堂",
+      "人丁兴旺",
+      "枝繁叶茂"
+    ],
+    "opposite": [
+      "膝下无子",
+      "人丁单薄"
+    ],
+    "id": "qi-nan-ba-xu"
+  },
+  {
+    "chinese": "闲愁万种",
+    "pinyin": "xián chóu wàn zhǒng",
+    "literal": "idle melancholy, ten thousand kinds",
+    "meaning": "Refers to countless worries that cannot be named or expressed. Describes someone with an empty mind who is overly sentimental, or whose heart is filled with vague, overwhelming sorrow.",
+    "origin": "The phrase originates from 'Zhang Sheng Boils the Sea' (《张生煮海》), a zaju play written by Li Haogu during the Yuan dynasty (1271–1368). It appears in the first act in the line '真乃是消磨了闲愁万种', meaning 'truly, this dispels ten thousand kinds of idle melancholy.' The idiom captures the sentiment of vague, unnameable sorrow that overwhelms an empty-hearted, over-sensitive person. It reflects the expressive, lyrical style characteristic of Yuan dynasty drama.",
+    "example_zh": "秋雨绵绵的夜晚，闲愁万种，让人辗转难眠。",
+    "example_en": "On a drizzly autumn night, with ten thousand kinds of idle sorrows in my heart, I toss and turn, unable to fall asleep.",
+    "category": "Emotion",
+    "similar": [
+      "多愁善感",
+      "愁肠百结",
+      "忧心忡忡"
+    ],
+    "opposite": [
+      "无忧无虑",
+      "心旷神怡"
+    ],
+    "id": "xian-chou-wan-zhong"
+  },
+  {
+    "chinese": "柴天改物",
+    "pinyin": "chái tiān gǎi wù",
+    "literal": "burn offerings to heaven, change the institutions",
+    "meaning": "Refers to the overthrow of a ruling dynasty and the establishment of a new one, i.e., a change of government or regime. '改物' specifically denotes altering the cultural and institutional legacy of the previous dynasty, so the idiom conveys a fundamental, sweeping transformation of the political order.",
+    "origin": "The idiom first appears in the eulogy to Emperor Wu in the 'Book of Song' (宋书·武帝纪赞) by Shen Yue, praising Liu Yu for founding the Liu Song dynasty and succeeding the Eastern Jin. The passage reads: '至于钟石变声，柴天改物，民已去晋，异于延康之初' — the music and bells changed their tones, and heaven was offered sacrifice as institutions were reformed, for the people had already abandoned the Jin, unlike the beginning of the Yan'kang era. '延康' was the era name under which Cao Pi ended the Han and founded the Wei dynasty, so the text distinguishes Liu Yu's legitimate succession from that earlier transition. The phrase was later reused in the 'Book of Liang' (梁书·元帝纪) in an exhortation to the emperor to sweep away the old and change the mandate.",
+    "example_zh": "伏愿陛下扫地升中，柴天改物。",
+    "example_en": "I humbly pray that Your Majesty sweep away the old and rise to the throne, changing heaven's mandate and reforming the institutions.",
+    "category": "Power",
+    "similar": [
+      "改朝换代",
+      "革故鼎新",
+      "鼎新革故"
+    ],
+    "opposite": [
+      "一成不变",
+      "长治久安"
+    ],
+    "id": "chai-tian-gai-wu"
+  },
+  {
+    "chinese": "狗续金貂",
+    "pinyin": "gǒu xù jīn diāo",
+    "literal": "dog, continue, golden, sable (mink)",
+    "meaning": "Literally 'a dog continues the golden sable'—a dog's tail sewn onto the golden sable-tail ornament that marked senior officials. The idiom mocks officials who received their ranks and positions without merit, criticizing the over-conferral of office on unworthy people. It is used to condemn courts that bestow high titles indiscriminately.",
+    "origin": "The idiom traces to the Western Jin dynasty (西晋), when Prince of Zhao Sima Lun (赵王司马伦) usurped power and heaped official titles on his followers—even servants and grooms—so that every court assembly was crowded with people wearing the golden sable-tail headdress (貂蝉) reserved for high ministers. The people mocked this with the proverb '貂不足，狗尾续' (when sable tails run short, dog tails are sewn on in their place). The specific phrasing '狗续金貂' appears in the Qing dynasty (清) play 《爱国魂·勤王》 by 筱波山人, which denounces a court overrun with such undeserved officials and asks who will sweep away the smoke of war.",
+    "example_zh": "朝廷滥授官职，满朝皆是狗续金貂之徒。",
+    "example_en": "The court handed out official posts recklessly, filling the entire government with dogs' tails passed off as golden sable.",
+    "category": "Status",
+    "similar": [
+      "狗尾续貂",
+      "滥竽充数",
+      "尸位素餐"
+    ],
+    "opposite": [
+      "名副其实",
+      "德才兼备"
+    ],
+    "id": "gou-xu-jin-diao"
+  },
+  {
+    "chinese": "耳目股肱",
+    "pinyin": "ěr mù gǔ gōng",
+    "literal": "ears, eyes, thigh, arm",
+    "meaning": "This idiom describes someone who serves as the sovereign's eyes, ears, and limbs—a trusted and capable aide or a high minister who assists the ruler in governance. It emphasizes both close intimacy and proven competence, referring to people on whom the ruler relies to see, hear, and act on his behalf.",
+    "origin": "The idiom originates from Essentials of Government in the Zhenguan Era (《贞观政要》), compiled by the Tang-dynasty historian Wu Jing. In the chapter on governance (《政体》), it records Emperor Taizong of Tang addressing his ministers, declaring that he entrusts his eyes, ears, and limbs to them and urging them to speak out frankly whenever affairs are unsettled. The phrase thereby became a conventional metaphor for the trusted ministers and capable officials who served as the ruler's closest aides.",
+    "example_zh": "他深得皇帝信任，是当朝不可或缺的耳目股肱。",
+    "example_en": "He enjoys the emperor's deep trust and serves as an indispensable eyes-and-ears, hands-and-feet aide of the court.",
+    "category": "Leadership",
+    "similar": [
+      "左膀右臂",
+      "股肱之臣",
+      "心腹"
+    ],
+    "opposite": [
+      "泛泛之交",
+      "形同陌路"
+    ],
+    "id": "er-mu-gu-gong"
+  },
+  {
+    "chinese": "菊老荷枯",
+    "pinyin": "jú lǎo hé kū",
+    "literal": "chrysanthemum aged, lotus withered",
+    "meaning": "Chrysanthemums fade and lotuses wither, a metaphor for a woman whose youthful beauty has faded with age. It paints a melancholic picture of passing time and lost bloom, often used to lament the decline of feminine charm.",
+    "origin": "The idiom has no known historical origin or documented source (出处: 无). It is a literary expression formed by pairing two images of autumn decline — the chrysanthemum growing old and the lotus drying up — both traditional symbols of fading beauty. This type of nature-based metaphor is characteristic of classical Chinese poetry, where seasonal wilting is used to symbolize human aging. As it circulated among literati, it became a standard phrase for describing a woman's waning looks.",
+    "example_zh": "她虽已菊老荷枯，但风韵犹存，谈吐依然优雅动人。",
+    "example_en": "Though her beauty has long faded like withered chrysanthemums and dried lotuses, she still retains her charm and speaks with grace.",
+    "category": "Condition",
+    "similar": [
+      "人老珠黄",
+      "红颜易老",
+      "年老色衰"
+    ],
+    "opposite": [
+      "青春永驻",
+      "如花似玉"
+    ],
+    "id": "ju-lao-he-ku"
+  },
+  {
+    "chinese": "魄散魂飞",
+    "pinyin": "pò sàn hún fēi",
+    "literal": "soul scattered, spirit flew away",
+    "meaning": "Describes an overwhelming state of terror or fright, so intense that one's soul seems to scatter and one's spirit to fly away. It is used to depict someone completely paralyzed or panic-stricken by fear.",
+    "origin": "The idiom appears in Yuan-dynasty dramatic literature, most notably in the anonymous play \"Baihua Pavilion\" (《百花亭》) where it is used to describe a moment of desperate fright. It also appears in Ming-dynasty playwright Xu Lin's (徐霖) \"The Embroidered Jacket\" (《绣襦记》), where a character is said to be so horrified that his soul scatters and spirit flees. Originating in Yuan and Ming drama, the phrase conveys the classical Chinese view that extreme fear causes the soul to leave the body, and it later became a standard four-character idiom for terror.",
+    "example_zh": "夜半听到那声惨叫，我吓得魄散魂飞，连跑都忘了。",
+    "example_en": "Hearing that scream in the dead of night, I was so terrified my soul scattered and spirit fled, forgetting even to run.",
+    "category": "Emotion",
+    "similar": [
+      "魂飞魄散",
+      "魂不附体",
+      "心惊胆战"
+    ],
+    "opposite": [
+      "泰然自若",
+      "镇定自若"
+    ],
+    "id": "po-san-hun-fei"
+  },
+  {
+    "chinese": "庞眉皓首",
+    "pinyin": "páng méi hào shǒu",
+    "literal": "mottled grey eyebrows, hoary head",
+    "meaning": "Describes the appearance of an elderly person, with grey or mottled eyebrows and white hair. The character 庞 (páng) is used interchangeably with 厖, meaning mixed or mottled in color. It is a respectful, dignified way of evoking old age and its signs.",
+    "origin": "This idiom has no single documented origin story; authoritative sources record no specific dynasty or figure behind it. It is built from two classical descriptive phrases, 庞眉 (mottled grey eyebrows) and 皓首 (a white head, i.e. white hair), which were commonly used in classical Chinese literary writing to portray the elderly. It is essentially a variant of the related expression 庞眉皓发, and phrases of this kind circulated in literary prose as graceful epithets for old age.",
+    "example_zh": "村口那位庞眉皓首的老者，正坐在树下教孩子们识字。",
+    "example_en": "That white-haired old man at the village entrance, with his mottled grey brows, was sitting under the tree teaching the children to read.",
+    "category": "Condition",
+    "similar": [
+      "鹤发童颜",
+      "老态龙钟",
+      "白发苍苍"
+    ],
+    "opposite": [
+      "朱颜绿鬓",
+      "豆蔻年华"
+    ],
+    "id": "pang-mei-hao-shou"
+  },
+  {
+    "chinese": "不紧不慢",
+    "pinyin": "bù jīn bù màn",
+    "literal": "not hurried, not slow",
+    "meaning": "Describes a person who is calm and unhurried, moving or speaking at a steady, relaxed pace. It conveys composure and collectedness, without anxiety or haste. The phrase suggests deliberate, measured behavior regardless of circumstances.",
+    "origin": "The idiom originates from Chapter 19 of 'Flowers in the Mirror' (镜花缘) by Li Ruzhen, a Qing Dynasty writer. In the passage, a character is caught in an awkward predicament, lamenting that walking fast is bad, walking slowly is bad, and even walking neither fast nor slow is bad. From this humorous complaint about being at a loss either way, the phrase was later detached and redefined to praise a calm, unhurried manner.",
+    "example_zh": "老人不紧不慢地说完整个故事，大家都听得入神。",
+    "example_en": "The old man told the whole story unhurriedly, and everyone listened spellbound.",
+    "category": "Attitude",
+    "similar": [
+      "从容不迫",
+      "慢条斯理",
+      "气定神闲"
+    ],
+    "opposite": [
+      "慌慌张张",
+      "手忙脚乱"
+    ],
+    "id": "bu-jin-bu-man"
+  },
+  {
+    "chinese": "涕泪交零",
+    "pinyin": "tì lèi jiāo líng",
+    "literal": "snivel, tears, together, falling",
+    "meaning": "Both nasal mucus and tears flow down at the same time, describing overwhelming, uncontrollable grief. The idiom vividly portrays someone so stricken by sorrow that they cannot hold back their tears or their sobbing. It is used to depict intense mourning or heartbreak.",
+    "origin": "The idiom comes from a Han dynasty funerary inscription, the anonymous 《安平相孙根碑》 (Stele of Sun Gen, Chancellor of Anping). The inscription records the mourners' grief at the chancellor's death, stating that 'blood relatives were stricken with sorrow, their snivel and tears falling together, while crying infants wailed until they lost their voice.' Later, 《魏书·崔亮传》 (History of the Wei Dynasty, Biography of Cui Liang) records an occasion where someone recited scripture so movingly that listeners wept in exactly this manner. The phrase has been used ever since to describe uncontrollable weeping from deep sorrow.",
+    "example_zh": "听闻父亲去世的消息，他涕泪交零，悲痛欲绝。",
+    "example_en": "Upon hearing the news of his father's death, he wept with tears and mucus streaming down his face, utterly devastated with grief.",
+    "category": "Emotion",
+    "similar": [
+      "痛哭流涕",
+      "涕泗横流",
+      "泪流满面"
+    ],
+    "opposite": [
+      "眉开眼笑",
+      "喜笑颜开"
+    ],
+    "id": "ti-lei-jiao-ling"
   }
 ]
