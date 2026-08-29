@@ -92798,5 +92798,203 @@
       "喜笑颜开"
     ],
     "id": "ti-lei-jiao-ling"
+  },
+  {
+    "chinese": "断章取意",
+    "pinyin": "duàn zhāng qǔ yì",
+    "literal": "cut off, section, take, meaning",
+    "meaning": "To isolate a single passage or phrase from an article or conversation, ignoring the content as a whole, and interpret it in a way that departs from the original intent. It refers to quoting someone out of context so that the reference no longer matches what was actually meant.",
+    "origin": "The idiom stems from the Spring and Autumn period text 《左传·襄公二十八年》(Zuo Zhuan, year 28 of Duke Xiang, c. 545 BC). When 卢蒲癸 cited an ode, he remarked '赋诗断章，余取所求焉' — 'when reciting a poem one may take a single stanza at will; I take only what I am seeking.' In the diplomatic speech of that era, quoting verses selectively to suit one's own argument was a customary practice. Over time this practice of lifting lines out of context gave rise to the idiom, whose standard written form is 断章取义.",
+    "example_zh": "读文章不能断章取意，以免误解作者本意。",
+    "example_en": "When reading an article, one should not take a passage out of context, lest the author's true intent be misunderstood.",
+    "category": "Communication",
+    "similar": [
+      "断章取义",
+      "望文生义",
+      "穿凿附会"
+    ],
+    "opposite": [
+      "融会贯通"
+    ],
+    "id": "duan-zhang-qu-yi"
+  },
+  {
+    "chinese": "槐南一梦",
+    "pinyin": "huái nán yī mēng",
+    "literal": "locust tree, south, one, dream",
+    "meaning": "Life is like a dream, and the gains and losses of wealth and honor are transient and illusory. The idiom warns against clinging to worldly glory, since power and riches ultimately prove as fleeting as a dream.",
+    "origin": "The phrase derives from the Tang dynasty tale 《南柯太守传》 (The Governor of Nanke) by Li Gongzuo. It tells of Chunyu Fen, who drank wine beneath an old locust tree and fell into a dream in which he saw a city gate inscribed 'Great Huai'an Kingdom.' The king made him a son-in-law and appointed him governor of Nanke Prefecture, where he enjoyed thirty years of wealth and honor. Upon waking, he found a large ant nest under the tree, with a smaller nest on its southern branch, which corresponded to the Huai'an Kingdom and Nanke Prefecture of his dream.",
+    "example_zh": "回首往事，荣华富贵不过是槐南一梦。",
+    "example_en": "Looking back on the past, wealth and honor were nothing but a fleeting dream.",
+    "category": "Philosophy",
+    "similar": [
+      "南柯一梦",
+      "黄粱一梦",
+      "浮生若梦"
+    ],
+    "opposite": [
+      "梦想成真",
+      "脚踏实地"
+    ],
+    "id": "huai-nan-yi-meng"
+  },
+  {
+    "chinese": "坦然自若",
+    "pinyin": "tǎn rán zì ruò",
+    "literal": "calm, unperturbed, self, as if",
+    "meaning": "To remain calm, composed, and at ease, behaving exactly as one normally would even under pressure or in an unusual situation. The idiom describes a person whose demeanor stays steady and unruffled regardless of the circumstances.",
+    "origin": "The idiom comes from chapter 22 of Dream of the Red Chamber (《红楼梦》) by the Qing dynasty novelist Cao Xueqin (18th century). In the passage, the character Xue Baochai, who is described as never speaking or acting rashly, is said to remain equally calm and composed in the given moment. The phrase 坦然自若 (unperturbed and at ease) thus entered common usage to describe someone who keeps an untroubled, normal manner in the face of difficulty or change.",
+    "example_zh": "面对突发变故，他依然坦然自若地处理各项工作。",
+    "example_en": "Facing the sudden turn of events, he still dealt with all the tasks calmly and composedly, just as usual.",
+    "category": "Attitude",
+    "similar": [
+      "泰然自若",
+      "从容不迫",
+      "镇定自若"
+    ],
+    "opposite": [
+      "惊慌失措",
+      "惶恐不安"
+    ],
+    "id": "tan-ran-zi-ruo"
+  },
+  {
+    "chinese": "违天逆理",
+    "pinyin": "wéi tiān nì lǐ",
+    "literal": "violate heaven, defy reason",
+    "meaning": "To act with extreme cruelty, committing deeds that defy heaven and violate the natural order of morality and ethics. It describes behavior so vicious and unjust that it runs counter to the fundamental principles governing the world and human decency.",
+    "origin": "No specific origin story is documented for this idiom. It is a four-character compound formed by combining 违天 (defy heaven) and 逆理 (violate reason), phrases whose individual elements appear throughout classical Chinese texts, including works from the Spring and Autumn period such as the Zuozhuan. The idiom crystallizes the traditional Confucian worldview that heaven's moral order (天理) is absolute, making any act that defies it among the gravest offenses. Over time it became a standard expression used to condemn the most inhuman and immoral conduct.",
+    "example_zh": "他竟做出这种违天逆理的残忍行径，令人发指。",
+    "example_en": "He actually committed such cruel deeds that defy heaven and violate all reason, sending chills down one's spine.",
+    "category": "Morality",
+    "similar": [
+      "伤天害理",
+      "天理难容",
+      "丧尽天良"
+    ],
+    "opposite": [
+      "顺天应人",
+      "天经地义"
+    ],
+    "id": "wei-tian-ni-li"
+  },
+  {
+    "chinese": "饥不择食",
+    "pinyin": "jī bù zé shí",
+    "literal": "hungry, not, choose, food",
+    "meaning": "When one is starving, one will eat whatever is available without being picky. The idiom is used metaphorically to describe someone in urgent need who cannot afford to be selective about what they take, even if the options are less than ideal.",
+    "origin": "The idiom comes from the Song Dynasty Buddhist text 《五灯会元》 (Compendium of Five Lamps), compiled by the monk Shi Puji. In a Zen dialogue recorded in the thirtieth volume, a monk asks the master: 'What is the household style of a Chan master?' The master replies: 'The hungry do not choose their food.' The exchange uses the plain image of a starving person eating anything as an expression of Zen simplicity and unpretentiousness, and the phrase later became a common saying for desperate need overriding discrimination.",
+    "example_zh": "他这几天饿坏了，饥不择食地把桌上的剩菜都吃光了。",
+    "example_en": "He had been starving these past few days, so, hungry and unselective, he gobbled up all the leftover dishes on the table.",
+    "category": "Condition",
+    "similar": [
+      "慌不择路",
+      "寒不择衣",
+      "饥寒交迫"
+    ],
+    "opposite": [
+      "挑肥拣瘦",
+      "挑三拣四"
+    ],
+    "id": "ji-bu-ze-shi"
+  },
+  {
+    "chinese": "首尾相继",
+    "pinyin": "shǒu wěi xiāng jì",
+    "literal": "head, tail, mutually, continue",
+    "meaning": "Describes things or events joined end to end, following one after another without interruption. It conveys an unbroken, continuous sequence, like a line of people or a chain of events that never breaks apart.",
+    "origin": "The authoritative sources record no documented origin story or cited figure for this idiom (出处: 无). It is a classical Chinese expression formed from the imagery of a creature or procession whose head and tail are directly connected, so that what comes behind keeps up with what is ahead. Over time it became a standard phrase for describing continuity and unbroken succession.",
+    "example_zh": "游行队伍首尾相继，绵延数里，十分壮观。",
+    "example_en": "The parade stretched on without a break, one section following another for miles, a truly spectacular sight.",
+    "category": "Condition",
+    "similar": [
+      "络绎不绝",
+      "连绵不断",
+      "前赴后继"
+    ],
+    "opposite": [
+      "断断续续",
+      "时断时续"
+    ],
+    "id": "shou-wei-xiang-ji"
+  },
+  {
+    "chinese": "计然之策",
+    "pinyin": "jì rán zhī cè",
+    "literal": "Ji Ran's, strategy",
+    "meaning": "A general term for the way to make money and prosper. It refers to strategies and principles for growing wealth and becoming rich. The phrase carries the sense of time-tested, sagely advice for accumulating fortune.",
+    "origin": "Legend has it that during the Spring and Autumn period, King Goujian of Yue, besieged at Kuaiji, adopted Jiran's strategies, cultivated his state for ten years, and thereby made his country wealthy. After Fan Li had avenged the humiliation of Kuaiji, he applied Jiran's strategies to his own household and amassed a fortune of tens of millions. Jiran's strategies mainly refer to the agricultural cycle theory of six bumper years followed by six drought years, the grain price-stabilization policy benefiting both farmers and merchants, and the principle of accumulating wealth through observing prices and buying low while selling high.",
+    "example_zh": "他潜心钻研计然之策，终于积累起万贯家财。",
+    "example_en": "He devoted himself to studying Jiran's strategies and eventually amassed a vast fortune.",
+    "category": "Wisdom",
+    "similar": [
+      "生财有道",
+      "陶朱之富"
+    ],
+    "opposite": [
+      "家徒四壁",
+      "一贫如洗"
+    ],
+    "id": "ji-ran-zhi-ce"
+  },
+  {
+    "chinese": "如指诸掌",
+    "pinyin": "rú zhǐ zhū zhǎng",
+    "literal": "like, point, at, palm",
+    "meaning": "To be extremely familiar with or thoroughly understand something. The idiom conveys that one knows a matter as clearly and easily as pointing at the palm of one's own hand. It describes complete mastery of a subject or situation.",
+    "origin": "The idiom originates from the Analects (《论语·八佾》), a Confucian classic compiled during the Spring and Autumn period. When a ruler asked Confucius about the Di (褅) sacrificial rite, Confucius replied that he did not know it, then added that whoever truly understood it could govern the entire empire as easily as looking at this, pointing to his own palm. The image of pointing at one's palm came to symbolize effortless, complete understanding.",
+    "example_zh": "经营多年，他对市场行情的变化如指诸掌。",
+    "example_en": "Having been in business for many years, he understands the shifts in market conditions as easily as pointing at his own palm.",
+    "category": "Knowledge",
+    "similar": [
+      "了如指掌",
+      "洞若观火",
+      "一目了然"
+    ],
+    "opposite": [
+      "一无所知",
+      "一窍不通"
+    ],
+    "id": "ru-zhi-zhu-zhang"
+  },
+  {
+    "chinese": "齐家治国",
+    "pinyin": "qí jiā zhì guó",
+    "literal": "regulate family, govern state",
+    "meaning": "To put one's own household in order before undertaking the governance of the state. In Confucian thought, the discipline of the family is the foundation for ruling the country. It stresses that effective state governance must begin with proper conduct within the home.",
+    "origin": "The idiom comes from the Great Learning (《礼记·大学》), one of the Four Books of Confucianism, traditionally linked to Confucius (551–479 BC) and his school. The text reads: 'To govern the state one must first regulate one's family; if one cannot teach one's own family, how can one teach others?' It embodies the Confucian sequence of self-cultivation (修身), family regulation (齐家), state governance (治国), and bringing peace to all under heaven (平天下). Over the centuries it became a core ideal of Chinese political and moral philosophy.",
+    "example_zh": "齐家治国是古代读书人毕生追求的理想。",
+    "example_en": "Regulating the family and governing the state was the lifelong ideal pursued by scholars in ancient times.",
+    "category": "Leadership",
+    "similar": [
+      "修身齐家",
+      "治国安邦",
+      "内圣外王"
+    ],
+    "opposite": [
+      "祸国殃民",
+      "国破家亡"
+    ],
+    "id": "qi-jia-zhi-guo"
+  },
+  {
+    "chinese": "莫之与京",
+    "pinyin": "mò zhī yǔ jīng",
+    "literal": "none, it, compare with, great",
+    "meaning": "This idiom means that something is so vast, high, or great that nothing can be compared with it. It describes being foremost, unrivaled, and without equal. It is also written in the variant form 大莫与京.",
+    "origin": "No recorded origin story or source text has been preserved for this idiom, so its precise provenance is unknown. It follows the classical grammatical pattern seen in expressions like 无与伦比, where 之 serves as a proposed object and 与 means 'to compare.' Here 京 carries the archaic sense of 'great' or 'lofty,' the same root meaning found in words referring to a great capital city. The idiom functions as a literary, formal way of saying something is matchless in grandeur or stature.",
+    "example_zh": "此城之繁华，莫之与京。",
+    "example_en": "The prosperity of this city is so great that nothing else can compare.",
+    "category": "Quality",
+    "similar": [
+      "无与伦比",
+      "首屈一指",
+      "无可比拟"
+    ],
+    "opposite": [
+      "微不足道",
+      "无足轻重"
+    ],
+    "id": "mo-zhi-yu-jing"
   }
 ]
