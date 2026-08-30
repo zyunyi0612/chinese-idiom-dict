@@ -8215,3 +8215,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-08-30 12:00:05] === Catch-up push done ===
 [2026-08-30 20:00:00] === Catch-up push start (82 unpushed commits) ===
+[main e6615a1] Auto-update: 2026-08-30 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   0b1880e..e6615a1  main -> main
+
+Push OK (attempt 1)
+[2026-08-30 20:00:03] === Catch-up push done ===
+[2026-08-31 03:15:00] === Daily cron start ===
+[2026-08-31 03:15:00] === Daily cron start ===
+[2026-08-31 03:15:00] Generating 10 new idioms...
+[2026-08-31 03:15:00] Generating 10 new idioms...
+Existing: 4678 idioms
+Whitelist: 30894 total
+Candidates available: 24823 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 哀痛欲绝 (āi tòng yù jué)
+    OK (saved, total now: 4679): literal='grief, pain, about to, sever (life)...'
+[2/10] -> 坎坷不平 (kǎn kě bù píng)
+    OK (saved, total now: 4680): literal='bumpy, uneven, not smooth...'
+[3/10] -> 碌碌无奇 (lù lù wú qí)
+    OK (saved, total now: 4681): literal='mediocre, without, remarkable...'
+[4/10] -> 右军习气 (yòu jūn xí qì)
+    OK (saved, total now: 4682): literal='Right Army General, habitual mannerism...'
+[5/10] -> 手眼通天 (shǒu yǎn tōng tiān)
+    OK (saved, total now: 4683): literal='hand, eye, reach through, heaven...'
+[6/10] -> 雨淋日炙 (yǔ lín rì zhì)
+    OK (saved, total now: 4684): literal='rain, drench, sun, scorch...'
+[7/10] -> 跌弹斑鸠 (diē dàn bān jiū)
+    OK (saved, total now: 4685): literal='fall, shot, spotted turtledove...'
+[8/10] -> 漫天开价 (màn tiān kāi jià)
+    OK (saved, total now: 4686): literal='covering the sky, open a price...'
+[9/10] -> 割肉饲虎 (gē ròu sì hǔ)
+    OK (saved, total now: 4687): literal='cut, flesh, feed, tiger...'
+[10/10] -> 喷雨嘘云 (pēn yǔ xū yún)
+    OK (saved, total now: 4688): literal='spray rain, blow cloud...'
+
+Added 10 idioms. Total: 4688
+[2026-08-31 03:17:05] Generation OK
+[2026-08-31 03:17:05] Generation OK
+[2026-08-31 03:17:05] Regenerating site...
+[2026-08-31 03:17:05] Regenerating site...
+Loading data...
+  → 4688 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4688 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4688 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-08-31 03:17:19] Site regenerated
+[2026-08-31 03:17:19] Site regenerated
+[2026-08-31 03:17:19] Pushing to GitHub...
+[2026-08-31 03:17:19] Pushing to GitHub...

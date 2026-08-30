@@ -92996,5 +92996,205 @@
       "无足轻重"
     ],
     "id": "mo-zhi-yu-jing"
+  },
+  {
+    "chinese": "哀痛欲绝",
+    "pinyin": "āi tòng yù jué",
+    "literal": "grief, pain, about to, sever (life)",
+    "meaning": "To be so grief-stricken that one feels on the verge of death. It describes sorrow and anguish pushed to the absolute limit, where the pain of mourning becomes nearly unbearable.",
+    "origin": "The idiom appears in Chapter 13 of Dream of the Red Chamber (《红楼梦》) by the Qing dynasty writer Cao Xueqin. In the passage, the servant Baozhu mourns before the spirit tablet of Qin Keqing, following the rites befitting an unmarried daughter, and is described as wailing in such agony that she seems ready to collapse. The image of mourning carried to the point of breaking gave rise to this expression for overwhelming grief.",
+    "example_zh": "听到父亲去世的消息，她哀痛欲绝，茶饭不思。",
+    "example_en": "Upon hearing the news of her father's death, she was grief-stricken beyond measure, unable to eat or drink.",
+    "category": "Emotion",
+    "similar": [
+      "悲痛欲绝",
+      "痛不欲生",
+      "伤心欲绝"
+    ],
+    "opposite": [
+      "欣喜若狂",
+      "兴高采烈"
+    ],
+    "id": "ai-tong-yu-jue"
+  },
+  {
+    "chinese": "坎坷不平",
+    "pinyin": "kǎn kě bù píng",
+    "literal": "bumpy, uneven, not smooth",
+    "meaning": "The idiom describes a road full of pits and hollows that is rough and hard to travel. Figuratively, it refers to a life or journey beset with many difficulties and setbacks rather than smooth sailing. It conveys that one's path forward is filled with obstacles and troubles.",
+    "origin": "The idiom traces back to the Western Han dynasty writer Yang Xiong (扬雄), who in his rhapsody (赋) used the word \"坎坷\" to describe rough, pitted terrain in contrast to the flat, even ground of the Zhou homeland. The juxtaposition of rough and level ground became a metaphor for hardship versus ease. Over time, the term came to be applied figuratively to people's life journeys, meaning full of setbacks and difficulties. The idiom was later widely used in literary works to describe trying paths and troubled times.",
+    "example_zh": "他这一生历经坎坷不平，却始终不曾放弃心中的理想。",
+    "example_en": "His life has been full of hardships and setbacks, yet he has never given up the ideals in his heart.",
+    "category": "Condition",
+    "similar": [
+      "崎岖不平",
+      "艰难曲折",
+      "荆棘载途"
+    ],
+    "opposite": [
+      "一帆风顺",
+      "一马平川"
+    ],
+    "id": "kan-ke-bu-ping"
+  },
+  {
+    "chinese": "碌碌无奇",
+    "pinyin": "lù lù wú qí",
+    "literal": "mediocre, without, remarkable",
+    "meaning": "Describes a person or thing that is utterly ordinary and unremarkable, possessing no special talent or distinguishing qualities. It conveys a mild, matter-of-fact judgment of mediocrity rather than a harsh condemnation. The phrase often carries a tone of slight disappointment or resignation about someone's lack of distinction.",
+    "origin": "The idiom has no single documented origin and does not come from a specific classical story or historical figure. It is a compound expression assembled from the reduplicated word 碌碌 (lulu), meaning 'commonplace, busy but ordinary,' and 无奇 (wu qi), meaning 'without anything extraordinary.' The structure echoes earlier classical usages of 碌碌 found in historical and philosophical texts, where it describes the common run of people who achieve nothing notable. Over time the phrase became a standard four-character idiom for describing mediocrity.",
+    "example_zh": "他虽碌碌无奇，却一直勤恳本分地生活。",
+    "example_en": "Although he is utterly ordinary and unremarkable, he has always lived a diligent and honest life.",
+    "category": "Quality",
+    "similar": [
+      "平平无奇",
+      "碌碌无为",
+      "平淡无奇"
+    ],
+    "opposite": [
+      "出类拔萃",
+      "卓尔不群"
+    ],
+    "id": "lu-lu-wu-qi"
+  },
+  {
+    "chinese": "右军习气",
+    "pinyin": "yòu jūn xí qì",
+    "literal": "Right Army General, habitual mannerism",
+    "meaning": "The idiom refers to the bad habit of mechanically imitating the ancients without developing a style of one's own. It derives from the great calligrapher Wang Xizhi, who served as Right Army General and was known as Wang Youjun, and criticizes those who copy the masters slavishly rather than achieving originality.",
+    "origin": "Wang Xizhi (王羲之, c. 303–361), the foremost calligrapher of the Eastern Jin Dynasty (东晋, 317–420), held the post of Right Army General (右军将军), earning him the title 'Wang Youjun' (王右军). The term first appears in the Qing Dynasty calligrapher Song Cao's (宋曹) treatise Shufa Yueyan (《书法约言》): '既脱天腕，仍养于心，方无右军习气' — only by letting go of the master's hand and nourishing the heart within can one be free of the Youjun habit. Song Cao used the phrase to warn that calligraphers who merely imitated Wang Xizhi's brushwork without inner cultivation produced nothing but empty copies. Over time it came to denote any slavish imitation of past masters that suppresses original creation.",
+    "example_zh": "学书法若一味模仿古人，便易染右军习气。",
+    "example_en": "In learning calligraphy, if one merely imitates the ancients, one easily falls into the habitual mannerism of Wang Youjun.",
+    "category": "Learning",
+    "similar": [
+      "亦步亦趋",
+      "邯郸学步",
+      "东施效颦"
+    ],
+    "opposite": [
+      "自出机杼",
+      "独辟蹊径"
+    ],
+    "id": "you-jun-xi-qi"
+  },
+  {
+    "chinese": "手眼通天",
+    "pinyin": "shǒu yǎn tōng tiān",
+    "literal": "hand, eye, reach through, heaven",
+    "meaning": "Literally 'hands and eyes reaching to heaven,' this idiom is a metaphor for someone with extraordinary connections and scheming ability, capable of pulling strings and getting things done through powerful or influential channels. It emphasizes cunning resourcefulness and exceptional maneuvering skills that go beyond ordinary means.",
+    "origin": "This idiom originates from the modern Chinese novel 'Four Generations Under One Roof' (四世同堂) by the famous 20th-century author Lao She, rather than from an ancient dynasty or historical figure. In the novel, a character reflects that it is not her husband's ability she trusts, but her own 'hand-eye reaching to heaven' — that is, her own extraordinary resourcefulness and knack for getting things done. The phrase was coined to capture the scheming, well-connected nature of certain people, and has since become a common expression in modern Chinese.",
+    "example_zh": "他在这个圈子里手眼通天，什么事都能摆平。",
+    "example_en": "He has extraordinary connections in this circle and can smooth over just about anything.",
+    "category": "Power",
+    "similar": [
+      "神通广大",
+      "呼风唤雨",
+      "八面玲珑"
+    ],
+    "opposite": [
+      "无依无靠",
+      "孤掌难鸣"
+    ],
+    "id": "shou-yan-tong-tian"
+  },
+  {
+    "chinese": "雨淋日炙",
+    "pinyin": "yǔ lín rì zhì",
+    "literal": "rain, drench, sun, scorch",
+    "meaning": "To be drenched by rain and scorched by the sun. It vividly describes the hardship and suffering of travel or outdoor work, where one is exposed to harsh weather conditions.",
+    "origin": "The idiom comes from the poem \"Stone Drum Song\" (石鼓歌) by Han Yu (韩愈), a famous Tang dynasty writer and poet. In the poem, he describes ancient stone drums that have endured rain, scorching sun, and wildfires, yet are still guarded by ghosts and spirits. The phrase captures how these relics have weathered the elements over centuries, and later came to symbolize the grueling toil of those laboring outdoors.",
+    "example_zh": "考古队员们雨淋日炙，在野外坚持工作了整整三个月。",
+    "example_en": "The archaeologists, drenched in rain and scorched by the sun, kept working in the field for three whole months.",
+    "category": "Condition",
+    "similar": [
+      "栉风沐雨",
+      "风餐露宿",
+      "披星戴月"
+    ],
+    "opposite": [
+      "养尊处优",
+      "锦衣玉食"
+    ],
+    "id": "yu-lin-ri-zhi"
+  },
+  {
+    "chinese": "跌弹斑鸠",
+    "pinyin": "diē dàn bān jiū",
+    "literal": "fall, shot, spotted turtledove",
+    "meaning": "A spotted turtledove that has been hit by a shot and falls to the ground. It is used metaphorically to describe a person who has suffered setbacks and is left dejected, dispirited, and emotionally hurt. The image conveys a state of helplessness and defeat after being struck down.",
+    "origin": "This idiom has no documented textual origin, with its 出处 (source) listed as unknown. It derives from the vivid folk image of a turtledove (斑鸠) struck by a pellet (弹) and falling from mid-air. The bird, brought down helplessly and left on the ground, came to symbolize a person who has been frustrated and emotionally wounded by setbacks. No specific dynasty or historical figure is associated with its coinage, suggesting it arose from colloquial speech rather than classical literature.",
+    "example_zh": "他自从创业失败后就如跌弹斑鸠，整天闷在家里不出门。",
+    "example_en": "After his business failed, he was like a shot turtledove, staying cooped up at home all day.",
+    "category": "Emotion",
+    "similar": [
+      "失魂落魄",
+      "垂头丧气",
+      "灰心丧气"
+    ],
+    "opposite": [
+      "神采奕奕",
+      "意气风发"
+    ],
+    "id": "die-dan-ban-jiu"
+  },
+  {
+    "chinese": "漫天开价",
+    "pinyin": "màn tiān kāi jià",
+    "literal": "covering the sky, open a price",
+    "meaning": "To quote a price with no upper limit, asking an absurdly high and unreasonable amount. It describes someone demanding an exorbitant sum, typically as an opening move in bargaining, with the expectation that the buyer will negotiate it down.",
+    "origin": "The idiom comes from 《城隍庙的书市》(The Book Market at the City God Temple), an essay by the modern Chinese writer 阿英 (A Ying, pen name of Qian Xingcun), written during the Republic of China era. He observed that booksellers at the Shanghai City God Temple market set unreliable, sky-high prices that could not be taken at face value. He noted that when a seller '漫天开价' (quotes an exorbitant price), the buyer must counter with a low offer (就地还钱) and slowly haggle over the final figure. Unlike most idioms from ancient dynasties, this one has a modern literary origin, capturing the bargaining culture of 1930s Shanghai's secondhand book market.",
+    "example_zh": "这个商贩漫天开价，我们得好好还价才行。",
+    "example_en": "This vendor quotes a sky-high price, so we have to bargain hard.",
+    "category": "Action",
+    "similar": [
+      "漫天要价",
+      "狮子大开口",
+      "高抬身价"
+    ],
+    "opposite": [
+      "就地还钱",
+      "童叟无欺"
+    ],
+    "id": "man-tian-kai-jia"
+  },
+  {
+    "chinese": "割肉饲虎",
+    "pinyin": "gē ròu sì hǔ",
+    "literal": "cut, flesh, feed, tiger",
+    "meaning": "This idiom literally means cutting off a piece of one's own flesh to feed a tiger. Figuratively, it describes a futile act of self-sacrifice that cannot possibly satisfy the other party's insatiable greed — no matter how much one gives up, the demand only grows. It warns that appeasing an insatiable desire through self-harm is both meaningless and self-destructive.",
+    "origin": "This expression has no recorded literary origin or attributed author; the 出处 is marked as 无 in authoritative references. It is a folk-derived figurative saying that draws on the vivid and terrifying image of feeding a hungry tiger with one's own body. The metaphor implies that the tiger's hunger is endless, so any sacrifice is doomed to fail. In practice, it is used as a cautionary proverb rather than a quotation from a specific classical text.",
+    "example_zh": "一味割肉饲虎，只会让对方更加贪得无厌。",
+    "example_en": "Blindly cutting off your own flesh to feed the tiger will only make the other side even more insatiable.",
+    "category": "Morality",
+    "similar": [
+      "以肉饲虎",
+      "饮鸩止渴",
+      "羊入虎口"
+    ],
+    "opposite": [
+      "明哲保身",
+      "量力而行"
+    ],
+    "id": "ge-rou-si-hu"
+  },
+  {
+    "chinese": "喷雨嘘云",
+    "pinyin": "pēn yǔ xū yún",
+    "literal": "spray rain, blow cloud",
+    "meaning": "Describes the violent splashing and scattering of spray, mist, and water vapor, typically used to depict the awe-inspiring spectacle of waves, waterfalls, or stormy waters. The image is of water droplets flying like rain and mist swirling like clouds, conveying power and grandeur.",
+    "origin": "No verified written origin is recorded for this idiom in classical texts (出处: 无). It is a descriptive literary coinage built from two parallel verb-object pairs, 'spray rain' and 'blow cloud', which intensify the sense of vigor and spectacle. The idiom is chiefly encountered in literary descriptions of scenery, especially waterfalls, ocean waves, and surging water scenes. Because it lacks a fixed classical source or allusion, it is best understood as a later literary expression rather than an idiom with an established origin story.",
+    "example_zh": "瀑布飞流直下，喷雨嘘云，气势磅礴。",
+    "example_en": "The waterfall cascaded straight down, spraying rain and blowing clouds with overwhelming grandeur.",
+    "category": "Lifestyle",
+    "similar": [
+      "飞珠溅玉",
+      "惊涛骇浪",
+      "云雾缭绕"
+    ],
+    "opposite": [
+      "风平浪静",
+      "水平如镜"
+    ],
+    "id": "pen-yu-xu-yun"
   }
 ]
