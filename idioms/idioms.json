@@ -93196,5 +93196,205 @@
       "水平如镜"
     ],
     "id": "pen-yu-xu-yun"
+  },
+  {
+    "chinese": "洗心涤虑",
+    "pinyin": "xǐ xīn dí lǜ",
+    "literal": "wash, heart, cleanse, worry",
+    "meaning": "To wash away selfish thoughts and cleanse lingering concerns from one's mind. It describes a person thoroughly reforming themselves by clearing out impure intentions, used as a metaphor for complete repentance and starting anew.",
+    "origin": "The idiom originates from the Northern Song dynasty essayist Su Shi (苏轼), in his political essay 《策略二》, where he writes that all under heaven would wash their hearts and cleanse their worries (洗心涤滤) to heed what the court does. A later well-known usage appears in the Ming dynasty writer Feng Menglong's (冯梦龙) story collection 《警世通言》. Over time the phrase became a fixed idiom describing total moral purification and reform.",
+    "example_zh": "自此以后，他一心向善，洗心涤虑，再也不做亏心之事。",
+    "example_en": "From then on, he devoted himself to goodness, washing his heart and cleansing his worries, and never again did anything against his conscience.",
+    "category": "Morality",
+    "similar": [
+      "洗心革面",
+      "痛改前非",
+      "改过自新"
+    ],
+    "opposite": [
+      "执迷不悟",
+      "怙恶不悛"
+    ],
+    "id": "xi-xin-di-lu"
+  },
+  {
+    "chinese": "袒裼裸裎",
+    "pinyin": "tǎn xī luǒ chéng",
+    "literal": "bare arms, strip garment, naked, expose body",
+    "meaning": "To take off one's clothes and expose the body, referring to rude, indecent, or shameless behavior. The idiom emphasizes a lack of proper manners or propriety in public. It can also describe someone completely unguarded or shameless in conduct.",
+    "origin": "The idiom comes from the Book of Mencius (《孟子·公孙丑上》), written by Mencius and his disciples during the Warring States period. It quotes Liuxia Hui (柳下惠), a virtuous official of the state of Lu in the Spring and Autumn period, who declared: 'You are you, and I am I; even if you strip naked beside me, how could you defile me?' The phrase illustrates his extraordinary moral purity and imperviousness to the indecency of others. Later writers, such as Chen Liang of the Southern Song dynasty, used it to contrast figures like Boyi, who was ashamed to associate with common people, with Liuxia Hui, who remained untainted by shameless company.",
+    "example_zh": "在公共场合袒裼裸裎，实在是有失体统。",
+    "example_en": "Exposing one's body in public is truly a breach of proper conduct.",
+    "category": "Attitude",
+    "similar": [
+      "赤身裸体",
+      "一丝不挂",
+      "放浪形骸"
+    ],
+    "opposite": [
+      "衣冠楚楚",
+      "彬彬有礼"
+    ],
+    "id": "tan-xi-luo-cheng"
+  },
+  {
+    "chinese": "敢勇当先",
+    "pinyin": "gǎn yǒng dāng xiān",
+    "literal": "dare, brave, be, first",
+    "meaning": "To boldly take the lead and bear heavy responsibility, charging ahead of others. It describes someone who steps forward courageously to head a difficult task. Equivalent in spirit to 'striving to be first in bravery.'",
+    "origin": "The idiom appears in the Yuan dynasty play 'Wu Yuan Chui Xiao' (The Flute of Wu Yuan) by Li Shouqing. In the fourth act, the line praises the ministers and the assassin Zhuan Zhu (鏄诸) for daring to take the lead, without whom the present outcome could not have been achieved. The play dramatizes the story of Wu Zixu (伍员) of the Spring and Autumn period, who endured exile and hardship before finally avenging himself. The idiom was later reused in the Ming dynasty anonymous play 'Zi Ni Xuan' (The Purple Clay Writ), where it is applied to men who ride warhorses and fearlessly lead the charge.",
+    "example_zh": "在这项艰巨任务面前，他敢勇当先，主动挑起重担。",
+    "example_en": "In the face of this difficult task, he boldly took the lead and shouldered the burden on his own initiative.",
+    "category": "Leadership",
+    "similar": [
+      "奋勇当先",
+      "身先士卒",
+      "一马当先"
+    ],
+    "opposite": [
+      "畏缩不前",
+      "临阵脱逃"
+    ],
+    "id": "gan-yong-dang-xian"
+  },
+  {
+    "chinese": "寝皮食肉",
+    "pinyin": "qǐn pí shí ròu",
+    "literal": "sleep on the hide, eat the flesh",
+    "meaning": "This idiom describes hatred so extreme that one wishes to sleep on the enemy's skin and eat their flesh. It originally referred to vengeance-fueled loathing, and later came to also describe brave, fierce conduct or spirit.",
+    "origin": "The idiom originates from the Zuo Zhuan (左传), in the account of the 21st year of Duke Xiang of Lu (c. 552 BCE) during the Spring and Autumn period. In the state of Jin, after the powerful Luan clan fell into disgrace and Luan Ying was driven into exile, the warrior Zhou Chuo — formerly one of the Luan faction — was asked about Luan Ying's remaining followers. He replied that those two men were like beasts to him: he would eat their flesh and sleep upon their skin. This image of consuming a hated foe came to symbolize the deepest enmity.",
+    "example_zh": "面对背叛民族的汉奸，人人都恨不得寝皮食肉。",
+    "example_en": "Faced with a traitor who betrayed the nation, everyone wished they could eat his flesh and sleep on his skin.",
+    "category": "Emotion",
+    "similar": [
+      "食肉寝皮",
+      "恨之入骨",
+      "咬牙切齿"
+    ],
+    "opposite": [
+      "感恩戴德",
+      "情深意重"
+    ],
+    "id": "qin-pi-shi-rou"
+  },
+  {
+    "chinese": "桑户桊枢",
+    "pinyin": "sāng hù juàn shū",
+    "literal": "mulberry, door, wooden bar, pivot",
+    "meaning": "A door made of mulberry branches and a door pivot carved from a plain wooden bar. The idiom depicts a dwelling so crude and shabby that it signals extreme poverty and humble living conditions. It is typically used to describe a person or household that is poor but often holds themselves in high regard or lives contentedly despite destitution.",
+    "origin": "The specific origin of this idiom is not recorded in any surviving classical text. It follows a well-established pattern in Chinese that evokes poverty through humble building materials, namely a door of mulberry twigs and a pivot of rough wood. Comparable expressions such as 瓮牖绳枢 ('jar window, rope pivot') appear in Jia Yi's essay Guo Qin Lun (过秦论) of the Western Han dynasty, and 桑枢瓮牖 ('mulberry pivot, jar window') is used elsewhere to describe the simple dwellings of impoverished sages like Yan Hui. By the same rhetorical logic, 桑户桊枢 paints the image of a destitute household that often remains unfazed, even noble, in its simplicity.",
+    "example_zh": "他虽居桑户桊枢，却心系天下，矢志不渝。",
+    "example_en": "Although he lived in a crude hut of mulberry branches, he still kept the whole world in his heart and never wavered in his ambitions.",
+    "category": "Condition",
+    "similar": [
+      "桑枢瓮牖",
+      "瓮牖绳枢",
+      "蓬户瓮牖"
+    ],
+    "opposite": [
+      "朱门绣户",
+      "雕梁画栋"
+    ],
+    "id": "sang-hu-juan-shu"
+  },
+  {
+    "chinese": "徒劳往返",
+    "pinyin": "tú láo wǎng fǎn",
+    "literal": "in vain, toil, go, return",
+    "meaning": "To make a trip or exert effort that yields nothing, returning empty-handed after wasting one's labor. It describes going back and forth on a futile errand that accomplishes nothing in the end.",
+    "origin": "The idiom comes from chapter 56 of the Ming-dynasty novel Fengshen Yanyi (Investiture of the Gods) by Xu Zhonglin. In the chapter, a doctor (大夫) is told that matters should be spoken of openly and directly, rather than trading sharp, sarcastic words — for such bickering only amounts to 'wasted comings and goings' (徒劳往返耳). The phrase thus originated as a rebuke against pointless verbal sparring, later generalized to describe any fruitless back-and-forth effort.",
+    "example_zh": "你与其这样徒劳往返，不如先打个电话确认一下。",
+    "example_en": "Rather than making this futile round trip, you should just call ahead to confirm first.",
+    "category": "Action",
+    "similar": [
+      "徒劳无益",
+      "劳而无功",
+      "枉费心机"
+    ],
+    "opposite": [
+      "满载而归",
+      "不虚此行"
+    ],
+    "id": "tu-lao-wang-fan"
+  },
+  {
+    "chinese": "帡天极地",
+    "pinyin": "jú tiān jí dì",
+    "literal": "cover, heaven, reach the ends of, earth",
+    "meaning": "All-encompassing: covering heaven above and extending to the edge of the earth, describing something that embraces and includes everything under the sun. It denotes a scope so vast and comprehensive that nothing is left out.",
+    "origin": "This is a rare idiom with no recorded origin in classical literature, so no specific dynasty, text, or figure can be credited with coining it. Its sense is built from the character 帡, which means to cover or shelter, together with the imagery of heaven and earth. Taken together, the phrase literally pictures a canopy that covers the sky and stretches to the ends of the earth, from which the meaning 'encompassing all things' is derived. Because it lacks a canonical textual source, it survives mainly as a literary and rhetorical expression rather than a classical allusion.",
+    "example_zh": "此人的学识帡天极地，包罗世间万物。",
+    "example_en": "This person's learning is all-encompassing, embracing everything in the world.",
+    "category": "Variety",
+    "similar": [
+      "包罗万象",
+      "无所不包",
+      "兼收并蓄"
+    ],
+    "opposite": [
+      "挂一漏万",
+      "一鳞半爪"
+    ],
+    "id": "ju-tian-ji-di"
+  },
+  {
+    "chinese": "啸侣命俦",
+    "pinyin": "xiāo lǚ mìng chóu",
+    "literal": "whistle, companions, summon, fellows",
+    "meaning": "This idiom means to call out to and summon one's companions, gathering friends and peers together. It vividly describes the act of beckoning one's fellows to join, often used to portray scenes of companionship and shared activity.",
+    "origin": "The idiom originates from the poem '赠秀才入军' (Presented to the Scholar Joining the Army) by Ji Kang (嵇康, 224–263), the famed philosopher, musician, and writer of the Wei state during the Three Kingdoms period. The poem contains the line '鸳鸯于飞，啸侣命俦，朝游高原，夕宿中洲' (Mandarin ducks fly in pairs, whistling to summon their companions; roaming the high plateau by day, resting on the central islet at night). Ji Kang used the image of mandarin ducks calling their mates to express his longing for his brother and his yearning for companionship.",
+    "example_zh": "春和景明，众人啸侣命俦，结伴出游赏花。",
+    "example_en": "On a bright and mild spring day, the group called to their companions and set out together to enjoy the flowers.",
+    "category": "Action",
+    "similar": [
+      "呼朋引伴",
+      "呼朋唤友",
+      "招朋引类"
+    ],
+    "opposite": [
+      "形单影只",
+      "孑然一身"
+    ],
+    "id": "xiao-lu-ming-chou"
+  },
+  {
+    "chinese": "明月清风",
+    "pinyin": "míng yuè qīng fēng",
+    "literal": "bright, moon, clear, breeze",
+    "meaning": "To be accompanied only by the bright moon and clear breeze. Metaphorically describes a person who chooses their companions carefully and does not casually make friends, associating only with what is pure and refined. It can also describe a leisurely, carefree life free of worldly entanglements.",
+    "origin": "The idiom originates from the Biography of Xie Hui in the History of the Southern Dynasties (《南史·谢惠传》), compiled by the Tang-dynasty historian Li Yanshou. Xie Hui, a figure of the Southern Dynasties period, was known for his aloof and reclusive character, unwilling to mix with ordinary society. He is quoted as saying, \"Those who enter my chamber are none but the clear breeze; those who drink with me are none but the bright moon\" (入吾室者，但有清风；对吾饮者，惟当明月). Through this image of keeping company only with the wind and moon, he expressed his noble and detached temperament, which later became a literary emblem of purity and withdrawal from worldly affairs.",
+    "example_zh": "他厌倦了名利场，只想过明月清风般的清闲日子。",
+    "example_en": "Tired of the world of fame and gain, he only wished to live a leisurely life companied by the bright moon and clear breeze.",
+    "category": "Lifestyle",
+    "similar": [
+      "闲云野鹤",
+      "清心寡欲",
+      "超凡脱俗"
+    ],
+    "opposite": [
+      "灯红酒绿",
+      "纸醉金迷"
+    ],
+    "id": "ming-yue-qing-feng"
+  },
+  {
+    "chinese": "货赂公行",
+    "pinyin": "huò lù gōng xíng",
+    "literal": "goods, bribes, openly, conduct",
+    "meaning": "Bribery carried out openly and without concealment. It describes a situation where people openly use money and property to buy others into engaging in improper or corrupt activities. The phrase condemns public, unabashed corruption.",
+    "origin": "The idiom comes from the 'Records of the Three Kingdoms' (三国志) by the Jin dynasty historian Chen Shou, in the 'Biography of Emperor Wu of Wei' (武帝纪). The text describes the political decay at the end of the Eastern Han dynasty: the three highest officials (三公) were crooked and sycophantic, currying favor with the powerful, and bribes circulated openly in parallel. The strong and resentful were never impeached, while the weak who upheld integrity were slandered and ruined. This depiction of rampant official corruption set the historical backdrop against which Cao Cao rose to power.",
+    "example_zh": "晚唐宦官当道，货赂公行，朝政日益腐败。",
+    "example_en": "In the late Tang dynasty, eunuchs wielded power, bribery was openly rampant, and the court grew increasingly corrupt.",
+    "category": "Morality",
+    "similar": [
+      "贿赂公行",
+      "贪赃枉法",
+      "官官相护"
+    ],
+    "opposite": [
+      "两袖清风",
+      "廉洁奉公"
+    ],
+    "id": "huo-lu-gong-xing"
   }
 ]
