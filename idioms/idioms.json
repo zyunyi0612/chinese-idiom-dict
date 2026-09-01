@@ -93396,5 +93396,205 @@
       "廉洁奉公"
     ],
     "id": "huo-lu-gong-xing"
+  },
+  {
+    "chinese": "回天乏术",
+    "pinyin": "huí tiān fá shù",
+    "literal": "turn back, heaven (fate), lack, method/means",
+    "meaning": "The phrase means that a situation or an illness has become so grave that it can no longer be saved or reversed. '回天' refers to the legendary power to overturn even the decree of heaven, i.e. to reverse an almost hopeless situation, while '乏术' means lacking any means or method to do so. It is used to express helplessness in the face of an irreversible outcome.",
+    "origin": "The idiom is attested in the Qing-dynasty work 《昔柳摭谈·秋风自悼》 by Feng Qifeng. In the passage, the narrator, upon learning devastating news, feels as though ten thousand arrows pierce his heart and his organs are about to split. Yet he reflects that the matter is like wood already carved into a boat — firmly settled and impossible to change, leaving him with no method to reverse it ('木已成舟，回天乏术'). The image of 'turning back heaven' alludes to the ancient belief that even celestial fate could be overturned by immense power, underscoring the speaker's despair that no such power is available. The phrase has since become a standard expression for a situation or condition beyond any remedy.",
+    "example_zh": "病情已经恶化到回天乏术的地步，医生也束手无策。",
+    "example_en": "The illness had deteriorated to the point of no recovery, and even the doctors were at a loss.",
+    "category": "Condition",
+    "similar": [
+      "无力回天",
+      "无可奈何",
+      "大势已去"
+    ],
+    "opposite": [
+      "起死回生",
+      "妙手回春"
+    ],
+    "id": "hui-tian-fa-shu"
+  },
+  {
+    "chinese": "不可教训",
+    "pinyin": "bù kě jiào xùn",
+    "literal": "cannot, teach, instruct",
+    "meaning": "Describes someone who is utterly incapable of being taught or corrected, no matter how much education or admonishment they receive. It implies a person who is stubbornly resistant to instruction and refuses to learn from guidance. Such a person remains heedless even after repeated teaching, and is considered hopelessly uneducable.",
+    "origin": "The idiom originates from the Zuo Zhuan (《左传》), specifically the entry for the 18th year of Duke Wen of Lu, written during the Spring and Autumn period (c. 6th century BCE). It records that Zhuanxu's family had a son of no talent who could not be taught (不可教训) and would not listen to reason; when admonished he remained obstinate, and when left alone he became unruly and arrogant. This unworthy son defied virtue and disturbed the natural order of heaven, so the people of the world called him Taowu (梼杌), one of the four legendary evil creatures. From this account, the phrase was used to describe anyone beyond the reach of education or correction.",
+    "example_zh": "此人屡教不改，实在不可教训，众人只能放弃规劝。",
+    "example_en": "This person refuses to change despite repeated warnings and is truly beyond teaching, so everyone can only give up trying to advise him.",
+    "category": "Learning",
+    "similar": [
+      "冥顽不灵",
+      "顽固不化",
+      "屡教不改"
+    ],
+    "opposite": [
+      "孺子可教",
+      "循循善诱"
+    ],
+    "id": "bu-ke-jiao-xun"
+  },
+  {
+    "chinese": "病病歪歪",
+    "pinyin": "bìng bìng wāi wāi",
+    "literal": "sick, sick, crooked, crooked",
+    "meaning": "Describes a person who is weak and feeble because of illness, appearing unsteady and listing about as they move. The reduplicated AABB structure intensifies the sense of a lingering, chronic state of poor health. It suggests someone so debilitated that even standing or walking seems a struggle.",
+    "origin": "The idiom comes from the 1950 play Dragon Beard Ditch (《龙须沟》) by Lao She, one of modern China's most celebrated novelists and playwrights. In Act One, a character urges someone to let the elderly master rest, saying that he is '病病歪歪' (sickly and weak). The play depicts the hardships of poor Beijing residents living beside a filthy drainage ditch before and after the 1949 liberation. Lao She uses the AABB reduplication to paint a vivid picture of chronic illness and frailty in everyday speech.",
+    "example_zh": "他病病歪歪的，连走几步路都喘得厉害。",
+    "example_en": "He was so sickly and weak that he was out of breath after walking just a few steps.",
+    "category": "Condition",
+    "similar": [
+      "弱不禁风",
+      "体弱多病",
+      "有气无力"
+    ],
+    "opposite": [
+      "生龙活虎",
+      "身强力壮"
+    ],
+    "id": "bing-bing-wai-wai"
+  },
+  {
+    "chinese": "察见渊鱼",
+    "pinyin": "chá jiàn yuān yú",
+    "literal": "perceive, see, deep pool, fish",
+    "meaning": "Literally 'to see the fish in a deep pool,' this idiom describes someone who is excessively shrewd and perceptive, able to see through even the most hidden intentions of others. It implies that such extreme cleverness is inauspicious and can bring trouble upon oneself, since those who see too clearly are often resented or endangered. The idiom warns against being overly sharp and merciless in scrutinizing people.",
+    "origin": "The idiom derives from the Records of the Grand Historian (《史记》), the monumental history compiled by Sima Qian in the Western Han dynasty. In the biography of Liu Bi, King of Wu (吴王濞列传), the phrase '察见渊鱼，不祥' ('to see the fish in the deep water is inauspicious') is quoted as an admonition. It cautions that a person so perceptive that he can discern everything hidden in the depths, like fish at the bottom of a pool, courts misfortune. A closely related variant, '察见渊鱼者不祥，智料隐匿者有殃,' also appears in the Liezi (《列子·说符》), reinforcing the same idea that excessive cleverness invites calamity.",
+    "example_zh": "他凡事都要察见渊鱼，反让人敬而远之。",
+    "example_en": "He insists on seeing through everything down to the last detail, which only makes people keep their distance.",
+    "category": "Wisdom",
+    "similar": [
+      "明察秋毫",
+      "洞若观火",
+      "目光如炬"
+    ],
+    "opposite": [
+      "视而不见",
+      "浑然不觉"
+    ],
+    "id": "cha-jian-yuan-yu"
+  },
+  {
+    "chinese": "朗月清风",
+    "pinyin": "lǎng yuè qīng fēng",
+    "literal": "bright moon, clear breeze",
+    "meaning": "A clear, bright moon with a fresh, gentle breeze. The idiom paints a serene, beautiful night scene and is used to describe peaceful, pleasant weather or a tranquil, carefree mood.",
+    "origin": "The authoritative Chinese dictionary records no specific origin story, named dynasty, or historical figure for this idiom. It belongs to a family of four-character scenery idioms that describe idyllic natural scenes, likely formed by pairing two complementary images of the night — the bright moon and the clear breeze — to evoke a state of calm and contentment. Similar expressions such as 清风明月 and 月白风清 share the same poetic tradition of using nature to symbolize clarity of mind and simple, wholesome pleasures.",
+    "example_zh": "夏夜的朗月清风让人心旷神怡。",
+    "example_en": "On a summer night, the bright moon and clear breeze bring one great ease and joy of heart.",
+    "category": "Lifestyle",
+    "similar": [
+      "清风明月",
+      "月白风清",
+      "惠风和畅"
+    ],
+    "opposite": [
+      "凄风苦雨",
+      "阴云密布"
+    ],
+    "id": "lang-yue-qing-feng"
+  },
+  {
+    "chinese": "材能兼备",
+    "pinyin": "cái néng jiān bèi",
+    "literal": "talent, ability, both, possess",
+    "meaning": "It describes someone who possesses both talent (inborn aptitude) and competence (learned ability or skill). The character 材 is a variant form of 才, so the idiom essentially means having both natural gifts and practical capability. It is used to praise a person who is versatile and fully qualified for a task.",
+    "origin": "The idiom appears in the anonymous Yuan dynasty (元代) drama 《百花亭》 (Baihua Pavilion), in its third act (第三折). In that scene, the character Wang Huan (王焕) is praised as being 'proficient in both civil and martial arts' (文武双全) and 'endowed with both talent and competence' (材能兼备). The Yuan dynasty zaju (杂剧) tradition frequently used such formulaic praise lines to introduce a hero's credentials. The phrase has since become a standard compliment for someone who combines natural intelligence with acquired skill.",
+    "example_zh": "他材能兼备，很快便得到了公司的重用。",
+    "example_en": "Being endowed with both talent and ability, he quickly won the company's trust and promotion.",
+    "category": "Quality",
+    "similar": [
+      "德才兼备",
+      "文武双全",
+      "智勇双全"
+    ],
+    "opposite": [
+      "不学无术",
+      "才疏学浅"
+    ],
+    "id": "cai-neng-jian-bei"
+  },
+  {
+    "chinese": "屋上建瓴",
+    "pinyin": "wū shàng jiàn líng",
+    "literal": "on the rooftop, pour, water jar",
+    "meaning": "The idiom describes tipping over a bottle of water from a rooftop so it pours straight down, conveying an overwhelming advantage gained from a commanding height. It is used to describe a favorable situation where one holds the high ground, whether physically, strategically, or metaphorically. It is also written as 高屋建瓴.",
+    "origin": "The idiom has no recorded origin and is a variant of the more common 高屋建瓴 (pouring water from atop a tall building). The underlying image is traditionally traced to the Han dynasty's Shiji (Records of the Grand Historian), in the biography of Emperor Gaozu (Liu Bang). There, the minister Tian Ken praised the strategic terrain of the Guanzhong region, saying it was like pouring water from a high roof—an overwhelming height advantage. From this imagery, the idiom came to describe any dominant, commanding position or situation.",
+    "example_zh": "我军占据高地，屋上建瓴般向敌军发起攻势。",
+    "example_en": "Our army seized the high ground and launched its attack on the enemy from a commanding height, like pouring water from a rooftop.",
+    "category": "Power",
+    "similar": [
+      "高屋建瓴",
+      "居高临下",
+      "势如破竹"
+    ],
+    "opposite": [
+      "力不从心",
+      "束手无策"
+    ],
+    "id": "wu-shang-jian-ling"
+  },
+  {
+    "chinese": "淹淹一息",
+    "pinyin": "yān yān yī xī",
+    "literal": "weakly, weakly, one breath",
+    "meaning": "Describes someone breathing faintly and weakly, on the very brink of death. It means clinging to life by the last thread, at one's last gasp. An alternative written form of the idiom 奄奄一息.",
+    "origin": "The idiom appears in The Scholars (《儒林外史》), a satirical novel written by the Qing-dynasty author Wu Jingzi (吴敬梓) during the 18th century. In chapter fifteen, the character Ma Er (马二先生) is startled and rushes upstairs to check on a gravely ill companion. He finds the man already 淹淹一息, too weak even to lift his head. The vivid scene lent this written variant of 奄奄一息 its literary currency.",
+    "example_zh": "他身受重伤，倒在血泊中已是淹淹一息。",
+    "example_en": "He was badly wounded, lying in a pool of blood, already at his last gasp.",
+    "category": "Condition",
+    "similar": [
+      "奄奄一息",
+      "气息奄奄",
+      "命悬一线"
+    ],
+    "opposite": [
+      "生龙活虎",
+      "容光焕发"
+    ],
+    "id": "yan-yan-yi-xi"
+  },
+  {
+    "chinese": "拙嘴笨舌",
+    "pinyin": "zhuō zuǐ bèn shé",
+    "literal": "clumsy, mouth, dull, tongue",
+    "meaning": "Describes someone who is awkward and inarticulate in speech, lacking fluency or eloquence when expressing themselves. It refers to a person who struggles to find the right words or speaks clumsily, often out of shyness or a lack of skill with language.",
+    "origin": "The idiom originates from the Qing-dynasty novel 《林兰香》 (Lin Lan Xiang) by the author 随缘下士 (Suiyuan Xiashi). In the text a character remarks, \"I am not someone who pays attention to everything, it is just that my mouth and tongue are clumsy and blunt, so I dare not speak carelessly.\" From this self-deprecating confession, later readers distilled the phrase 拙嘴笨舌 to describe someone who is poor at speaking. It reflects the classical notion that caution in speech may stem from a genuine lack of verbal skill.",
+    "example_zh": "他拙嘴笨舌，向女孩表白时一句话也说不出来。",
+    "example_en": "He is so clumsy-tongued that he could not get a single word out when confessing to the girl.",
+    "category": "Communication",
+    "similar": [
+      "笨嘴拙舌",
+      "张口结舌",
+      "木讷寡言"
+    ],
+    "opposite": [
+      "口若悬河",
+      "伶牙俐齿"
+    ],
+    "id": "zhuo-zui-ben-she"
+  },
+  {
+    "chinese": "赌誓发愿",
+    "pinyin": "dǔ shì fā yuàn",
+    "literal": "swear, oath, make, vow",
+    "meaning": "To solemnly swear an oath or make a vow, earnestly declaring one's resolve or giving a firm guarantee about something. It describes speaking with great solemnity and conviction, much like taking a binding oath or pledge.",
+    "origin": "The idiom comes from the late-Ming vernacular story collection Shí Diǎn Tóu (《石点头》) by the pen-named author Tiānrán Chīsǒu, specifically from the tale \"The Greedy Man Sells His Charms in the Six Compounds\" (《贪婪汉六院卖风流》). In the story, itinerant merchants traveling the rivers and lakes are said to swear such vows by declaring, 'If I harbor deceitful intentions, I will surely meet my doom at the hands of Wu the Flayer.' Rather than a single historical event, the phrase arises as a literary illustration of how people would emphatically swear to prove their sincerity. Over time it came to mean making a solemn, heartfelt vow or promise.",
+    "example_zh": "他赌誓发愿说以后再也不碰赌博了。",
+    "example_en": "He swore an oath and made a vow that he would never touch gambling again.",
+    "category": "Determination",
+    "similar": [
+      "赌咒发誓",
+      "对天发誓",
+      "指天誓日"
+    ],
+    "opposite": [
+      "背信弃义",
+      "出尔反尔"
+    ],
+    "id": "du-shi-fa-yuan"
   }
 ]
