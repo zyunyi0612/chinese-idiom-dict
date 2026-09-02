@@ -93596,5 +93596,204 @@
       "出尔反尔"
     ],
     "id": "du-shi-fa-yuan"
+  },
+  {
+    "chinese": "绰有余裕",
+    "pinyin": "chuò yǒu yú yù",
+    "literal": "ample, have, surplus, plenty",
+    "meaning": "Describes someone who remains composed and unhurried even in demanding situations. It can also mean having ability or financial resources that are more than sufficient, with room to spare.",
+    "origin": "The idiom originates from the Mencius (《孟子》), specifically the chapter Gongsun Chou II (公孙丑下), composed during the Warring States period. Mencius, the Confucian philosopher (c. 372–289 BC), remarked that since he held no official post and bore no responsibility to speak out, he could advance or retreat with great ease and freedom. His words '岂不绰绰然有余裕哉' ('how could I not have abundant leeway') gave rise to the idiom, which was later condensed to 绰有余裕 to describe ample room and an unhurried manner.",
+    "example_zh": "面对繁重的任务，他处理起来绰有余裕，毫无压力。",
+    "example_en": "Facing the heavy workload, he handled it with ease and plenty to spare, without any pressure.",
+    "category": "Attitude",
+    "similar": [
+      "绰绰有余",
+      "从容不迫",
+      "应付裕如"
+    ],
+    "opposite": [
+      "捉襟见肘",
+      "力不从心"
+    ],
+    "id": "chuo-you-yu-yu"
+  },
+  {
+    "chinese": "骈肩累足",
+    "pinyin": "pián jiān lěi zú",
+    "literal": "side by side shoulders, overlapping feet",
+    "meaning": "People stand so close together that their shoulders touch and their feet overlap one another. It describes an extremely crowded place where a great many people are packed tightly together.",
+    "origin": "The idiom derives from the Song dynasty writer Ouyang Xiu's essay 'Record of the Brocade Hall in Xiangzhou' (《相州昼锦堂记》), written in praise of the statesman Han Qi, whose decorated hall stood in Xiangzhou (present-day Anyang, Henan). In the essay Ouyang describes the townsfolk lining the roads, standing shoulder to shoulder with footprints piled upon footprints, gazing up and sighing in admiration. That vivid crowd scene gave rise to the expression, which came to mean any place thronged with people.",
+    "example_zh": "节日的街头骈肩累足，人们挤得无法前行。",
+    "example_en": "On the festival street, people stood shoulder to shoulder, so tightly packed that one could hardly move forward.",
+    "category": "Condition",
+    "similar": [
+      "摩肩接踵",
+      "熙熙攘攘",
+      "人山人海"
+    ],
+    "opposite": [
+      "门可罗雀",
+      "冷冷清清"
+    ],
+    "id": "pian-jian-lei-zu"
+  },
+  {
+    "chinese": "飞熊入梦",
+    "pinyin": "fēi xióng rù mèng",
+    "literal": "flying, bear, enters, dream",
+    "meaning": "Originally refers to King Wen of Zhou dreaming of a flying bear, which portended his discovery of the sage Jiang Ziya. It is used metaphorically as a sign that a wise ruler is about to obtain a worthy minister or great talent.",
+    "origin": "According to the Records of the Grand Historian (史记·齐太公世家), King Wen of the Zhou dynasty, before setting out to hunt, performed divination that foretold his catch would be neither dragon, beast, tiger, nor bear, but the helper of a would-be hegemon. Legend adds that he dreamed of a flying bear and took it as a sign to seek out a great sage. During the hunt he encountered Jiang Ziya fishing at the Wei River, appointed him his chief advisor, and together they laid the groundwork for Zhou's conquest of the Shang. The idiom thus came to symbolize the auspicious sign of a sage ruler gaining a worthy minister.",
+    "example_zh": "周文王飞熊入梦，遂于渭水之滨访得姜太公，共图大业。",
+    "example_en": "When King Wen of Zhou dreamed of a flying bear, he went to the banks of the Wei River and found Jiang Taigong, together pursuing their great ambitions.",
+    "category": "Leadership",
+    "similar": [
+      "凤鸣岐山",
+      "三顾茅庐",
+      "渭水访贤"
+    ],
+    "opposite": [
+      "明珠暗投",
+      "怀才不遇"
+    ],
+    "id": "fei-xiong-ru-meng"
+  },
+  {
+    "chinese": "避重逐轻",
+    "pinyin": "bì zhòng zhú qīng",
+    "literal": "avoid, heavy, pursue, light",
+    "meaning": "To shirk heavier responsibilities and take on only the lighter ones. It describes someone who dodges difficult or burdensome duties while gladly handling what is easy. The idiom carries a mildly critical tone toward evasive or self-serving behavior.",
+    "origin": "This is a variant of the more common idiom 避重就轻, and its only recorded example comes from the Yuan Dynasty administrative compilation 《元典章》 (Institutions and Precedents of the Yuan Court). In the section on postal relay households (站户), the text criticizes families that registered wealthy, able-bodied members to avoid heavy service obligations, letting brothers take on lighter duties instead. Over time the phrase crystallized into 避重逐轻, used to describe dodging weighty responsibilities in favor of trivial ones. No single named author is credited; it survives as a legal-administrative idiom from the Yuan period (13th–14th century).",
+    "example_zh": "他工作中总是避重逐轻，把难题都推给别人。",
+    "example_en": "At work he always avoids the heavy tasks and pursues the light ones, pushing all the difficult problems onto others.",
+    "category": "Attitude",
+    "similar": [
+      "避重就轻",
+      "拈轻怕重",
+      "挑肥拣瘦"
+    ],
+    "opposite": [
+      "迎难而上",
+      "任劳任怨"
+    ],
+    "id": "bi-zhong-zhu-qing"
+  },
+  {
+    "chinese": "一手包办",
+    "pinyin": "yī shǒu bāo bàn",
+    "literal": "one, hand, undertake, manage",
+    "meaning": "To handle or manage a task entirely by oneself, taking charge of everything without allowing others to participate. The phrase conveys a single person monopolizing control and refusing to share the work or let anyone else get involved.",
+    "origin": "The idiom originates from the Qing Dynasty novel Qi Lu Deng (《歧路灯》) written by Li Lüyuan, appearing in Chapter 43. In the passage, a character says, \"你一手包揽，我只崝我的头钱\" (You handle everything single-handedly; I'll just take my share of the commission). The phrase 包揽 (undertake everything) combined with 一手 (one hand, i.e. one person) gives the sense of one individual monopolizing a task. Over time it evolved into the standard form 一手包办, meaning to do everything alone.",
+    "example_zh": "这个项目从头到尾都是他一手包办，别人根本插不上手。",
+    "example_en": "He handled this project single-handedly from start to finish, leaving no room for anyone else to get involved.",
+    "category": "Leadership",
+    "similar": [
+      "一手遮天",
+      "独断专行",
+      "大包大揽"
+    ],
+    "opposite": [
+      "群策群力",
+      "集思广益"
+    ],
+    "id": "yi-shou-bao-ban"
+  },
+  {
+    "chinese": "尺水丈波",
+    "pinyin": "chǐ shuǐ zhàng bō",
+    "literal": "one chi of water, zhang-tall waves",
+    "meaning": "This idiom means making a one-foot-deep stretch of water seem like towering waves — a metaphor for exaggerating one's speech until it no longer matches reality. It describes someone who blows trivial matters out of proportion and speaks in an untruthful, overstated manner.",
+    "origin": "The idiom comes from the Tang dynasty poet Meng Jiao's poem \"A Gentleman Should Not Be Gloomy; A Scholar Falsely Accused — A Poem Offered to Him,\" in which he writes: \"Know that a single foot of water can, day and night, heap up ever-higher waves.\" Meng Jiao (751–814), one of the great poets of the Tang dynasty, used the image of shallow water swelling into great waves to illustrate how false accusations and exaggerated words can grow monstrously from small beginnings. The saying warns that one should not trust or repeat embellished, untruthful talk.",
+    "example_zh": "他说话总是尺水丈波，把一点小事渲染得惊天动地。",
+    "example_en": "He always exaggerates in his speech, blowing a trivial matter up into something earth-shattering.",
+    "category": "Communication",
+    "similar": [
+      "夸大其词",
+      "言过其实",
+      "添油加醋"
+    ],
+    "opposite": [
+      "实事求是",
+      "恰如其分"
+    ],
+    "id": "chi-shui-zhang-bo"
+  },
+  {
+    "chinese": "时来运来",
+    "pinyin": "shí lái yùn lái",
+    "literal": "time comes, fortune comes",
+    "meaning": "When one was in an unfavorable situation, a favorable opportunity arrives and one's fortunes begin to improve. It describes a turn from bad luck to good luck, meaning the moment has finally come for one's luck to change for the better.",
+    "origin": "This idiom appears in the Qing dynasty novel Shi Sheng (《市声》, 'The Sound of the Marketplace') by the author Ji Wen (姬文), in chapter 17. In the passage, the character A Dali (阿大利) experiences his fortune turning around, as the text reads: 'A Dali, with his time and luck having come, was first to carry the night-soil bucket to the foreign concession to dump it.' The phrase captures the folk belief that when the right time arrives, good fortune follows, and it is synonymous with the more common idiom shi lai yun zhuan (时来运转).",
+    "example_zh": "他失业多年，如今时来运来，终于找到了满意的工作。",
+    "example_en": "After years of unemployment, his fortune finally turned — now that his time had come, he landed a satisfying job.",
+    "category": "Recovery",
+    "similar": [
+      "时来运转",
+      "否极泰来",
+      "苦尽甘来"
+    ],
+    "opposite": [
+      "时乖运蹇",
+      "运蹇时乖"
+    ],
+    "id": "shi-lai-yun-lai"
+  },
+  {
+    "chinese": "乐天安命",
+    "pinyin": "lè tiān ān mìng",
+    "literal": "delight in heaven, be content with fate",
+    "meaning": "To accept one's circumstances with equanimity and entrust the outcome to fate. It reflects a fatalistic outlook on life in which a person takes comfort in whatever lot destiny assigns rather than struggling against it. The phrase is synonymous with 乐天知命, emphasizing serene acceptance of both fortune and misfortune.",
+    "origin": "This particular wording has no recorded origin or classical source (出处: 无). It is a variant form of 乐天知命, the spirit of which traces back to the Book of Changes (《周易·系辞上》): '乐天知命，故不忧' (one who delights in heaven and knows fate is therefore without worry). Over time the phrasing circulated in literary and colloquial usage as a compound expression of fatalistic contentment. It describes a resigned yet peaceful attitude toward the vicissitudes of life.",
+    "example_zh": "他一生乐天安命，从不与人争名夺利。",
+    "example_en": "All his life he accepted his lot with contentment and never fought others for fame or gain.",
+    "category": "Philosophy",
+    "similar": [
+      "乐天知命",
+      "随遇而安",
+      "听天由命"
+    ],
+    "opposite": [
+      "怨天尤人",
+      "杞人忧天"
+    ],
+    "id": "le-tian-an-ming"
+  },
+  {
+    "chinese": "酩酊烂醉",
+    "pinyin": "mǐng dǐng làn zuì",
+    "literal": "intoxicated, thoroughly drunk",
+    "meaning": "Describes being extremely and utterly drunk, to the point of losing control of one's body and senses. The idiom emphasizes the extreme degree of inebriation, often implying staggering, unconsciousness, or a complete loss of composure. It is used to portray someone who has drunk far too much alcohol.",
+    "origin": "The idiom appears in Ming-dynasty writer Feng Menglong's collection 'Stories to Awaken the World' (《警世通言》), in Chapter Six. It describes the young scholar Yu Liang, who, after failing his pursuit of success, drank several bowls of cheap wine on an empty stomach. By evening he was dead drunk, staggering and stumbling as he made his way to Old Woman Sun's inn, where he collapsed unconscious and fell into a deep sleep. The vivid scene of helpless inebriation gave rise to this expression.",
+    "example_zh": "他昨晚在酒席上酩酊烂醉，最后被朋友搀扶着送回了家。",
+    "example_en": "Last night he was dead drunk at the banquet and had to be helped home by his friends.",
+    "category": "Condition",
+    "similar": [
+      "烂醉如泥",
+      "一醉方休"
+    ],
+    "opposite": [
+      "滴酒不沾",
+      "神志清醒"
+    ],
+    "id": "ming-ding-lan-zui"
+  },
+  {
+    "chinese": "呕心抽肠",
+    "pinyin": "ǒu xīn chōu cháng",
+    "literal": "vomit, heart, draw out, intestines",
+    "meaning": "Describes extreme grief or overwhelming sorrow. The visceral image of vomiting out one's heart and drawing out one's own intestines conveys unbearable, soul-wrenching anguish. Used to portray someone utterly devastated by loss, tragedy, or heartbreak.",
+    "origin": "The idiom originates from volume 1 of Slapping the Table in Amazement, Part Two (《二刻拍案惊奇》), a collection of vernacular short stories by the Ming dynasty writer Ling Mengchu (凌濛初). In the text, the line '那些呕心抽肠的鬼，更不知哭到几时，才是住手' ('those ghosts vomiting hearts and drawing out intestines, none can tell when their weeping will ever cease') describes specters wailing in abject, unending sorrow. Ling Mengchu, active in the late Ming (Wanli to Chongzhen eras), is celebrated alongside Feng Menglong as one of the twin masters of the 'San Yan Er Pai' story collections. The book, completed during the Chongzhen reign, contains forty tales of everyday life, and this vivid phrase appears in a passage of profound grief. It has since crystallized into a four-character idiom denoting extreme sadness.",
+    "example_zh": "闻听挚友离世，他呕心抽肠，久久难平。",
+    "example_en": "Upon hearing of his close friend's passing, he was stricken with such heart-wrenching grief that he could not calm himself for a long time.",
+    "category": "Emotion",
+    "similar": [
+      "撕心裂肺",
+      "肝肠寸断",
+      "痛不欲生"
+    ],
+    "opposite": [
+      "兴高采烈",
+      "欣喜若狂"
+    ],
+    "id": "ou-xin-chou-chang"
   }
 ]
