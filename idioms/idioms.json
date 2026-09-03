@@ -93795,5 +93795,205 @@
       "欣喜若狂"
     ],
     "id": "ou-xin-chou-chang"
+  },
+  {
+    "chinese": "喟然长叹",
+    "pinyin": "kuì rán cháng tàn",
+    "literal": "with a sigh, long sigh",
+    "meaning": "To sigh deeply out of strong emotion such as grief, regret, or admiration. The idiom describes someone who, moved by circumstances, lets out a long, audible sigh. It often conveys helplessness or profound feeling in the face of an unchangeable situation.",
+    "origin": "The idiom originates from the Analects of Confucius, chapter 'Zi Han' (子罕), set in the Spring and Autumn period. When Confucius's foremost disciple Yan Yuan (颜渊, also known as Yan Hui) tried to grasp the depth of his master's teaching, he sighed deeply and exclaimed, 'The more I look up at it, the higher it seems; the more I bore into it, the harder it becomes.' This sigh expressed his awe before the boundless profundity of Confucius's wisdom. Later, the Eastern Han writer Feng Yan used the phrase in his essay 'Zi Lun Fu' (《自论赋》): 'At that time no one would heed his plans, so he sighed deeply, grieving that he had met with no favorable opportunity.'",
+    "example_zh": "听到老友病逝的消息，他不禁喟然长叹。",
+    "example_en": "Upon hearing the news of his old friend's death, he could not help but heave a long, deep sigh.",
+    "category": "Emotion",
+    "similar": [
+      "长吁短叹",
+      "唉声叹气",
+      "扼腕叹息"
+    ],
+    "opposite": [
+      "眉开眼笑",
+      "喜笑颜开"
+    ],
+    "id": "kui-ran-chang-tan"
+  },
+  {
+    "chinese": "粗制滥造",
+    "pinyin": "cū zhì làn zào",
+    "literal": "crude, make, excessive, produce",
+    "meaning": "Describes writing or work done hastily and carelessly, with quantity prioritized over quality. It implies shoddy craftsmanship and a lack of attention to detail.",
+    "origin": "The idiom is famously cited from Lu Xun's (鲁迅) essay \"善于翻译的通信\" (Letters on Skilled Translation) in his essay collection 二心集 (Two Hearts, 1932), a modern-era work. In it, Lu Xun criticized the low quality of translations circulating at the time, remarking that crudely made translations were the work of either incompetent translators or opportunistic booksellers chasing profit. Though its component characters are traditional, Lu Xun's pointed usage cemented its modern meaning of careless, mass-produced work of inferior quality.",
+    "example_zh": "这家工厂粗制滥造的产品很快就被市场淘汰了。",
+    "example_en": "The factory's shoddy, hastily-made products were quickly phased out of the market.",
+    "category": "Quality",
+    "similar": [
+      "粗枝大叶",
+      "偷工减料",
+      "敷衍了事"
+    ],
+    "opposite": [
+      "精雕细刻",
+      "精益求精"
+    ],
+    "id": "cu-zhi-lan-zao"
+  },
+  {
+    "chinese": "宽宏大度",
+    "pinyin": "kuān hóng dà dù",
+    "literal": "broad, great, large, tolerance",
+    "meaning": "Describes a person of great magnanimity who can tolerate and forgive others. It emphasizes a generous and open-minded disposition that rises above petty grievances and readily pardons the faults of others.",
+    "origin": "The idiom first appears in the Yuan dynasty (1271–1368) zaju play 'Feng Guang Hao' (风光好) by the playwright Dai Shanfu. In the third act, a character says of the scholar: '学士宽宏大度，何所不容' ('The scholar is magnanimous of mind — what is there that he cannot tolerate?'). The line praises the scholar's broad-mindedness and capacity for forgiveness, and the phrase was later adopted as a fixed idiom to describe anyone who is generous in spirit and tolerant of others.",
+    "example_zh": "他为人宽宏大度，从不计较别人的过失。",
+    "example_en": "He is magnanimous by nature and never dwells on other people's faults.",
+    "category": "Quality",
+    "similar": [
+      "宽宏大量",
+      "豁达大度",
+      "大度包容"
+    ],
+    "opposite": [
+      "小肚鸡肠",
+      "心胸狭窄"
+    ],
+    "id": "kuan-hong-da-du"
+  },
+  {
+    "chinese": "雨泣云愁",
+    "pinyin": "yǔ qì yún chóu",
+    "literal": "rain, weep, cloud, grief",
+    "meaning": "Tears falling like rain and sorrow gathering like clouds. This idiom vividly describes a state of profound, overwhelming grief and melancholy, where one's sadness is so heavy that it seems to permeate the very sky and weather.",
+    "origin": "The idiom originates from the first act (折) of the Yuan dynasty (1271–1368) zaju play 《潇湘雨》 (Xiaoxiang Rain) by the playwright Yang Xianzhi (杨显之). In the passage, a character laments, '虽然道姻缘不偶，我可一言难就，有多少雨泣云愁' — though fate has not joined them as a couple, words cannot fully express how much weeping grief and cloudy sorrow there is. The phrase draws on the imagery of rain and clouds, natural phenomena that evoke heaviness and gloom, to externalize inner anguish. It has since been used in classical Chinese to describe someone crushed by deep, lamenting sorrow.",
+    "example_zh": "望着满目疮痍的家乡，她雨泣云愁，久久不能自已。",
+    "example_en": "Gazing at her devastated hometown, she wept with grief and was overcome with sorrow, unable to compose herself for a long time.",
+    "category": "Emotion",
+    "similar": [
+      "愁云惨雾",
+      "泪如雨下",
+      "愁眉苦脸"
+    ],
+    "opposite": [
+      "喜笑颜开",
+      "眉开眼笑"
+    ],
+    "id": "yu-qi-yun-chou"
+  },
+  {
+    "chinese": "大势所趋",
+    "pinyin": "dà shì suǒ qū",
+    "literal": "big situation, that which, tends toward",
+    "meaning": "The overall trend of events — the direction in which the entire situation is inevitably developing. It describes a development so broadly driven by the forces of the times that it cannot be reversed by the will or effort of any individual or small group. The idiom is used to say that something has become an unstoppable general tendency.",
+    "origin": "The idiom comes from the Southern Song dynasty thinker and statesman Chen Liang, in his 'Third Memorial to Emperor Xiaozong'. In the memorial, written to urge the emperor to take resolute action against the Jurchen Jin dynasty and recover the lost northern territory, Chen Liang wrote: 'The trend of the world is that which it tends toward — it cannot be moved by human effort.' He argued that the course of events follows an inevitable direction beyond the control of any single person, and that the ruler should align his policies with this unstoppable current rather than resist it.",
+    "example_zh": "发展人工智能是大势所趋，各行各业都在拥抱这项技术。",
+    "example_en": "Developing artificial intelligence is an irresistible trend — every industry is embracing the technology.",
+    "category": "Philosophy",
+    "similar": [
+      "势不可挡",
+      "势在必行",
+      "人心所向"
+    ],
+    "opposite": [
+      "大势已去",
+      "背道而驰"
+    ],
+    "id": "da-shi-suo-qu"
+  },
+  {
+    "chinese": "挨三顶五",
+    "pinyin": "āi sān dǐng wǔ",
+    "literal": "lean close three, press against five",
+    "meaning": "Describes a large number of people crowded close together, arriving one after another without interruption. The idiom paints a picture of a bustling, packed scene where people press shoulder to shoulder in threes and fives.",
+    "origin": "The idiom comes from the Ming dynasty writer Feng Menglong's vernacular novels. A variant form, 挨三顶四, appears in his 《平妖传》, where a crowd presses forward in close succession to beg a doctor for a pulse diagnosis. The form 挨三顶五 is used in another of his works, 《古今小说》(卷五), describing merchants and travelers thronging into an inn with their goods. As a Ming-dynasty colloquial expression, it reflects the vivid, lively language of early Chinese vernacular fiction.",
+    "example_zh": "庙会上人群挨三顶五，把整条街都挤满了。",
+    "example_en": "At the temple fair, the crowd packed in threes and fives, filling the entire street.",
+    "category": "Condition",
+    "similar": [
+      "人山人海",
+      "摩肩接踵",
+      "挨挨挤挤"
+    ],
+    "opposite": [
+      "三三两两",
+      "寥寥无几"
+    ],
+    "id": "ai-san-ding-wu"
+  },
+  {
+    "chinese": "刀耕火种",
+    "pinyin": "dāo gēng huǒ zhòng",
+    "literal": "knife, cultivate, fire, sow",
+    "meaning": "刀耕火种 (dāo gēng huǒ zhòng) refers to a primitive slash-and-burn farming method in which people cut down grass and brush with knives, burned it to ash as fertilizer, then dug holes and planted seeds directly in the ground. It denotes crude, primitive agricultural techniques of ancient times and is sometimes used figuratively for rough or unsophisticated ways of doing things.",
+    "origin": "The idiom originates from the Old Book of Tang (《旧唐书》), the official history compiled during the Five Dynasties period by the Later Jin chancellor Liu Xu and others around 945 AD. In the biography of Yan Zhen (严震), a Tang Dynasty official, the text records that in the region between Liangzhou and Hanzhong, 'the people farmed with knives and fire' (梁汉之间，刀耕火耨). The original phrasing used the character 耨 (to weed) rather than 种 (to sow), and the more familiar form 刀耕火种 emerged later as a variant. The expression describes the slash-and-burn cultivation widely practiced in mountainous areas of ancient China.",
+    "example_zh": "随着农业机械化的普及，刀耕火种的那种原始的农业耕作技术已逐渐消失了。",
+    "example_en": "With the spread of agricultural mechanization, the primitive slash-and-burn farming technique of knife-and-fire cultivation has gradually disappeared.",
+    "category": "Method",
+    "similar": [
+      "刀耕火耨",
+      "火耕水耨",
+      "刀耕火耘"
+    ],
+    "opposite": [
+      "精耕细作",
+      "深耕易耨"
+    ],
+    "id": "dao-geng-huo-zhong"
+  },
+  {
+    "chinese": "毒赋剩敛",
+    "pinyin": "dú fù shèng liǎn",
+    "literal": "poisonous, tax, excessive, collect",
+    "meaning": "It refers to the tyrannical and oppressive imposition of heavy taxes and levies on the common people. The phrase condemns rulers or officials who ruthlessly extract wealth through exorbitant exactions, treating the populace as a resource to be drained. In essence, it describes the cruel practice of over-taxation and exploitative collection.",
+    "origin": "The idiom appears in the Northern Song to Southern Song dynasty literary collection 'Wen Jian Hou Lu' (闻见后录), a sequel to Shao Bo's record of anecdotes and observations compiled around the late 11th to 12th century. In volume 28, the text describes an era of venomous taxation and ruthless collection, a time when the people were flogged and treated like oxen and horses. The passage notes that even amid such oppression, a transport official (漕) at Kuizhou and later at Tongguan managed the region so well that the people of Sichuan remained at peace and could rely on him daily. The idiom thus crystallizes the idea of harsh, abusive fiscal exploitation, often cited to criticize tyrannical governance.",
+    "example_zh": "旧时官府毒赋剩敛，百姓难以度日。",
+    "example_en": "In olden days, when officials imposed poisonous levies and excessive collections, the common people could barely scrape by.",
+    "category": "Power",
+    "similar": [
+      "横征暴敛",
+      "苛捐杂税",
+      "敲骨吸髓"
+    ],
+    "opposite": [
+      "轻徭薄赋",
+      "安居乐业"
+    ],
+    "id": "du-fu-sheng-lian"
+  },
+  {
+    "chinese": "没衷一是",
+    "pinyin": "mò zhōng yī shì",
+    "literal": "unable to, strike a balance, one, right",
+    "meaning": "Opinions are so divided that no one can decide which side is correct. It describes a situation where people hold irreconcilably different views and no consensus can be reached. The character 衷 means 折中, or reaching a balanced judgment.",
+    "origin": "This is a variant of the more common form 莫衷一是, with 没 (mò) written interchangeably for 莫, both meaning 'cannot'. The exact wording cited here comes from the modern essayist Guo Moruo (郭沫若, 1892–1978), who wrote in '一个伟大的教训' (A Great Lesson), collected in 盲肠炎 (Appendicitis), that among all the commentators he had seen and heard, opinions still remained 没衷一是. The underlying expression 莫衷一是 appears earlier in Qing-dynasty literature such as Wu Woyao's (吴趼人) novel 《痛史》, where generals argue over war plans with no single course agreed upon. Thus the idiom conveys being unable to reach a balanced verdict on which view is right.",
+    "example_zh": "会上大家意见纷歧，没衷一是，一时难以定案。",
+    "example_en": "At the meeting everyone's opinions were so divided that no consensus could be reached, making it hard to settle the matter for now.",
+    "category": "Condition",
+    "similar": [
+      "莫衷一是",
+      "众说纷纭",
+      "无所适从"
+    ],
+    "opposite": [
+      "异口同声",
+      "众口一词"
+    ],
+    "id": "mo-zhong-yi-shi"
+  },
+  {
+    "chinese": "遗祸无穷",
+    "pinyin": "yí huò wú qióng",
+    "literal": "leave behind, calamity, without, end",
+    "meaning": "To leave behind a calamity that has no end. It describes an action or decision whose harmful consequences stretch indefinitely into the future, and is commonly used as a warning against short-sighted choices that inflict lasting damage on later generations.",
+    "origin": "The phrase appears in a colophon (跋) written by the Song dynasty poet Zhang Yuangan (张元幹) in his postscript to the collected works of Liaotang xiansheng (《跋〈了堂先生文集〉》). In the passage he observes that one's sons-in-law, brothers, and close kin successively imitate and pass on the same teachings, so that the disaster left behind proves endless (遗祸无穷). It thus carries a literary warning about how unchecked influence or wrongdoing can propagate and compound across generations.",
+    "example_zh": "环境污染若不加治理，必将遗祸无穷。",
+    "example_en": "If environmental pollution is left untreated, it will inevitably bring endless harm to future generations.",
+    "category": "Condition",
+    "similar": [
+      "后患无穷",
+      "贻害无穷",
+      "遗患无穷"
+    ],
+    "opposite": [
+      "泽被后世",
+      "斩草除根"
+    ],
+    "id": "yi-huo-wu-qiong"
   }
 ]
