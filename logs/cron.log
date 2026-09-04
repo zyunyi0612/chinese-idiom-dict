@@ -8707,3 +8707,69 @@ IndexNow OK: HTTP 200, 10 URLs
 [2026-09-04 03:19:07] === Daily cron done ===
 [2026-09-04 03:19:07] === Daily cron done ===
 [2026-09-04 12:00:00] === Catch-up push start (1 unpushed commits) ===
+[main 3712036] Auto-update: 2026-09-04 12:00 - regenerate idioms
+ 1 file changed, 27 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   4299038..3712036  main -> main
+
+Push OK (attempt 1)
+[2026-09-04 12:00:08] === Catch-up push done ===
+[2026-09-05 03:15:00] === Daily cron start ===
+[2026-09-05 03:15:00] === Daily cron start ===
+[2026-09-05 03:15:00] Generating 10 new idioms...
+[2026-09-05 03:15:00] Generating 10 new idioms...
+Existing: 4728 idioms
+Whitelist: 30894 total
+Candidates available: 24773 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 山高水低 (shān gāo shuǐ dī)
+    OK (saved, total now: 4729): literal='mountain high, water low...'
+[2/10] -> 重生父母 (chóng shēng fù mǔ)
+    OK (saved, total now: 4730): literal='anew, born, father, mother...'
+[3/10] -> 异木奇花 (yì mù qí huā)
+    OK (saved, total now: 4731): literal='strange tree, marvelous flower...'
+[4/10] -> 酌古准今 (zhuó gǔ zhǔn jīn)
+    OK (saved, total now: 4732): literal='weigh the ancient, use as standard for the present...'
+[5/10] -> 雪窑冰天 (xuě jiào bīng tiān)
+    OK (saved, total now: 4733): literal='snow, cellar, ice, sky...'
+[6/10] -> 遗风余象 (yí fēng yú xiàng)
+    OK (saved, total now: 4734): literal='left behind, custom, remaining, form...'
+[7/10] -> 桃来李答 (táo lái lǐ dá)
+    OK (saved, total now: 4735): literal='peach comes, plum answers...'
+[8/10] -> 牛听弹琴 (niú tīng tán qín)
+    OK (saved, total now: 4736): literal='cow, listens, playing, zither...'
+[9/10] -> 率以为常 (shuài yǐ wéi cháng)
+    OK (saved, total now: 4737): literal='as a rule, take as, regular...'
+[10/10] -> 人心难测 (rén xīn nán cè)
+    OK (saved, total now: 4738): literal='human heart, difficult to fathom...'
+
+Added 10 idioms. Total: 4738
+[2026-09-05 03:18:45] Generation OK
+[2026-09-05 03:18:45] Generation OK
+[2026-09-05 03:18:45] Regenerating site...
+[2026-09-05 03:18:45] Regenerating site...
+Loading data...
+  → 4738 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4738 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4738 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-05 03:19:00] Site regenerated
+[2026-09-05 03:19:00] Site regenerated
+[2026-09-05 03:19:00] Pushing to GitHub...
+[2026-09-05 03:19:00] Pushing to GitHub...

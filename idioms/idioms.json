@@ -93995,5 +93995,205 @@
       "斩草除根"
     ],
     "id": "yi-huo-wu-qiong"
+  },
+  {
+    "chinese": "山高水低",
+    "pinyin": "shān gāo shuǐ dī",
+    "literal": "mountain high, water low",
+    "meaning": "A euphemism for an unfortunate event, most often referring to a person's death. The phrase gently hints at disaster or the end of a life without stating it bluntly, often used when someone fears or prepares for the worst.",
+    "origin": "The idiom first appears in written form in the Ming dynasty, in Feng Menglong's collection of vernacular stories Xingshi Hengyan (《醒世恒言》), volume 8, where it is used to mean 'if some misfortune should happen.' It later appears in the Qing dynasty novel Rulin Waishi (《儒林外史》), chapter 20, attributed to the author Wu Jingzi. Rather than a narrative tale, its origin lies in folk speech that borrowed the grand imagery of high mountains and low waters to soften references to death and calamity, making it a standard euphemism in classical and vernacular literature.",
+    "example_zh": "老人家年事已高，若有个山高水低，我们做晚辈的定当尽力照料。",
+    "example_en": "The elder is advanced in years; if anything unfortunate should befall him, we younger ones will surely do our utmost to take care of him.",
+    "category": "Condition",
+    "similar": [
+      "三长两短",
+      "不测风云",
+      "旦夕祸福"
+    ],
+    "opposite": [
+      "平安无事",
+      "安然无恙"
+    ],
+    "id": "shan-gao-shui-di"
+  },
+  {
+    "chinese": "重生父母",
+    "pinyin": "chóng shēng fù mǔ",
+    "literal": "anew, born, father, mother",
+    "meaning": "Literally \"parents who give one a second birth,\" this idiom refers to someone who has done a person an immense favor, most often a lifesaving benefactor. It expresses the idea that such a person's kindness is so great it rivals that of one's own parents, essentially granting the recipient a new life.",
+    "origin": "The phrase appears in the Yuan dynasty play \"Journey to the West\" (《西游记》) by the playwright Yang Jingxian, specifically in Act 4, Scene 15, where it reads \"重生父母，再长爹娘\" (reborn parents, renewed father and mother). The expression draws on the concept of gratitude so profound that the benefactor is elevated to the status of one's own parents. It later became a standard expression in classical literature for describing saviors, and was also used by the Ming dynasty writer Feng Menglong in his collection \"Stories to Awaken the World\" (《警世通言》, Volume 25), cementing its place in the Chinese idiom canon.",
+    "example_zh": "他救了我一命，真是我的重生父母。",
+    "example_en": "He saved my life; he is truly my second parents.",
+    "category": "Morality",
+    "similar": [
+      "恩重如山",
+      "再生父母",
+      "恩同再造"
+    ],
+    "opposite": [
+      "忘恩负义",
+      "血海深仇"
+    ],
+    "id": "chong-sheng-fu-mu"
+  },
+  {
+    "chinese": "异木奇花",
+    "pinyin": "yì mù qí huā",
+    "literal": "strange tree, marvelous flower",
+    "meaning": "Rare and precious flowers and trees. The idiom is used to describe exotic, valuable, or beautiful flora that is out of the ordinary, often encountered in gardens, parks, or natural landscapes. It emphasizes the rarity and exceptional quality of plant life rather than any figurative or moral lesson.",
+    "origin": "No documented origin is recorded for this idiom; Chinese reference works list its source as unknown (出处无考). The term is a compound assembled from the characters for rare/exotic (异), tree (木), marvelous (奇), and flower (花), following the same structure as the better-known idiom 奇花异草 (exotic flowers and strange herbs). It belongs to the class of descriptive four-character expressions that praise the beauty and rarity of flora, commonly appearing in literary, travel, and garden-writing contexts rather than stemming from a specific historical anecdote or classical text. As a result, no dynasty, figure, or anecdote can be named for its origin.",
+    "example_zh": "这座园林里种满了来自各地的异木奇花。",
+    "example_en": "This garden is filled with rare and exotic plants from all over the world.",
+    "category": "Quality",
+    "similar": [
+      "奇花异草",
+      "奇花异卉",
+      "异草奇花"
+    ],
+    "opposite": [
+      "枯枝败叶",
+      "杂草丛生"
+    ],
+    "id": "yi-mu-qi-hua"
+  },
+  {
+    "chinese": "酌古准今",
+    "pinyin": "zhuó gǔ zhǔn jīn",
+    "literal": "weigh the ancient, use as standard for the present",
+    "meaning": "To select and consider events of antiquity and employ them as a yardstick for judging or guiding present-day affairs. It advocates drawing lessons from history to illuminate and inform current decisions. The idiom embodies a pragmatic balance between honoring tradition and facing contemporary reality.",
+    "origin": "The idiom comes from a memorial (奏疏) by Zhang Juzheng, the powerful Grand Secretary of the Ming dynasty, titled '请专官纂修疏', in which he petitions for specially appointed officials to compile and revise the dynastic histories. He argues that once the historical records are gathered into a single work, one must thoroughly probe their origins, fully detail the changes and continuities, and thereby 'weigh the ancient against the present' in order to fix the statutes of one generation and leave enduring rules for ten thousand years. The phrase reflects the Ming court's effort to systematize state governance by mining historical precedent. A famous illustrative use also appears in the Ming novel 'Romance of the Three Kingdoms' (《三国演义》), where Zhuge Liang's strategic treatise is said to have been composed by weighing the past against the present, modeled on Sunzi's 'Art of War'.",
+    "example_zh": "修订企业章程时，我们应当酌古准今，既要借鉴历史经验，也要立足现实。",
+    "example_en": "When revising corporate bylaws, we should weigh the past against the present—drawing on historical experience while staying grounded in today's realities.",
+    "category": "Method",
+    "similar": [
+      "借古鉴今",
+      "以古为鉴",
+      "鉴往知来"
+    ],
+    "opposite": [
+      "食古不化",
+      "厚古薄今"
+    ],
+    "id": "zhuo-gu-zhun-jin"
+  },
+  {
+    "chinese": "雪窑冰天",
+    "pinyin": "xuě jiào bīng tiān",
+    "literal": "snow, cellar, ice, sky",
+    "meaning": "The idiom describes a land covered everywhere with ice and snow, referring to regions of extreme, bitter cold. It is typically used to evoke the harsh frozen wastelands of the far north, such as frontier garrisons or polar wildernesses.",
+    "origin": "During the Southern Song dynasty (1127–1279), the envoy Zhu Bian (朱弁) was sent to the Jurchen Jin dynasty but was detained for years in the bitter northern wastes. In a passage recorded in his biography in the History of Song (《宋史·朱弁传》), he wrote: '叹马角之未生，魂销支窑；攀龙髯而莫逮，泪洒冰天' — lamenting that no horse had grown horns (an allusion to Crown Prince Dan of Yan, whose release was to be signaled by a horse growing horns) and that he could not grasp the dragon's beard to follow the emperor (an allusion to the Yellow Emperor's ascent to heaven), his soul wasting away in his snow-bound cell and his tears falling in the icy land. From this poignant image of a detained official weeping in a frozen foreign land, later writers coined the idiom to portray regions of perpetual ice and snow.",
+    "example_zh": "戍边将士在雪窑冰天的北疆哨所一守就是十多年。",
+    "example_en": "The border troops held their garrison at the northern frontier outpost, a land of ice and snow, for over a decade.",
+    "category": "Condition",
+    "similar": [
+      "冰天雪地",
+      "天寒地冻",
+      "滴水成冰"
+    ],
+    "opposite": [
+      "春暖花开",
+      "烈日炎炎"
+    ],
+    "id": "xue-jiao-bing-tian"
+  },
+  {
+    "chinese": "遗风余象",
+    "pinyin": "yí fēng yú xiàng",
+    "literal": "left behind, custom, remaining, form",
+    "meaning": "Refers to the customs and exemplary forms or manners left behind by earlier generations. It describes cultural practices, conventions, or models that survive as faint vestiges of a past era. The idiom is used to acknowledge that something still echoes an older tradition.",
+    "origin": "The idiom comes from 'Touhu Xinge' (New Standards for the Pitch-pot Game) by Sima Guang, the renowned Northern Song dynasty statesman and historian. In this work on the traditional pitch-pot game, Sima Guang laments that while the ancient apparatus of the game and the accompanying etiquette of bowing and yielding have been lost in his own time, their faint traces (遗风余象) can still be glimpsed. From this, the phrase came to denote the customs and models bequeathed by preceding generations.",
+    "example_zh": "这座古村的节庆习俗里，仍能窥见前人的遗风余象。",
+    "example_en": "In the festive customs of this ancient village, one can still catch a glimpse of the traditions left behind by earlier generations.",
+    "category": "Lifestyle",
+    "similar": [
+      "遗风余韵",
+      "遗风余俗",
+      "流风余韵"
+    ],
+    "opposite": [
+      "移风易俗",
+      "焕然一新"
+    ],
+    "id": "yi-feng-yu-xiang"
+  },
+  {
+    "chinese": "桃来李答",
+    "pinyin": "táo lái lǐ dá",
+    "literal": "peach comes, plum answers",
+    "meaning": "This idiom describes the act of mutual giving and receiving, where one person's kindness or gift is met with a fitting return from the other. It emphasizes the ideal of reciprocity in human relationships, in which favors, gifts, or goodwill are exchanged in balanced and courteous fashion. The phrase is often used to praise harmonious, give-and-take interactions between friends, neighbors, or associates.",
+    "origin": "The idiom traces back to the Book of Songs (《诗经》), China's oldest existing collection of poetry, compiled during the Western Zhou to Spring and Autumn periods (roughly 11th–6th centuries BCE). It derives from the poem 'Yi' (《抑》) in the 'Greater Odes' (大雅) section, which contains the line: 'Throw me a peach, I repay you with a plum' (投我以桃，报之以李). The original verse uses the exchange of fruit as a metaphor for the principle of reciprocity in moral conduct and social relations. Over time, this idea crystallized into the four-character idiom 桃来李答, meaning 'peach comes, plum answers,' to describe mutual exchange of courtesy and gifts.",
+    "example_zh": "邻里之间桃来李答，互送蔬果，关系十分融洽。",
+    "example_en": "The neighbors exchange peaches and plums with each other, sending one another vegetables and fruit, so their relationship is very harmonious.",
+    "category": "Communication",
+    "similar": [
+      "投桃报李",
+      "礼尚往来",
+      "投瓜报玉"
+    ],
+    "opposite": [
+      "一毛不拔",
+      "来而不往"
+    ],
+    "id": "tao-lai-li-da"
+  },
+  {
+    "chinese": "牛听弹琴",
+    "pinyin": "niú tīng tán qín",
+    "literal": "cow, listens, playing, zither",
+    "meaning": "Literally a cow listening to someone play the qin (zither), this idiom describes someone who cannot understand or appreciate something, as if elegant music were played before a beast. It is used to mock a listener as utterly incapable of grasping what is being said, heard, or appreciated. It carries a slightly dismissive, humorous tone, suggesting a complete lack of comprehension.",
+    "origin": "The idiom grows out of the older expression 对牛弹琴 (playing the qin for a cow), which traces back to the Han dynasty writer Mou Rong's 理惑论, where the image of playing refined music before an ox that cannot understand it was used to illustrate teaching that falls on deaf ears. The specific phrasing 牛听弹琴 was used by the modern Chinese writer and revolutionary Qu Qiubai (瞿秋白) in his 1930s essay collection 《乱弹》. In that passage, he observed that ordinary people ('the governed') trying to make out the subtle tone distinctions of kunqu opera broadcast over the radio were like a cow listening to the qin — completely at a loss, '一窍不通' (utterly ignorant). Through this usage the phrase was cemented as an idiom for total incomprehension.",
+    "example_zh": "他跟我讲那些高深的物理理论，我完全是牛听弹琴，一句也听不懂。",
+    "example_en": "When he explains those advanced physics theories to me, I'm just like a cow listening to a zither — I don't understand a single word.",
+    "category": "Communication",
+    "similar": [
+      "对牛弹琴",
+      "鸡同鸭讲",
+      "一窍不通"
+    ],
+    "opposite": [
+      "一点就通",
+      "心领神会"
+    ],
+    "id": "niu-ting-tan-qin"
+  },
+  {
+    "chinese": "率以为常",
+    "pinyin": "shuài yǐ wéi cháng",
+    "literal": "as a rule, take as, regular",
+    "meaning": "To become a regular practice or habit, so that an action is done so often it is taken for granted as routine. It describes something that has turned into a customary, unremarkable occurrence rather than an exception.",
+    "origin": "The phrase appears in the Book of Northern Qi (《北齐书》), in the biography of the official Sima Ziru. It records that whenever he was about to return, Emperor Shenwu (Gao Zu, Gao Huan) and Empress Wuming both gave him gifts and rewards, and this became a regular practice (率以为常). The idiom was later also used by the Song dynasty loyalist Wen Tianxiang, who wrote in a letter to Zhu Taibo of riding out with packed food at dawn and returning at dusk, doing so as a matter of routine. Over time it came to mean any act that has become habitual and customary.",
+    "example_zh": "自那以后，两人每周相聚论学，率以为常。",
+    "example_en": "From then on, the two met every week to discuss their studies, and it became a regular practice.",
+    "category": "Lifestyle",
+    "similar": [
+      "习以为常",
+      "司空见惯",
+      "家常便饭"
+    ],
+    "opposite": [
+      "偶一为之",
+      "千载难逢"
+    ],
+    "id": "shuai-yi-wei-chang"
+  },
+  {
+    "chinese": "人心难测",
+    "pinyin": "rén xīn nán cè",
+    "literal": "human heart, difficult to fathom",
+    "meaning": "This idiom conveys that a person's inner thoughts, intentions, and true character are extremely difficult to discern or predict. It warns that outward appearances and words can be deceptive, so one should never assume they fully know what another person is really thinking.",
+    "origin": "The phrase first appears in Sima Qian's Records of the Grand Historian (《史记》), in the biography of Han Xin, the Marquis of Huaiyin, a military strategist of the Western Han dynasty. In recounting how the former kings of Changshan and Cheng'an — who had once been sworn friends as commoners — ultimately turned on and captured each other, the text explains that their downfall arose from excessive desires, concluding: 'Trouble is born of greed, and the human heart is hard to fathom' (患生于多欲，而人心难测也). The saying thus entered the language as a warning about the inscrutability of human motives.",
+    "example_zh": "世事无常，人心难测，凡事还是多留个心眼才好。",
+    "example_en": "The world is ever-changing and the human heart is hard to fathom, so it is always wise to stay a bit cautious in everything.",
+    "category": "Wisdom",
+    "similar": [
+      "人心叵测",
+      "知人知面不知心",
+      "人心隔肚皮"
+    ],
+    "opposite": [
+      "推心置腹",
+      "肝胆相照"
+    ],
+    "id": "ren-xin-nan-ce"
   }
 ]
