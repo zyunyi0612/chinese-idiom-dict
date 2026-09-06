@@ -94393,5 +94393,204 @@
       "好逸恶劳"
     ],
     "id": "du-shi-hao-xue"
+  },
+  {
+    "chinese": "寄兴寓情",
+    "pinyin": "jì xìng yù qíng",
+    "literal": "entrust, interest, contain, feeling",
+    "meaning": "To entrust and embody one's interests, moods, and feelings within a work of art or writing. It describes creative pieces in which the author's private emotions and aesthetic inclinations are subtly woven into the subject matter rather than stated outright.",
+    "origin": "The idiom traces back to the Eastern Jin dynasty calligrapher Wang Xizhi's 'Preface to the Orchid Pavilion Collection' (兰亭集序), which describes sages 'entrusting their feelings to what they take pleasure in, letting their spirits roam beyond the bounds of physical form' (或因寄所托，放浪形骸之外). From this reflection on how people lodge their hearts in the things they love, later literary criticism distilled the phrase 寄兴寓情 to describe the practice of infusing creative works with the author's personal interest and sentiment. It has since become a standard term for the expressive, emotive quality prized in classical Chinese poetry and painting.",
+    "example_zh": "作者寄兴寓情于山水，诗作自然真挚动人。",
+    "example_en": "The author lodges his interests and feelings in the mountains and rivers, making his poems natural, sincere, and deeply moving.",
+    "category": "Emotion",
+    "similar": [
+      "寓情于景",
+      "借景抒情",
+      "托物言志"
+    ],
+    "opposite": [
+      "直抒胸臆",
+      "平铺直叙"
+    ],
+    "id": "ji-xing-yu-qing"
+  },
+  {
+    "chinese": "香闺绣阁",
+    "pinyin": "xiāng guī xiù gé",
+    "literal": "fragrant, boudoir, embroidered, chamber",
+    "meaning": "In old China this idiom referred to a woman's private inner chamber — an elegant, ornate boudoir where young ladies of wealthy, respectable families lived a sheltered life. It carries connotations of refinement, seclusion, and the protective luxury of an upper-class upbringing, and is often used to contrast with poverty or hardship.",
+    "origin": "The idiom first appears in Scene 39 of The Story of the Lute (《琵琶记》), a southern drama by the Yuan dynasty playwright Gao Ming. In that scene the heroine humbly says that noble ladies are 'beauties of fragrant boudoirs and embroidered chambers' (香闺绣阁之名姝), while she herself is merely a poor woman in hempen skirt and thorn hairpin (裙布荆钗之贫妇). The phrase thus entered the language to describe the luxurious inner chambers of high-born households, and was later picked up in the Qing dynasty novel Dream of the Red Chamber (《红楼梦》), where it also describes the ladies' quarters.",
+    "example_zh": "她自幼养在香闺绣阁，从未尝过民间疾苦。",
+    "example_en": "Having been raised in a fragrant boudoir since childhood, she had never tasted the hardships of common life.",
+    "category": "Lifestyle",
+    "similar": [
+      "深闺大院",
+      "大家闺秀",
+      "金屋藏娇"
+    ],
+    "opposite": [
+      "荆钗布裙",
+      "蓬门荜户"
+    ],
+    "id": "xiang-gui-xiu-ge"
+  },
+  {
+    "chinese": "心焦如焚",
+    "pinyin": "xīn jiāo rú fén",
+    "literal": "heart, anxious, like, burning",
+    "meaning": "This idiom describes a state of extreme anxiety and agitation, as if one's heart were engulfed in flames. It conveys intense inner restlessness and unbearable worry, often when waiting for crucial news or facing an unresolved crisis. The burning imagery emphasizes both the urgency and the torment of the feeling.",
+    "origin": "The idiom has no recorded literary origin story and is not traced to a specific dynasty, figure, or classical text. It belongs to a family of descriptive four-character expressions built on a vivid metaphor, comparing an agitated mind to fire. The pattern is echoed in closely related idioms such as 心急如焚 (heart impatient as if burning), which appear in vernacular literature and speech. Over time, 心焦如焚 has become a standard, widely accepted way to express burning anxiety in modern Chinese.",
+    "example_zh": "考试结果迟迟不出，他心焦如焚，连饭都吃不下。",
+    "example_en": "With the exam results still delayed, he was burning with anxiety and could hardly eat.",
+    "category": "Emotion",
+    "similar": [
+      "心急如焚",
+      "五内如焚",
+      "坐立不安"
+    ],
+    "opposite": [
+      "心如止水",
+      "泰然自若"
+    ],
+    "id": "xin-jiao-ru-fen"
+  },
+  {
+    "chinese": "千金一笑",
+    "pinyin": "qiān jīn yī xiào",
+    "literal": "a thousand pieces of gold, one smile",
+    "meaning": "To spend a thousand pieces of gold in exchange for a single smile. It refers to sparing no expense to win the favor or affection of a beautiful woman, and by extension to indulging in extravagant gestures for pleasure.",
+    "origin": "The idiom is documented in two literary sources. The Song dynasty poet Zhang Xiaoxiang (张孝祥) used it in his ci lyric 'Yu Meiren' (《虞美人》), writing that he would gladly pay a thousand gold pieces for one smile. It also appears in the Ming dynasty dramatist Tang Xianzu's (汤显祖) play 'The Purple Hairpin' (《紫钗记》), where a night spent winning a beauty's smile is compared to the blissful meeting at the Blue Bridge. The phrase is essentially synonymous with the older expression '千金买笑' (buying a smile with a thousand gold pieces), reflecting the ancient custom of wealthy patrons lavishing fortunes to please courtesans and beauties.",
+    "example_zh": "为博美人千金一笑，他不惜耗费重金。",
+    "example_en": "To win the beauty's thousand-gold smile, he spared no expense.",
+    "category": "Lifestyle",
+    "similar": [
+      "千金买笑",
+      "一笑千金",
+      "挥金如土"
+    ],
+    "opposite": [
+      "一毛不拔",
+      "锱铢必较"
+    ],
+    "id": "qian-jin-yi-xiao"
+  },
+  {
+    "chinese": "耸肩曲背",
+    "pinyin": "sǒng jiān qū bèi",
+    "literal": "shrug shoulders, bend back",
+    "meaning": "To shrug both shoulders and hunch one's back, describing an aged, feeble, or shabby and dejected appearance. The posture conveys a cowering, submissive, or pitiful demeanor typical of someone worn down by poverty or old age.",
+    "origin": "The idiom first appears in the Qing dynasty novel 《二十年目睹之怪现状》(Strange Events Observed Over Twenty Years) by 吴趼人 (Wu Jianren), written around the turn of the 20th century. In Chapter 43, the author mocks the hired examination graders as '耸肩曲背的，酸的怕人' — hunched and shrunken men with an intolerably pedantic air. The phrase was later also used by 鲁迅 (Lu Xun) in his 1924 short story 《肥皂》(Soap), reinforcing its place in modern literary Chinese.",
+    "example_zh": "他耸肩曲背地站在墙角，显得十分寒酸。",
+    "example_en": "He stood hunched in the corner, shoulders drawn up, looking utterly shabby and pitiful.",
+    "category": "Condition",
+    "similar": [
+      "拱肩缩背",
+      "弯腰驼背",
+      "缩头缩脑"
+    ],
+    "opposite": [
+      "挺胸凸肚",
+      "昂首挺胸"
+    ],
+    "id": "song-jian-qu-bei"
+  },
+  {
+    "chinese": "独善吾身",
+    "pinyin": "dú shàn wú shēn",
+    "literal": "alone, make good, my, self",
+    "meaning": "To look after only oneself and pay no heed to others, identical in sense to 独善其身. It describes a self-centered attitude of retreating into one's own comfort and refusing to engage with or help others. The tone is mildly disapproving, implying moral or social neglect.",
+    "origin": "The underlying expression 独善其身 comes from Mencius (孟子·尽心上, Warring States period): \"穷则独善其身，达则兼济天下\" (when in adversity, keep one's own self good; when successful, benefit the whole world). The variant 独善吾身 appears in the modern Chinese writer Guo Moruo's (郭沫若) poem 《孤竹君之二子》 in his 1923 poetry collection 《星空》, in the line \"我只能离群索居，独善吾身！\" The poem retells the story of Boyi and Shuqi, the two sons of the Lord of Guzhu, who withdrew from the world and ultimately starved rather than serve a new dynasty. The idiom thus carries the sense of deliberate withdrawal into solitary self-preservation, stripped of the original Mencian ideal of later benefiting the world.",
+    "example_zh": "他只顾独善吾身，从不过问他人死活。",
+    "example_en": "He only cares about his own well-being and never bothers with whether others live or die.",
+    "category": "Attitude",
+    "similar": [
+      "独善其身",
+      "明哲保身",
+      "各扫门前雪"
+    ],
+    "opposite": [
+      "兼济天下",
+      "舍己为人"
+    ],
+    "id": "du-shan-wu-shen"
+  },
+  {
+    "chinese": "参天贰地",
+    "pinyin": "cān tiān èr dì",
+    "literal": "three heaven, two earth",
+    "meaning": "The idiom derives from the I Ching (易经) principle of assigning numbers to heaven and earth, heaven being three and earth being two. It is extended to mean that a person's virtue and achievements are so great that they can be measured against, or stand on par with, heaven and earth themselves.",
+    "origin": "The phrase appears in the biography of Sima Xiangru (司马相如列传) in the Records of the Grand Historian (史记), compiled by Sima Qian during the Western Han Dynasty around the 1st century BCE. In the passage, Sima Xiangru praises grand discourse and ambitious plans that establish lasting traditions to serve as rules for ten thousand generations, and urges pondering deeply over 参天贰地 — aligning one's achievements with the scale of heaven and earth. The expression stems from ancient Yi Jing numerology, in which heaven is reckoned as three and earth as two. It is the same as the variant 参天两地.",
+    "example_zh": "先生之德参天贰地，后世景仰。",
+    "example_en": "His virtue rivals heaven and earth, and later generations hold him in deep admiration.",
+    "category": "Morality",
+    "similar": [
+      "参天两地",
+      "德配天地",
+      "功盖天地"
+    ],
+    "opposite": [
+      "碌碌无为"
+    ],
+    "id": "can-tian-er-di"
+  },
+  {
+    "chinese": "白白朱朱",
+    "pinyin": "bái bái zhū zhū",
+    "literal": "white, white, vermilion, vermilion",
+    "meaning": "Literally 'white is white, red is red,' this idiom describes flowers and trees of many different kinds and colors standing together in rich variety. It conveys a scene of abundant, colorful vegetation where each plant shows its own distinct hue.",
+    "origin": "The phrase originates from Tang dynasty poet Han Yu's poem 'Feeling Spring, Three Poems' (感春三首), which contains the line '晨游百花林，朱朱兼白白' ('I stroll in the forest of a hundred flowers at dawn, where vermilion mingles with white'). Later poets such as Yang Wanli of the Song dynasty reused the expression, cementing it as a set phrase. Over time, the reduplicated colors became a stock literary image for the colorful spectacle of spring flowers.",
+    "example_zh": "春天一到，园中白白朱朱，煞是好看。",
+    "example_en": "Once spring arrives, the garden is full of flowers in all shades of white and red — a truly lovely sight.",
+    "category": "Variety",
+    "similar": [
+      "姹紫嫣红",
+      "万紫千红",
+      "五彩缤纷"
+    ],
+    "opposite": [
+      "千篇一律",
+      "清一色"
+    ],
+    "id": "bai-bai-zhu-zhu"
+  },
+  {
+    "chinese": "声嘶力竭",
+    "pinyin": "shēng sī lì jié",
+    "literal": "voice, hoarse, strength, exhausted",
+    "meaning": "声嘶力竭 describes a state of shouting until one's voice becomes hoarse and one's strength is completely spent. It portrays someone calling out or appealing with every ounce of effort, often when struggling in vain or pleading desperately. The idiom emphasizes both physical exhaustion and the futility of the effort being made.",
+    "origin": "The idiom first appears in the essay 《贾岛》 (Jia Dao) by the modern Chinese poet and scholar Wen Yiduo (闻一多, 1899–1946), written during the Republican era to discuss the Tang dynasty poet Jia Dao (贾岛, 779–843). In the essay, Wen Yiduo writes, \"眼看见前进也是枉然，不要说他们早已声嘶力竭\" (Seeing that moving forward is futile, let alone the fact that they had long since shouted themselves hoarse and exhausted their strength). The phrase was coined to describe those who keep crying out desperately even though their cause is hopeless. Unlike most idioms with ancient origins, 声嘶力竭 is a relatively modern coinage from twentieth-century literary criticism, and it has since become a common expression in everyday Chinese.",
+    "example_zh": "他声嘶力竭地呼喊着，希望有人能听到他的求救。",
+    "example_en": "He shouted at the top of his lungs, hoping that someone would hear his cries for help.",
+    "category": "Communication",
+    "similar": [
+      "力竭声嘶",
+      "大声疾呼",
+      "竭尽全力"
+    ],
+    "opposite": [
+      "不动声色",
+      "声如洪钟"
+    ],
+    "id": "sheng-si-li-jie"
+  },
+  {
+    "chinese": "作奸犯科",
+    "pinyin": "zuò jiān fàn kē",
+    "literal": "to do wicked deeds, to violate legal statutes",
+    "meaning": "To commit evil or criminal acts and break the law. The phrase describes someone engaging in wrongdoing and violating the penal code, usually warranting official punishment. It is a formal, condemning expression used to characterize serious legal offenses.",
+    "origin": "The idiom originates from the 'Chu Shi Biao' (出师表), a memorial written by Zhuge Liang of Shu Han during the Three Kingdoms period (3rd century). In the text, he urges the young emperor to fairly reward and punish, writing: 'If there are those who commit crimes and break the law, or those who are loyal and good, they should be handed over to the officials to determine their punishment or reward.' The phrase thereby entered the literary canon as a standard term for lawbreaking, and was later popularized in vernacular fiction such as Ming-dynasty works.",
+    "example_zh": "作奸犯科者，国法难容，终究难逃制裁。",
+    "example_en": "Those who commit crimes and break the law are intolerable to the nation's legal system and will ultimately never escape punishment.",
+    "category": "Morality",
+    "similar": [
+      "为非作歹",
+      "违法乱纪",
+      "作恶多端"
+    ],
+    "opposite": [
+      "奉公守法",
+      "安分守己"
+    ],
+    "id": "zuo-jian-fan-ke"
   }
 ]
