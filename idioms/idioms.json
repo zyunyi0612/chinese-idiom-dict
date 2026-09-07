@@ -94592,5 +94592,204 @@
       "安分守己"
     ],
     "id": "zuo-jian-fan-ke"
+  },
+  {
+    "chinese": "宿水飡风",
+    "pinyin": "xiǔ shuǐ cān fēng",
+    "literal": "lodge overnight, water, eat, wind",
+    "meaning": "Describes the extreme hardship of travel or life in the wild, where one is forced to sleep wherever one can and endure wind, rain, and exposure. It conveys the toil and privation of long journeys made under open skies. It is a variant form of the idiom 宿水餐风, meaning essentially the same thing.",
+    "origin": "No definitive textual source has been identified for this exact written form, so no dynasty or figure can be named with certainty. The character 飡 is an archaic variant of 餐 (to eat), which makes 宿水飡风 essentially a calligraphic variant of 宿水餐风. This idiom belongs to a family of expressions such as 风餐露宿 and 餐风宿露 that appear in classical poetry and fiction, especially from the Tang through the Ming-Qing periods, to describe travelers enduring harsh outdoor conditions. Because the constituent characters are interchangeable, the idiom carries the same meaning as its more common counterparts, though its precise first appearance cannot be traced.",
+    "example_zh": "古人远行，宿水飡风，备尝艰辛，方得一览山河之壮。",
+    "example_en": "In ancient times, travelers endured the hardship of sleeping in the open and braving the wind before they could finally behold the grandeur of mountains and rivers.",
+    "category": "Condition",
+    "similar": [
+      "餐风宿露",
+      "风餐露宿",
+      "露宿风餐"
+    ],
+    "opposite": [
+      "锦衣玉食",
+      "养尊处优"
+    ],
+    "id": "xiu-shui-can-feng"
+  },
+  {
+    "chinese": "浑沦吞枣",
+    "pinyin": "hún lún tūn zǎo",
+    "literal": "whole, swallow, date",
+    "meaning": "To swallow a date whole, without chewing. It is used metaphorically for accepting ideas, knowledge, or things wholesale without analysis or discrimination, so that nothing is truly digested or understood. The idiom criticizes a superficial, uncritical way of learning or receiving information.",
+    "origin": "This exact form has no recorded origin (出处: 无) and is a variant spelling of the more common idiom 囫囵吞枣 (húlún tūn zǎo). The traditional story, often attributed to the Yuan-dynasty miscellaneous collection 湛渊静语 by 白珽, tells of a man who was told that pears are good for the teeth but harm the spleen, while dates are good for the spleen but harm the teeth. He proudly declared that he would only chew the pears without swallowing, and swallow the dates whole without chewing — a reply that was mocked as foolish, since swallowing a date whole lets one taste nothing and digest nothing. The tale thus illustrates accepting things unexamined, and the variant 浑沦吞枣 retains exactly this meaning.",
+    "example_zh": "读书时切莫浑沦吞枣，要逐字逐句弄清意思。",
+    "example_en": "When reading, never swallow the material whole — be sure to work out the meaning sentence by sentence.",
+    "category": "Learning",
+    "similar": [
+      "囫囵吞枣",
+      "生吞活剥",
+      "食而不化"
+    ],
+    "opposite": [
+      "融会贯通",
+      "细嚼慢咽"
+    ],
+    "id": "hun-lun-tun-zao"
+  },
+  {
+    "chinese": "晨光熹微",
+    "pinyin": "chén guāng xī wēi",
+    "literal": "morning, light, faint glow, dim",
+    "meaning": "Describes the early dawn when the sky is just beginning to grow light but is still dim and hazy. The phrase paints a quiet, tender picture of daybreak, when the first rays of morning light are barely visible. It is often used to set a serene or expectant mood at the start of a day.",
+    "origin": "The idiom originates from the Eastern Jin dynasty writer Tao Yuanming (陶渊明, also known as Tao Qian). In his prose-poem Gui Qu Lai Xi Ci (《归去来兮辞》), written around 405 CE when he resigned from his official post to return to his rural home, he describes traveling home at dawn: '问征夫以前路，恨晨光之熹微' — asking a traveler which road lay ahead while regretting that the morning light was still so faint. The poet regretted the dimness of the dawn because he was anxious to get home quickly. The line later became the source of the idiom 晨光熹微, meaning the early light of daybreak.",
+    "example_zh": "晨光熹微中，他踏上了远行的山路。",
+    "example_en": "In the faint light of dawn, he set out on the mountain road for his long journey.",
+    "category": "Condition",
+    "similar": [
+      "晨曦初露",
+      "天色微明",
+      "曙光初现"
+    ],
+    "opposite": [
+      "夜幕降临",
+      "夜色沉沉"
+    ],
+    "id": "chen-guang-xi-wei"
+  },
+  {
+    "chinese": "老谋深算",
+    "pinyin": "lǎo móu shēn suàn",
+    "literal": "experienced, planning, deep, calculating",
+    "meaning": "Describes someone who is shrewd, experienced, and deliberate, making careful plans with far-reaching foresight. It conveys seasoned judgment and cunning prudence, often applied to a veteran strategist or operator. The tone can be admiring or wary depending on context.",
+    "origin": "The idiom appears in the late Qing dynasty novel 'Nie Hai Hua' (Flower in a Sea of Retribution) by Zeng Pu, first published in 1905. In chapter 29, the author writes '沉毅哉！老谋深算，革命军之军事家' ('How resolute! Deep-scheming and far-sighted, a military strategist of the revolutionary army'), praising a revolutionary commander's calm and farsighted generalship. The phrase combines lao (experienced), mou (stratagem), shen (deep), and suan (calculation), crystallizing the ideal of the battle-tested master planner.",
+    "example_zh": "这个老谋深算的对手，绝不会轻易露出破绽。",
+    "example_en": "This shrewd and calculating opponent will never reveal his weaknesses easily.",
+    "category": "Wisdom",
+    "similar": [
+      "深谋远虑",
+      "足智多谋",
+      "老成持重"
+    ],
+    "opposite": [
+      "有勇无谋",
+      "轻举妄动"
+    ],
+    "id": "lao-mou-shen-suan"
+  },
+  {
+    "chinese": "弃短用长",
+    "pinyin": "qì duǎn yòng cháng",
+    "literal": "abandon short, employ long",
+    "meaning": "弃短用长 means to discard what is weak or deficient while adopting what is strong and beneficial. It advises focusing on strengths and setting aside shortcomings, whether in managing people, choosing methods, or making decisions. The idiom is essentially synonymous with 弃短就长, emphasizing pragmatic selection over dwelling on flaws.",
+    "origin": "No specific origin story or documented source text is recorded for 弃短用长, as standard references list its 出处 as 无 (none). The expression is a variant of the related idiom 弃短就长, which shares the same meaning of abandoning weaknesses and adopting strengths. The underlying idea can be traced to classical Chinese discourse on employing talent and governing, where rulers and strategists were advised to use people according to their strong points. Over time, the phrase became a general principle for evaluating people, tools, and approaches.",
+    "example_zh": "管理者应当弃短用长，让每位员工发挥最大价值。",
+    "example_en": "A manager should discard weaknesses and employ strengths, letting every employee realize their greatest value.",
+    "category": "Method",
+    "similar": [
+      "弃短就长",
+      "取长补短",
+      "扬长避短"
+    ],
+    "opposite": [
+      "舍长取短"
+    ],
+    "id": "qi-duan-yong-chang"
+  },
+  {
+    "chinese": "庸中皦皦",
+    "pinyin": "yōng zhōng bì tóng",
+    "literal": "among the mediocre, outstanding",
+    "meaning": "The idiom means \"the outstanding one among the mediocre\" — a person whose talent and ability stand out conspicuously when compared with the ordinary people around them. It is used as high praise for someone who is clearly superior to their peers, and is a variant of the more common expression 庸中佼佼.",
+    "origin": "The phrase is recorded in the \"Luo River\" (洛水) chapter of the Commentary on the Water Classic (水经注), written by Li Daoyuan in the Northern Wei dynasty (386–534 AD). In it, a ruler sighs in admiration: \"卿庸中皦皦，铁中铮铮也\" — \"You are the outstanding one among the mediocre, the clanging one among iron.\" The wording echoes an earlier Eastern Han tradition: according to the Book of the Later Han (后汉书·刘盆子传), Emperor Guangwu once praised the surrendered Chimei chancellor Xu Xuan as \"铁中铮铮，庸中佼佼\" (the clanging among iron, the outstanding among the mediocre). Li Daoyuan rewrote 佼佼 with the variant character 皦, giving rise to the form 庸中皦皦.",
+    "example_zh": "他在公司里庸中皦皦，业绩远超同侪，很快便获升迁。",
+    "example_en": "Among his colleagues he was the one who stood out from the mediocre crowd; with results far surpassing his peers, he was soon promoted.",
+    "category": "Quality",
+    "similar": [
+      "庸中佼佼",
+      "出类拔萃",
+      "鹤立鸡群"
+    ],
+    "opposite": [
+      "平平无奇",
+      "泯然众人"
+    ],
+    "id": "yong-zhong-bi-tong"
+  },
+  {
+    "chinese": "杀人放火",
+    "pinyin": "shā rén fàng huǒ",
+    "literal": "kill people, set fire",
+    "meaning": "To murder and commit arson — utterly lawless, violent criminal behavior. The idiom describes outlaws or villains who act with total disregard for law and human life. It is used figuratively to condemn any act of extreme violence and brutality.",
+    "origin": "The idiom appears in the second act of the Yuan-dynasty anonymous zaju play Huanghuayu (《黄花峪》): 'Hearing that killing and burning are his specialty, displaying his heroic might.' It also appears in the Qing-dynasty novel The Complete Story of Yue Fei (《说岳全传》, chapter 55) by Qian Cai, where it describes a man who lived by murder and arson before being taken into service under General Yang. From these works, the phrase came to stand for the deeds of lawless bandits and violent criminals.",
+    "example_zh": "那伙暴徒杀人放火，做尽恶事。",
+    "example_en": "That gang of thugs killed people and set fires, committing every kind of evil.",
+    "category": "Action",
+    "similar": [
+      "烧杀抢掠",
+      "为非作歹",
+      "无法无天"
+    ],
+    "opposite": [
+      "安分守己",
+      "遵纪守法"
+    ],
+    "id": "sha-ren-fang-huo"
+  },
+  {
+    "chinese": "山鸡舞镜",
+    "pinyin": "shān jī wǔ jìng",
+    "literal": "mountain pheasant, dances, mirror",
+    "meaning": "Literally referring to a pheasant dancing before its own reflection in a mirror, this idiom describes someone who is deeply infatuated with and admires their own appearance or talents. It conveys the idea of self-appreciation, often with a slightly mocking tone toward narcissistic or vain behavior.",
+    "origin": "The idiom comes from 'Yiyuan' (Records of Strange Things), volume 3, by Liu Jingshu of the Liu Song dynasty in the Southern Dynasties period. A mountain pheasant so loved its own brilliant feathers that it would dance whenever it caught its reflection in water. During the time of Cao Cao, a southern state presented such a pheasant to the court, and the emperor, wishing to see it sing and dance, could find no way to make it do so. His son Cao Chong had a large mirror placed before the bird, and when the pheasant saw its own image it danced ceaselessly, unable to stop, until it died of exhaustion.",
+    "example_zh": "他得了点小成就便山鸡舞镜，逢人就要炫耀一番。",
+    "example_en": "After a small achievement, he began preening like a pheasant dancing before the mirror, showing off to everyone he met.",
+    "category": "Attitude",
+    "similar": [
+      "孤芳自赏",
+      "顾影自怜",
+      "自我陶醉"
+    ],
+    "opposite": [
+      "妄自菲薄",
+      "自惭形秽"
+    ],
+    "id": "shan-ji-wu-jing"
+  },
+  {
+    "chinese": "好梦难圆",
+    "pinyin": "hǎo mèng nán yuán",
+    "literal": "good dream, difficult to complete",
+    "meaning": "This idiom means that good things or cherished wishes are hard to realize, just as a beautiful dream is easily broken and hard to fulfill. It expresses a sense of regret that one's hopes and aspirations often fail to come true in reality.",
+    "origin": "The idiom originates from the Ming dynasty playwright Tang Xianzu's play 'The Purple Hairpin' (Zichai Ji), in the scene 'Jiao Chai Yuan'. In the text, the line '彩云轻散，好梦难圆' (the colorful clouds lightly scatter, the good dream is hard to complete) uses the imagery of a fragile, fleeting dream to symbolize the difficulty of achieving happiness and fulfillment. Tang Xianzu, one of the greatest dramatists of the Ming dynasty, frequently employed poetic metaphors of dreams and clouds to convey the transience of human wishes. The phrase has since become a common saying for regret over unrealized hopes.",
+    "example_zh": "他苦等多年却始终无法圆梦，真是好梦难圆。",
+    "example_en": "He waited for years but could never fulfill his dream—truly, a good dream is hard to realize.",
+    "category": "Philosophy",
+    "similar": [
+      "美梦成空",
+      "事与愿违",
+      "好事多磨"
+    ],
+    "opposite": [
+      "美梦成真",
+      "如愿以偿"
+    ],
+    "id": "hao-meng-nan-yuan"
+  },
+  {
+    "chinese": "百花生日",
+    "pinyin": "bǎi huā shēng rì",
+    "literal": "hundred, flower, birthday",
+    "meaning": "The Birthday of the Hundred Flowers is the traditional name for the twelfth day of the second lunar month, also known as the Flower Festival (花朝). On this day it was believed that all flowers held their birthday, and fine weather portended an abundant blooming season. The term embodies an old agrarian folk custom of celebrating spring and the flowering of plants.",
+    "origin": "The expression derives from Qing dynasty scholar Qin Weiyun's (秦味芸) compendium Yueling Cuibian (《月令粹编》), volume 5, which quotes the ancient work Taozhu Gongshu (《陶朱公书》): 'The twelfth day of the second month is the birthday of the hundred flowers. If there is no rain, the hundred flowers will ripen well.' This stems from the traditional Flower Festival (花朝节) custom of mid-spring, when people honored the flowers as a collective birthday. The citation illustrates how an everyday seasonal observation was elevated into a fixed festival name in folk tradition.",
+    "example_zh": "每年二月十二日的百花生日，人们踏青赏花以贺百花盛开。",
+    "example_en": "On the Birthday of the Hundred Flowers, the twelfth day of the second lunar month, people go on spring outings to admire the blossoms in celebration.",
+    "category": "Lifestyle",
+    "similar": [
+      "花朝月夕",
+      "鸟语花香",
+      "百花齐放"
+    ],
+    "opposite": [
+      "花残月缺",
+      "落花流水"
+    ],
+    "id": "bai-hua-sheng-ri"
   }
 ]

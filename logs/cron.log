@@ -9013,3 +9013,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-07 12:00:19] === Catch-up push done ===
 [2026-09-07 20:00:00] === Catch-up push start (10 unpushed commits) ===
+[main 219428b] Auto-update: 2026-09-07 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   32bcda6..219428b  main -> main
+
+Push OK (attempt 1)
+[2026-09-07 20:00:05] === Catch-up push done ===
+[2026-09-08 03:15:00] === Daily cron start ===
+[2026-09-08 03:15:00] === Daily cron start ===
+[2026-09-08 03:15:00] Generating 10 new idioms...
+[2026-09-08 03:15:00] Generating 10 new idioms...
+Existing: 4758 idioms
+Whitelist: 30894 total
+Candidates available: 24743 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 宿水飡风 (xiǔ shuǐ cān fēng)
+    OK (saved, total now: 4759): literal='lodge overnight, water, eat, wind...'
+[2/10] -> 浑沦吞枣 (hún lún tūn zǎo)
+    OK (saved, total now: 4760): literal='whole, swallow, date...'
+[3/10] -> 晨光熹微 (chén guāng xī wēi)
+    OK (saved, total now: 4761): literal='morning, light, faint glow, dim...'
+[4/10] -> 老谋深算 (lǎo móu shēn suàn)
+    OK (saved, total now: 4762): literal='experienced, planning, deep, calculating...'
+[5/10] -> 弃短用长 (qì duǎn yòng cháng)
+    OK (saved, total now: 4763): literal='abandon short, employ long...'
+[6/10] -> 庸中皦皦 (yōng zhōng bì tóng)
+    OK (saved, total now: 4764): literal='among the mediocre, outstanding...'
+[7/10] -> 杀人放火 (shā rén fàng huǒ)
+    OK (saved, total now: 4765): literal='kill people, set fire...'
+[8/10] -> 山鸡舞镜 (shān jī wǔ jìng)
+    OK (saved, total now: 4766): literal='mountain pheasant, dances, mirror...'
+[9/10] -> 好梦难圆 (hǎo mèng nán yuán)
+    OK (saved, total now: 4767): literal='good dream, difficult to complete...'
+[10/10] -> 百花生日 (bǎi huā shēng rì)
+    OK (saved, total now: 4768): literal='hundred, flower, birthday...'
+
+Added 10 idioms. Total: 4768
+[2026-09-08 03:19:33] Generation OK
+[2026-09-08 03:19:33] Generation OK
+[2026-09-08 03:19:33] Regenerating site...
+[2026-09-08 03:19:33] Regenerating site...
+Loading data...
+  → 4768 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4768 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4768 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-08 03:19:47] Site regenerated
+[2026-09-08 03:19:47] Site regenerated
+[2026-09-08 03:19:47] Pushing to GitHub...
+[2026-09-08 03:19:47] Pushing to GitHub...
