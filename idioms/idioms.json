@@ -94791,5 +94791,204 @@
       "落花流水"
     ],
     "id": "bai-hua-sheng-ri"
+  },
+  {
+    "chinese": "日中则移",
+    "pinyin": "rì zhōng zé yí",
+    "literal": "sun, zenith, then, moves",
+    "meaning": "When the sun reaches its highest point at noon, it inevitably begins to move downward. Figuratively, it describes how any thing, once it develops to a peak, will begin to turn in the opposite direction. It conveys the dialectical idea that extremes are followed by reversal.",
+    "origin": "No specific origin story or source text is recorded for this idiom in classical literature, and it does not appear as a standalone quotation in the received classics. It is a variant form of the more established idiom 日中则昃, whose earliest known source is the Book of Changes (易经), specifically the hexagram Feng (丰卦), which states: '日中则昃,月盈则食' (When the sun reaches noon it begins to decline; when the moon becomes full it begins to wane). That passage, attributed to the Zhou dynasty tradition and later expounded in the Ten Wings, expresses the same natural-law observation that peak states inevitably give way to decline, and 日中则移 carries that shared philosophical meaning.",
+    "example_zh": "日中则移，再辉煌的事业也有走向低谷的一天。",
+    "example_en": "When the sun passes its zenith it must descend; even the most glorious undertaking will one day head toward its low point.",
+    "category": "Philosophy",
+    "similar": [
+      "日中则昃",
+      "月满则亏",
+      "盛极必衰"
+    ],
+    "opposite": [
+      "常盛不衰",
+      "一成不变"
+    ],
+    "id": "ri-zhong-ze-yi"
+  },
+  {
+    "chinese": "华亭鹤唳",
+    "pinyin": "huà tíng hè lì",
+    "literal": "Huating, crane, cry",
+    "meaning": "The crane calls of Huating, used as an allusion to a lost, carefree past. The idiom expresses deep nostalgia and longing for one's former life, lamenting that such peaceful days can never be recovered. It often carries a note of regret over the price paid for ambition or worldly pursuits.",
+    "origin": "The idiom originates from Liu Yiqing's Shishuo Xinyu (A New Account of Tales of the World), compiled in the Liu Song period of the Southern Dynasties. It recounts the death of Lu Ji (261-303), a celebrated writer of the Western Jin dynasty. During the 'War of the Eight Princes' at the end of the Western Jin, Lu Ji served General Sima Ying but was defeated in battle and, slandered by jealous rivals, was sentenced to death. As he was led to execution he sighed: 'I long to hear the crane cries of Huating again — could that ever be possible?' Lu Ji had once led a carefree life at Huating (present-day Songjiang, Shanghai), and his lament became a timeless symbol of yearning for an irretrievably peaceful past.",
+    "example_zh": "他晚年隐居山林，常忆华亭鹤唳，叹往昔岁月难再。",
+    "example_en": "In his later years he retired to the mountains, often recalling the crane calls of Huating and lamenting that the good old days could never return.",
+    "category": "Emotion",
+    "similar": [
+      "物是人非",
+      "魂牵梦萦",
+      "念念不忘"
+    ],
+    "opposite": [
+      "喜新厌旧",
+      "随遇而安"
+    ],
+    "id": "hua-ting-he-li"
+  },
+  {
+    "chinese": "伶俐乖巧",
+    "pinyin": "líng lì guāi qiǎo",
+    "literal": "clever, nimble, well-behaved, agreeable",
+    "meaning": "Describes a person who is quick-witted and sharp, yet also well-mannered and pleasant in a way that pleases others. Such a person combines mental agility with a likable, accommodating demeanor, making them easy to get along with and satisfying to deal with.",
+    "origin": "The idiom appears in the Ming dynasty writer Feng Menglong's vernacular story collection Illustrious Words to Instruct the World (喻世明言), in the tale \"Jiang Xingge Reunites with the Pearl Shirt.\" In the story, the young Jiang Xingge accompanies his father on business trips; after making the rounds several times, he becomes shrewd, adaptable, and well-mannered in the ways of trade, mastering all kinds of business skills. From this depiction of a clever and agreeable youth, the phrase came to describe anyone who is sharp-witted yet endearingly well-behaved.",
+    "example_zh": "这孩子伶俐乖巧，深得老师和邻居们的喜爱。",
+    "example_en": "This child is clever and well-mannered, deeply loved by the teachers and the neighbors.",
+    "category": "Quality",
+    "similar": [
+      "聪明伶俐",
+      "冰雪聪明",
+      "善解人意"
+    ],
+    "opposite": [
+      "呆头呆脑",
+      "愚钝笨拙"
+    ],
+    "id": "ling-li-guai-qiao"
+  },
+  {
+    "chinese": "神领意造",
+    "pinyin": "shén lǐng yì zào",
+    "literal": "spirit, comprehend, mind, create",
+    "meaning": "Describes the artistic process in which one grasps and gives form to artistic images through deep spiritual insight rather than mechanical copying. It emphasizes intuition, inspiration, and spiritual communion with the subject, treating the artwork as something born from the artist's inner vision.",
+    "origin": "No documented origin has been recorded for this idiom in classical texts. It belongs to the vocabulary of traditional Chinese aesthetic and art theory, where the mind's spiritual engagement (神) with the subject is regarded as the wellspring of genuine creation. Its spirit echoes the emphasis on inspiration and imagistic thought found in works like The Literary Mind and the Carving of Dragons, though no single source can be credited. The phrase is used in discussions of painting and poetry to describe the moment when understanding and invention become one.",
+    "example_zh": "画家创作时神领意造，笔下山水便有了灵气。",
+    "example_en": "When the painter creates, his spirit comprehends and his mind forges the image, so the mountains and waters beneath his brush are filled with life.",
+    "category": "Method",
+    "similar": [
+      "心领神会",
+      "出神入化",
+      "神来之笔"
+    ],
+    "opposite": [
+      "照猫画虎",
+      "生搬硬套"
+    ],
+    "id": "shen-ling-yi-zao"
+  },
+  {
+    "chinese": "至人无梦",
+    "pinyin": "zhì rén wú mèng",
+    "literal": "supreme person, without dream",
+    "meaning": "This idiom refers to a person who has reached the highest level of moral and spiritual cultivation. Such a person's mind is pure, tranquil, and undisturbed by worldly thoughts, so they do not have wild, fanciful dreams. It praises someone whose character is so lofty that even their subconscious is free of delusion.",
+    "origin": "The phrase appears in Qing dynasty author Qian Cai's historical novel 'Shuo Yue Quan Zhuan' (Tales of Yue Fei), in chapter 59, where it is written: 'Since ancient times, the supreme person has no dreams; if a dream suddenly comes, it may not be without omen.' The concept of the 'supreme person' (至人) originates from ancient Daoist philosophy, particularly the Zhuangzi, where it denotes one who has transcended worldly attachments and attained perfect harmony with the Way. In the novel's context, the line is used to suggest that when such a rare dream does occur to a noble person, it may carry prophetic significance. Over time, the idiom became a standard expression of praise for those of exemplary moral character.",
+    "example_zh": "他心境澄明，夜夜安眠，真可谓至人无梦。",
+    "example_en": "His mind is clear and serene, and he sleeps soundly every night — he truly exemplifies the supreme person who has no dreams.",
+    "category": "Morality",
+    "similar": [
+      "心如止水",
+      "清心寡欲",
+      "无欲则刚"
+    ],
+    "opposite": [
+      "想入非非",
+      "胡思乱想"
+    ],
+    "id": "zhi-ren-wu-meng"
+  },
+  {
+    "chinese": "阒无一人",
+    "pinyin": "qù wú yī rén",
+    "literal": "quiet, without, one, person",
+    "meaning": "Describes a place that is completely empty and silent, with not a single person present. It emphasizes both the physical emptiness and the profound stillness of a location, often evoking a sense of desolation or eerie quiet.",
+    "origin": "The idiom originates from volume four of Miscellany of Guangyang (《广阳杂记》) by Liu Xianting (刘献廷) of the Qing dynasty. In the text, the author recounts dreaming of a place where he saw a meditation couch, table, and staff lying desolate and untouched, yet the place was completely silent with no one around. The phrase captures the striking emptiness of that scene. It was later echoed in Jottings from the Yuewei Hermitage (《阅微草堂笔记》) by the Qing scholar Ji Yun (纪昀), where it describes entering a place over a wall to find it utterly deserted.",
+    "example_zh": "夜深了，昔日热闹的集市阒无一人，只剩下寒风呼啸。",
+    "example_en": "Late at night, the once-bustling market was utterly deserted, with no one in sight and only the howling of the cold wind remaining.",
+    "category": "Condition",
+    "similar": [
+      "空无一人",
+      "万籁俱寂",
+      "人迹罕至"
+    ],
+    "opposite": [
+      "人山人海",
+      "络绎不绝"
+    ],
+    "id": "qu-wu-yi-ren"
+  },
+  {
+    "chinese": "交头接耳",
+    "pinyin": "jiāo tóu jiē ěr",
+    "literal": "join heads, connect ears",
+    "meaning": "To put one's head close to another's and speak into their ear; to whisper privately together. It describes two or more people huddling closely and talking in low, secretive voices, often implying that they are exchanging private or gossipy remarks out of others' hearing.",
+    "origin": "The idiom originates from the Yuan Dynasty playwright Guan Hanqing's zaju play \"Dan Dao Hui\" (Meeting at Single Sword), in the third act of which a character orders, \"No whispering head-to-head, no laughing and chattering loudly.\" Guan Hanqing was one of the most celebrated dramatists of the Yuan Dynasty (13th–14th century). The phrase pairs the images of heads leaning together and ears drawing close to vividly capture the act of secretive, hushed conversation.",
+    "example_zh": "考试时他们交头接耳，监考老师走过来提醒了他们。",
+    "example_en": "During the exam they kept whispering head-to-head, so the proctor came over and warned them.",
+    "category": "Communication",
+    "similar": [
+      "窃窃私语",
+      "低声细语",
+      "咬耳朵"
+    ],
+    "opposite": [
+      "大声喧哗",
+      "高谈阔论"
+    ],
+    "id": "jiao-tou-jie-er"
+  },
+  {
+    "chinese": "赤舌烧城",
+    "pinyin": "chì shé shāo chéng",
+    "literal": "red, tongue, burn, city",
+    "meaning": "A red tongue like fire can burn down a city. This idiom describes how slanderous or divisive words can cause immense harm to a person, just as fire can destroy a whole city. It warns that vicious gossip and malicious talk are as destructive as an inferno.",
+    "origin": "The idiom originates from the Han dynasty scholar Yang Xiong's work Taixuanjing (太玄经), in the 'Gan' (干) chapter, which reads: 'A red tongue burns the city; spit water into the bottle' (赤舌烧城，吐水于瓶). The phrase likens the tongue, when used for slander, to a blazing red flame capable of razing a city. Later, in the Qing dynasty, Chen Benli's commentary Taixuan Tance elaborated that petty people fabricate accusations to harm the virtuous, and their tongues are as red as fire, threatening to burn down the city — reinforcing the idea that calumny is as ruinous as fire itself.",
+    "example_zh": "网络上的造谣污蔑如赤舌烧城，竟能毁掉一个人的清白。",
+    "example_en": "Malicious rumors online spread like a red tongue burning the city, and can destroy a person's innocence in an instant.",
+    "category": "Communication",
+    "similar": [
+      "众口铄金",
+      "积毁销骨",
+      "人言可畏"
+    ],
+    "opposite": [
+      "口角春风",
+      "忠言逆耳"
+    ],
+    "id": "chi-she-shao-cheng"
+  },
+  {
+    "chinese": "貂裘换酒",
+    "pinyin": "diāo qiú huàn jiǔ",
+    "literal": "sable fur coat, exchange, wine",
+    "meaning": "To trade a precious sable fur coat for a drink of wine. It describes a wealthy or noble person living a wanton, unrestrained, and extravagant lifestyle, valuing immediate pleasure over material possessions.",
+    "origin": "The idiom comes from the biography of Ruan Fu in the Book of Jin (《晋书·阮孚传》), a historical text of the Tang dynasty covering the Jin dynasty. Ruan Fu, a high-ranking official serving as Huangmen Shilang and Sanqi Changshi, was known for his free-spirited and unconventional character. He once traded his official golden marten-fur robe for wine, and was subsequently impeached by the censorial officials for this reckless act. The anecdote became a classic symbol of aristocratic dissipation and disregard for rank and wealth.",
+    "example_zh": "他虽是富家子弟，却常做貂裘换酒的放荡之事。",
+    "example_en": "Although he was born into a wealthy family, he often did reckless things like trading his sable coat for wine.",
+    "category": "Lifestyle",
+    "similar": [
+      "千金买醉",
+      "挥金如土",
+      "放浪形骸"
+    ],
+    "opposite": [
+      "克勤克俭",
+      "省吃俭用"
+    ],
+    "id": "diao-qiu-huan-jiu"
+  },
+  {
+    "chinese": "鼓腹含哺",
+    "pinyin": "gǔ fù hán bǔ",
+    "literal": "puff out belly, hold food in mouth",
+    "meaning": "Describes a life of carefree contentment in peaceful times, where people have plenty to eat and live at ease. The image is of a person with a full, distended belly holding food in their mouth, leisurely and without worry. It conveys the ideal of a tranquil, prosperous era free from hardship.",
+    "origin": "The idiom originates from the 'Horses' Hooves' chapter of the Daoist classic Zhuangzi, attributed to the philosopher Zhuang Zhou of the Warring States period. The text recalls the age of the legendary ancient ruler Hexushi, when people rested without knowing why and wandered without fixed destination. They would hold food in their mouths while playing and drum their full bellies while strolling, living in effortless simplicity. Zhuangzi used this image to praise the natural, carefree state of humanity before complex governance and artificial institutions arose.",
+    "example_zh": "太平年间，百姓鼓腹含哺，尽享安逸之乐。",
+    "example_en": "In peaceful times, the common people live in contentment, with full bellies and food in hand, enjoying lives of ease and leisure.",
+    "category": "Lifestyle",
+    "similar": [
+      "安居乐业",
+      "丰衣足食"
+    ],
+    "opposite": [
+      "民不聊生",
+      "颠沛流离"
+    ],
+    "id": "gu-fu-han-bu"
   }
 ]
