@@ -94990,5 +94990,205 @@
       "颠沛流离"
     ],
     "id": "gu-fu-han-bu"
+  },
+  {
+    "chinese": "挢枉过正",
+    "pinyin": "jiǎo wǎng guò zhèng",
+    "literal": "straighten, crooked, exceed, upright",
+    "meaning": "This idiom means correcting a deviation or error but going beyond the necessary limit, overshooting the mark in the course of setting things right. It describes remedial measures that are so excessive that a new problem is created while trying to fix an old one. The character 挢 is the original classical form of the more common 矫.",
+    "origin": "In the Eastern Han dynasty, historian Ban Gu (班固) wrote the Book of Han (汉书), a monumental dynastic history. In the preface to its 'Table of the Feudal Princes' (诸侯王表序), he reviewed how the Qin dynasty abolished feudal enfeoffment and how the early Han overcorrected by enfeoffing princes so lavishly that the largest kingdoms spanned provinces, commanded dozens of cities, and maintained palaces and officials on par with the imperial capital. Ban Gu concluded that such a state of affairs could be described as '挢枉过其正矣' — bending a crooked thing past the point of straightness, that is, overcorrecting. From this passage the idiom, traditionally written 矫枉过正, was derived.",
+    "example_zh": "整顿市场秩序不可挢枉过正，以免误伤正常经营。",
+    "example_en": "When rectifying market order, one must not overcorrect, lest it unfairly harm normal businesses.",
+    "category": "Method",
+    "similar": [
+      "矫枉过正",
+      "过犹不及",
+      "因噎废食"
+    ],
+    "opposite": [
+      "恰到好处",
+      "适可而止"
+    ],
+    "id": "jiao-wang-guo-zheng"
+  },
+  {
+    "chinese": "一针见血",
+    "pinyin": "yī zhēn jiàn xiě",
+    "literal": "one, needle, see, blood",
+    "meaning": "This idiom describes speech or writing that is direct, incisive, and strikes straight at the heart of a matter. Just as a single acupuncture needle draws blood at once, the words immediately expose the crux of a problem with no hesitation or hedging. It is used to praise criticism or analysis that cuts to the essential point.",
+    "origin": "The expression draws on the imagery of acupuncture (针灸), where a single needle prick draws blood immediately — a metaphor for striking precisely and effectively at the vital point. As a set idiom, it is famously documented in Mao Zedong's 1942 essay 《反对党八股》(Opposing the Party's Eight-Legged Essay), written during the Yan'an Rectification Movement. In that work Mao uses it to describe criticism that lays bare the faults of stereotyped, empty writing: \"Isn't this hitting our shortcomings right on the mark?\" The essay established the phrase as a standard way to praise remarks that go straight to the essence of a question.",
+    "example_zh": "他一句话就一针见血地指出了问题的要害。",
+    "example_en": "He hit the nail on the head with a single sentence, pointing straight to the crux of the problem.",
+    "category": "Communication",
+    "similar": [
+      "切中要害",
+      "一语中的",
+      "入木三分"
+    ],
+    "opposite": [
+      "隔靴搔痒",
+      "拐弯抹角"
+    ],
+    "id": "yi-zhen-jian-xie"
+  },
+  {
+    "chinese": "禾黍故宫",
+    "pinyin": "hé shǔ gù gōng",
+    "literal": "grain, millet, old palace",
+    "meaning": "Describes a scene where the former palace grounds have become farmland overgrown with grain and millet. It is used to depict the desolate, ruined appearance of a fallen nation or dynasty. The image conveys deep sorrow over the decline and loss of a once-glorious capital.",
+    "origin": "The allusion traces back to the fall of the Western Zhou dynasty, when the Zhou capital Hao (宗周) was abandoned after the royal court was forced eastward. According to the 'Shijing' (Book of Songs), a Zhou official traveling through the old capital saw the former ancestral temples and palaces overgrown with grain and millet, and wrote the poem 'Shu Li' (黍离) lamenting the ruins. A related tradition tells of Jizi, a survivor of the conquered Shang dynasty, who composed the 'Maixiu' song upon seeing the former Shang capital reduced to wheat fields. The idiom proper is cited from the late Qing novel 'Tong Shi' (痛史) by Wu Jianren, in chapter 17, where the narrator, traveling through a land of national ruin, remarks that all he sees feels changed and he cannot bear the feeling of millet growing over the old palace.",
+    "example_zh": "故地重游，只见禾黍故宫，令人不胜今昔之感。",
+    "example_en": "Visiting the old site again, one sees only millet growing over the former palace, filling one with unbearable sorrow at the contrast between past and present.",
+    "category": "Condition",
+    "similar": [
+      "黍离麦秀",
+      "故宫禾黍",
+      "断壁残垣"
+    ],
+    "opposite": [
+      "欣欣向荣",
+      "繁华似锦"
+    ],
+    "id": "he-shu-gu-gong"
+  },
+  {
+    "chinese": "迷惑视听",
+    "pinyin": "mí huò shì tīng",
+    "literal": "confuse, bewilder, sight, hearing",
+    "meaning": "To confuse people's eyes and ears, leaving them unable to distinguish truth from falsehood. It describes using erroneous or deceptive statements to mislead society and poison the minds of the public. The idiom emphasizes deliberately spreading falsehoods to manipulate public perception.",
+    "origin": "This idiom has no recorded classical origin, and no specific dynasty or historical figure is associated with its creation. It is a modern compound formation built from the characters 迷 (to confuse) and 惑 (to bewilder), paired with 视 (sight) and 听 (hearing), representing the senses through which people perceive information. It is structurally parallel to the more established idiom 混淆视听 (to confuse and mislead public opinion), and shares its core semantic of obfuscating truth. The idiom entered common usage as a rhetorical device to condemn rumor-mongering and deceptive propaganda.",
+    "example_zh": "谣言惑众，迷惑视听，必须严加查处。",
+    "example_en": "Rumors mislead the public and confuse people's ears and eyes, so they must be strictly investigated and punished.",
+    "category": "Communication",
+    "similar": [
+      "混淆视听",
+      "蛊惑人心",
+      "造谣惑众"
+    ],
+    "opposite": [
+      "以正视听",
+      "实事求是"
+    ],
+    "id": "mi-huo-shi-ting"
+  },
+  {
+    "chinese": "因循守旧",
+    "pinyin": "yīn xún shǒu jiù",
+    "literal": "follow, abide, keep, old",
+    "meaning": "To cling to old ways and follow established conventions without change. It describes a conservative mindset that resists innovation and progress. The idiom carries a mildly negative connotation, implying stagnation caused by an unwillingness to adapt.",
+    "origin": "The idiom traces back to the Book of Han (《汉书》), the official history of the Western Han dynasty compiled by Ban Gu in the Eastern Han dynasty. In the preface to the Biographies of Upright Officials (《循吏传序》), the text reads '光因循守职，无所改作' (Guang followed precedent in his office and made no changes), praising an official who maintained established practice. Over time, the phrase evolved from '因循守职' (follow precedent in office) to the modern form '因循守旧', shifting its focus from faithful administration to a general criticism of clinging to outdated ways and lacking the spirit of innovation.",
+    "example_zh": "如果因循守旧不求进取，那么人就不会进步。",
+    "example_en": "If one clings to old ways and does not strive for progress, then one will never improve.",
+    "category": "Attitude",
+    "similar": [
+      "墨守成规",
+      "故步自封",
+      "抱残守缺"
+    ],
+    "opposite": [
+      "推陈出新",
+      "革故鼎新"
+    ],
+    "id": "yin-xun-shou-jiu"
+  },
+  {
+    "chinese": "浅见寡闻",
+    "pinyin": "qiǎn jiàn guǎ wén",
+    "literal": "shallow, views, few, heard",
+    "meaning": "A shallow view and little that one has heard. Describes a person whose knowledge and experience are limited, and who is poorly informed about the world. The idiom is often used as a modest self-description acknowledging one's own narrow perspective.",
+    "origin": "The idiom comes from the Records of the Grand Historian (史记), written by Sima Qian in the Western Han dynasty. In the concluding commentary to the chapter on the Five Emperors (五帝本纪赞), Sima Qian writes that without diligent study and deep reflection to grasp the inner meaning, it is hard to explain such matters to those of shallow views and scanty knowledge. The phrase thereby became a standard way to characterize, or modestly admit to, limited learning and narrow experience.",
+    "example_zh": "我自知浅见寡闻，实在不敢对先生的学问妄加评论。",
+    "example_en": "Knowing that my views are shallow and my knowledge limited, I truly dare not presume to comment on your scholarship.",
+    "category": "Knowledge",
+    "similar": [
+      "孤陋寡闻",
+      "井底之蛙",
+      "坐井观天"
+    ],
+    "opposite": [
+      "见多识广",
+      "博闻强识"
+    ],
+    "id": "qian-jian-gua-wen"
+  },
+  {
+    "chinese": "真赃实犯",
+    "pinyin": "zhēn zāng shí fàn",
+    "literal": "true, stolen goods, actual, criminal",
+    "meaning": "The stolen goods are genuine and the culprit is a confirmed, real offender. The phrase describes a case in which criminal evidence is conclusive and irrefutable, leaving no doubt about the guilt.",
+    "origin": "No authoritative origin story is recorded for this idiom, and no specific dynasty or historical figure is associated with its coinage. It appears to have formed from the pairing of two legal concepts in traditional Chinese jurisprudence: 赃 (stolen goods as physical evidence) and 犯 (the perpetrator of a crime). The four characters together emphasize that both the material evidence and the identity of the criminal are genuine, giving the phrase its sense of airtight, proven guilt in colloquial and legal usage.",
+    "example_zh": "警方掌握了真赃实犯，犯罪嫌疑人无法抵赖。",
+    "example_en": "The police have the genuine stolen goods and the proven culprit, so the suspect cannot deny the crime.",
+    "category": "Morality",
+    "similar": [
+      "人赃并获",
+      "铁证如山",
+      "证据确凿"
+    ],
+    "opposite": [
+      "查无实据",
+      "无凭无据"
+    ],
+    "id": "zhen-zang-shi-fan"
+  },
+  {
+    "chinese": "谈若悬河",
+    "pinyin": "tán ruò xuán hé",
+    "literal": "talk, as if, hanging, river",
+    "meaning": "Speaks as fluently and unstoppably as a river in full flood; describes someone who is eloquent and glib, talking on and on without end. It is another way of saying 口若悬河 (mouth like a hanging river).",
+    "origin": "This idiom is a variant of 口若悬河. The original phrase comes from Shi Shuo Xin Yu (New Tales of the World), compiled by Liu Yiqing of the Liu Song dynasty in the Southern Dynasties period, which records the Western Jin figure Wang Yan praising the philosopher Guo Xiang (Guo Zixuan): 'When Guo Zixuan discusses, his words pour down like a hanging river, never running dry.' The image of an endless torrent of speech later became a stock metaphor for brilliant eloquence, and 谈若悬河 arose as a synonym conveying the same meaning of tireless, eloquent talk.",
+    "example_zh": "他在辩论赛上谈若悬河，令对手难以招架。",
+    "example_en": "He spoke as fluently as a pouring river during the debate, leaving his opponents unable to parry his words.",
+    "category": "Communication",
+    "similar": [
+      "口若悬河",
+      "滔滔不绝",
+      "侃侃而谈"
+    ],
+    "opposite": [
+      "笨嘴拙舌",
+      "木讷寡言"
+    ],
+    "id": "tan-ruo-xuan-he"
+  },
+  {
+    "chinese": "倜傥不羁",
+    "pinyin": "tì tǎng bù jī",
+    "literal": "free-spirited, not, tethered",
+    "meaning": "Describes someone who is dashing, unrestrained, and free from convention, carrying themselves with elegance and bold ease. The word 倜傥 conveys a handsome, unconventional air, while 羁 (a horse's halter) symbolizes the bonds and constraints such a person refuses to accept.",
+    "origin": "The idiom appears in the Book of Jin (晋书), in the biography of Yuan Dan (袁耽), whose courtesy name was Yandao. From a young age he displayed remarkable talent and an unbridled, free-spirited nature, and he was highly regarded by the scholarly community of his day. Compiled during the Tang dynasty, the Book of Jin records figures of the Jin dynasty (3rd–5th century), and this description of Yuan Dan became the classical source for praising a person's unrestrained and dashing character.",
+    "example_zh": "他生性倜傥不羁，从不被世俗规矩束缚。",
+    "example_en": "By nature he was dashing and unrestrained, never bound by the conventions of the world.",
+    "category": "Lifestyle",
+    "similar": [
+      "风流倜傥",
+      "放荡不羁",
+      "潇洒不羁"
+    ],
+    "opposite": [
+      "循规蹈矩",
+      "规行矩步"
+    ],
+    "id": "ti-tang-bu-ji"
+  },
+  {
+    "chinese": "苦尽甜来",
+    "pinyin": "kǔ jìn tián lái",
+    "literal": "bitter, ends, sweet, comes",
+    "meaning": "Bitter hardship finally comes to an end, and sweet, good times arrive. The idiom describes a situation in which one endures difficult circumstances for a long time and is eventually rewarded with happiness, prosperity, or success. It carries a tone of hard-won relief and optimism.",
+    "origin": "The idiom originates from the Yuan dynasty zaju play Romance of the Western Chamber (西厢记) by Wang Shifu, where the line 怎能勾这相思苦尽甘来 expresses that only by enduring the agony of lovesickness with sincere patience could one at last reach its sweet reward. The original text used the character 甘 (sweet), while the later variant 甜 became the more common form in popular usage. The same phrase also appears in the Ming dynasty anthology Qun Yin Lei Xuan (群音类选), in the episode 婆婆夺绢 from the play Jin Yin Ji, where it is paired with 泰生否极 to describe fortune turning from adversity to prosperity.",
+    "example_zh": "多年的艰苦奋斗，如今苦尽甜来，生活总算一天天好起来了。",
+    "example_en": "After years of hard struggle, bitter days are finally over and life is gradually getting better day by day.",
+    "category": "Recovery",
+    "similar": [
+      "苦尽甘来",
+      "否极泰来",
+      "柳暗花明"
+    ],
+    "opposite": [
+      "乐极生悲",
+      "雪上加霜"
+    ],
+    "id": "ku-jin-tian-lai"
   }
 ]
