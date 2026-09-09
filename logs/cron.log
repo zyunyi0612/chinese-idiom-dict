@@ -9208,3 +9208,12 @@ IndexNow OK: HTTP 200, 10 URLs
 [2026-09-09 03:18:19] === Daily cron done ===
 [2026-09-09 03:18:19] === Daily cron done ===
 [2026-09-09 12:00:00] === Catch-up push start (15 unpushed commits) ===
+[main 25810aa] Auto-update: 2026-09-09 12:00 - regenerate idioms
+ 1 file changed, 27 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   f940780..25810aa  main -> main
+
+Push OK (attempt 1)
+[2026-09-09 12:00:04] === Catch-up push done ===
+[2026-09-09 20:00:00] === Catch-up push start (16 unpushed commits) ===
