@@ -9319,3 +9319,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-10 12:00:05] === Catch-up push done ===
 [2026-09-10 20:00:01] === Catch-up push start (19 unpushed commits) ===
+[main 49420a8] Auto-update: 2026-09-10 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   71d6314..49420a8  main -> main
+
+Push OK (attempt 1)
+[2026-09-10 20:00:05] === Catch-up push done ===
+[2026-09-11 03:15:00] === Daily cron start ===
+[2026-09-11 03:15:00] === Daily cron start ===
+[2026-09-11 03:15:00] Generating 10 new idioms...
+[2026-09-11 03:15:00] Generating 10 new idioms...
+Existing: 4788 idioms
+Whitelist: 30894 total
+Candidates available: 24713 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 三窝两块 (sān wō liǎng kuài)
+    OK (saved, total now: 4789): literal='three, nests, two, pieces...'
+[2/10] -> 以心传心 (yǐ xīn chuán xīn)
+    OK (saved, total now: 4790): literal='use heart, transmit heart...'
+[3/10] -> 不辨菽粟 (bù biàn shū sù)
+    OK (saved, total now: 4791): literal='not, distinguish, beans, millet...'
+[4/10] -> 一字一珠 (yī zì yī zhū)
+    OK (saved, total now: 4792): literal='one word, one pearl...'
+[5/10] -> 材疏志大 (cái shū zhì dà)
+    OK (saved, total now: 4793): literal='talent, sparse, ambition, great...'
+[6/10] -> 白发丹心 (bái fà dān xīn)
+    OK (saved, total now: 4794): literal='white hair, sincere heart...'
+[7/10] -> 珠圆玉润 (zhū yuán yù rùn)
+    OK (saved, total now: 4795): literal='pearl, round, jade, smooth...'
+[8/10] -> 积劳成疾 (jī láo chéng jí)
+    OK (saved, total now: 4796): literal='accumulate, toil, become, illness...'
+[9/10] -> 计勋行赏 (jì xūn xíng shǎng)
+    OK (saved, total now: 4797): literal='count, merit, carry out, reward...'
+[10/10] -> 百废具举 (bǎi fèi jù jǔ)
+    OK (saved, total now: 4798): literal='hundred, abandoned, all, undertake...'
+
+Added 10 idioms. Total: 4798
+[2026-09-11 03:18:07] Generation OK
+[2026-09-11 03:18:07] Generation OK
+[2026-09-11 03:18:07] Regenerating site...
+[2026-09-11 03:18:07] Regenerating site...
+Loading data...
+  → 4798 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4798 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4798 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-11 03:18:22] Site regenerated
+[2026-09-11 03:18:22] Site regenerated
+[2026-09-11 03:18:22] Pushing to GitHub...
+[2026-09-11 03:18:22] Pushing to GitHub...

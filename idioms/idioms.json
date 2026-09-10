@@ -95190,5 +95190,205 @@
       "雪上加霜"
     ],
     "id": "ku-jin-tian-lai"
+  },
+  {
+    "chinese": "三窝两块",
+    "pinyin": "sān wō liǎng kuài",
+    "literal": "three, nests, two, pieces",
+    "meaning": "This idiom refers to a man who has wives or concubines settled in more than one household, so that his children are scattered across several families. It can also simply denote having a large number of children. The phrase is a vivid vernacular way of describing a sprawling, divided family arrangement.",
+    "origin": "There is no recorded literary origin or attributed dynasty for this idiom; the authoritative sources list 出处 (origin) as unknown. It is a colloquial folk expression that likely arose from the practice of polygamy and multiple households in old Chinese society, where a wealthy or powerful man might keep wives and concubines in different residences. The characters 窝 (nest) and 块 (piece) suggest separate homes and scattered offspring, evoking the image of children huddled in different nests. It remains a rustic, spoken-style expression rather than a classical literary allusion.",
+    "example_zh": "他年轻时四处纳妾,如今三窝两块,家事也多了起来。",
+    "example_en": "In his youth he took concubines in several places, and now with children scattered across multiple households, family affairs have multiplied.",
+    "category": "Lifestyle",
+    "similar": [
+      "妻妾成群",
+      "儿孙满堂",
+      "多子多福"
+    ],
+    "opposite": [
+      "孤家寡人",
+      "膝下无子"
+    ],
+    "id": "san-wo-liang-kuai"
+  },
+  {
+    "chinese": "以心传心",
+    "pinyin": "yǐ xīn chuán xīn",
+    "literal": "use heart, transmit heart",
+    "meaning": "A term from Chinese Chan (Zen) Buddhism referring to the transmission of the dharma directly from one enlightened mind to another, without relying on written words or verbal explanation. It emphasizes intuitive, wordless understanding passed from teacher to disciple through direct spiritual communion.",
+    "origin": "The phrase appears in the Platform Sutra of the Sixth Patriarch (《六祖大师法宝坛经·行由品》), attributed to Huineng (638–713), the Sixth Patriarch of Chan Buddhism in the Tang Dynasty. Recounting how the Fifth Patriarch Hongren transmitted the dharma to him, Huineng states that the dharma is passed 'from mind to mind,' with each person awakening and understanding it on their own. The concept traces further back to the legendary flower sermon of the Buddha and the wordless transmission from Bodhidharma, the founder of Chan Buddhism, to his successor Huike. It later became a hallmark of Chan teaching's famous slogan of not establishing reliance on written words.",
+    "example_zh": "禅宗讲究以心传心，不立文字。",
+    "example_en": "Chan Buddhism values mind-to-mind transmission, without relying on written words.",
+    "category": "Philosophy",
+    "similar": [
+      "心心相印",
+      "得意忘言",
+      "不立文字"
+    ],
+    "opposite": [
+      "千言万语",
+      "长篇大论"
+    ],
+    "id": "yi-xin-chuan-xin"
+  },
+  {
+    "chinese": "不辨菽粟",
+    "pinyin": "bù biàn shū sù",
+    "literal": "not, distinguish, beans, millet",
+    "meaning": "Literally \"cannot tell beans from millet,\" this idiom describes someone who is foolish and ignorant, especially lacking any practical knowledge of farming or everyday production. It is used to mock a person's complete detachment from real, concrete matters.",
+    "origin": "The idiom comes from the essay \"Nong Zong\" (On the Agricultural Lineage) by Gong Zizhen, a renowned thinker and poet of the Qing dynasty. In the passage, Gong argues that a family line cannot be carried on unless one fulfills ritual and household duties — and he adds that failing to tell beans from millet, that is, being wholly ignorant of agriculture, is equally disqualifying. Though the phrase arises from a literary argument rather than a narrative tale, it entered common use as a vivid image of ignorance and a lack of practical knowledge.",
+    "example_zh": "他从未下过田，不辨菽粟，闹出了不少笑话。",
+    "example_en": "Having never worked in the fields, he cannot tell beans from millet, and this has caused him no end of embarrassment.",
+    "category": "Knowledge",
+    "similar": [
+      "五谷不分",
+      "不学无术",
+      "目不识丁"
+    ],
+    "opposite": [
+      "见多识广",
+      "博学多才"
+    ],
+    "id": "bu-bian-shu-su"
+  },
+  {
+    "chinese": "一字一珠",
+    "pinyin": "yī zì yī zhū",
+    "literal": "one word, one pearl",
+    "meaning": "Each word is like a single pearl. The idiom describes a voice so melodious that every syllable sounds rounded and beautiful, and it is also used to praise writing that is so polished that every word sparkles. It conveys a sense of exquisite, jewel-like quality in speech or prose.",
+    "origin": "The idiom comes from the Tang dynasty poet Xue Neng's poem \"To a Singer\" (《赠歌者》), which contains the line '一字新声一颗珠' — 'each new word, one pearl' — comparing the singer's crystalline voice to pearls, and adding that her trilling throat seemed to strike coral. The imagery of a single word as a single pearl was later extended from singing to written composition, so that by the Qing dynasty it was used in Wu Jingzi's novel The Scholars (《儒林外史》) to praise extraordinarily refined writing.",
+    "example_zh": "她的歌声婉转圆润，一字一珠，令人心醉。",
+    "example_en": "Her singing was smooth and mellow, every word a pearl, utterly intoxicating.",
+    "category": "Quality",
+    "similar": [
+      "珠圆玉润",
+      "字字珠玑",
+      "妙语连珠"
+    ],
+    "opposite": [
+      "语无伦次",
+      "平淡无奇"
+    ],
+    "id": "yi-zi-yi-zhu"
+  },
+  {
+    "chinese": "材疏志大",
+    "pinyin": "cái shū zhì dà",
+    "literal": "talent, sparse, ambition, great",
+    "meaning": "Describes a person whose grand ambitions far exceed their actual abilities. The phrase implies a mismatch between aspiration and capability, and it often carries a mildly critical or mocking tone. It is also frequently used as a humble, self-deprecating expression.",
+    "origin": "The idiom originates from the poem 《大风登城诗》 (Climbing the City Wall in a Gale) by Lu You (陆游, 1125–1210), a renowned patriotic poet of the Southern Song dynasty. In the lines \"材疏志大不自量，西家东家笑我狂\" (talent sparse, ambition great, failing to gauge my own measure — the neighbors on both sides laugh at my wildness), the poet humbly describes himself. He concedes that his abilities are limited while his aspirations are lofty, causing him to overreach and draw mockery from those around him. The phrase thus began as a self-deprecating remark and came to describe anyone whose ambitions outstrip their abilities.",
+    "example_zh": "我材疏志大，竟想一蹴而就，实在惭愧。",
+    "example_en": "My ambition far exceeds my ability — I actually thought I could succeed at one stroke, and I'm truly ashamed.",
+    "category": "Attitude",
+    "similar": [
+      "志大才疏",
+      "眼高手低",
+      "不自量力"
+    ],
+    "opposite": [
+      "德才兼备",
+      "游刃有余"
+    ],
+    "id": "cai-shu-zhi-da"
+  },
+  {
+    "chinese": "白发丹心",
+    "pinyin": "bái fà dān xīn",
+    "literal": "white hair, sincere heart",
+    "meaning": "Describes an elderly person who, despite advanced age and white hair, still holds a loyal, sincere, and devoted heart toward their country or cause. It conveys steadfast loyalty that never wavers even after years of hardship.",
+    "origin": "During the Western Han Dynasty, Su Wu (苏武) was sent as an envoy to the Xiongnu, who detained him and tried to force him to surrender. He refused, enduring nineteen years of exile spent herding sheep in harsh conditions while remaining loyal to the Han court. When he was finally released and returned home, his hair had turned completely white from age and suffering, yet his loyal heart remained unchanged. This story, recorded in the History of the Han (《汉书·苏武传》), inspired the idiom to praise unyielding loyalty that endures through age and adversity.",
+    "example_zh": "苏武牧羊十九载，白发丹心永留青史。",
+    "example_en": "Su Wu herded sheep for nineteen years, his white hair and loyal heart forever recorded in history.",
+    "category": "Attitude",
+    "similar": [
+      "赤胆忠心",
+      "忠心耿耿",
+      "鞠躬尽瘁"
+    ],
+    "opposite": [
+      "背信弃义",
+      "离心离德"
+    ],
+    "id": "bai-fa-dan-xin"
+  },
+  {
+    "chinese": "珠圆玉润",
+    "pinyin": "zhū yuán yù rùn",
+    "literal": "pearl, round, jade, smooth",
+    "meaning": "Describes something as round as a pearl and as smooth and glossy as polished jade. Figuratively, it refers to a voice that is melodious and mellow, or writing that is fluent, elegant, and refined.",
+    "origin": "The idiom traces back to the Tang dynasty poet and official Zhang Wencong and his poem Ode to Water (《咏水诗》), which contains the line '方流涵玉润，圆折动珠光' ('the flowing stream holds jade-like smoothness; the circling ripples stir pearl-like light'). The poem depicts the beauty of water, comparing its flowing smoothness to jade and its round ripples to pearls. Later generations distilled this imagery into the idiom 珠圆玉润, first used to praise melodious singing, and later extended to describe smooth, flowing literary style. The Qing dynasty critic Zhou Ji also used it in his Ci Bi (《词辨》) to praise Northern Song ci poetry.",
+    "example_zh": "她的歌声珠圆玉润，令人陶醉。",
+    "example_en": "Her singing voice was as round and smooth as pearls and jade, utterly enchanting.",
+    "category": "Quality",
+    "similar": [
+      "玉润珠圆",
+      "字正腔圆",
+      "余音绕梁"
+    ],
+    "opposite": [
+      "枯燥乏味",
+      "生硬晦涩"
+    ],
+    "id": "zhu-yuan-yu-run"
+  },
+  {
+    "chinese": "积劳成疾",
+    "pinyin": "jī láo chéng jí",
+    "literal": "accumulate, toil, become, illness",
+    "meaning": "To fall ill as a direct result of prolonged, accumulated overwork and fatigue. It describes a condition where years of sustained labor and strain eventually break down one's health, turning chronic exhaustion into actual sickness.",
+    "origin": "The concept first appears in the Warring States period text Xunzi, in the chapter 王制, which contrasts the ruler's accumulated toil with the people's accumulated ease. The idiom later crystallized during the Ming dynasty in Feng Menglong's 东周列国志 (Chronicles of the Eastern Zhou Kingdoms), chapter 69, where the official 公孙归生, worn down by exhausting service during a siege, falls so ill that he cannot rise from bed while the city starves. The exact four-character form 积劳成疾 became widely used in later literature, including the Qing dynasty novel 镜花缘 by Li Ruzhen.",
+    "example_zh": "他长期加班熬夜，终于积劳成疾，住进了医院。",
+    "example_en": "After years of long hours and late nights at work, he finally fell ill from overwork and was hospitalized.",
+    "category": "Condition",
+    "similar": [
+      "积劳成病",
+      "心力交瘁",
+      "操劳过度"
+    ],
+    "opposite": [
+      "养精蓄锐",
+      "休养生息"
+    ],
+    "id": "ji-lao-cheng-ji"
+  },
+  {
+    "chinese": "计勋行赏",
+    "pinyin": "jì xūn xíng shǎng",
+    "literal": "count, merit, carry out, reward",
+    "meaning": "To bestow rewards according to the size of one's contributions or achievements. It emphasizes rewarding people in proportion to their actual merit, rather than by favoritism or rank. The idiom is essentially identical in meaning to the more common 计功行赏.",
+    "origin": "This idiom has no recorded origin story or documented first appearance in classical texts. It is a variant form of the idiom 计功行赏, in which 勋 (merit) is substituted for 功 (achievement), both words conveying the same idea of meritorious service. The underlying concept of rewarding according to merit has been a standard principle of governance and military leadership in China since ancient times, appearing in historical accounts of rulers and generals who rewarded loyal subordinates based on their actual deeds.",
+    "example_zh": "年终总结会上，公司计勋行赏，重奖了业绩突出的团队。",
+    "example_en": "At the year-end review meeting, the company rewarded people according to their merits and gave heavy bonuses to the top-performing teams.",
+    "category": "Leadership",
+    "similar": [
+      "论功行赏",
+      "计功行赏",
+      "赏罚分明"
+    ],
+    "opposite": [
+      "赏罚不明",
+      "无功受禄"
+    ],
+    "id": "ji-xun-xing-shang"
+  },
+  {
+    "chinese": "百废具举",
+    "pinyin": "bǎi fèi jù jǔ",
+    "literal": "hundred, abandoned, all, undertake",
+    "meaning": "It describes a situation where many undertakings that had been neglected or abandoned are all being revived and carried out at once. The phrase expresses a state of energetic reconstruction after chaos, decline, or disruption. It is the same as the variant 百废俱举.",
+    "origin": "The idiom appears in Volume 1 of the Hui Zhu Lu (Records of Things Heard), compiled by the Song Dynasty scholar Wang Mingqing. The text records that when Wu Mingke served as military governor of Kuaiji, he revived all neglected affairs (百废具举), though the one thing he did not do was spread learning. The phrase was later popularized as a general expression for comprehensive recovery and rebuilding, and in modern usage it is usually seen in the variant form 百废俱举 or the related 百废俱兴.",
+    "example_zh": "新官上任后励精图治，百废具举，百姓称快。",
+    "example_en": "After taking office, the new official governed with vigor, reviving every neglected undertaking to the people's delight.",
+    "category": "Recovery",
+    "similar": [
+      "百废俱兴",
+      "百废待举",
+      "万象更新"
+    ],
+    "opposite": [
+      "百业凋敝",
+      "满目疮痍"
+    ],
+    "id": "bai-fei-ju-ju"
   }
 ]
