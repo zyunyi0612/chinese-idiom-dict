@@ -9421,3 +9421,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-11 12:00:04] === Catch-up push done ===
 [2026-09-11 20:00:00] === Catch-up push start (22 unpushed commits) ===
+[main fa1817d] Auto-update: 2026-09-11 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   35f1b9f..fa1817d  main -> main
+
+Push OK (attempt 1)
+[2026-09-11 20:00:04] === Catch-up push done ===
+[2026-09-12 03:15:00] === Daily cron start ===
+[2026-09-12 03:15:00] === Daily cron start ===
+[2026-09-12 03:15:00] Generating 10 new idioms...
+[2026-09-12 03:15:00] Generating 10 new idioms...
+Existing: 4798 idioms
+Whitelist: 30894 total
+Candidates available: 24703 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 绝长继短 (jué cháng jì duǎn)
+    OK (saved, total now: 4799): literal='cut off long, continue short...'
+[2/10] -> 违法乱纪 (wéi fǎ luàn jì)
+    OK (saved, total now: 4800): literal='violate law, disrupt discipline...'
+[3/10] -> 乘其不意 (chéng qí bù yì)
+    OK (saved, total now: 4801): literal='take advantage of, one's, not, expecting...'
+[4/10] -> 煽风点火 (shān fēng diǎn huǒ)
+    OK (saved, total now: 4802): literal='fan the wind, light the fire...'
+[5/10] -> 权宜之策 (quán yí zhī cè)
+    OK (saved, total now: 4803): literal='expedient, suitable, of, strategy...'
+[6/10] -> 分门别类 (fēn mén bié lèi)
+    OK (saved, total now: 4804): literal='divide, category, distinguish, class...'
+[7/10] -> 入地无门 (rù dì wú mén)
+    OK (saved, total now: 4805): literal='enter, earth, no, door...'
+[8/10] -> 斫雕为朴 (zhuó diāo wéi pǔ)
+    OK (saved, total now: 4806): literal='cut, carve, become, plain...'
+[9/10] -> 遐方绝域 (xiá fāng jué yù)
+    OK (saved, total now: 4807): literal='far, place, cut off, region...'
+[10/10] -> 不了了之 (bù liǎo liǎo zhī)
+    OK (saved, total now: 4808): literal='not, conclude, conclude, it...'
+
+Added 10 idioms. Total: 4808
+[2026-09-12 03:18:55] Generation OK
+[2026-09-12 03:18:55] Generation OK
+[2026-09-12 03:18:55] Regenerating site...
+[2026-09-12 03:18:55] Regenerating site...
+Loading data...
+  → 4808 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4808 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4808 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-12 03:19:09] Site regenerated
+[2026-09-12 03:19:09] Site regenerated
+[2026-09-12 03:19:09] Pushing to GitHub...
+[2026-09-12 03:19:09] Pushing to GitHub...

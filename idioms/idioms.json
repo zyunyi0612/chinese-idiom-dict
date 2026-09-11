@@ -95390,5 +95390,204 @@
       "满目疮痍"
     ],
     "id": "bai-fei-ju-ju"
+  },
+  {
+    "chinese": "绝长继短",
+    "pinyin": "jué cháng jì duǎn",
+    "literal": "cut off long, continue short",
+    "meaning": "To take from what is in excess and use it to supplement what is lacking. It is a metaphor for using one's strengths to compensate for one's weaknesses, or redistributing resources from surplus to deficit. The idiom emphasizes balance and mutual complementarity.",
+    "origin": "The idiom comes from the chapter 'Fei Ming' (Against Fatalism) in the Mozi, a philosophical text compiled during the Warring States period. The passage reads: 'In ancient times, Tang was enfeoffed at Bo, cutting long to continue short' (古者汤封于亳，绝长继短). This refers to King Tang, the founding ruler of the Shang dynasty, who governed his territory by taking from areas of surplus and supplementing areas of deficiency. The phrase originally described effective resource management and fair distribution, and was later extended to mean using one's strengths to make up for one's weaknesses.",
+    "example_zh": "团队协作重在绝长继短，让每个人发挥所长。",
+    "example_en": "Teamwork lies in cutting the long to supplement the short, letting everyone play to their strengths.",
+    "category": "Method",
+    "similar": [
+      "取长补短",
+      "截长补短",
+      "扬长避短"
+    ],
+    "opposite": [
+      "扬短避长"
+    ],
+    "id": "jue-chang-ji-duan"
+  },
+  {
+    "chinese": "违法乱纪",
+    "pinyin": "wéi fǎ luàn jì",
+    "literal": "violate law, disrupt discipline",
+    "meaning": "To violate the law and break the established rules and discipline. It describes behavior that defies legal statutes and disrupts social or institutional order. It implies willful, lawless conduct that undermines the proper functioning of society or an organization.",
+    "origin": "The idiom traces to the Book of the Later Han (《后汉书》), specifically the joint biography of Yuan Shao and Liu Biao, compiled by the historian Fan Ye in the 5th century during the Liu Song dynasty of the Southern Dynasties period. In the text, Yuan Shao condemns the overbearing conduct of Dong Zhuo, the warlord who seized control of the imperial court in the late Eastern Han dynasty. Dong Zhuo is accused of acting willfully on his own authority, bullying the nobility, and 'breaking the law and ruining discipline' while monopolizing court politics. The source passage actually reads '败法乱纪' (ruin the law, disorder the discipline), from which the modern form '违法乱纪' was derived.",
+    "example_zh": "任何违法乱纪的行为都将受到法律的严惩。",
+    "example_en": "Any act that violates the law and disrupts discipline will be severely punished by the law.",
+    "category": "Morality",
+    "similar": [
+      "无法无天",
+      "目无法纪",
+      "胡作非为"
+    ],
+    "opposite": [
+      "遵纪守法",
+      "奉公守法"
+    ],
+    "id": "wei-fa-luan-ji"
+  },
+  {
+    "chinese": "乘其不意",
+    "pinyin": "chéng qí bù yì",
+    "literal": "take advantage of, one's, not, expecting",
+    "meaning": "To act at a moment when the other party is off guard, exploiting a window when they have no time to anticipate or prepare. The idiom stresses the strategic value of surprise, urging one to seize the initiative and strike before the opponent can react.",
+    "origin": "The idiom comes from the Yuan-dynasty historical tale collection 《新编五代史平话》 (Newly Compiled Plain Histories of the Five Dynasties), specifically its section on the Later Jin (后晋, 936–947). In the account, a commander argues that because the enemy assumes his troops cannot fight against the wind, his army should take them by surprise and attack swiftly, calling this 'the deceptive art of warfare.' The saying thus became a classic military maxim about winning through surprise and seizing the initiative.",
+    "example_zh": "我们要乘其不意，打击敌人。",
+    "example_en": "We must take the enemy by surprise and strike.",
+    "category": "Action",
+    "similar": [
+      "出其不意",
+      "攻其不备",
+      "声东击西"
+    ],
+    "opposite": [
+      "打草惊蛇",
+      "明目张胆"
+    ],
+    "id": "cheng-qi-bu-yi"
+  },
+  {
+    "chinese": "煽风点火",
+    "pinyin": "shān fēng diǎn huǒ",
+    "literal": "fan the wind, light the fire",
+    "meaning": "To secretly encourage or stir up trouble by inciting others, much like fanning a fire to make it spread. It describes someone who deliberately provokes conflicts or escalates disputes from behind the scenes.",
+    "origin": "This idiom has no recorded classical origin and is not traced to any specific dynasty or historical figure. It is a vernacular expression formed from the vivid image of fanning wind and lighting fire to make a blaze grow stronger. The phrase became widely used in modern Chinese to metaphorically describe those who secretly agitate others into causing trouble or quarrels. Its imagery emphasizes both the instigator's hidden role and the rapid spread of the trouble they provoke.",
+    "example_zh": "他在背后煽风点火，挑拨两人关系，实在令人不齿。",
+    "example_en": "He fanned the flames behind their backs, sowing discord between the two, which was truly despicable.",
+    "category": "Action",
+    "similar": [
+      "火上浇油",
+      "推波助澜",
+      "兴风作浪"
+    ],
+    "opposite": [
+      "息事宁人",
+      "排难解纷"
+    ],
+    "id": "shan-feng-dian-huo"
+  },
+  {
+    "chinese": "权宜之策",
+    "pinyin": "quán yí zhī cè",
+    "literal": "expedient, suitable, of, strategy",
+    "meaning": "A stopgap measure adopted temporarily to deal with an immediate situation rather than as a lasting solution. It implies practicality in the short term, often with the understanding that a more permanent fix is still needed. It is essentially the same expression as 权宜之计.",
+    "origin": "There is no documented origin story for this exact phrase, and standard dictionaries list its source as unknown. It is a variant of the older and more common idiom 权宜之计, which conveys the same meaning of a temporary expedient. The character 权 in this context carries the classical sense of weighing options and adapting flexibly, a concept that runs through traditional Chinese strategic thought, even though this particular form has no attributed classical text.",
+    "example_zh": "裁员只是公司的权宜之策，长远发展还需调整经营策略。",
+    "example_en": "The layoffs are merely a stopgap measure for the company; long-term growth still requires adjusting its business strategy.",
+    "category": "Method",
+    "similar": [
+      "权宜之计",
+      "缓兵之计",
+      "权时制宜"
+    ],
+    "opposite": [
+      "长远之计",
+      "一劳永逸"
+    ],
+    "id": "quan-yi-zhi-ce"
+  },
+  {
+    "chinese": "分门别类",
+    "pinyin": "fēn mén bié lèi",
+    "literal": "divide, category, distinguish, class",
+    "meaning": "To sort things into distinct categories according to their nature or characteristics. It describes the act of organizing items, knowledge, or data in a systematic and orderly way, making them easier to understand, store, and retrieve. The idiom emphasizes careful classification rather than random grouping.",
+    "origin": "The idiom appears in the Qing dynasty text Langji Congtan (Random Notes on My Wanderings) by the scholar Liang Zhangju, in a passage about the celebrated physician Ye Tianshi. Ye spent his life practicing medicine and never wrote treatises of his own; after his death, his disciples gathered his prescriptions and successful case records and arranged them systematically into the ten-volume Linzheng Zhinan Yi'an (Guide to Clinical Practice). The phrase 分门别类 describes how the disciples organized Ye's medical cases by category, ensuring his clinical wisdom was preserved for posterity.",
+    "example_zh": "图书馆的藏书按学科分门别类，查找起来十分方便。",
+    "example_en": "The library's collection is sorted by subject into distinct categories, making it very convenient to search.",
+    "category": "Method",
+    "similar": [
+      "条分缕析",
+      "分门别户",
+      "井井有条"
+    ],
+    "opposite": [
+      "杂乱无章",
+      "混淆不清"
+    ],
+    "id": "fen-men-bie-lei"
+  },
+  {
+    "chinese": "入地无门",
+    "pinyin": "rù dì wú mén",
+    "literal": "enter, earth, no, door",
+    "meaning": "Describes being trapped in a desperate predicament with no possible way out. The image is of someone so cornered that even wishing to burrow into the ground, they can find no opening. It conveys total helplessness and having exhausted every avenue of escape.",
+    "origin": "No authoritative origin story has been recorded for this idiom (出处: 无). It is a vernacular expression that likely crystallized from the longer folk pairing '上天无路，入地无门' (no road to heaven, no door into the earth), used to describe a person at the end of their rope. Because no specific dynasty, text, or historical figure is attached to it, it is classified as a popular idiom rather than one traceable to classical literature.",
+    "example_zh": "追兵四面包围，他已然入地无门。",
+    "example_en": "Surrounded by pursuers on all sides, he was already trapped with no way out.",
+    "category": "Condition",
+    "similar": [
+      "走投无路",
+      "山穷水尽",
+      "穷途末路"
+    ],
+    "opposite": [
+      "柳暗花明",
+      "绝处逢生"
+    ],
+    "id": "ru-di-wu-men"
+  },
+  {
+    "chinese": "斫雕为朴",
+    "pinyin": "zhuó diāo wéi pǔ",
+    "literal": "cut, carve, become, plain",
+    "meaning": "To strip away carving and ornamentation and uphold simplicity. It also refers to correcting extravagant, showy customs so that people return to plain and honest ways. The idiom praises restraint and naturalness over ostentatious decoration.",
+    "origin": "The phrase appears in the Records of the Grand Historian (《史记》), in the Biographies of Cruel Officials, which describes the rise of the Han dynasty: '破觚而为圜，斫雕而为朴' — breaking square vessels into round ones, cutting away carved decoration to restore plainness. It also appears in the Book of the Later Han (《后汉书》) in the preface to the biographies of the empresses, where Emperor Guangwu's restoration of the Eastern Han (光武中兴) is credited with cutting away ornament and returning to simplicity in palace titles. In modern times, the scholar Zhang Binglin (章炳麟) used the phrase in his essay 文学说例 to praise plain, fact-seeking prose.",
+    "example_zh": "此间陈设一律斫雕为朴，不见浮华。",
+    "example_en": "All the furnishings here have been stripped of ornament back to plainness, with no trace of ostentation.",
+    "category": "Quality",
+    "similar": [
+      "返璞归真",
+      "大巧若拙",
+      "抱朴守拙"
+    ],
+    "opposite": [
+      "雕梁画栋",
+      "镂金错彩"
+    ],
+    "id": "zhuo-diao-wei-pu"
+  },
+  {
+    "chinese": "遐方绝域",
+    "pinyin": "xiá fāng jué yù",
+    "literal": "far, place, cut off, region",
+    "meaning": "Refers to remote, out-of-the-way regions far from the centers of civilization. The idiom describes places that are distant, isolated, and difficult to reach, often evoking a sense of wildness or desolation.",
+    "origin": "There is no single documented origin story or attributed author for this idiom. It is a classical literary compound built from four components: 遐 (distant), 方 (region), 绝 (severed/isolated), and 域 (territory). The expression likely emerged through the cumulative usage of classical writers describing frontier lands, and it has been preserved in later literary Chinese as a standard way to refer to remote borderlands.",
+    "example_zh": "他辞别亲友，独自远赴遐方绝域，追寻心中的理想。",
+    "example_en": "He bid farewell to his family and friends and traveled alone to a remote, isolated frontier in pursuit of the ideal in his heart.",
+    "category": "Distance",
+    "similar": [
+      "穷乡僻壤",
+      "天涯海角",
+      "不毛之地"
+    ],
+    "opposite": [
+      "通都大邑",
+      "繁华闹市"
+    ],
+    "id": "xia-fang-jue-yu"
+  },
+  {
+    "chinese": "不了了之",
+    "pinyin": "bù liǎo liǎo zhī",
+    "literal": "not, conclude, conclude, it",
+    "meaning": "To let a matter end by deliberately not settling it — shelving it aside and treating it as finished. It describes dealing with a problem by ignoring or abandoning it rather than resolving it properly.",
+    "origin": "The phrase appears in the Song dynasty writer Ye Shaoyun's (叶少蕴, i.e. Ye Mengde) work Bishu Lu Hua (《避暑录话》). He cites a Tang dynasty anecdote in which a muddled chief examiner, known as a 'donghong' (foggy-headed) official, mistakenly assumed the candidate Yan Biao was a kinsman of the celebrated loyal minister Yan Zhenqing (Duke of Lu) and passed him, prompting the jest that 'the examiner's head was too muddled, mistaking Yan Biao for the Duke of Lu.' Ye remarks that such loose talk was 'buliǎoliǎozhī yǔ' — words that settle nothing — and from this expression the idiom evolved to mean leaving a matter unresolved.",
+    "example_zh": "这件事拖了半年，最后不了了之。",
+    "example_en": "This matter was dragged out for half a year and was ultimately left unresolved.",
+    "category": "Attitude",
+    "similar": [
+      "置之不理",
+      "束之高阁",
+      "敷衍了事"
+    ],
+    "opposite": [
+      "善始善终",
+      "有始有终"
+    ],
+    "id": "bu-liao-liao-zhi"
   }
 ]
