@@ -9523,3 +9523,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-12 12:00:07] === Catch-up push done ===
 [2026-09-12 20:00:00] === Catch-up push start (25 unpushed commits) ===
+[main 483de01] Auto-update: 2026-09-12 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   f13a03e..483de01  main -> main
+
+Push OK (attempt 1)
+[2026-09-12 20:00:05] === Catch-up push done ===
+[2026-09-13 03:15:00] === Daily cron start ===
+[2026-09-13 03:15:00] === Daily cron start ===
+[2026-09-13 03:15:00] Generating 10 new idioms...
+[2026-09-13 03:15:00] Generating 10 new idioms...
+Existing: 4808 idioms
+Whitelist: 30894 total
+Candidates available: 24693 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 戴发含牙 (dài fā hán yá)
+    OK (saved, total now: 4809): literal='wear hair, hold teeth...'
+[2/10] -> 水流花落 (shuǐ liú huā luò)
+    OK (saved, total now: 4810): literal='water, flow, flower, fall...'
+[3/10] -> 破觚斫雕 (pò gū zhuó diāo)
+    OK (saved, total now: 4811): literal='break, gū (square-cornered vessel), chop, ornament...'
+[4/10] -> 惨然不乐 (cǎn rán bù lè)
+    OK (saved, total now: 4812): literal='miserable, appearance, not, cheerful...'
+[5/10] -> 九宗七祖 (jiǔ zōng qī zǔ)
+    OK (saved, total now: 4813): literal='nine, lineage, seven, ancestors...'
+[6/10] -> 闺英闱秀 (guī yīng wéi xiù)
+    OK (saved, total now: 4814): literal='boudoir, outstanding, inner chamber, refined...'
+[7/10] -> 人神同嫉 (rén shén tóng jí)
+    OK (saved, total now: 4815): literal='people, gods, together, hate...'
+[8/10] -> 虚有其表 (xū yǒu qí biǎo)
+    OK (saved, total now: 4816): literal='empty, have, its, appearance...'
+[9/10] -> 年华垂暮 (nián huá thuí mù)
+    OK (saved, total now: 4817): literal='years of life, approaching, old age...'
+[10/10] -> 背曲腰弯 (bèi qǔ yāo wān)
+    OK (saved, total now: 4818): literal='back, bent, waist, curved...'
+
+Added 10 idioms. Total: 4818
+[2026-09-13 03:18:36] Generation OK
+[2026-09-13 03:18:36] Generation OK
+[2026-09-13 03:18:36] Regenerating site...
+[2026-09-13 03:18:36] Regenerating site...
+Loading data...
+  → 4818 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4818 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4818 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-13 03:18:51] Site regenerated
+[2026-09-13 03:18:51] Site regenerated
+[2026-09-13 03:18:51] Pushing to GitHub...
+[2026-09-13 03:18:51] Pushing to GitHub...
