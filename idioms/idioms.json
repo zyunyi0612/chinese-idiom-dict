@@ -95789,5 +95789,205 @@
       "挺胸抬头"
     ],
     "id": "bei-qu-yao-wan"
+  },
+  {
+    "chinese": "买牛卖剑",
+    "pinyin": "mǎi niú mài jiàn",
+    "literal": "buy, cattle, sell, sword",
+    "meaning": "To put down one's weapons and take up farming, figuratively meaning to abandon a violent or criminal way of life and reform, or to switch to agriculture as an honest livelihood. It is a variant form of the more common idiom 卖剑买牛 and is synonymous with 买犁卖剑.",
+    "origin": "The exact source of this particular inverted form is unattributed in the dictionaries. It is a variant of the idiom 卖剑买牛, which is traditionally traced to the Western Han dynasty story of Gong Sui (龚遂), governor of Bohai commandery under Emperor Xuan. Sent to pacify a region plagued by banditry, Gong Sui urged the people to sell their swords and buy cattle, persuading them to abandon violence and return to farming. The image of trading a sword for a plow-ox thus came to symbolize giving up arms and reforming one's character.",
+    "example_zh": "他痛改前非，买牛卖剑，回乡安心务农。",
+    "example_en": "He thoroughly reformed his ways, sold his sword and bought cattle, and returned to his hometown to farm in peace.",
+    "category": "Lifestyle",
+    "similar": [
+      "卖剑买牛",
+      "买犁卖剑",
+      "改邪归正"
+    ],
+    "opposite": [
+      "穷兵黩武",
+      "弃农从戎"
+    ],
+    "id": "mai-niu-mai-jian"
+  },
+  {
+    "chinese": "东荡西除",
+    "pinyin": "dōng dàng xī chú",
+    "literal": "east, sweep, west, remove",
+    "meaning": "To sweep east and eradicate west — to campaign and subdue enemies in all directions. It describes a military leader or conqueror waging war far and wide to pacify the land and build a realm through force.",
+    "origin": "The idiom appears in Chapter 119 of the novel Romance of the Three Kingdoms by Luo Guanzhong of the Ming dynasty. The text records the words: 'In former days, Emperor Wu of Wei swept east and west, campaigned south and north — it was no easy feat to win this empire.' This refers to Cao Cao, posthumously honored as Emperor Wu of Wei, whose relentless campaigns during the late Eastern Han dynasty subjugated rival warlords and laid the foundation for the state of Wei in the Three Kingdoms period. The phrase thus entered the language as a vivid image of ceaseless conquest across the four directions.",
+    "example_zh": "他年轻时东荡西除，为朝廷立下赫赫战功。",
+    "example_en": "In his youth he campaigned east and west, earning brilliant military achievements for the court.",
+    "category": "Action",
+    "similar": [
+      "南征北战",
+      "东征西讨",
+      "南征北讨"
+    ],
+    "opposite": [
+      "安居乐业",
+      "偏安一隅"
+    ],
+    "id": "dong-dang-xi-chu"
+  },
+  {
+    "chinese": "心旌摇曳",
+    "pinyin": "xīn jīng yáo yè",
+    "literal": "heart, banner, sway, flutter",
+    "meaning": "The mind is unsettled and restless, like a banner fluttering and swaying in the wind with nowhere to settle. It describes emotions rising and falling so strongly that one cannot maintain composure or self-control.",
+    "origin": "The idiom comes from the Records of the Grand Historian (《史记》), in the biography of Su Qin (苏秦列传), a prominent political strategist of the Warring States period. Su Qin, in persuading King Zhao of Chu, compared the restless, anxious heart to a banner hanging aloft and swaying in the wind with no fixed place to rest. The original line reads: 心摇摇如县旌，而无所终薄 (The heart sways like a hanging banner, with nothing at last to cling to). This vivid image of an unsettled, drifting heart was later condensed into the idiom 心旌摇曳 to describe emotional agitation and loss of self-control.",
+    "example_zh": "眉翠含颦，靥红展笑，一张小嘴，恰似新破的榴实，不觉看得心旌摇曳起来。",
+    "example_en": "Her brows arched in a frown, her cheeks flushed into a smile, and her small mouth resembled a freshly split pomegranate — he could not help feeling his heart flutter with agitation.",
+    "category": "Emotion",
+    "similar": [
+      "心猿意马",
+      "心荡神摇",
+      "心潮澎湃"
+    ],
+    "opposite": [
+      "心如止水",
+      "镇定自若"
+    ],
+    "id": "xin-jing-yao-ye"
+  },
+  {
+    "chinese": "毛发不爽",
+    "pinyin": "máo fā bù shuǎng",
+    "literal": "hair, fur, not, differ",
+    "meaning": "The idiom means not differing by even a single hair, describing something as absolutely exact and free of any error. It emphasizes perfect precision and complete correspondence between two things, with no deviation whatsoever. It is a direct variant of the more common 毫发不爽.",
+    "origin": "Chinese reference works record no specific origin story for 毛发不爽, marking it simply as a variant of the more common idiom 毫发不爽. Both expressions build on the image of a hair as the smallest conceivable unit of measure, with 爽 here carrying the sense of 'to err or to differ.' The phrase therefore conveys that something is accurate down to the width of a hair, with no discrepancy at all. Because it is a synonymous variant rather than a distinct classical allusion, no specific dynasty or historical figure can be credited with its coinage.",
+    "example_zh": "精密仪器测得的数据与理论值毛发不爽。",
+    "example_en": "The figures obtained by the precision instrument matched the theoretical values without the slightest deviation.",
+    "category": "Quality",
+    "similar": [
+      "毫发不爽",
+      "分毫不差",
+      "不差毫厘"
+    ],
+    "opposite": [
+      "差之千里",
+      "大相径庭"
+    ],
+    "id": "mao-fa-bu-shuang"
+  },
+  {
+    "chinese": "三迭阳关",
+    "pinyin": "sān dié yáng guān",
+    "literal": "three, repeat, Yang Pass",
+    "meaning": "Originally refers to the farewell melody composed from Wang Wei's Tang-dynasty poem, in which the closing line is sung three times in refrain. By extension it has come to symbolize parting or the sorrow of separation.",
+    "origin": "The idiom derives from the Tang dynasty poet Wang Wei's poem 《渭城曲》 (also known as 《送元二使安西》): \"渭城朝雨浥轻尘，客舍青青柳色新。劝君更尽一杯酒，西出阳关无故人。\" The poem was later set to music as a parting song, and because the final line was repeated in three refrains it came to be called 《阳关三叠》, also known as 《阳关曲》. From this, \"三迭阳关\" became a fixed phrase evoking farewell and the grief of leave-taking.",
+    "example_zh": "送别时唱三迭阳关，心中满是不舍与牵挂。",
+    "example_en": "Singing 'Three Refrains of Yang Pass' at farewell, my heart was full of reluctance and longing.",
+    "category": "Emotion",
+    "similar": [
+      "阳关三叠",
+      "依依惜别",
+      "折柳赠别"
+    ],
+    "opposite": [
+      "久别重逢",
+      "欢聚一堂"
+    ],
+    "id": "san-die-yang-guan-2"
+  },
+  {
+    "chinese": "一家之学",
+    "pinyin": "yī jiā zhī xué",
+    "literal": "one, family's, learning",
+    "meaning": "A school of thought or doctrine that constitutes its own distinct tradition. It refers to scholarship or teaching that forms an independent, self-consistent system, typically founded by a single master or lineage. The phrase emphasizes originality and intellectual independence rather than mere inheritance of another's views.",
+    "origin": "The idiom derives from Sima Qian's Letter to Ren An (《报任少卿书》) of the Western Han dynasty, in which he declares his ambition to 'study the relationship between heaven and man and comprehend the changes of past and present, so as to form the words of one school' (成一家之言). It was later echoed by the historian Ban Gu in his 《典引》, praising Sima Qian's achievement in producing a work of his own school. The usage was further consolidated in the Tang dynasty's 《新唐书》, where each ritual tradition was said to establish its own school of learning (各立一家之学). The phrase thus came to denote any self-founded, original school of thought.",
+    "example_zh": "自梁以来，始以其当时所行傅于《周官》五礼之名，各立一家之学。",
+    "example_en": "Since the Liang dynasty, each school attached its own contemporary practices to the names of the five rites in the Rites of Zhou, each establishing its own independent school of learning.",
+    "category": "Learning",
+    "similar": [
+      "自成一家",
+      "一家之言",
+      "独树一帜"
+    ],
+    "opposite": [
+      "人云亦云",
+      "拾人牙慧"
+    ],
+    "id": "yi-jia-zhi-xue"
+  },
+  {
+    "chinese": "伸头探脑",
+    "pinyin": "shēn tóu tàn nǎo",
+    "literal": "stretch, head, probe, brain",
+    "meaning": "To keep craning and stretching one's head to peer around. It describes someone who hesitates and watches cautiously before acting, or behaves furtively as if harboring a guilty conscience.",
+    "origin": "The idiom first appears in chapter 24 of Journey to the West (西游记), the Ming dynasty novel by Wu Cheng'en. In the scene, a character who should be tending the cooking fire cannot focus and repeatedly pokes his head out to look around, vividly capturing a restless, distracted state. Later usage expanded the image of craning and peeking to denote hesitant, indecisive observation or the guilty, suspicious manner of someone with something to hide. The phrase also appears in the Ming dynasty novel Ping Shan Leng Yan (平山冷燕), showing it had entered common literary use.",
+    "example_zh": "别在门口伸头探脑了，有事就进来说。",
+    "example_en": "Stop poking your head around the doorway — if you have something to say, come in and say it.",
+    "category": "Action",
+    "similar": [
+      "探头探脑",
+      "东张西望",
+      "左顾右盼"
+    ],
+    "opposite": [
+      "目不斜视",
+      "镇定自若"
+    ],
+    "id": "shen-tou-tan-nao"
+  },
+  {
+    "chinese": "追亡逐遁",
+    "pinyin": "zhuī wáng zhú dùn",
+    "literal": "pursue the fleeing, chase the escaping",
+    "meaning": "This idiom means to pursue and attack a defeated, fleeing enemy, pressing the advantage after a victory. It is synonymous with the more common variant 追亡逐北 and describes a victorious army chasing down routed opponents rather than letting them escape. It conveys the idea of an overwhelming, relentless pursuit of a broken enemy force.",
+    "origin": "The phrase comes from the chapter 《兵法》(The Art of War) in the Guanzi (《管子》), a foundational text traditionally attributed to Guan Zhong, chief minister of Duke Huan of Qi in the Spring and Autumn period, though the surviving text was likely compiled during the Warring States period. The chapter discusses military strategy and argues that with proper equipment and training, an army becomes unstoppable in both pursuit and attack. It derives from the line \"器成教施，追亡逐遁若飘风，击刺若雷电\" (When weapons are ready and discipline has been instilled, pursuing the fleeing enemy is like a whirlwind, and striking is like thunder and lightning). No specific historical battle or figure is attached to the idiom itself.",
+    "example_zh": "边军乘胜追亡逐遁，一路收复数城。",
+    "example_en": "The border troops, pressing their advantage, pursued the fleeing enemy and recaptured several cities along the way.",
+    "category": "Action",
+    "similar": [
+      "追亡逐北",
+      "乘胜追击",
+      "穷追猛打"
+    ],
+    "opposite": [
+      "放虎归山",
+      "养虎遗患"
+    ],
+    "id": "zhui-wang-zhu-dun"
+  },
+  {
+    "chinese": "泉石膏肓",
+    "pinyin": "quán shí gāo huāng",
+    "literal": "spring, stone, the fat below the heart, the space above the diaphragm",
+    "meaning": "The term uses '泉石' (springs and rocks) to stand for mountains and waters, while '膏肓' refers to the deepest, incurable part of the body where medicine cannot reach. It describes someone so addicted to the beauty of natural landscapes that the obsession is like an incurable disease. In essence, it means being hopelessly infatuated with mountains and streams.",
+    "origin": "The idiom comes from the Biography of Tian Youyan in the New Book of Tang (新唐书·田游岩传), which records a Tang dynasty hermit named Tian Youyan. When the emperor asked why he refused official appointments, Tian replied: 'What I call my ailment of springs and rocks, my chronic disease of mist and rosy clouds' (臣所谓泉石膏肓，烟霞固疾者). He compared his passionate love of mountains, waters, and scenery to an incurable affliction fixed in the vital organs, thereby politely declining a court career. Later generations used this phrase to praise or describe someone with an unshakable passion for nature and seclusion.",
+    "example_zh": "他泉石膏肓，宁可辞职也要隐居山林。",
+    "example_en": "He is so hopelessly devoted to mountains and streams that he would rather quit his job than give up living in seclusion.",
+    "category": "Lifestyle",
+    "similar": [
+      "烟霞痼疾",
+      "乐山乐水",
+      "游山玩水"
+    ],
+    "opposite": [
+      "追名逐利",
+      "利欲熏心"
+    ],
+    "id": "quan-shi-gao-huang"
+  },
+  {
+    "chinese": "酣歌醉舞",
+    "pinyin": "hān gē zuì wǔ",
+    "literal": "merrily singing, drunkenly dancing",
+    "meaning": "Describes indulging in uninhibited singing and dancing while wallowing in sensual pleasures and dissipation. It carries a strongly critical tone, depicting someone who abandons themselves to revelry and carousing instead of attending to serious matters. The idiom is synonymous with 酣歌恒舞.",
+    "origin": "The core of the idiom derives from the Book of Documents (《尚书·伊训》), where the Shang-dynasty minister Yi Yin admonishes against constant dancing in the palace and carousing songs in the chambers, calling such behavior 'witchcraft winds' (巫风) that lead a ruler astray and ruin the state. The modern phrasing 酣歌醉舞 was popularized by the writer Mao Dun in his 1938 essay 《血战后一周年》(One Year After the Bloody War), where he bitterly asks whether the people had not seen others indulging in song and dance every day even as the nation faced its gravest crisis. Thus the idiom combines an ancient warning against decadence with modern wartime condemnation of heedless revelry.",
+    "example_zh": "值此危难之际，他们却终日酣歌醉舞，毫无忧患之心。",
+    "example_en": "At this time of national peril, they nevertheless spend their days in carousing song and drunken dance, without a shred of concern.",
+    "category": "Lifestyle",
+    "similar": [
+      "酣歌恒舞",
+      "醉生梦死",
+      "纸醉金迷"
+    ],
+    "opposite": [
+      "卧薪尝胆",
+      "励精图治"
+    ],
+    "id": "han-ge-zui-wu"
   }
 ]
