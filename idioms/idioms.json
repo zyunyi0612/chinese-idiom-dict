@@ -96188,5 +96188,205 @@
       "年富力强"
     ],
     "id": "chi-luo-she-dun"
+  },
+  {
+    "chinese": "去伪存真",
+    "pinyin": "qù wěi cún zhēn",
+    "literal": "remove false, preserve true",
+    "meaning": "To discard what is false and keep what is genuine. The idiom describes a process of filtering out deception, error, or inauthentic elements in order to arrive at the truth. It is commonly applied to learning, research, and the critical examination of information or evidence.",
+    "origin": "The idiom has no single recorded literary origin; its dictionary entry lists no specific source (出处: 无). It is formed by combining the classical verbs 去 (to remove) and 存 (to preserve) with the nouns 伪 (the false) and 真 (the true), and its structure echoes the parallel four-character style of classical Chinese. The expression gained wide modern currency through Mao Zedong's essay On Practice (实践论, 1937), where it appears in the series '去粗取精、去伪存真、由此及彼、由表及里' describing how people process raw perceptual material into reliable knowledge. Since then it has become a standard term in dialectical materialism and everyday speech for rigorous, truth-seeking thinking.",
+    "example_zh": "人的认识过程就是一个不断由浅入深、去伪存真的过程。",
+    "example_en": "The process of human cognition is one of continuously moving from the shallow to the deep, discarding the false and retaining the true.",
+    "category": "Logic",
+    "similar": [
+      "去粗取精",
+      "披沙拣金",
+      "沙里淘金"
+    ],
+    "opposite": [
+      "以假乱真",
+      "鱼目混珠"
+    ],
+    "id": "qu-wei-cun-zhen"
+  },
+  {
+    "chinese": "贻厥孙谋",
+    "pinyin": "yí jué sūn móu",
+    "literal": "to leave behind, one's, descendants, plans",
+    "meaning": "To make far-sighted plans and provisions for the welfare of one's descendants and future generations. It describes a person — especially a ruler or elder — who makes careful, long-term arrangements so that posterity will be secure. The idiom praises foresight, prudence, and a sense of responsibility toward those who come after.",
+    "origin": "The idiom derives from the Book of Songs (《诗经》), in the ode '文王有声' (The Fame of King Wen) of the Greater Odes (大雅), which celebrates King Wen, founder of the Zhou dynasty (c. 11th century BCE). The line reads '诒厥孙谋，以燕翼子' — 'he bequeathed his plans to his descendants, to bring peace and protection to his children' — where 诒 is a variant form of 贻. A related phrasing, '有典有则，贻厥子孙', appears in the 'Songs of the Five Sons' (五子之歌) chapter of the Book of Documents (《尚书》), in which the five sons of the Xia ruler Taikang recall the exemplary model left by their ancestor Yu the Great. Over time the phrase became a set idiom meaning to make far-sighted arrangements for one's descendants.",
+    "example_zh": "他在位时便贻厥孙谋，为子孙后代铺平道路。",
+    "example_en": "While still in power, he made far-sighted plans for his descendants and paved the way for later generations.",
+    "category": "Leadership",
+    "similar": [
+      "深谋远虑",
+      "未雨绸缪",
+      "高瞻远瞩"
+    ],
+    "opposite": [
+      "目光短浅",
+      "鼠目寸光"
+    ],
+    "id": "yi-jue-sun-mou"
+  },
+  {
+    "chinese": "狐鸣篝火",
+    "pinyin": "hú míng gōu huǒ",
+    "literal": "fox, howl, caged fire",
+    "meaning": "Refers to the measures an uprising's leaders take to mobilize the masses, typically using superstition, omens, and rumors to win popular support. It is synonymous with the idiom 狐鸣鱼书. The imagery comes from imitating a fox's cry beside a caged campfire at night to spread a prophecy among the troops.",
+    "origin": "In 209 BC, during the late Qin dynasty, the peasant conscript leaders Chen Sheng and Wu Guang were escorting garrison troops to Yuyang when torrential rain stranded them at Daze Township, a delay punishable by death under Qin law. To incite revolt, they wrote the words \"Chen Sheng will be king\" on a piece of silk and hid it in the belly of a fish that was later bought and cooked by the soldiers. At night, Wu Guang hid near a temple, lit a fire in a bamboo cage, and imitated a fox's cry calling out \"Great Chu shall rise, Chen Sheng shall be king.\" The frightened soldiers took these as heavenly omens and rallied behind them, sparking the famous Daze Township uprising. The story is recorded in the \"Hereditary House of Chen She\" chapter of Sima Qian's Records of the Grand Historian.",
+    "example_zh": "历代起义军常用狐鸣篝火之法，先以迷信谣言动摇民心，再举大事。",
+    "example_en": "Rebel armies through the ages often used the fox-cry-and-campfire tactic, first shaking the people's faith with superstitious rumors before raising the banner of revolt.",
+    "category": "Method",
+    "similar": [
+      "狐鸣鱼书",
+      "篝火狐鸣",
+      "揭竿而起"
+    ],
+    "opposite": [
+      "偃旗息鼓",
+      "按兵不动"
+    ],
+    "id": "hu-ming-gou-huo"
+  },
+  {
+    "chinese": "心活面软",
+    "pinyin": "xīn huó miàn ruǎn",
+    "literal": "heart, lively, face, soft",
+    "meaning": "This idiom describes someone who has no firm opinions of their own and is easily swayed by others. Their heart is readily moved (心活) and their face is too soft (面软) to refuse, so they end up trusting and following whatever other people say. It is typically used to criticize a person as weak-willed, credulous, and lacking in independent judgment.",
+    "origin": "This idiom has no documented historical origin (出处: 无), so it is generally regarded as a colloquial expression from popular usage rather than a classical allusion. It appears to derive from everyday observation of temperament: the heart being \"lively\" (活) suggests being easily touched or persuaded, while the face being \"soft\" (软) suggests being unable to turn others down. Because it carries no fixed textual source, it is classified as a folk idiom whose meaning is self-evident from its component characters. It is commonly used in casual speech to describe someone who agrees to things simply because they cannot stand firm or refuse.",
+    "example_zh": "他心活面软，别人一劝他就答应帮忙了。",
+    "example_en": "He is so weak-willed and soft-hearted that he agrees to help as soon as others persuade him.",
+    "category": "Quality",
+    "similar": [
+      "耳软心活",
+      "人云亦云",
+      "随波逐流"
+    ],
+    "opposite": [
+      "固执己见",
+      "胸有成竹"
+    ],
+    "id": "xin-huo-mian-ruan"
+  },
+  {
+    "chinese": "多艺多才",
+    "pinyin": "duō yì duō cái",
+    "literal": "many, skill, many, talent",
+    "meaning": "This idiom describes someone who possesses a wide range of abilities and talents across multiple fields. It is synonymous with the more common idiom 多才多艺, emphasizing versatility and accomplishment in various arts and skills.",
+    "origin": "The idiom originates from the Southern Dynasties period, specifically from the 'Book of the Southern Dynasties' (《南史》), in the section on Emperor Jing of the Liang dynasty. The passage praises an emperor for being naturally endowed by heaven, wise and learned, equally accomplished in civil and martial affairs, and possessing many talents and skills. The phrase 多艺多才 appears in this eulogistic context to extol the ruler's extraordinary breadth of abilities.",
+    "example_zh": "他自幼多艺多才，琴棋书画样样精通，深得师长喜爱。",
+    "example_en": "Versatile and talented since childhood, he was skilled in music, chess, calligraphy, and painting alike, and was deeply favored by his teachers.",
+    "category": "Skill",
+    "similar": [
+      "多才多艺",
+      "博学多才",
+      "文武双全"
+    ],
+    "opposite": [
+      "一无所长",
+      "不学无术"
+    ],
+    "id": "duo-yi-duo-cai"
+  },
+  {
+    "chinese": "像模像样",
+    "pinyin": "xiàng mó xiàng yàng",
+    "literal": "like, model, like, appearance",
+    "meaning": "Describes a manner or appearance that is proper, presentable, and up to standard, often carrying a solemn or grand air. It suggests that something is done in a way that looks correct, well-organized, and fitting of an expected form, so as to be taken seriously.",
+    "origin": "The idiom originates from the Qing dynasty novel 儿女英雄传 (Ernü Yingxiong Zhuan, 'The Tale of Heroic Sons and Daughters') by Wen Kang, appearing in the second chapter. In the passage, a servant tells his master that with this official transfer, he must respond to the higher-ups' favor in a proper, presentable manner — 像模像样 — to show due respect. The phrase is built on the reduplicative 像…像… structure, literally meaning 'resembling a proper model and a proper form,' and later became a fixed expression for anything that looks decent, serious, and well-proportioned.",
+    "example_zh": "他穿上新买的西装，整个人看起来像模像样。",
+    "example_en": "He put on his newly bought suit and looked quite presentable from head to toe.",
+    "category": "Quality",
+    "similar": [
+      "有模有样",
+      "似模似样",
+      "衣冠楚楚"
+    ],
+    "opposite": [
+      "不伦不类",
+      "不像样子"
+    ],
+    "id": "xiang-mo-xiang-yang"
+  },
+  {
+    "chinese": "春色满园",
+    "pinyin": "chūn sè mǎn yuán",
+    "literal": "spring, color, full, garden",
+    "meaning": "The idiom describes a garden overflowing with beautiful spring scenery, where every corner is filled with the vitality of the season. Figuratively, it depicts a thriving, prosperous, and flourishing scene, often used to praise vibrant development or a lively, healthy atmosphere.",
+    "origin": "The phrase appears in a poem by Tang dynasty poet Lü Congqing, collected in his work Fengxi Cungao, which describes the lovely spring scenery of a small garden. It became widely famous through the Song dynasty poet Ye Shaoweng's poem 'A Visit to a Small Garden Without Meeting the Host' (游小园不值), in which the poet, unable to enter the locked garden, writes: 'Pity the clog prints on the green moss; long I knock at the brushwood gate, but no one answers. Spring color cannot be shut inside the garden — a branch of red apricot blossoms reaches out over the wall.' This image of spring overflowing the walls, impossible to contain, gave the idiom its enduring association with unstoppable vitality and flourishing growth.",
+    "example_zh": "春风一吹，园中百花盛开，真是春色满园的好时节。",
+    "example_en": "When the spring breeze blows and a hundred flowers bloom across the garden, it truly is a fine season overflowing with spring colors.",
+    "category": "Condition",
+    "similar": [
+      "春暖花开",
+      "鸟语花香",
+      "欣欣向荣"
+    ],
+    "opposite": [
+      "满目萧条",
+      "草木凋零"
+    ],
+    "id": "chun-se-man-yuan"
+  },
+  {
+    "chinese": "帮狗吃食",
+    "pinyin": "bāng gǒu chī shí",
+    "literal": "help, dog, eat, food",
+    "meaning": "This idiom means helping wicked people do evil deeds, acting as an accomplice to wrongdoers. It describes someone who assists a bad person in harming others for personal gain. It is synonymous with the idiom 帮虎吃食.",
+    "origin": "This idiom comes from the autobiographical novel 《高玉宝》 by the Chinese writer Gao Yubao, first published in the 1950s under the People's Republic of China era, not from an ancient dynasty. In Chapter Four of the novel, the character 万瞎子 (Blind Wan) is described as a man who constantly flatters and fawns over the local 保长 (village chief under the old rural administration), while extorting and blackmailing the poor peasants. The narrator says he is the most capable of 'helping the dog eat food', meaning he eagerly does dirty work for those in power to oppress ordinary people. The idiom thus entered common usage as a vivid folk expression for complicity in evil.",
+    "example_zh": "他为讨上司欢心，甘心帮狗吃食，欺压无辜百姓。",
+    "example_en": "To curry favor with his superiors, he willingly helped the dog eat its food, bullying innocent commoners.",
+    "category": "Morality",
+    "similar": [
+      "助纣为虐",
+      "为虎作伥",
+      "帮虎吃食"
+    ],
+    "opposite": [
+      "除暴安良",
+      "伸张正义"
+    ],
+    "id": "bang-gou-chi-shi"
+  },
+  {
+    "chinese": "芟繁就简",
+    "pinyin": "shān fán jiù jiǎn",
+    "literal": "remove, complexity, move toward, simplicity",
+    "meaning": "To cut away the superfluous and complex parts so that something becomes simple and clear. It describes the act of pruning excess detail, redundancy, or ornament in writing, speech, or procedure in pursuit of conciseness and ease of understanding.",
+    "origin": "The idiom's earliest related expression appears in the ancient text 《尚书纬》, which uses the phrase 删夷繁乱 (cut away disorder and excess). In the Song dynasty, the literary critic 严羽 wrote in 《历代诗话·诗法家数》 that the art of the four-line quatrain (绝句) should be 婉曲回环，删芜就简 — meandering yet elegant, pruning away the superfluous toward the simple. The wording later crystallized into 芟繁就简, and by the Ming dynasty it was in common documentary use, as seen in 焦竑's 《玉堂丛语》.",
+    "example_zh": "写公文要芟繁就简，把核心结论放在最前面。",
+    "example_en": "When writing official documents, one should prune the superfluous and keep things simple, putting the core conclusion up front.",
+    "category": "Method",
+    "similar": [
+      "删繁就简",
+      "去芜存菁",
+      "言简意赅"
+    ],
+    "opposite": [
+      "叠床架屋",
+      "拖泥带水"
+    ],
+    "id": "shan-fan-jiu-jian"
+  },
+  {
+    "chinese": "高情远韵",
+    "pinyin": "gāo qíng yuǎn yùn",
+    "literal": "lofty, sentiment, distant, charm",
+    "meaning": "Describes a person's noble character or refined, elevated taste. It refers to a lofty spirit combined with far-reaching aesthetic appeal, suggesting someone whose sentiments and style transcend the ordinary. The phrase is used to praise individuals of high moral quality and elegant sensibilities.",
+    "origin": "The idiom appears in Ming dynasty scholar Song Lian's work Reply to Scholar Zhang on Poetry (《答张秀才认诗书》). In the passage, Song Lian praises Tao Yuanming (陶元亮), the famed Eastern Jin poet, saying that his natural genius and writing soared above the style of the Jian'an period poets. He wrote that Tao's lofty sentiments and far-reaching charm were like meat served in a grand sacrificial vessel — naturally delicious without needing salt or vinegar, meaning his excellence was inherent and needed no artificial adornment.",
+    "example_zh": "先生虽隐于山林，然其高情远韵，令人敬仰。",
+    "example_en": "Though the gentleman lived in seclusion in the mountains, his lofty character and refined charm commanded admiration.",
+    "category": "Quality",
+    "similar": [
+      "高情远致",
+      "高风亮节",
+      "雅人高致"
+    ],
+    "opposite": [
+      "俗不可耐",
+      "庸俗不堪"
+    ],
+    "id": "gao-qing-yuan-yun"
   }
 ]
