@@ -9931,3 +9931,71 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-16 12:00:05] === Catch-up push done ===
 [2026-09-16 20:00:00] === Catch-up push start (37 unpushed commits) ===
+[main 999629f] Auto-update: 2026-09-16 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   79597e3..999629f  main -> main
+
+Push OK (attempt 1)
+[2026-09-16 20:00:09] === Catch-up push done ===
+[2026-09-17 03:15:00] === Daily cron start ===
+[2026-09-17 03:15:00] === Daily cron start ===
+[2026-09-17 03:15:00] Generating 10 new idioms...
+[2026-09-17 03:15:00] Generating 10 new idioms...
+Existing: 4848 idioms
+Whitelist: 30894 total
+Candidates available: 24653 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 指名道姓 (zhǐ míng dào xìng)
+    OK (saved, total now: 4849): literal='point out name, state surname...'
+[2/10] -> 坐不垂堂 (zuò bù chuí táng)
+    OK (saved, total now: 4850): literal='sit, not, near, eaves...'
+[3/10] -> 钦差大臣 (qīn chāi dà chén)
+    OK (saved, total now: 4851): literal='imperial, dispatched, great minister...'
+[4/10] -> 动魄惊心 (dòng pò jīng xīn)
+    OK (saved, total now: 4852): literal='move, soul, startle, heart...'
+[5/10] -> 省烦从简 (shěng fán cóng jiǎn)
+    OK (saved, total now: 4853): literal='reduce bother, follow simplicity...'
+[6/10] -> 增砖添瓦 (zēng zhuān tiān wǎ)
+    OK (saved, total now: 4854): literal='add brick, add tile...'
+[7/10] -> 绵延不断 (mián yán bù duàn)
+    OK (saved, total now: 4855): literal='continuous, extending, not, breaking...'
+[8/10] -> 耳提面命 (ěr tí miàn mìng)
+    OK (saved, total now: 4856): literal='ear, lift, face, command...'
+[9/10] -> 五侯七贵 (wǔ hòu qī guì)
+    OK (saved, total now: 4857): literal='five, marquis, seven, noble...'
+[10/10] -> 一狐之掖 (yī hú zhī yè)
+  JSON parse error: Expecting ',' delimiter: line 1 column 772 (char 771)
+    FAIL
+
+Added 9 idioms. Total: 4857
+Failed: 1 (一狐之掖...)
+[2026-09-17 03:18:24] Generation OK
+[2026-09-17 03:18:24] Generation OK
+[2026-09-17 03:18:24] Regenerating site...
+[2026-09-17 03:18:24] Regenerating site...
+Loading data...
+  → 4857 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4857 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4857 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-17 03:18:40] Site regenerated
+[2026-09-17 03:18:40] Site regenerated
+[2026-09-17 03:18:40] Pushing to GitHub...
+[2026-09-17 03:18:40] Pushing to GitHub...

@@ -96388,5 +96388,184 @@
       "庸俗不堪"
     ],
     "id": "gao-qing-yuan-yun"
+  },
+  {
+    "chinese": "指名道姓",
+    "pinyin": "zhǐ míng dào xìng",
+    "literal": "point out name, state surname",
+    "meaning": "To mention or identify someone explicitly by their full name, leaving no doubt about who is being referred to. It implies speaking directly and openly about a person rather than using vague hints or general references. Often carries a tone of confrontation, accusation, or straightforward accountability.",
+    "origin": "This idiom is recorded in the modern Chinese novel The Three-Family Lane (三家巷) by Ouyang Shan (欧阳山), a 20th-century Chinese writer known for realist fiction. The novel, set in Guangzhou during the revolutionary period of the 1920s, depicts the intersecting lives of three families amid social upheaval. In the quoted line, a character complains that no one has named anyone directly, yet the other party keeps dragging in irrelevant matters to argue about. The phrase thus entered common usage as a standard expression for calling someone out by name without ambiguity.",
+    "example_zh": "会上领导指名道姓地批评了迟到的员工。",
+    "example_en": "At the meeting, the leader criticized the late employees by name.",
+    "category": "Communication",
+    "similar": [
+      "直呼其名",
+      "指名点姓"
+    ],
+    "opposite": [
+      "含糊其辞",
+      "指桑骂槐"
+    ],
+    "id": "zhi-ming-dao-xing"
+  },
+  {
+    "chinese": "坐不垂堂",
+    "pinyin": "zuò bù chuí táng",
+    "literal": "sit, not, near, eaves",
+    "meaning": "Literally, it means one should not sit close under the eaves of a house, where falling tiles or a slip could cause injury. Figuratively, it warns against lingering in places of danger and urges one to be prudent and protective of one's own safety. It is often used to describe a cautious, self-preserving attitude toward risk.",
+    "origin": "The idiom comes from the Biography of Sima Xiangru in the Shiji (Records of the Grand Historian), written by Sima Qian during the Western Han dynasty. When Emperor Wu of Han insisted on personally hunting fierce beasts, Sima Xiangru submitted a remonstrance citing the saying that a man of great wealth would not sit beneath the eaves, for the sake of his own safety. His point was that even a rich man values his life enough to avoid obvious danger, so the emperor, whose life was far more precious, should not recklessly expose himself to peril. The phrase 家累千金，坐不垂堂 thereby became a classic expression urging caution and self-preservation.",
+    "example_zh": "君子坐不垂堂，从不涉足险境。",
+    "example_en": "A gentleman does not linger where danger lurks, and never sets foot in hazardous situations.",
+    "category": "Attitude",
+    "similar": [
+      "明哲保身",
+      "谨小慎微",
+      "小心翼翼"
+    ],
+    "opposite": [
+      "铤而走险",
+      "孤注一掷"
+    ],
+    "id": "zuo-bu-chui-tang"
+  },
+  {
+    "chinese": "钦差大臣",
+    "pinyin": "qīn chāi dà chén",
+    "literal": "imperial, dispatched, great minister",
+    "meaning": "An official sent by the emperor to the provinces with imperial authority to handle major affairs. Today it is used sarcastically to mock a person dispatched from a higher office who, without understanding the actual local situation, arbitrarily issues orders and bosses people around.",
+    "origin": "The term comes from the Qing dynasty, formalized in Ruan Kuisheng's “Chayuke Hua” (Tea-Room Talks). A section titled “Qinchai Guanshi” states that officials of the third rank and above used the seal of a qinchai dachen (imperial commissioner), while those of the fourth rank and below used the seal of a qinchai guanyuan (imperial envoy official). The emperor dispatched such envoys as personal representatives to handle major affairs such as military campaigns, disaster relief, or provincial audits. The term was also a fixed official title in the Qing bureaucracy, and in modern usage it has acquired a mocking connotation of arrogant meddling from above.",
+    "example_zh": "这位领导刚上任就摆出钦差大臣的架势，对基层工作指手画脚。",
+    "example_en": "This leader assumed the air of an imperial commissioner as soon as he took office, criticizing and dictating to the grassroots work without understanding it.",
+    "category": "Power",
+    "similar": [
+      "颐指气使",
+      "指手画脚",
+      "发号施令"
+    ],
+    "opposite": [
+      "实事求是",
+      "脚踏实地"
+    ],
+    "id": "qin-chai-da-chen"
+  },
+  {
+    "chinese": "动魄惊心",
+    "pinyin": "dòng pò jīng xīn",
+    "literal": "move, soul, startle, heart",
+    "meaning": "To shake one's very soul and startle the heart. It describes something so intense, beautiful, or terrifying that it deeply shocks the emotions, often used to describe a scene or event that is extremely frightening or thrilling to the point of near panic.",
+    "origin": "The idiom derives from the Southern Dynasties period, specifically from Zhong Rong's \"Shi Pin\" (Grades of Poetry) written around the 6th century. In his evaluation of a poem's literary merit, Zhong Rong praised writing that was gentle in diction yet sad and far-reaching in meaning, stating it could 'startle the soul and move the heart' — nearly worth one gold coin per character. Originally the phrase praised profound literary artistry and emotional depth, but over time it evolved to describe anything that terrifies or shocks a person intensely.",
+    "example_zh": "那场悬崖上的救援惊险万分，动魄惊心，令人久久难以平静。",
+    "example_en": "The rescue on the cliff was extremely perilous and heart-stopping, leaving people unable to calm down for a long time.",
+    "category": "Emotion",
+    "similar": [
+      "惊心动魄",
+      "触目惊心",
+      "心惊胆战"
+    ],
+    "opposite": [
+      "无动于衷",
+      "心平气和"
+    ],
+    "id": "dong-po-jing-xin"
+  },
+  {
+    "chinese": "省烦从简",
+    "pinyin": "shěng fán cóng jiǎn",
+    "literal": "reduce bother, follow simplicity",
+    "meaning": "It means to cut away troublesome and complicated procedures and instead adopt a simple, direct approach. The idiom advocates streamlining workflow and removing needless formalities in favor of efficiency. It is typically used as a guiding principle for administration, management, or personal conduct.",
+    "origin": "There is no recorded classical origin story for this idiom; authoritative sources list its 出处 as none. It is a modern four-character phrase built on the familiar 'X烦从简' pattern, sharing its structure with established expressions like 删繁就简. The wording combines '省烦' (sparing oneself from complications) with '从简' (following simplicity), a construction consistent with classical Chinese idiom formation. Because it lacks a named dynasty, text, or figure, its meaning is inferred directly from its component characters rather than from a historical anecdote.",
+    "example_zh": "日常审批流程应省烦从简，才能真正提高办事效率。",
+    "example_en": "Daily approval processes should cut away the complicated and stick to simplicity if they are to genuinely improve work efficiency.",
+    "category": "Method",
+    "similar": [
+      "删繁就简",
+      "化繁为简",
+      "去繁从简"
+    ],
+    "opposite": [
+      "繁文缛节",
+      "叠床架屋"
+    ],
+    "id": "sheng-fan-cong-jian"
+  },
+  {
+    "chinese": "增砖添瓦",
+    "pinyin": "zēng zhuān tiān wǎ",
+    "literal": "add brick, add tile",
+    "meaning": "This idiom means to make a modest contribution or do some work for a larger cause. It likens one's small efforts to adding bricks and tiles to a building under construction, emphasizing that every bit of work, however small, helps the collective effort.",
+    "origin": "This idiom has no recorded origin in classical literature; its 出处 is given as 无 (none). It is a variant of the more common idiom 添砖加瓦 (tiān zhuān jiā wǎ), which draws on the everyday image of construction, where every brick and tile is needed to complete a house. The phrase gained wide currency in mid-20th-century China, where it was frequently used to encourage ordinary people to contribute their labor to the cause of socialist construction. There is no specific dynasty or historical figure associated with its coinage.",
+    "example_zh": "多挖一锹煤，也是给社会主义建设增砖添瓦嘛！",
+    "example_en": "Every extra shovel of coal you dig is also adding a brick and a tile to socialist construction!",
+    "category": "Action",
+    "similar": [
+      "添砖加瓦",
+      "尽绵薄之力",
+      "添瓦加砖"
+    ],
+    "opposite": [
+      "袖手旁观",
+      "坐享其成"
+    ],
+    "id": "zeng-zhuan-tian-wa"
+  },
+  {
+    "chinese": "绵延不断",
+    "pinyin": "mián yán bù duàn",
+    "literal": "continuous, extending, not, breaking",
+    "meaning": "Describes identical natural scenes or things appearing one after another without any interruption, stretching on unbroken over a long span. It conveys a sense of endless continuity, whether of mountains, rivers, crowds, or other sights.",
+    "origin": "The idiom derives from the phrase 绵绵不绝 found in the chapter 《观周》 of 《孔子家语》 (The Family Sayings of Confucius), a collection of Confucian teachings compiled during the Han dynasty and transmitted through the Three Kingdoms scholar Wang Su. The text reads 涓涓不雍，终为江河；绵绵不绝，或成网罗, meaning that a trickling stream, if not blocked, will eventually become a great river, and threads that stretch on unbroken may come to form a net. This expresses the idea that small, continuous efforts accumulate into something vast, and the later form 绵延不断 was coined to emphasize scenes that extend without end.",
+    "example_zh": "绵延不断的游行队伍正往这边涌来。",
+    "example_en": "The endless stream of marchers was surging this way.",
+    "category": "Condition",
+    "similar": [
+      "连绵不绝",
+      "源源不断",
+      "络绎不绝"
+    ],
+    "opposite": [
+      "断断续续",
+      "时断时续"
+    ],
+    "id": "mian-yan-bu-duan"
+  },
+  {
+    "chinese": "耳提面命",
+    "pinyin": "ěr tí miàn mìng",
+    "literal": "ear, lift, face, command",
+    "meaning": "To teach or instruct someone with great earnestness and sincerity, going so far as to pull at their ear while speaking directly to their face. It describes elders or mentors giving patient, heartfelt guidance.",
+    "origin": "The idiom comes from the poem 'Yi' (抑) in the 'Greater Odes' (大雅) section of the Book of Songs (诗经), China's oldest poetry anthology compiled during the Western Zhou dynasty. The original line reads: '匪面命之，言提其耳' — 'I did not merely instruct you face to face, but also pulled your ear to make sure you listened.' This vividly portrays an elder's urgent, wholehearted exhortation, which later evolved into the idiom to describe teaching with tireless sincerity.",
+    "example_zh": "恩师的耳提面命，使我一生受用不尽。",
+    "example_en": "My mentor's earnest face-to-face instruction has benefited me endlessly throughout my life.",
+    "category": "Learning",
+    "similar": [
+      "谆谆教诲",
+      "苦口婆心",
+      "言传身教"
+    ],
+    "opposite": [
+      "放任自流",
+      "不闻不问"
+    ],
+    "id": "er-ti-mian-ming"
+  },
+  {
+    "chinese": "五侯七贵",
+    "pinyin": "wǔ hòu qī guì",
+    "literal": "five, marquis, seven, noble",
+    "meaning": "A general term referring to the most powerful and privileged members of the aristocracy — high-ranking nobles, court officials, and the elite of the wealthy and influential classes. It emphasizes both noble rank and political eminence, describing those who hold great power and honor at the pinnacle of society.",
+    "origin": "No single documented origin is recorded for this idiom, so it is best understood as a compound of allusions rather than a specific event. The element 五侯 recalls the Western Han dynasty, when Emperor Cheng enfeoffed five of his maternal relatives of the Wang clan as marquises, making the family exceptionally powerful at court. The element 七贵 refers to the seven most powerful aristocratic clans of the age, though the specific referents vary among sources. By the Tang dynasty the compound had become a generic stock phrase for the most eminent nobles and court officials, used in poetry as a synecdoche for wealth, power, and rank. The idiom thus condenses these historical allusions into a broad label for the privileged elite.",
+    "example_zh": "他出身显赫，家中宾客多为五侯七贵之辈。",
+    "example_en": "He came from a distinguished family, and most of the guests at his house were high-ranking nobles and powerful officials.",
+    "category": "Status",
+    "similar": [
+      "达官显贵",
+      "豪门望族",
+      "高门大户"
+    ],
+    "opposite": [
+      "布衣黔首",
+      "平民百姓"
+    ],
+    "id": "wu-hou-qi-gui"
   }
 ]
