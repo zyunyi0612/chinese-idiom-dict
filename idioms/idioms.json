@@ -96567,5 +96567,205 @@
       "平民百姓"
     ],
     "id": "wu-hou-qi-gui"
+  },
+  {
+    "chinese": "行成于思",
+    "pinyin": "xíng chéng yú sī",
+    "literal": "action, succeeds, through, thinking",
+    "meaning": "The idiom means that success in any undertaking comes from careful thinking, while failure results from carelessness or thoughtlessness. It urges people to think deeply and analyze before acting.",
+    "origin": "The phrase comes from 'Jinxue Jie' (Explanation of Advancing in Learning), an essay by the Tang dynasty scholar and official Han Yu, written during his exile around 801 AD. In the essay, Han Yu presents a mock dialogue in which he defends his own dedication to learning and moral cultivation. The full line reads: '业精于勤，荒于嬉；行成于思，毁于随' — 'Expertise is perfected by diligence and ruined by idleness; action succeeds through thinking and is ruined by following along carelessly.' It emphasizes thought and diligence as the keys to accomplishment.",
+    "example_zh": "行成于思，这是学业、事业有成的格言。",
+    "example_en": "Success comes through thinking — this is a motto for achievement in study and career.",
+    "category": "Learning",
+    "similar": [
+      "业精于勤",
+      "三思而后行",
+      "深思熟虑"
+    ],
+    "opposite": [
+      "草率行事",
+      "贸然行事"
+    ],
+    "id": "xing-cheng-yu-si"
+  },
+  {
+    "chinese": "洗髓伐毛",
+    "pinyin": "xǐ suǐ fá máo",
+    "literal": "wash marrow, cut hair",
+    "meaning": "Washing the bone marrow and cutting away the hair — a vivid metaphor for thoroughly purging one's own filth, flaws, or bad habits. The idiom describes a complete, inward renewal of the self, akin to casting off the old body and being reborn. It stresses a radical, wholehearted transformation rather than superficial change.",
+    "origin": "The idiom first appears in the Ming dynasty (明代) primer Youxue Qionglin (《幼学琼林》), compiled by the scholar Cheng Dengji (程登吉), in its section on the human body (《身体》). There, the allusion \"Dongfang Shuo washed his marrow and cut his hair\" (东方朔洗髓伐毛) is paired with \"Zhang Liang stamped his foot and whispered in the ear\" (张良蹑足附耳), recalling two celebrated figures of the Han dynasty. Dongfang Shuo, a witty and eccentric courtier of Emperor Wu of the Western Han dynasty, was said to have undergone a mystical ritual of washing his bone marrow and cutting his hair in order to purify his body and renew his youth. Later writers borrowed the phrase as a metaphor for thoroughly cleansing oneself of defects and being reborn anew.",
+    "example_zh": "经历人生低谷后，他决定洗髓伐毛，彻底告别过去的自己。",
+    "example_en": "After hitting rock bottom in life, he resolved to wash away his old self completely and bid farewell to who he once was.",
+    "category": "Recovery",
+    "similar": [
+      "脱胎换骨",
+      "洗心革面",
+      "焕然一新"
+    ],
+    "opposite": [
+      "执迷不悟",
+      "冥顽不灵"
+    ],
+    "id": "xi-sui-fa-mao"
+  },
+  {
+    "chinese": "才夸八斗",
+    "pinyin": "cái kuā bā dǒu",
+    "literal": "talent, boast, eight, dou (ancient unit of dry measure)",
+    "meaning": "To boast of possessing extraordinary, outstanding talent. The idiom describes someone bragging about their literary brilliance, often with the implication that their actual ability falls short of their boasts.",
+    "origin": "The idiom draws on the celebrated allusion \"talent of eight dou\". During the Southern Dynasties, the landscape poet Xie Lingyun once remarked that if all the talent under heaven were gathered into one dan (a measure equal to ten dou), Cao Zijian (Cao Zhi), the prince-poet of the Wei dynasty in the Three Kingdoms period, alone would hold eight dou of it. From this arose the phrase \"eight dou of talent\" to signify supreme literary ability. The expression \"才夸八斗\" itself first appears in the Qing dynasty playwright and critic Li Yu's Casual Expressions of Idle Feeling (Xianqing Ouji), where he argues that skill matters in quality, not scale: even one who boasts of eight dou of talent and five cartloads of learning will produce writing fit only to cover pickle jars if it lacks refinement.",
+    "example_zh": "他逢人便才夸八斗，其实文章写得平庸。",
+    "example_en": "He boasts of eight-dou talent to everyone he meets, but his essays are actually quite mediocre.",
+    "category": "Attitude",
+    "similar": [
+      "才高八斗",
+      "八斗之才",
+      "学富五车"
+    ],
+    "opposite": [
+      "才疏学浅",
+      "胸无点墨"
+    ],
+    "id": "cai-kua-ba-dou"
+  },
+  {
+    "chinese": "万夫莫当",
+    "pinyin": "wàn fū mò dāng",
+    "literal": "ten thousand, men, cannot, withstand",
+    "meaning": "Describes someone of extraordinary bravery and strength, so formidable that ten thousand men together could not stand against them. It is synonymous with 万夫不当之勇, praising a person's unmatched valor and fighting prowess.",
+    "origin": "The phrase appears in Chapter 73 of Dong Zhou Lie Guo Zhi (《东周列国志》), a historical novel of the Ming dynasty traditionally attributed to Feng Menglong, which retells the events of the Spring and Autumn period. In that passage the speaker praises Qingji, a prince of the state of Wu, saying that his bones and sinews were like iron and that ten thousand men could not withstand him. The remark underscores Qingji's legendary strength and courage in the story surrounding the struggle for the Wu throne.",
+    "example_zh": "将军临阵冲锋，气势万夫莫当。",
+    "example_en": "When the general charged into battle, his momentum was such that ten thousand men could not withstand him.",
+    "category": "Quality",
+    "similar": [
+      "万夫不当",
+      "勇冠三军",
+      "一夫当关"
+    ],
+    "opposite": [
+      "望风而逃",
+      "贪生怕死"
+    ],
+    "id": "wan-fu-mo-dang"
+  },
+  {
+    "chinese": "枯骨生肉",
+    "pinyin": "kū gǔ shēng ròu",
+    "literal": "withered bone, grow flesh",
+    "meaning": "It means literally bringing the dead back to life. It is used to praise a physician's remarkably skilled medical treatment, and by extension to describe rescuing something already beyond hope. The imagery of regrowing flesh on dried bones conveys restoring life and vitality to what was thought lost.",
+    "origin": "This idiom has no documented origin story or attested classical source (出处无考). It belongs to a family of folk and literary expressions built on the ancient metaphor of resurrecting the dead, sharing its core imagery with the idiom 起死回生. The phrase was formed by analogy with the concept of reviving withered remains, and is used in later writing and speech primarily to laud extraordinary medical skill. As no specific dynasty or historical figure can be credited, its etymology remains speculative rather than textually verified.",
+    "example_zh": "老中医医术高超，能让枯骨生肉，救活了无数垂危的病人。",
+    "example_en": "The old physician's superb skill could make withered bones grow flesh, saving countless critically ill patients.",
+    "category": "Recovery",
+    "similar": [
+      "起死回生",
+      "妙手回春",
+      "枯木逢春"
+    ],
+    "opposite": [
+      "回天乏术",
+      "无可救药"
+    ],
+    "id": "ku-gu-sheng-rou"
+  },
+  {
+    "chinese": "琴瑟不调",
+    "pinyin": "qín sè bù tiáo",
+    "literal": "qin, se, not, harmonized",
+    "meaning": "The qin and the se are two classical Chinese stringed instruments whose paired names traditionally symbolize a married couple. When the two instruments cannot be tuned to play in harmony, the phrase is used as a metaphor for a husband and wife who are not getting along. It thus describes marital discord or a strained relationship between spouses.",
+    "origin": "The idiom comes from the Treatise on Rites and Music in the Book of Han, compiled by the Eastern Han historian Ban Gu. It records a memorial by the Western Han scholar Dong Zhongshu to Emperor Wu of Han, who argued that just as an out-of-tune qin and se must have their strings removed and restrung before they can be played, a failing government must be fundamentally reformed before it can function. The musical metaphor was later applied specifically to marriage, since the paired qin and se came to stand for husband and wife. The idiom also appears in the Tang dynasty anecdote collection Yinhua Lu, in a story about Guo Ai, son of the great general Guo Ziyi, and his wife Princess Shengping.",
+    "example_zh": "他们夫妻俩琴瑟不调，常常为一点小事争吵不休。",
+    "example_en": "The couple's marriage is out of tune, and they quarrel endlessly over the smallest things.",
+    "category": "Condition",
+    "similar": [
+      "琴瑟失调",
+      "同床异梦",
+      "夫妻反目"
+    ],
+    "opposite": [
+      "琴瑟和鸣",
+      "举案齐眉"
+    ],
+    "id": "qin-se-bu-tiao"
+  },
+  {
+    "chinese": "大功毕成",
+    "pinyin": "dà gōng bì chéng",
+    "literal": "great, achievement, completely, accomplished",
+    "meaning": "It means a great project or major task has been declared complete. The idiom emphasizes the successful culmination of a large, long-term undertaking, and it is synonymous with 大功告成 (the great work is done). It is typically used to report the triumphant finish of major engineering, construction, or other grand endeavors.",
+    "origin": "The idiom comes from the Book of Han (汉书), in the biography of Wang Mang (王莽传), written by the historian Ban Gu during the Eastern Han dynasty. The passage records that during the late Western Han, when Wang Mang was serving as regent, he launched massive construction projects and summoned the people to labor on them. It states: 'The students and commoners gathered in great harmony; a hundred thousand people assembled together, working evenly for twenty days, and the great work was accomplished' (诸生、庶民大和会，十万众并集，平作二旬，大功毕成). The phrase originally described the completion of Wang Mang's grand construction works, and later became a fixed expression for the successful completion of any major project or task.",
+    "example_zh": "历时三年的跨海大桥终于大功毕成，全线通车。",
+    "example_en": "After three years of construction, the cross-sea bridge was finally completed and opened to traffic along its entire length.",
+    "category": "Success",
+    "similar": [
+      "大功告成",
+      "功德圆满",
+      "圆满完成"
+    ],
+    "opposite": [
+      "功败垂成",
+      "半途而废"
+    ],
+    "id": "da-gong-bi-cheng"
+  },
+  {
+    "chinese": "人中之龙",
+    "pinyin": "rén zhōng zhī lóng",
+    "literal": "man, among, of, dragon",
+    "meaning": "A dragon among men; a metaphor for an outstanding person, a hero or elite far surpassing ordinary people. It praises someone of extraordinary talent, virtue, or achievement who stands head and shoulders above the crowd.",
+    "origin": "The idiom comes from the Book of Jin (《晋书》), in the biography of Song Xian (宋纤), a famous reclusive scholar of the Former Liang state during the Sixteen Kingdoms period. The minister Ma Ji (马岌) once visited Song Xian, and after being deeply impressed by his learning and character, sighed: 'Now I know that you, sir, are truly a dragon among men' (吾而今而后知先生人中之龙也). The remark likens an exceptional individual to a dragon soaring among ordinary beings, and the phrase was later widely used to praise people of outstanding talent.",
+    "example_zh": "他临危受命挽救了公司，堪称人中之龙。",
+    "example_en": "He took on the mission in a time of crisis and saved the company, truly a dragon among men.",
+    "category": "Leadership",
+    "similar": [
+      "出类拔萃",
+      "鹤立鸡群",
+      "凤毛麟角"
+    ],
+    "opposite": [
+      "平庸之辈",
+      "碌碌无为"
+    ],
+    "id": "ren-zhong-zhi-long"
+  },
+  {
+    "chinese": "劳筋苦骨",
+    "pinyin": "láo jīn kǔ gǔ",
+    "literal": "labor, sinews, pain, bones",
+    "meaning": "To work so hard that one's muscles and bones ache from exhaustion. Describes heavy, grueling physical labor that wears the body down. The idiom emphasizes the toll that relentless toil takes on one's physical strength and well-being.",
+    "origin": "No documented origin story or specific source text is recorded for this idiom (出处: 无), so its exact first appearance cannot be traced to a particular dynasty, text, or figure. It is formed on the common classical pattern of pairing two body terms (sinews/tendons and bones) with two hardship verbs (to labor and to suffer), a structure seen in many Chinese idioms describing physical endurance. It likely emerged from traditional literary and vernacular usage that praised or lamented the hardships of hard labor. Its meaning is largely self-evident from its component characters, which is why it has survived in everyday speech rather than being tied to a single classical anecdote.",
+    "example_zh": "为了养家糊口，父亲常年劳筋苦骨，从不抱怨。",
+    "example_en": "To support the family, my father toiled year after year until his muscles and bones ached, yet he never complained.",
+    "category": "Condition",
+    "similar": [
+      "任劳任怨",
+      "含辛茹苦",
+      "疲于奔命"
+    ],
+    "opposite": [
+      "游手好闲",
+      "养尊处优"
+    ],
+    "id": "lao-jin-ku-gu"
+  },
+  {
+    "chinese": "寥寥可数",
+    "pinyin": "liáo liáo kě shǔ",
+    "literal": "few, few, can, count",
+    "meaning": "Describes something so scarce or sparse that it can be counted on one's fingers. It emphasizes a remarkably small number, barely enough to tally up. Often used to highlight how rare a thing, person, or instance is.",
+    "origin": "The idiom traces to a line by the Tang-dynasty poet Liu Changqing in his poem \"Guo Zheng Shanren Suoju\" (Visiting the Hermit Zheng's Dwelling), which reads \"ji ji gu ying ti xing yuan, liao liao yi quan fei tao yuan\" — a quiet scene where a lone oriole sings and a solitary dog barks, suggesting emptiness and fewness. Over time, the phrase 寥寥 was paired with 可数 to form this chengyu, meaning \"so few they can be counted.\" Later, the Qing-dynasty scholar Fang Bao also employed the idiom in his memorial to the throne to lament how few officials would steadfastly uphold integrity.",
+    "example_zh": "真正能坚持到底的人寥寥可数。",
+    "example_en": "Those who can truly persevere to the end are few and far between.",
+    "category": "Condition",
+    "similar": [
+      "寥寥无几",
+      "屈指可数",
+      "凤毛麟角"
+    ],
+    "opposite": [
+      "数不胜数",
+      "不可胜数"
+    ],
+    "id": "liao-liao-ke-shu"
   }
 ]
