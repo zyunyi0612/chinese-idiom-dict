@@ -96767,5 +96767,205 @@
       "不可胜数"
     ],
     "id": "liao-liao-ke-shu"
+  },
+  {
+    "chinese": "名山事业",
+    "pinyin": "míng shān shì yè",
+    "literal": "famous mountain, career undertaking",
+    "meaning": "A metaphor for one's life's great literary works, especially books or writings meant to be preserved for future generations. It refers to the undertaking of writing and leaving behind enduring scholarly works that outlive the author.",
+    "origin": "The idiom comes from Sima Qian's (司马迁) 'Records of the Grand Historian' (《史记》), in the postscript 'The Autobiography of the Grand Historian' (《太史公自序》) written during the Western Han dynasty. Fearing his work might be lost, Sima Qian wrote that he would 'hide it in a famous mountain and keep a copy in the capital, waiting for a sage or noble person of later ages' (藏之名山，副在京师，俟后世圣人君子). Hiding a manuscript in a mountain was done to protect it from destruction and ensure its transmission to posterity. From this, the great undertaking of writing books that will be preserved for later generations came to be called '名山事业'.",
+    "example_zh": "他穷尽毕生心血的名山事业，终于流传后世。",
+    "example_en": "The great work that consumed his lifelong effort was finally passed down to later generations.",
+    "category": "Knowledge",
+    "similar": [
+      "著书立说",
+      "立言不朽",
+      "藏之名山"
+    ],
+    "opposite": [
+      "一事无成",
+      "无所作为"
+    ],
+    "id": "ming-shan-shi-ye"
+  },
+  {
+    "chinese": "厚积薄发",
+    "pinyin": "hòu jī bó fā",
+    "literal": "deep accumulation, slow release",
+    "meaning": "This idiom means to amass knowledge, skill, or resources extensively over a long period, and then to release or apply them gradually and effectively at the right moment. It emphasizes that thorough preparation is the prerequisite for success — only with abundant accumulation can one act decisively when the opportunity arrives.",
+    "origin": "The phrase has no recorded classical source in most dictionaries, but it is widely attributed to a line by the Song dynasty writer Su Shi in his essay 稼说送张琥: '博观而约取，厚积而薄发' (observe broadly and take selectively; accumulate deeply and release sparingly). Su Shi used the metaphor of farming — crops must be deeply rooted and nourished before they can yield a rich harvest — to encourage his friend to study patiently instead of seeking quick results. Over time the phrase was condensed into the four-character idiom 厚积薄发, which is now a popular modern motto about diligence and readiness.",
+    "example_zh": "十年苦读，厚积薄发，他终于一朝成名。",
+    "example_en": "After ten years of arduous study and deep accumulation, he finally achieved fame at a single stroke.",
+    "category": "Learning",
+    "similar": [
+      "水到渠成",
+      "日积月累",
+      "积少成多"
+    ],
+    "opposite": [
+      "急于求成",
+      "拔苗助长"
+    ],
+    "id": "hou-ji-bo-fa"
+  },
+  {
+    "chinese": "周穷恤匮",
+    "pinyin": "zhōu qióng xù kuì",
+    "literal": "relieve, poor, pity, destitute",
+    "meaning": "To give relief and assistance to the poor and destitute, including widowers, widows, orphans, the childless elderly, and other people in need. It describes the virtuous act of aiding those in hardship out of compassion and generosity.",
+    "origin": "No specific origin story or named source is recorded for this idiom. It is formed from classical Chinese words: 周 means to give alms or relieve, 恤 means to pity and aid, and 匮 means lacking or impoverished, all of which carry the vocabulary of benevolent governance found in ancient texts such as the Book of Documents and the Book of Songs. The phrase functions as a set expression praising charity and compassion for the poor. It has long been used in written Chinese to commend those who give generously to the needy.",
+    "example_zh": "他一生周穷恤匮，散尽家财资助贫苦学子。",
+    "example_en": "Throughout his life he relieved the poor and aided the destitute, giving away his family fortune to support impoverished students.",
+    "category": "Morality",
+    "similar": [
+      "扶危济困",
+      "乐善好施",
+      "雪中送炭"
+    ],
+    "opposite": [
+      "见死不救",
+      "袖手旁观"
+    ],
+    "id": "zhou-qiong-xu-kui"
+  },
+  {
+    "chinese": "杷罗剔抉",
+    "pinyin": "pá luó tī jué",
+    "literal": "rake, gather, pick out, select",
+    "meaning": "To search widely for and select talented people, combing through many candidates to pick out the most capable ones. The idiom emphasizes both thoroughness in searching and care in selection. It is a variant form of the more common 爬罗剔抉.",
+    "origin": "The idiom derives from '进学解' (Discourse on the Advancement of Learning), an essay by Han Yu (韩愈), the celebrated Tang dynasty writer and statesman, written around 813 AD. In it Han Yu describes his work as an educator: '爬罗剔抉，刮垢磨光' — raking through and selecting talented students, scraping away their flaws and polishing them to shine. The character 杷 is a variant writing of 爬 (to rake). The phrase later became a set expression for searching out and selecting the best talent.",
+    "example_zh": "公司人事部门杷罗剔抉，终于招到几位真正的技术骨干。",
+    "example_en": "The company's HR department combed through candidates and finally recruited a few real technical core staff.",
+    "category": "Action",
+    "similar": [
+      "爬罗剔抉",
+      "搜罗人才",
+      "择优录取"
+    ],
+    "opposite": [
+      "良莠不分",
+      "泥沙俱下"
+    ],
+    "id": "pa-luo-ti-jue-2"
+  },
+  {
+    "chinese": "如蚁附膻",
+    "pinyin": "rú yǐ fù shān",
+    "literal": "like ants, cling to, mutton smell",
+    "meaning": "This idiom describes people of similar base character flocking toward something bad, just as ants swarm to the smell of mutton. It is often used to criticize those who eagerly attach themselves to the rich and powerful for personal gain.",
+    "origin": "The idiom comes from the chapter 'Xu Wugui' in Zhuangzi, written by the Warring States philosopher Zhuang Zhou. In the text, Zhuangzi observes that ants are drawn to mutton because of its strong odor. The image was later expanded into a metaphor for base people who, like ants sensing a treat, swarm after wealth, power, or other corrupting attractions. Over time it became a standard saying for sycophantic behavior.",
+    "example_zh": "那些投机者如蚁附膻，纷纷巴结新上任的权贵。",
+    "example_en": "Those speculators flocked like ants to mutton, scrambling to curry favor with the newly appointed powerful official.",
+    "category": "Attitude",
+    "similar": [
+      "趋炎附势",
+      "如蝇逐臭",
+      "攀龙附凤"
+    ],
+    "opposite": [
+      "洁身自好",
+      "傲然独立"
+    ],
+    "id": "ru-yi-fu-shan"
+  },
+  {
+    "chinese": "衣钵相传",
+    "pinyin": "yī bō xiāng chuán",
+    "literal": "robe, alms bowl, pass down to one another",
+    "meaning": "In Chinese Chan (Zen) Buddhism, the robe and alms bowl were the physical tokens a master gave to the disciple he chose to succeed him, symbolizing the transmission of the dharma. Figuratively, it refers to the passing down of skills, techniques, or scholarship from teacher to student through the generations.",
+    "origin": "The phrase comes from the Old Book of Tang, Biography of Shenxiu, which records that in the late Northern Wei dynasty, the monk Bodhidharma, a prince of India who had renounced the world to protect the kingdom, arrived via the South China Sea and obtained the profound dharma of the Chan school. It was said that this teaching had been handed down from Shakyamuni Buddha himself, with the robe and bowl as evidence, transmitted from master to master across generations. Thus the robe and bowl became the mark of legitimate succession in the Chan lineage.",
+    "example_zh": "这家百年老店靠师徒衣钵相传，把绝活一代代保留下来。",
+    "example_en": "This century-old shop relies on the master-to-apprentice tradition of passing down the robe and bowl, preserving its unique craft from generation to generation.",
+    "category": "Learning",
+    "similar": [
+      "薪火相传",
+      "一脉相承",
+      "代代相传"
+    ],
+    "opposite": [
+      "后继无人",
+      "青黄不接"
+    ],
+    "id": "yi-bo-xiang-chuan"
+  },
+  {
+    "chinese": "尺树寸泓",
+    "pinyin": "chǐ shù cùn hóng",
+    "literal": "foot, tree, inch, deep water",
+    "meaning": "A foot of trees and an inch of clear water — a phrase describing a small, confined space that nonetheless contains trees, flowers, and spring water, forming a miniature scenic spot. It conveys that even a tiny place can possess natural charm and tranquility, emphasizing that beauty and serenity do not require vast scale.",
+    "origin": "The idiom has no recorded origin (出处无), and no specific dynasty, text, or figure can be credited with coining it. It appears to be a literary formation built from the classical pairing of the diminutive measures 尺 (a foot) and 寸 (an inch) to stress smallness, combined with 树 (trees) and 泓 (deep, clear water). The expression reflects the traditional Chinese garden aesthetic in which an exquisitely arranged small landscape evokes the grandeur of nature in miniature.",
+    "example_zh": "街心公园虽然只能算是尺树寸泓之地，但也是人们休心养性的好去处。",
+    "example_en": "Although the small park in the middle of the street can only be counted as a place of a foot of trees and an inch of water, it is still a fine spot for people to relax and cultivate their minds.",
+    "category": "Lifestyle",
+    "similar": [
+      "尺山寸水",
+      "小桥流水",
+      "别有洞天"
+    ],
+    "opposite": [
+      "一望无际",
+      "沃野千里"
+    ],
+    "id": "chi-shu-cun-hong"
+  },
+  {
+    "chinese": "势穷力屈",
+    "pinyin": "shì qióng lì qū",
+    "literal": "situation exhausted, strength depleted",
+    "meaning": "Describes a state in which one's circumstances have become dire and one's power or strength is spent. It is used of a person, army, or cause that is on the verge of collapse and can no longer resist or continue. The idiom carries a tone of defeat and helplessness.",
+    "origin": "This idiom has no recorded origin story and cannot be traced to a specific classical text or author. It follows the standard four-character pattern in which paired nouns (circumstances, strength) are each modified by words meaning exhaustion or depletion. Its meaning is transparent from its components: circumstances have run out and power is bent to the point of failure.",
+    "example_zh": "敌军势穷力屈，粮草断绝，只得弃城投降。",
+    "example_en": "The enemy troops, with their situation dire and their strength spent and their supplies cut off, had no choice but to abandon the city and surrender.",
+    "category": "Condition",
+    "similar": [
+      "力屈势穷",
+      "力尽筋疲",
+      "穷途末路"
+    ],
+    "opposite": [
+      "势如破竹",
+      "兵强马壮"
+    ],
+    "id": "shi-qiong-li-qu"
+  },
+  {
+    "chinese": "滥竽充数",
+    "pinyin": "làn yú chōng shù",
+    "literal": "dishonest, yu (reed instrument), make up, the count",
+    "meaning": "This idiom describes someone who lacks real ability but pretends to be competent by blending in with a group of skilled people. It can also refer to inferior goods being passed off as high-quality ones. The implication is that the impostor will eventually be exposed when genuine skill is tested.",
+    "origin": "The idiom originates from Han Feizi (《韩非子·内储说上》), written by the Legalist philosopher Han Fei during the Warring States period. King Xuan of Qi loved hearing a 300-person ensemble of yu (a reed wind instrument) players perform together. A man named Nanguo Chushi, who could not actually play the yu, joined the ensemble and pretended to play, drawing a salary along with the real musicians. When King Xuan died and King Min took the throne, the new king preferred listening to each player perform solo. Fearing exposure, Nanguo fled overnight.",
+    "example_zh": "不会吹竽的人混在乐队里滥竽充数。",
+    "example_en": "People who cannot actually play the yu still mix into the ensemble to make up the numbers.",
+    "category": "Skill",
+    "similar": [
+      "鱼目混珠",
+      "以次充好",
+      "名不副实"
+    ],
+    "opposite": [
+      "名副其实",
+      "货真价实"
+    ],
+    "id": "lan-yu-chong-shu"
+  },
+  {
+    "chinese": "空腹便便",
+    "pinyin": "kōng fù pián pián",
+    "literal": "empty, belly, fat, fat",
+    "meaning": "Describes a person with an outwardly plump, well-fed appearance but an empty mind. It is a metaphor for someone who lacks genuine learning or real ability, presenting a full figure while having nothing of substance within. The idiom mocks those whose outward bearing is not matched by actual talent.",
+    "origin": "The idiom comes from a ci poem titled 《青玉案》 by the Song dynasty poet Liao Xingzhi, which contains the line: '峥嵘岁月还秋暮，空腹便便无好句' (The proud years still reach autumn's dusk; with an empty belly, I have no good verses). In the original line the poet humbly laments that despite advancing years he cannot produce fine poetry, calling himself 空腹便便 — full in appearance but empty within. Because 便便 here means a fat, plump look, the phrase later became a satirical expression for someone who puts on a grand appearance yet has no real scholarship.",
+    "example_zh": "别看那人生得空腹便便，其实肚里没有真学问。",
+    "example_en": "Don't be fooled by his plump, well-fed look — he has no real learning in his head.",
+    "category": "Knowledge",
+    "similar": [
+      "胸无点墨",
+      "不学无术",
+      "华而不实"
+    ],
+    "opposite": [
+      "满腹经纶",
+      "学富五车"
+    ],
+    "id": "kong-fu-pian-pian"
   }
 ]

@@ -10136,3 +10136,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-18 12:00:05] === Catch-up push done ===
 [2026-09-18 20:00:00] === Catch-up push start (43 unpushed commits) ===
+[main 8021c1b] Auto-update: 2026-09-18 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   c925b23..8021c1b  main -> main
+
+Push OK (attempt 1)
+[2026-09-18 20:00:05] === Catch-up push done ===
+[2026-09-19 03:15:00] === Daily cron start ===
+[2026-09-19 03:15:00] === Daily cron start ===
+[2026-09-19 03:15:00] Generating 10 new idioms...
+[2026-09-19 03:15:00] Generating 10 new idioms...
+Existing: 4867 idioms
+Whitelist: 30894 total
+Candidates available: 24634 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 名山事业 (míng shān shì yè)
+    OK (saved, total now: 4868): literal='famous mountain, career undertaking...'
+[2/10] -> 厚积薄发 (hòu jī bó fā)
+    OK (saved, total now: 4869): literal='deep accumulation, slow release...'
+[3/10] -> 周穷恤匮 (zhōu qióng xù kuì)
+    OK (saved, total now: 4870): literal='relieve, poor, pity, destitute...'
+[4/10] -> 杷罗剔抉 (pá luó tī jué)
+    OK (saved, total now: 4871): literal='rake, gather, pick out, select...'
+[5/10] -> 如蚁附膻 (rú yǐ fù shān)
+    OK (saved, total now: 4872): literal='like ants, cling to, mutton smell...'
+[6/10] -> 衣钵相传 (yī bō xiāng chuán)
+    OK (saved, total now: 4873): literal='robe, alms bowl, pass down to one another...'
+[7/10] -> 尺树寸泓 (chǐ shù cùn hóng)
+    OK (saved, total now: 4874): literal='foot, tree, inch, deep water...'
+[8/10] -> 势穷力屈 (shì qióng lì qū)
+    OK (saved, total now: 4875): literal='situation exhausted, strength depleted...'
+[9/10] -> 滥竽充数 (làn yú chōng shù)
+    OK (saved, total now: 4876): literal='dishonest, yu (reed instrument), make up, the coun...'
+[10/10] -> 空腹便便 (kōng fù pián pián)
+    OK (saved, total now: 4877): literal='empty, belly, fat, fat...'
+
+Added 10 idioms. Total: 4877
+[2026-09-19 03:18:41] Generation OK
+[2026-09-19 03:18:41] Generation OK
+[2026-09-19 03:18:41] Regenerating site...
+[2026-09-19 03:18:41] Regenerating site...
+Loading data...
+  → 4877 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4877 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4877 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-19 03:18:58] Site regenerated
+[2026-09-19 03:18:58] Site regenerated
+[2026-09-19 03:18:58] Pushing to GitHub...
+[2026-09-19 03:18:58] Pushing to GitHub...
