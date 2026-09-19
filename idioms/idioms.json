@@ -96967,5 +96967,204 @@
       "学富五车"
     ],
     "id": "kong-fu-pian-pian"
+  },
+  {
+    "chinese": "若涉渊冰",
+    "pinyin": "ruò shè yuān bīng",
+    "literal": "as if, wade into, deep water, ice",
+    "meaning": "A metaphor for being in a perilous and difficult situation, as though wading into a deep pool or treading on thin ice. It conveys a sense of treading cautiously through danger where a single misstep could prove fatal. It is equivalent to the idiom 若涉渊水.",
+    "origin": "The phrase comes from Southern Song dynasty writer Chen Liang's essay 论励臣之道 (On the Way to Encourage Ministers). In it, Emperor Xiaozun speaks in his own voice, recalling the heavy responsibility entrusted to him by the retired Emperor Gaozong and his burning shame over the state's lost territories, vowing revenge for eight years. He describes his reign as 若涉渊冰—like wading into deep water and treading on ice—unsure of how he would ever achieve his goal. The line captures a ruler's anxiety and humility amid overwhelming danger rather than any concrete feat.",
+    "example_zh": "创业之初，他若涉渊冰，步步谨慎，生怕稍有闪失。",
+    "example_en": "In the early days of starting the company, he moved as though wading into deep water and treading on ice—cautious at every step, afraid of the slightest misstep.",
+    "category": "Condition",
+    "similar": [
+      "如履薄冰",
+      "如临深渊",
+      "履冰临渊"
+    ],
+    "opposite": [
+      "泰然自若",
+      "安如泰山"
+    ],
+    "id": "ruo-she-yuan-bing"
+  },
+  {
+    "chinese": "粉白黛绿",
+    "pinyin": "fěn bái dài lǜ",
+    "literal": "powder white, eyebrow green",
+    "meaning": "This idiom describes women's cosmetics and adornment. '粉白' refers to white face powder, while '黛绿' refers to the dark green-black pigment traditionally used to paint eyebrows. Together it evokes the image of beautifully made-up women, and by extension the charming presence of young women.",
+    "origin": "The phrase originates from the 'Great Summons' (《大招》) by Qu Yuan of the State of Chu during the Warring States period. The original line reads '粉白黛黑，施芳泽只', describing women with powdered faces and darkened eyebrows, applying fragrant oils. The form later shifted from '黛黑' to '黛绿', both referring to the dark eyebrow pigment. Qing dynasty writer Zeng Pu used it in 'The Flower in a Sea of Sin' (《孽海花》) to depict a gathering of elegantly dressed women.",
+    "example_zh": "一时粉白黛绿，燕语莺啼，顿时把餐室客厅，化做碧城锦谷。",
+    "example_en": "For a moment the room was filled with powdered faces and painted brows, laughter and chatter, turning the dining room and parlor into a jeweled city of spring.",
+    "category": "Lifestyle",
+    "similar": [
+      "粉白黛黑",
+      "蛾眉皓齿",
+      "珠围翠绕"
+    ],
+    "opposite": [
+      "蓬头垢面",
+      "粗服乱头"
+    ],
+    "id": "fen-bai-dai-lu"
+  },
+  {
+    "chinese": "打闷葫芦",
+    "pinyin": "dǎ mèn hú lu",
+    "literal": "hit, stuffy, gourd",
+    "meaning": "To puzzle over something baffling or hard to decipher, like trying to guess what is inside a sealed gourd. It describes being kept in suspense or unable to make sense of cryptic words and events. Often used when someone is left guessing without getting a straight answer.",
+    "origin": "The phrase comes from Qing dynasty author Cao Xueqin's classic novel Dream of the Red Chamber, Chapter 5. In the scene, the fairy Disenchantment fears Baoyu is about to learn heavenly secrets, so she closes the register of destinies and laughingly tells him to follow her to enjoy the wondrous sights instead of pondering an unsolvable riddle there. A sealed gourd that cannot be opened or seen through became a metaphor for matters that leave people guessing. The expression later spread as a vivid image of being kept in the dark.",
+    "example_zh": "他话只说了一半，让我在这儿打闷葫芦。",
+    "example_en": "He only said half of what he meant, leaving me here puzzling over the riddle.",
+    "category": "Knowledge",
+    "similar": [
+      "摸不着头脑",
+      "如堕烟海",
+      "百思不解"
+    ],
+    "opposite": [
+      "豁然开朗",
+      "恍然大悟"
+    ],
+    "id": "da-men-hu-lu"
+  },
+  {
+    "chinese": "高山峻岭",
+    "pinyin": "gāo shān jùn lǐng",
+    "literal": "high, mountain, steep, ridge",
+    "meaning": "High, steep mountains and rugged ridges. The idiom describes terrain that is both towering and dangerously precipitous. It is often used to depict grand but forbidding natural landscapes.",
+    "origin": "The phrase comes from the Ming dynasty novel 水浒传 (Water Margin), attributed to 施耐庵, in its 86th chapter. In the cited scene, the characters look out over their surroundings and find themselves hemmed in on all sides by towering mountains, with sheer cliffs to left and right. The narrator observes only 高山峻岭 and no path by which to climb up. The line was later quoted in 明·冯梦龙's 醒世恒言 to describe the banks of the Wu Gorge in the Three Gorges.",
+    "example_zh": "车队在高山峻岭之间穿行了三天三夜，终于走出了大山。",
+    "example_en": "The convoy threaded its way among high, steep mountains for three days and three nights before finally emerging from the range.",
+    "category": "Condition",
+    "similar": [
+      "崇山峻岭",
+      "层峦叠嶂",
+      "悬崖峭壁"
+    ],
+    "opposite": [
+      "一马平川",
+      "平原旷野"
+    ],
+    "id": "gao-shan-jun-ling"
+  },
+  {
+    "chinese": "如应斯响",
+    "pinyin": "rú yìng sī xiǎng",
+    "literal": "like, respond, thus, echo",
+    "meaning": "Describes a response or reaction that is as immediate and swift as an echo answering a sound. It conveys that a reply, effect, or repercussion follows its cause with virtually no delay. The idiom emphasizes the speed and immediacy of the response rather than its content.",
+    "origin": "This idiom has no single documented textual origin in the classical canon, and standard dictionaries list no specific source text. Its imagery is drawn from the everyday natural phenomenon of an echo, where a shout into a valley or cave returns instantly. Ancient Chinese writers often used the echo as a metaphor for prompt consequence, as seen in related early phrases such as 如响之应声 in works like Zhuangzi and Xunzi. Over time the compact four-character form crystallized this comparison into a set idiom. It is mostly used in written and literary contexts rather than everyday speech.",
+    "example_zh": "他话音刚落，台下便如应斯响地响起一片掌声。",
+    "example_en": "The moment his words ended, a wave of applause rose from the audience as swiftly as an echo.",
+    "category": "Action",
+    "similar": [
+      "如响之应声",
+      "如影随形",
+      "响答影随"
+    ],
+    "opposite": [
+      "杳无音信",
+      "泥牛入海"
+    ],
+    "id": "ru-ying-si-xiang"
+  },
+  {
+    "chinese": "衣裳之会",
+    "pinyin": "yī shāng zhī huì",
+    "literal": "garments, of, meeting",
+    "meaning": "A peaceful diplomatic conference between states in the Spring and Autumn period, so called because delegates attended in ceremonial civil robes rather than armor. It is contrasted with 兵车之会, assemblies backed by military chariots. The term highlights civility, restraint, and mutual trust between the parties.",
+    "origin": "The phrase comes from the Gongyang tradition's commentary 《谷梁传·庄公二十七年》, which records Duke Huan of Qi, the first hegemon of the Spring and Autumn period. The text states that there were eleven such 衣裳之会, and that no blood-drinking covenant (歃血之盟) was ever needed at them, attributing this to the depth of mutual good faith. Under Duke Huan's leadership, the feudal lords met in civil dress without armed escorts, and their word alone sufficed — a model of diplomacy over force.",
+    "example_zh": "齐桓公以衣裳之会协和诸侯，未动干戈而天下归心。",
+    "example_en": "Duke Huan of Qi won the allegiance of the feudal lords through peaceful diplomatic assemblies, winning hearts across the realm without ever resorting to arms.",
+    "category": "Communication",
+    "similar": [
+      "化干戈为玉帛",
+      "修文偃武"
+    ],
+    "opposite": [
+      "兵车之会",
+      "兵戎相见"
+    ],
+    "id": "yi-shang-zhi-hui"
+  },
+  {
+    "chinese": "轶类超群",
+    "pinyin": "yì lèi chāo qún",
+    "literal": "surpass, peers, exceed, crowd",
+    "meaning": "To surpass one's peers and stand out above the crowd. It describes someone whose talent or ability is outstanding and unmatched among contemporaries. Closely related to the idiom 轶超绝类.",
+    "origin": "The phrase comes from the Qing dynasty novel \"Sui Tang Yanyi\" (隋唐演义) by Chu Renhuo, chapter 95. The text states that even with a minor skill or minor talent, if one can devote oneself wholeheartedly to it, it is enough to surpass one's peers and stand unrivaled for a time. The saying emphasizes that focused dedication to any craft can lead to extraordinary distinction.",
+    "example_zh": "他凭着精湛的医术轶类超群，成为远近闻名的神医。",
+    "example_en": "With his superb medical skills, he surpassed all his peers and became a renowned physician far and wide.",
+    "category": "Quality",
+    "similar": [
+      "出类拔萃",
+      "超群绝伦",
+      "卓尔不群"
+    ],
+    "opposite": [
+      "碌碌无为",
+      "平庸无奇"
+    ],
+    "id": "yi-lei-chao-qun"
+  },
+  {
+    "chinese": "生死之交",
+    "pinyin": "shēng sǐ zhī jiāo",
+    "literal": "life, death, of, friendship",
+    "meaning": "A friendship so deep that the friends would face life and death together. It describes a bond forged through shared mortal peril, in which each person would risk death for the other. Such friends are trusted absolutely, unlike mere acquaintances.",
+    "origin": "The phrase comes from the Yuan dynasty playwright Zheng Dehui's work 'Zou Mei Xiang' (《绉梅香》). In the story, the Duke of Jin (Pei Du) was trapped in grave danger amid spears and blades on the battlefield. The narrator's father threw himself into the fight to save the Duke's life and took six spear wounds in the process. Because of this act of selfless loyalty, the two men swore a friendship of life and death, bound by the memory of blood shed for one another.",
+    "example_zh": "他们两人在战场上相互救助，结成了生死之交。",
+    "example_en": "The two men saved each other on the battlefield and became sworn friends for life and death.",
+    "category": "Quality",
+    "similar": [
+      "刎颈之交",
+      "患难之交",
+      "生死相托"
+    ],
+    "opposite": [
+      "泛泛之交",
+      "酒肉朋友"
+    ],
+    "id": "sheng-si-zhi-jiao"
+  },
+  {
+    "chinese": "百战百败",
+    "pinyin": "bǎi zhàn bǎi bài",
+    "literal": "hundred battles, hundred defeats",
+    "meaning": "This idiom means to suffer defeat in every battle one fights. It describes an army or a person who fails each and every time they engage, no matter how often they try. By extension it is used for repeated, seemingly inevitable failure in any contest.",
+    "origin": "The idiom comes from the Biography of Xiao He in the Book of Han (汉书·萧何传), compiled by Ban Gu during the Eastern Han dynasty about the early Western Han period. Set during the Chu-Han contention, it records a dialogue in which the King of Han, Liu Bang, asked in despair why one would seek death. His adviser Xiao He replied that their forces could not match the enemy's, that they would lose a hundred battles out of a hundred, and what else remained but death. The phrase survived as a vivid image of losing every engagement, and it is now used for repeated failure of any kind.",
+    "example_zh": "这支军队百战百败，士兵们早已丧失了信心。",
+    "example_en": "This army has been defeated in every battle it has fought, and its soldiers have long since lost all confidence.",
+    "category": "Action",
+    "similar": [
+      "屡战屡败",
+      "节节败退",
+      "一败涂地"
+    ],
+    "opposite": [
+      "百战百胜",
+      "战无不胜"
+    ],
+    "id": "bai-zhan-bai-bai"
+  },
+  {
+    "chinese": "自觉形秽",
+    "pinyin": "zì jué xíng huì",
+    "literal": "self, feel, form/appearance, ugly/inferior",
+    "meaning": "To feel ashamed of one's own appearance or bearing when comparing oneself to someone else. It originally referred to feeling ugly or ungainly next to a more handsome, elegant person, but now broadly means to feel inferior to others in any comparison.",
+    "origin": "The idiom comes from 'A New Account of the Tales of the World' (世说新语), compiled by Liu Yiqing of the Southern Dynasties, in the chapter on demeanor and appearance (容止). Wang Wuzi, a general of the Western Jin, was the maternal uncle of the celebrated beauty Wei Jie, famed for his jade-like good looks. Whenever Wang Wuzi, himself a strikingly handsome and dashing man, saw his nephew, he would sigh, 'With a jewel at my side, I feel my own appearance unworthy.' Over time the phrase widened from looks to any sense of being outclassed by another.",
+    "example_zh": "站在那位才华横溢的学者面前，他自觉形秽，半晌说不出话来。",
+    "example_en": "Standing before the brilliantly talented scholar, he felt utterly out of his depth and could not find a word to say.",
+    "category": "Emotion",
+    "similar": [
+      "自惭形秽",
+      "自愧不如",
+      "相形见绌"
+    ],
+    "opposite": [
+      "自命不凡",
+      "孤芳自赏"
+    ],
+    "id": "zi-jue-xing-hui"
   }
 ]
