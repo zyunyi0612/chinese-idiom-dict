@@ -97166,5 +97166,204 @@
       "孤芳自赏"
     ],
     "id": "zi-jue-xing-hui"
+  },
+  {
+    "chinese": "神鬼不测",
+    "pinyin": "shén guǐ bù cè",
+    "literal": "gods, ghosts, not, fathom",
+    "meaning": "Even spirits and ghosts cannot fathom it. It describes something so secret, strange, or unfathomable that no supernatural being could guess it. Often used of a strategist's brilliant and unpredictable schemes.",
+    "origin": "The phrase comes from Yuan dynasty drama. Zheng Guangzu's play 'Yi Yin Geng Xin' (伊尹耕莘) has a line praising a worthy man who deploys unfathomable strategy to raise an army and help a prince accomplish a great deed. The anonymous Yuan play 'She Liu Chui Wan' (射柳捶丸) uses it similarly, with a character boasting of military tactics so ingenious that even gods and ghosts cannot fathom them.",
+    "example_zh": "他用兵如神，布下神鬼不测的妙计，令敌军措手不及。",
+    "example_en": "He commanded troops like a genius and laid an unfathomable plan that caught the enemy off guard.",
+    "category": "Wisdom",
+    "similar": [
+      "神鬼难测",
+      "鬼神莫测",
+      "高深莫测"
+    ],
+    "opposite": [
+      "了如指掌",
+      "一目了然"
+    ],
+    "id": "shen-gui-bu-ce"
+  },
+  {
+    "chinese": "寿终正寝",
+    "pinyin": "shòu zhōng zhèng qǐn",
+    "literal": "long life, end, main, bedroom",
+    "meaning": "Literally, to die of old age in the main room of one's own traditional house, a peaceful and natural death at a ripe old age. In modern usage it is mostly a metaphor for the demise, collapse, or final end of a thing, institution, or system. It often carries a faintly formal or slightly ironic tone.",
+    "origin": "The phrase comes from the Ming dynasty vernacular novel Investiture of the Gods (封神演义) by Xu Zhonglin, chapter 11. The tyrant King Zhou (纣王), last ruler of the Shang dynasty, is rebuking a minister who had predicted the king would come to a bad end while boasting that he himself would die peacefully of old age at home. The king flings the words back: 'You say I will not die a good death, yet you boast you will shòu zhōng zhèng qǐn — is this not insulting your sovereign?' The original sense of dying a natural death at a great age was later generalized to the demise of anything.",
+    "example_zh": "这家百年老店终因经营不善，寿终正寝了。",
+    "example_en": "In the end, this century-old shop closed its doors for good due to mismanagement.",
+    "category": "Condition",
+    "similar": [
+      "与世长辞",
+      "一命呜呼",
+      "寿满天年"
+    ],
+    "opposite": [
+      "长生不老",
+      "万寿无疆"
+    ],
+    "id": "shou-zhong-zheng-qin"
+  },
+  {
+    "chinese": "唾手可得",
+    "pinyin": "tuò shǒu kě dé",
+    "literal": "spit, hand, can, get",
+    "meaning": "Literally to spit on one's hands before grabbing something, so that it can be taken in hand at once. It describes something extremely easy to obtain or achieve, requiring almost no effort. Often used for opportunities, victory, or success that is well within reach.",
+    "origin": "The phrase traces to the Eastern Han dynasty warlord Gongsun Zan, recorded in the Book of the Later Han (后汉书·公孙瓒传) through a commentary by Li Xian quoting the now-lost Nine Provinces Spring and Autumn Annals (九州春秋). When the Yellow Turban uprising broke out and rival warlords rose across the realm, Gongsun Zan boasted that he could settle the chaos as easily as spitting on his own palm, saying 'When the world's troops first rose, I thought it could be decided with a spit of the hand.' The image of moistening one's palm for a firmer grip suggested effortlessness, and the saying was later fixed as the four-character idiom 唾手可得. It is now used to describe any prize or goal that appears trivially easy to win.",
+    "example_zh": "以他的实力，赢得这次比赛简直唾手可得。",
+    "example_en": "With his ability, winning this competition is simply a matter of reaching out and taking it.",
+    "category": "Success",
+    "similar": [
+      "易如反掌",
+      "探囊取物",
+      "垂手可得"
+    ],
+    "opposite": [
+      "难如登天",
+      "海底捞月"
+    ],
+    "id": "tuo-shou-ke-de"
+  },
+  {
+    "chinese": "雾鳞云爪",
+    "pinyin": "wù lín yún zhǎo",
+    "literal": "fog, scales, cloud, claws",
+    "meaning": "Like a dragon half-hidden in mist and clouds, showing only a patch of scales here and a claw there. It describes someone who hides one thing while revealing another, afraid to show themselves fully, acting timidly and indecisively. Equivalent to the Chinese expressions 藏头露尾 (hiding the head but exposing the tail) and 畏首畏尾 (fearing both the beginning and the end).",
+    "origin": "This idiom has no single recorded textual source, but its imagery is rooted in the classical Chinese picture of a dragon coiling through fog and clouds, its body concealed so that only scattered scales and claws catch the eye. In traditional dragon lore the creature's true form is never fully seen, so glimpses of scale and claw stand for something deliberately or fearfully left incomplete. Later writers used the phrase to mock those who speak or act evasively, showing a fragment of intent while withholding the rest. It survives mainly in literary and expressive usage rather than in a canonical classical anecdote.",
+    "example_zh": "他在会上发言总是雾鳞云爪，从不敢明确表态。",
+    "example_en": "Whenever he speaks at meetings he only gives foggy hints, never daring to state his position clearly.",
+    "category": "Attitude",
+    "similar": [
+      "藏头露尾",
+      "畏首畏尾",
+      "若隐若现"
+    ],
+    "opposite": [
+      "勇往直前",
+      "无所畏惧"
+    ],
+    "id": "wu-lin-yun-zhao"
+  },
+  {
+    "chinese": "班荆道旧",
+    "pinyin": "bān jīng dào jiù",
+    "literal": "spread thorns, speak of old times",
+    "meaning": "Literally it describes friends meeting on the road, spreading thorny branches on the ground to sit on, and talking over old times together. It originally referred to the roadside reunion of two old family friends. Today it is used generally for friends who meet and reminisce about their friendship and the days they spent apart.",
+    "origin": "The idiom derives from the Zuo Zhuan (《左传·襄公二十六年》), a history of the Spring and Autumn period. Wu Ju (伍举), a minister of the state of Chu, had fled to Zheng and was about to continue on to the state of Jin. Shengzi (声子) of the state of Cai, whose father Zizhao had been a close friend of Wu Ju's father Wu Can, was also traveling to Jin and met Wu Ju in the outskirts of Zheng. The two spread thorny branches on the ground, sat and ate together, and talked over the old matter of Wu Ju's return to Chu. The Jin scholar Du Yu (杜预) glossed the word 班 as 布, 'to spread or lay out'.",
+    "example_zh": "两位老友阔别多年，今日班荆道旧，畅叙离情。",
+    "example_en": "After years apart, the two old friends sat down together to talk over old times and share all they had missed.",
+    "category": "Communication",
+    "similar": [
+      "班荆道故",
+      "剪烛西窗",
+      "倾盖如故"
+    ],
+    "opposite": [
+      "萍水相逢",
+      "视同陌路"
+    ],
+    "id": "ban-jing-dao-jiu"
+  },
+  {
+    "chinese": "变容改俗",
+    "pinyin": "biàn róng gǎi sú",
+    "literal": "change, countenance, alter, customs",
+    "meaning": "To change one's demeanor or appearance and to alter established customs. It describes a thorough transformation of both outward bearing and ingrained social habits, traditionally achieved through moral influence rather than force.",
+    "origin": "The phrase comes from the Lüshi Chunqiu (《吕氏春秋》), an encyclopedic text compiled in the late Warring States period (3rd century BCE) under the patronage of Lü Buwei, chancellor of the state of Qin. In the chapter Shang De (《上德》, 'Exalted Virtue'), the text reads: 'A teaching that changes demeanor and alters customs, yet no one can say where they received it from — this is called following true human nature.' The passage argues that virtuous rule transforms people's bearing and customs so subtly that they are unaware of being influenced, contrasting such moral power with coercion or rigid law.",
+    "example_zh": "圣王以德化民，变容改俗，而天下莫知其所以然。",
+    "example_en": "The sage king transformed the people through virtue, changing their demeanor and altering their customs, yet no one in the realm knew how it came about.",
+    "category": "Morality",
+    "similar": [
+      "移风易俗",
+      "变风改俗"
+    ],
+    "opposite": [
+      "因循守旧",
+      "墨守成规"
+    ],
+    "id": "bian-rong-gai-su"
+  },
+  {
+    "chinese": "救过不给",
+    "pinyin": "jiù guò bù gěi",
+    "literal": "remedy, fault, not, suffice",
+    "meaning": "A variant of 救过不赡, meaning that one cannot even adequately remedy one's own faults and mistakes. It describes a situation where errors or shortcomings are so numerous or pressing that correction cannot keep pace with them. The phrase conveys a sense of being overwhelmed by the consequences of one's missteps.",
+    "origin": "No single classical anecdote is recorded as the source of this idiom; it is listed in dictionaries as a variant form of the older expression 救过不赡, which is attested in Han-dynasty and later political writing lamenting that a ruler's or official's accumulated errors had outpaced any attempt at remedy. Both forms share the structure 救过 (to rescue or remedy faults) plus a negated sufficiency (不赡 / 不给, both meaning insufficient). It is used in the same contexts of governance and self-reproach as the better-attested variant.",
+    "example_zh": "新官上任，弊端丛生，纵有良策亦救过不给。",
+    "example_en": "The new official took office amid a tangle of abuses, and even good policies could not remedy the mounting faults fast enough.",
+    "category": "Recovery",
+    "similar": [
+      "救过不赡",
+      "补过拾遗",
+      "悔过自责"
+    ],
+    "opposite": [
+      "闻过则喜",
+      "将功折罪"
+    ],
+    "id": "jiu-guo-bu-gei"
+  },
+  {
+    "chinese": "阿党相为",
+    "pinyin": "ē dǎng xiāng wéi",
+    "literal": "favor a faction, mutually, shield one another",
+    "meaning": "To form a clique and cover for each other out of partiality and self-interest. It describes officials or associates who show favoritism to their own faction, protecting one another's misdeeds while neglecting the public good. Condemned as corrupt, self-serving behavior.",
+    "origin": "The phrase comes from the Book of Han (汉书), in the biography of Zhuge Feng (诸葛丰), a famously stern and upright official of the Western Han dynasty under Emperor Yuan. In a memorial to the throne, he lamented that across the vast empire there was not a single minister willing to die for righteousness, and that officials instead sought only to curry favor and get along, forming cliques that shielded each other for private advantage while forgetting the state's affairs. His words survived as a lasting critique of factional self-protection in government.",
+    "example_zh": "朝中大臣阿党相为，全然不顾百姓死活。",
+    "example_en": "The ministers at court formed cliques to shield each other, caring nothing for the people's lives.",
+    "category": "Morality",
+    "similar": [
+      "结党营私",
+      "党同伐异",
+      "官官相护"
+    ],
+    "opposite": [
+      "大公无私",
+      "铁面无私"
+    ],
+    "id": "e-dang-xiang-wei"
+  },
+  {
+    "chinese": "化腐成奇",
+    "pinyin": "huà fǔ chéng qí",
+    "literal": "transform, decay, into, wonder",
+    "meaning": "To turn something rotten or worthless into something marvelous and useful. It describes transforming the bad into the good, or the lifeless and rigid into the lively and ingenious. It is often used to praise a writer or craftsman who can make even unpromising material shine.",
+    "origin": "The phrase originates from the Daoist text Zhuangzi, specifically the chapter 'Knowledge Roams North' (知北游), written during the Warring States period. Zhuangzi writes that what people consider beautiful they call divine, and what they despise they call rotten, yet rottenness transforms again into the divine, and the divine again into rottenness. This reflects the Daoist view that good and bad, life and decay, endlessly cycle into one another. Later writers condensed this idea into the idiom 化腐成奇, applying it to the creative power of turning base material into something extraordinary. Ming dynasty scholar Lang Ying quoted it in his Seven Repairs to a Draft (七修类稿) to praise the art of assembling quotations (集句) into fine poetry.",
+    "example_zh": "经他妙笔一点，这堆废料竟化腐成奇，成了精美的工艺品。",
+    "example_en": "With a few deft strokes of his pen, that pile of junk was transformed into an exquisite work of art.",
+    "category": "Skill",
+    "similar": [
+      "点石成金",
+      "化险为夷",
+      "朽木可雕"
+    ],
+    "opposite": [
+      "朽木粪墙",
+      "回天乏术"
+    ],
+    "id": "hua-fu-cheng-qi"
+  },
+  {
+    "chinese": "大公无私",
+    "pinyin": "dà gōng wú sī",
+    "literal": "great, public, without, selfish",
+    "meaning": "To act with complete fairness and impartiality, free from any selfish motive. In modern usage it describes someone who works for the collective good with no consideration of personal gain or private advantage.",
+    "origin": "The phrase originates from the Eastern Han dynasty scholar Ma Rong, who wrote in the Zhong Jing (Classic of Loyalty), in the chapter 'Heaven, Earth, Gods and Spirits': 'Loyalty means central and upright; it is the greatest public with no selfishness.' Ma Rong tied loyalty and righteousness to absolute impartiality, placing public duty above private interest. Over the centuries the expression became a standard idiom praising selfless devotion to the common good.",
+    "example_zh": "他大公无私地把这笔奖金平分给了团队的所有成员。",
+    "example_en": "Selflessly and impartially, he divided the bonus equally among all the members of the team.",
+    "category": "Morality",
+    "similar": [
+      "铁面无私",
+      "克己奉公",
+      "先人后己"
+    ],
+    "opposite": [
+      "自私自利",
+      "假公济私"
+    ],
+    "id": "da-gong-wu-si"
   }
 ]
