@@ -10442,3 +10442,75 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-21 12:00:05] === Catch-up push done ===
 [2026-09-21 20:00:00] === Catch-up push start (52 unpushed commits) ===
+[main 3e1be9b] Auto-update: 2026-09-21 20:00 - regenerate idioms
+ 7 files changed, 15 insertions(+)
+ create mode 100644 .firecrawl/a2.json
+ create mode 100644 .firecrawl/a3.json
+ create mode 100644 .firecrawl/s1.json
+ create mode 100644 .firecrawl/s2.json
+ create mode 100644 .firecrawl/s3.json
+ create mode 100644 .firecrawl/s4.json
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   8859d84..3e1be9b  main -> main
+
+Push OK (attempt 1)
+[2026-09-21 20:00:06] === Catch-up push done ===
+[2026-09-22 03:15:00] === Daily cron start ===
+[2026-09-22 03:15:00] === Daily cron start ===
+[2026-09-22 03:15:00] Generating 10 new idioms...
+[2026-09-22 03:15:00] Generating 10 new idioms...
+Existing: 4897 idioms
+Whitelist: 30894 total
+Candidates available: 24604 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 敬老怜贫 (jìng lǎo lián pín)
+    OK (saved, total now: 4898): literal='respect the old, have compassion for the poor...'
+[2/10] -> 灰容土貌 (huī róng tǔ mào)
+    OK (saved, total now: 4899): literal='grey face, dusty appearance...'
+[3/10] -> 捉摸不定 (zhuō mō bù dìng)
+    OK (saved, total now: 4900): literal='grasp, guess, not, certain...'
+[4/10] -> 精卫填海 (jīng wèi tián hǎi)
+    OK (saved, total now: 4901): literal='Jingwei, fill, sea...'
+[5/10] -> 凤皇于飞 (fèng huáng yú fēi)
+    OK (saved, total now: 4902): literal='phoenix, phoenix, at, fly...'
+[6/10] -> 金戈铁甲 (jīn gē tiě jiǎ)
+    OK (saved, total now: 4903): literal='gold, spear, iron, armor...'
+[7/10] -> 一献三酬 (yī xiàn sān chóu)
+    OK (saved, total now: 4904): literal='one, offer, three, toast...'
+[8/10] -> 一衣带水 (yī yī dài shuǐ)
+    OK (saved, total now: 4905): literal='one, clothing belt, water...'
+[9/10] -> 长算远略 (cháng suàn yuǎn lüè)
+    OK (saved, total now: 4906): literal='long, plan, far, strategy...'
+[10/10] -> 奇形怪状 (qí xíng guài zhuàng)
+    OK (saved, total now: 4907): literal='strange, shape, bizarre, form...'
+
+Added 10 idioms. Total: 4907
+[2026-09-22 03:18:56] Generation OK
+[2026-09-22 03:18:56] Generation OK
+[2026-09-22 03:18:56] Regenerating site...
+[2026-09-22 03:18:56] Regenerating site...
+Loading data...
+  → 4907 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4907 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4907 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-22 03:19:11] Site regenerated
+[2026-09-22 03:19:11] Site regenerated
+[2026-09-22 03:19:11] Pushing to GitHub...
+[2026-09-22 03:19:11] Pushing to GitHub...
