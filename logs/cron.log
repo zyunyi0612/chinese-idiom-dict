@@ -10550,3 +10550,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-22 12:00:04] === Catch-up push done ===
 [2026-09-22 20:00:00] === Catch-up push start (55 unpushed commits) ===
+[main 3a531e5] Auto-update: 2026-09-22 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   5cda031..3a531e5  main -> main
+
+Push OK (attempt 1)
+[2026-09-22 20:00:08] === Catch-up push done ===
+[2026-09-23 03:15:01] === Daily cron start ===
+[2026-09-23 03:15:01] === Daily cron start ===
+[2026-09-23 03:15:01] Generating 10 new idioms...
+[2026-09-23 03:15:01] Generating 10 new idioms...
+Existing: 4907 idioms
+Whitelist: 30894 total
+Candidates available: 24594 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 椎心饮泣 (chuí xīn yǐn qì)
+    OK (saved, total now: 4908): literal='beat, heart, swallow, weep...'
+[2/10] -> 师心自用 (shī xīn zì yòng)
+    OK (saved, total now: 4909): literal='to take as a teacher, the mind/heart, oneself, to ...'
+[3/10] -> 吞炭漆身 (tūn tàn qī shēn)
+    OK (saved, total now: 4910): literal='swallow charcoal, lacquer body...'
+[4/10] -> 逸辈殊伦 (yì bèi shū lún)
+    OK (saved, total now: 4911): literal='surpass, peers, special, class...'
+[5/10] -> 修齐治平 (xiū qí zhì píng)
+    OK (saved, total now: 4912): literal='cultivate, regulate, govern, pacify...'
+[6/10] -> 骇龙走蛇 (hài lóng zǒu shé)
+    OK (saved, total now: 4913): literal='startle dragon, flee snake...'
+[7/10] -> 焚尸扬灰 (fén shī yáng huī)
+    OK (saved, total now: 4914): literal='burn corpse, scatter ashes...'
+[8/10] -> 予取予求 (yú qǔ yú qiú)
+    OK (saved, total now: 4915): literal='I, take, I, seek...'
+[9/10] -> 颠倒是非 (diān dǎo shì fēi)
+    OK (saved, total now: 4916): literal='turn upside down, right, wrong...'
+[10/10] -> 趁水和泥 (chèn shuǐ huò ní)
+    OK (saved, total now: 4917): literal='take, water, mix, mud...'
+
+Added 10 idioms. Total: 4917
+[2026-09-23 03:24:49] Generation OK
+[2026-09-23 03:24:49] Generation OK
+[2026-09-23 03:24:49] Regenerating site...
+[2026-09-23 03:24:49] Regenerating site...
+Loading data...
+  → 4917 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4917 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4917 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-23 03:25:05] Site regenerated
+[2026-09-23 03:25:05] Site regenerated
+[2026-09-23 03:25:05] Pushing to GitHub...
+[2026-09-23 03:25:05] Pushing to GitHub...

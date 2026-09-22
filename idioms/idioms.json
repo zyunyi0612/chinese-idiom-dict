@@ -97565,5 +97565,205 @@
       "司空见惯"
     ],
     "id": "qi-xing-guai-zhuang"
+  },
+  {
+    "chinese": "椎心饮泣",
+    "pinyin": "chuí xīn yǐn qì",
+    "literal": "beat, heart, swallow, weep",
+    "meaning": "To beat one's chest and silently swallow one's tears, weeping so bitterly that one seems to weep blood. It describes a state of extreme, unbearable grief and anguish. The idiom conveys profound sorrow that one can neither cry out nor relieve.",
+    "origin": "The phrase is recorded in the modern Chinese historical source collection 'The 1911 Revolution: The Qing Court's Preparations for Constitutionalism' (《辛亥革命·清廷预备立宪》). In a memorial to the throne, Qing officials report that their original proposals had all been declared null and void. They write that upon receiving the imperial command, they could not help but beat their chests and swallow their tears. The words express the officials' despair over the collapse of their hopes for reform in the final years of the Qing dynasty.",
+    "example_zh": "得知故乡沦陷的消息，老兵椎心饮泣，久久说不出话来。",
+    "example_en": "Upon hearing that his hometown had fallen, the old soldier beat his chest and swallowed his tears, unable to speak for a long time.",
+    "category": "Emotion",
+    "similar": [
+      "椎心泣血",
+      "肝肠寸断",
+      "痛心疾首"
+    ],
+    "opposite": [
+      "心花怒放",
+      "眉开眼笑"
+    ],
+    "id": "chui-xin-yin-qi"
+  },
+  {
+    "chinese": "师心自用",
+    "pinyin": "shī xīn zì yòng",
+    "literal": "to take as a teacher, the mind/heart, oneself, to use/act",
+    "meaning": "This idiom describes someone who treats only their own mind as their guide and acts purely according to their own subjective judgment. Such a person is self-righteous and stubbornly refuses to accept correct opinions or advice from others. It carries a strongly critical tone toward intellectual arrogance and closed-mindedness.",
+    "origin": "The phrase originates from the Admonitions for the Yan Clan (《颜氏家训》), specifically the chapter 'Encouraging Study' (《勉学》), written by Yan Zhitui of the Northern Qi dynasty. In it, Yan Zhitui criticized scholars of his time who shut themselves away reading books and trusted only their own judgment. Because of this arrogant self-reliance, they frequently made embarrassing errors when speaking in large public gatherings. The original expression 师心自是 later came into common use as 师心自用, broadening from scholarly vanity to any refusal to heed others' correct advice.",
+    "example_zh": "他管理团队时总是师心自用，听不进任何不同意见，最终导致项目彻底失败。",
+    "example_en": "When managing the team he always trusted only his own judgment, refusing to listen to any differing opinions, which ultimately led the project to fail completely.",
+    "category": "Attitude",
+    "similar": [
+      "自以为是",
+      "固执己见",
+      "一意孤行"
+    ],
+    "opposite": [
+      "从善如流",
+      "虚怀若谷"
+    ],
+    "id": "shi-xin-zi-yong"
+  },
+  {
+    "chinese": "吞炭漆身",
+    "pinyin": "tūn tàn qī shēn",
+    "literal": "swallow charcoal, lacquer body",
+    "meaning": "To endure extreme humiliation and disfigurement in pursuit of a sworn revenge. It describes someone willing to destroy their own body and identity to avenge a benefactor, embodying fierce loyalty and unyielding resolve.",
+    "origin": "During the Warring States period, the warrior Yu Rang was deeply appreciated by Zhi Bo of the Jin state. After Zhi Bo was killed by the allied forces of Han, Zhao, and Wei, Yu Rang swore to avenge his lord. To avoid recognition, he coated his body in lacquer to induce repulsive sores and swallowed charcoal to destroy his voice, transforming his appearance entirely. His repeated attempts to assassinate Zhao Xiangzi failed, and he died without achieving his goal. The story is recorded in 'Zhan Guo Ce: Zhao Ce I' and 'Records of the Grand Historian: Biographies of the Assassins'.",
+    "example_zh": "他为报知遇之恩，吞炭漆身，矢志复仇，其忠烈之心令人感佩。",
+    "example_en": "To repay the kindness of being recognized, he swallowed charcoal and lacquered his body, vowing revenge—his fierce loyalty commands deep admiration.",
+    "category": "Perseverance",
+    "similar": [
+      "忍辱负重",
+      "卧薪尝胆",
+      "漆身吞炭"
+    ],
+    "opposite": [
+      "忘恩负义",
+      "以德报怨"
+    ],
+    "id": "tun-tan-qi-shen"
+  },
+  {
+    "chinese": "逸辈殊伦",
+    "pinyin": "yì bèi shū lún",
+    "literal": "surpass, peers, special, class",
+    "meaning": "This idiom describes someone whose talents, virtues, or achievements far exceed those of their peers, leaving them incomparable within their own generation or circle. It expresses an exceptional distinction that sets a person clearly above everyone else of the same standing or era.",
+    "origin": "The phrase originates from a memorial to the throne by the Tang dynasty statesman and celebrated writer Zhang Shuo (张说), titled '为留守奏嘉禾表' (Memorial Reporting Auspicious Grain as Governor). In it, Zhang Shuo recounts the discovery of a rare multi-headed grain (嘉禾), considered a blessed omen of sagely rule. The line '逸辈殊伦，百宝骈滋于动植' declares that such surpassing wonders, unmatched in kind, accompany manifold treasures flourishing among plants and animals. The expression later came to be used as high praise for individuals of outstanding ability who stand far above their contemporaries.",
+    "example_zh": "他的书法造诣逸辈殊伦，同龄人中无人能及。",
+    "example_en": "His mastery of calligraphy is so far beyond his peers that no one of his generation comes close.",
+    "category": "Quality",
+    "similar": [
+      "超群绝伦",
+      "出类拔萃",
+      "卓尔不群"
+    ],
+    "opposite": [
+      "平庸之辈",
+      "碌碌无为"
+    ],
+    "id": "yi-bei-shu-lun"
+  },
+  {
+    "chinese": "修齐治平",
+    "pinyin": "xiū qí zhì píng",
+    "literal": "cultivate, regulate, govern, pacify",
+    "meaning": "An abbreviation of the Confucian sequence 修身、齐家、治国、平天下 — cultivating the self, ordering the family, governing the state, and bringing peace to the world. It represents the classical Chinese view that personal moral cultivation is the foundation of all political order, and that ethical development should extend outward in ever-widening circles from individual to family, state, and all under heaven.",
+    "origin": "The phrase originates from the chapter \"The Great Learning\" (大学) in the Book of Rites (礼记), compiled during the Warring States period (c. 5th–3rd century BCE) and later revered as one of the Four Books of Confucianism after the Song dynasty scholar Zhu Xi (朱熹) elevated it in the 12th century. The text states that the ancients who wished to illustrate illustrious virtue throughout the world first governed their states; wishing to govern their states, they first regulated their families; wishing to regulate their families, they first cultivated their own persons. The work presents this as a graded path of moral and political cultivation radiating outward from the self.",
+    "example_zh": "他熟读儒家经典，常以修齐治平自勉，立志做个有益于国家的人。",
+    "example_en": "He read deeply in the Confucian classics and constantly exhorted himself with the ideal of cultivating the self, ordering the family, governing the state, and bringing peace to the world, resolving to become someone of real use to his country.",
+    "category": "Philosophy",
+    "similar": [
+      "修身齐家",
+      "内圣外王",
+      "修身为本"
+    ],
+    "opposite": [
+      "独善其身",
+      "祸国殃民"
+    ],
+    "id": "xiu-qi-zhi-ping"
+  },
+  {
+    "chinese": "骇龙走蛇",
+    "pinyin": "hài lóng zǒu shé",
+    "literal": "startle dragon, flee snake",
+    "meaning": "Dragons and snakes are driven off in flight, used to describe a mighty and sweeping momentum. It conveys an overwhelming, awe-inspiring force that scatters even the most powerful and elusive creatures before it.",
+    "origin": "The idiom draws on ancient Chinese imagery in which dragons and snakes symbolize powerful, swift, and serpentine forces of nature. It appears in classical literary descriptions of imposing vigor, such as evaluations of forceful calligraphy or the advance of a formidable army. Unlike many chengyu, it has no single canonical textual source and is preserved as a poetic compound conveying overwhelming momentum.",
+    "example_zh": "这支骑兵冲锋时骇龙走蛇，敌军尚未接战便已溃散。",
+    "example_en": "As the cavalry charged with overwhelming force, the enemy ranks broke and scattered before a single blow was struck.",
+    "category": "Power",
+    "similar": [
+      "笔走龙蛇",
+      "龙飞凤舞",
+      "气势磅礴"
+    ],
+    "opposite": [
+      "风平浪静",
+      "悄无声息"
+    ],
+    "id": "hai-long-zou-she"
+  },
+  {
+    "chinese": "焚尸扬灰",
+    "pinyin": "fén shī yáng huī",
+    "literal": "burn corpse, scatter ashes",
+    "meaning": "Literally to burn a corpse and scatter its ashes to the wind. It describes an intense, deeply rooted hatred and a desire to destroy an enemy completely, denying them even the peace of a proper burial. It is equivalent to the idiom 焚骨扬灰.",
+    "origin": "The phrase comes from Qing-dynasty writer Qian Yong's collection Lüyuan Conghua (《履园丛话》), in the chapter 'Jiuwen: Shaohuai'. In the anecdote, a mother hated a man named Li so bitterly that she went again to the judicial authorities, citing the precedent of Tao Heqi, and asked that after execution by lingchi (death by a thousand cuts) his corpse be burned and its ashes scattered. The episode is recorded to illustrate the extremes of personal vengeance and hatred in local disputes.",
+    "example_zh": "他发誓要将仇人焚尸扬灰，以报当年灭门之恨。",
+    "example_en": "He swore he would burn his enemy's corpse and scatter the ashes, to avenge the extermination of his family.",
+    "category": "Emotion",
+    "similar": [
+      "焚骨扬灰",
+      "碎尸万段",
+      "食肉寝皮"
+    ],
+    "opposite": [
+      "以德报怨",
+      "恩重如山"
+    ],
+    "id": "fen-shi-yang-hui"
+  },
+  {
+    "chinese": "予取予求",
+    "pinyin": "yú qǔ yú qiú",
+    "literal": "I, take, I, seek",
+    "meaning": "Here 予 means 'me' or 'I'. The phrase originally meant taking from me and seeking from me, describing someone who freely demands things from another. It now refers to making unrestrained, arbitrary demands without gratitude or restraint.",
+    "origin": "The idiom comes from the Zuo Zhuan, the classic commentary on the Spring and Autumn Annals, in the entry for the seventh year of Duke Xi (653 BC) during the Spring and Autumn period. It records the words of Shen Hou, a minister who had served both the state of Chu and the state of Zheng. Addressing Duke Wen of Zheng, whose rise had once depended on Shen Hou's support, he declared that only he truly understood the duke. He reminded the duke that although the duke was grasping and never satisfied, Shen Hou had let him take and seek freely and had never reproached him for his faults. The phrase later shifted to describe anyone who demands things selfishly and without limit.",
+    "example_zh": "他对朋友予取予求，最终大家都疏远了他。",
+    "example_en": "He made endless demands on his friends, until in the end they all drifted away from him.",
+    "category": "Attitude",
+    "similar": [
+      "贪得无厌",
+      "得寸进尺",
+      "欲壑难填"
+    ],
+    "opposite": [
+      "知足常乐",
+      "适可而止"
+    ],
+    "id": "yu-qu-yu-qiu"
+  },
+  {
+    "chinese": "颠倒是非",
+    "pinyin": "diān dǎo shì fēi",
+    "literal": "turn upside down, right, wrong",
+    "meaning": "This idiom means to reverse right and wrong — to call the wrong right and the right wrong. Here 是 means \"right\" and 非 means \"wrong,\" while 颠倒 means to turn something upside down or confound it. It is used to criticize someone who knowingly distorts the facts through malice, bias, or carelessness.",
+    "origin": "The phrase comes from a tomb inscription, 《施先生墓铭》, written by the Tang dynasty essayist Han Yu (韩愈) for 施士丐 (Shi Shigai), a scholar specializing in the Spring and Autumn Annals. In the inscription, Han Yu reflects that the words of the ancient sages are subtle and profound in meaning. Yet over the centuries, commentaries and annotations upon the classics have proliferated wildly, becoming tangled and confusing. Rather than clarifying the sages' intent, these writings end up reversing right and wrong (颠倒是非) and misrepresenting the original teachings. Han Yu's critique of such scholarship later became a set idiom for deliberately confusing truth with falsehood.",
+    "example_zh": "他为了推卸责任，竟颠倒是非，把别人的好心说成恶意。",
+    "example_en": "In order to shirk responsibility, he actually reversed right and wrong, painting another person's good intentions as malice.",
+    "category": "Communication",
+    "similar": [
+      "混淆是非",
+      "颠倒黑白",
+      "指鹿为马"
+    ],
+    "opposite": [
+      "明辨是非",
+      "实事求是"
+    ],
+    "id": "dian-dao-shi-fei"
+  },
+  {
+    "chinese": "趁水和泥",
+    "pinyin": "chèn shuǐ huò ní",
+    "literal": "take, water, mix, mud",
+    "meaning": "Literally, using water that is already present to mix mud. Metaphorically, it means seizing a convenient opportunity to act while conditions are favorable. It describes acting promptly and resourcefully when a good chance presents itself.",
+    "origin": "The phrase comes from the modern historical novel Li Zicheng by the Chinese writer Yao Xueyin. In Volume 3, Chapter 11, a character sees an unexpected arrival of a woman and remarks that she has come at just the right moment, neither too early nor too late. He then says to take the water and mix the mud, and to strike while the iron is hot, dealing with her in the process. The image of mixing mud with readily available water conveys the idea of making use of an existing favorable situation to accomplish something with minimal extra effort.",
+    "example_zh": "既然大家都到齐了，咱们趁水和泥，把这件事定下来吧。",
+    "example_en": "Since everyone is already here, let's seize the moment and settle this matter now.",
+    "category": "Action",
+    "similar": [
+      "趁热打铁",
+      "顺水推舟",
+      "见机行事"
+    ],
+    "opposite": [
+      "错失良机",
+      "坐失良机"
+    ],
+    "id": "chen-shui-huo-ni"
   }
 ]
