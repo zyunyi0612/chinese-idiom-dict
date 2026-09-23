@@ -97765,5 +97765,164 @@
       "坐失良机"
     ],
     "id": "chen-shui-huo-ni"
+  },
+  {
+    "chinese": "兵强将勇",
+    "pinyin": "bīng qiáng àng yǒng",
+    "literal": "soldiers, strong, generals, brave",
+    "meaning": "Troops are strong and commanders are fierce. It describes a powerful, well-trained, and formidable military force. Often used to praise an army's overall combat strength.",
+    "origin": "The phrase appears in Ming dynasty author Shi Nai'an's novel 'Water Margin' (水浒全传), Chapter 107, where it describes Song Jiang's rebel forces as having brave commanders and strong soldiers as they captured the cities of Wanzhou and Shannan. It reflects traditional Chinese military thinking that victory depends on both the quality of the rank-and-file and the courage of the leadership. The idiom has since been used to describe any powerful and well-led army.",
+    "example_zh": "这支军队兵强将勇，屡战屡胜，令敌人闻风丧胆。",
+    "example_en": "This army, with strong soldiers and brave commanders, won battle after battle and struck fear into its enemies.",
+    "category": "Power",
+    "similar": [
+      "兵强马壮",
+      "勇冠三军",
+      "战无不胜"
+    ],
+    "opposite": [
+      "兵败如山倒",
+      "乌合之众"
+    ],
+    "id": "bing-qiang-ang-yong"
+  },
+  {
+    "chinese": "舞文弄墨",
+    "pinyin": "wǔ wén nòng mò",
+    "literal": "wave, writing, play with, ink",
+    "meaning": "Literally to brandish the pen and toy with ink. It originally meant deliberately twisting legal clauses and wording to cheat the law. In modern usage it usually refers to showing off literary skill or playing cleverly with words and rhetoric.",
+    "origin": "The phrase comes from the biography of Wang Chong in the Sui Shu (Book of Sui), which describes him as well versed in laws and decrees yet given to manipulating legal wording, with intentions that shifted high and low. Wang Chong was a Sui dynasty official and later a pretender to the throne during the transition between the Sui and Tang dynasties. The historian's portrait uses the line to condemn officials who abuse their mastery of language to distort justice. Over time the meaning broadened from manipulating legal texts to flaunting literary technique in general.",
+    "example_zh": "他写文章总爱舞文弄墨，结果反而让人不知所云。",
+    "example_en": "He is always showing off his literary flair in his essays, with the result that no one can tell what he is trying to say.",
+    "category": "Skill",
+    "similar": [
+      "舞文弄法",
+      "咬文嚼字",
+      "掉书袋"
+    ],
+    "opposite": [
+      "朴实无华",
+      "直言不讳"
+    ],
+    "id": "wu-wen-nong-mo"
+  },
+  {
+    "chinese": "以讹传讹",
+    "pinyin": "yǐ é chuán é",
+    "literal": "take, error, transmit, error",
+    "meaning": "This idiom describes passing on a statement that is already wrong and thus spreading it further, so that the error grows with each retelling. It is used to criticize people who repeat rumors or misinformation without verifying the truth. The phrase highlights how falsehoods become widely accepted through careless repetition.",
+    "origin": "The idiom traces to the Southern Song dynasty scholar Yu Yan (俞琰) and his work 'Xi Shang Fu Tan' (《席上腐谈》). In the text, Yu Yan discusses the place name Caishi (采石), explaining that legend claims the goddess Nüwa (女娲) refined five-colored stones there to repair the sky, which supposedly gave the location its name. He notes that this story was passed down among the people even though it is groundless, and that the name and story simply spread onward unchanged in their error. The passage itself uses the phrase to characterize how an already false claim gets transmitted and thus perpetuated as if it were fact.",
+    "example_zh": "这件事本无根据，却以讹传讹，闹得满城风雨。",
+    "example_en": "The matter had no basis in fact, yet the false story was passed on and on until it stirred up the whole city.",
+    "category": "Communication",
+    "similar": [
+      "道听途说",
+      "三人成虎"
+    ],
+    "opposite": [
+      "实事求是",
+      "真相大白"
+    ],
+    "id": "yi-e-chuan-e"
+  },
+  {
+    "chinese": "马空冀北",
+    "pinyin": "mǎ kōng jì běi",
+    "literal": "horse, empty, Ji, north",
+    "meaning": "Bo Le, the legendary judge of horses, once passed through the northern region of Ji and selected every fine horse there until the herds were emptied. The idiom describes a ruler or official who is exceptionally skilled at discovering and recruiting worthy talent, so that no capable person is overlooked.",
+    "origin": "The saying comes from a preface by the Tang dynasty writer Han Yu titled \"送石处士序\" (Preface on Seeing Off the Recluse Shi), which states: \"When Bo Le passes once through the plains of northern Ji, the horse herds are left empty.\" Bo Le (Sun Yang) was a famed ancient connoisseur of horses who could recognize a thoroughbred at a glance. Han Yu invoked the story as a metaphor for a leader who exhaustively identifies and gathers men of talent, and the phrase has been used this way ever since.",
+    "example_zh": "新任市长善于发掘人才，颇有马空冀北之风。",
+    "example_en": "The newly appointed mayor excels at discovering talent, as if he could empty a whole region of its finest horses.",
+    "category": "Leadership",
+    "similar": [
+      "伯乐相马",
+      "举贤任能",
+      "知人善任"
+    ],
+    "opposite": [
+      "妒贤嫉能",
+      "有眼无珠"
+    ],
+    "id": "ma-kong-ji-bei"
+  },
+  {
+    "chinese": "罪业深重",
+    "pinyin": "zuì yè shēn zhòng",
+    "literal": "sin, karma, deep, heavy",
+    "meaning": "Describes someone who has committed grave crimes or terrible evil deeds. It implies the burden of sin is profound and the offenses are extremely serious. Often used to condemn morally outrageous conduct.",
+    "origin": "The phrase traces back to the Northern Song dynasty writer Ouyang Xiu, who wrote in his letter 'To My Fourteenth Brother' (《与十四弟书》): 'My crimes are deep and heavy, yet I have not died out on my own.' Over time the expression came to describe people whose evil deeds are extremely grave. It later appeared in Ming dynasty vernacular fiction, such as Ling Mengchu's 'Slapping the Table in Amazement' (《二刻拍案惊奇》), where it was used to condemn wasteful or destructive behavior.",
+    "example_zh": "他害得那么多人倾家荡产，真是罪业深重。",
+    "example_en": "He brought so many people to ruin and bankruptcy; his sins are truly grave.",
+    "category": "Morality",
+    "similar": [
+      "罪大恶极",
+      "恶贯满盈",
+      "罪该万死"
+    ],
+    "opposite": [
+      "功德无量",
+      "积德行善"
+    ],
+    "id": "zui-ye-shen-zhong"
+  },
+  {
+    "chinese": "憎爱分明",
+    "pinyin": "zēng ài fēn míng",
+    "literal": "hate, love, distinct, clear",
+    "meaning": "This idiom describes a person whose likes and dislikes are sharply defined, with a clear boundary between what they hate and what they love. It indicates a firm, unambiguous stance rather than wishy-washy or vague attitudes. The phrase often carries a positive connotation of moral clarity and principled positions.",
+    "origin": "The phrase is best known from Zhou Enlai's 1963 inscription '向雷锋同志学习' (Learn from Comrade Lei Feng), written in honor of the model soldier Lei Feng. In it, Zhou praised Lei Feng's '憎爱分明的阶级立场' — a class stand with clear love and hate — alongside his consistent words and deeds, selfless communist style, and fearless proletarian fighting spirit. The inscription was widely publicized during the Learn from Lei Feng campaign and popularized the expression throughout China. It remains associated with principled moral clarity.",
+    "example_zh": "他为人正直，憎爱分明，从不与虚伪之人同流合污。",
+    "example_en": "He is a man of integrity whose love and hate are sharply defined, and he never associates with hypocrites.",
+    "category": "Attitude",
+    "similar": [
+      "爱憎分明",
+      "泾渭分明",
+      "是非分明"
+    ],
+    "opposite": [
+      "暧昧不明",
+      "模棱两可"
+    ],
+    "id": "zeng-ai-fen-ming"
+  },
+  {
+    "chinese": "横针竖线",
+    "pinyin": "héng zhēn shù xiàn",
+    "literal": "horizontal needle, vertical thread",
+    "meaning": "Literally describing the back-and-forth movement of needle and thread in sewing. It refers to needlework and sewing tasks. It is commonly used to describe a person's skill (or lack of skill) at hand-sewing.",
+    "origin": "The phrase comes from the Qing dynasty novel \"儿女英雄传\" (Tales of Heroic Sons and Daughters) by 文康 (Wen Kang). In Chapter 8, a character declares that although she has lived nineteen years, she knows nothing of 横针竖线 — not even which end to start from when asked to sew a button loop. The line is spoken in a self-deprecating, humorous tone to confess her complete ignorance of needlework.",
+    "example_zh": "她自幼跟着母亲学做针线，横针竖线样样在行。",
+    "example_en": "She learned needlework from her mother as a child, and is skilled at every kind of sewing.",
+    "category": "Skill",
+    "similar": [
+      "穿针引线",
+      "细针密线",
+      "飞针走线"
+    ],
+    "opposite": [
+      "笨手笨脚",
+      "粗枝大叶"
+    ],
+    "id": "heng-zhen-shu-xian"
+  },
+  {
+    "chinese": "秋毫不犯",
+    "pinyin": "qiū háo bù fàn",
+    "literal": "autumn, down, not, violate",
+    "meaning": "Not violating even an autumn hair, the finest down animals grow in autumn. It describes an army with strict discipline that takes nothing whatsoever from the common people. By extension, it can describe anyone in a position of power who is scrupulously honest and infringes not at all on others' interests.",
+    "origin": "The phrase comes from the Shiji (Records of the Grand Historian), in the account of Xiang Yu. After Liu Bang entered the pass through the Guanzhong, he declared that he dared not come near even an autumn hair, registering the officials and commoners, sealing the treasuries and storehouses, and waiting for the general. The Hou Hanshu (Book of the Later Han) later recorded of the general Cen Peng that he kept his army in perfect order and violated not an autumn hair. The two sources combined cemented the idiom as the standard praise for a disciplined, upright army.",
+    "example_zh": "这支军队进驻城内，秋毫不犯，百姓安居如故。",
+    "example_en": "After this army entered the city, it took not so much as a hair from the people, and the citizens lived as peacefully as before.",
+    "category": "Morality",
+    "similar": [
+      "秋毫无犯",
+      "纪律严明",
+      "廉正无私"
+    ],
+    "opposite": [
+      "鱼肉百姓",
+      "横征暴敛"
+    ],
+    "id": "qiu-hao-bu-fan"
   }
 ]

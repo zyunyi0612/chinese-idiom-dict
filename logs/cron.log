@@ -10652,3 +10652,72 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-23 12:00:11] === Catch-up push done ===
 [2026-09-23 20:00:01] === Catch-up push start (58 unpushed commits) ===
+[main 098543c] Auto-update: 2026-09-23 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   bdd4131..098543c  main -> main
+
+Push OK (attempt 1)
+[2026-09-23 20:00:05] === Catch-up push done ===
+[2026-09-24 03:15:00] === Daily cron start ===
+[2026-09-24 03:15:00] === Daily cron start ===
+[2026-09-24 03:15:00] Generating 10 new idioms...
+[2026-09-24 03:15:00] Generating 10 new idioms...
+Existing: 4917 idioms
+Whitelist: 30894 total
+Candidates available: 24584 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 兵强将勇 (bīng qiáng àng yǒng)
+    OK (saved, total now: 4918): literal='soldiers, strong, generals, brave...'
+[2/10] -> 舞文弄墨 (wǔ wén nòng mò)
+    OK (saved, total now: 4919): literal='wave, writing, play with, ink...'
+[3/10] -> 狐凭鼠伏 (hú píng shǔ fú)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "狐凭鼠伏" (pinyin: hú píng shǔ fú).\n\nAuthoritative Chinese context:\n- 释义: 象狐狸、老鼠那样潜伏在里面。\n- 出处: 《广东军务记·三元里平夷录》逆夷务狐凭鼠伏，潜避两炮台中，不敢出入。”\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "狐凭鼠伏",\n  "pinyin": "hú píng shǔ fú",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "狐凭鼠伏" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[4/10] -> 百代文宗 (bǎi dài wén zōng)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "百代文宗" (pinyin: bǎi dài wén zōng).\n\nAuthoritative Chinese context:\n- 释义: 宗被人所效法的人物。在久远的年代里堪为文人楷模的人物。\n- 出处: 《晋书·陆机传》制曰‘故足远超枚（枚乘）马（司马相如），……百代文宗，一人而已。’”\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "百代文宗",\n  "pinyin": "bǎi dài wén zōng",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "百代文宗" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[5/10] -> 以讹传讹 (yǐ é chuán é)
+    OK (saved, total now: 4920): literal='take, error, transmit, error...'
+[6/10] -> 马空冀北 (mǎ kōng jì běi)
+    OK (saved, total now: 4921): literal='horse, empty, Ji, north...'
+[7/10] -> 罪业深重 (zuì yè shēn zhòng)
+    OK (saved, total now: 4922): literal='sin, karma, deep, heavy...'
+[8/10] -> 憎爱分明 (zēng ài fēn míng)
+    OK (saved, total now: 4923): literal='hate, love, distinct, clear...'
+[9/10] -> 横针竖线 (héng zhēn shù xiàn)
+    OK (saved, total now: 4924): literal='horizontal needle, vertical thread...'
+[10/10] -> 秋毫不犯 (qiū háo bù fàn)
+    OK (saved, total now: 4925): literal='autumn, down, not, violate...'
+
+Added 8 idioms. Total: 4925
+Failed: 2 (狐凭鼠伏, 百代文宗...)
+[2026-09-24 03:29:12] Generation OK
+[2026-09-24 03:29:12] Generation OK
+[2026-09-24 03:29:12] Regenerating site...
+[2026-09-24 03:29:12] Regenerating site...
+Loading data...
+  → 4925 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4925 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4925 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-24 03:29:29] Site regenerated
+[2026-09-24 03:29:29] Site regenerated
+[2026-09-24 03:29:29] Pushing to GitHub...
+[2026-09-24 03:29:29] Pushing to GitHub...
