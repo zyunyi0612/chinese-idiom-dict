@@ -97924,5 +97924,144 @@
       "横征暴敛"
     ],
     "id": "qiu-hao-bu-fan"
+  },
+  {
+    "chinese": "咳唾成珠",
+    "pinyin": "ké　tuò chéng zhū",
+    "literal": "cough, spit, become, pearl",
+    "meaning": "Literally, one's coughs and spittle turn into pearls. It is a metaphor for speech that is exceptionally apt, refined, and perceptive, or for writing of outstanding beauty. The character 咳 may also be written as 欬.",
+    "origin": "The image originates in the Zhuangzi chapter 'Autumn Floods' (Qiu Shui), where spittle is compared to jewels and mist: when spat out, the large drops are like pearls and the small like mist. The Eastern Han scholar Zhao Yi later used the image in a poem recorded in the Book of the Later Han (Hou Han Shu): 'Powerful houses find everything fitting; their very coughs and spittle naturally form pearls,' satirizing how the influential were praised for whatever they said. Song dynasty poet Mei Yaochen then employed the idiom in a verse replying to his friend on returning to court.",
+    "example_zh": "他随手写下的文字便咳唾成珠，令人叹服。",
+    "example_en": "Even the words he jots down casually fall like pearls from his lips, winning everyone's admiration.",
+    "category": "Communication",
+    "similar": [
+      "出口成章",
+      "妙语连珠",
+      "字字珠玑"
+    ],
+    "opposite": [
+      "笨嘴拙舌",
+      "语无伦次"
+    ],
+    "id": "ke-tuo-cheng-zhu"
+  },
+  {
+    "chinese": "祥风时雨",
+    "pinyin": "xiáng fēng shí yǔ",
+    "literal": "auspicious wind, timely rain",
+    "meaning": "Describes gentle, favorable winds and rain coming in the right season, suggesting ideal weather for crops. It is most often used metaphorically for benevolence, grace, or a time of virtuous, orderly governance. The image is of nature itself responding kindly to those in power.",
+    "origin": "The phrase has roots in ancient Chinese agrarian thought, where seasonal winds and timely rain were seen as signs of heaven's favor. Similar wording appears in classical historical and philosophical texts describing prosperous, well-governed eras. Over time it shifted from a literal description of good weather into a stock metaphor for the grace and virtue of a ruler. No single definitive origin story is recorded for it.",
+    "example_zh": "圣人在位，祥风时雨，五谷丰登。",
+    "example_en": "With a sage upon the throne, auspicious winds and timely rain prevail and the five grains flourish.",
+    "category": "Morality",
+    "similar": [
+      "风调雨顺",
+      "甘雨随车",
+      "和风细雨"
+    ],
+    "opposite": [
+      "狂风暴雨",
+      "凶年饥岁"
+    ],
+    "id": "xiang-feng-shi-yu"
+  },
+  {
+    "chinese": "逸兴横飞",
+    "pinyin": "yì xìng héng fēi",
+    "literal": "unrestrained, inspiration, across, flies",
+    "meaning": "Describes a lofty, bold, and uninhibited inspiration that wells up and soars. It is used when someone's spirits or creative energy are overflowing, especially in literary, artistic, or convivial settings.",
+    "origin": "The phrase comes from the Tang dynasty prose masterpiece \"Preface to the Pavilion of Prince Teng\" (《滕王阁序》) by the young poet Wang Bo, one of the Four Eminences of the early Tang. At a banquet overlooking the Gan River, he gazed far across the landscape and wrote the line \"遥襟俯畅，逸兴遄飞\" — \"gazing afar, the heart expands; unfettered inspiration takes flight.\" Later writers condensed this into the idiom 逸兴横飞, extending it beyond the original scene to any surge of bold, elevated spirits.",
+    "example_zh": "酒过三巡，他逸兴横飞，即席挥毫写下七律一首。",
+    "example_en": "After a few rounds of wine, his inspiration took flight and he dashed off a seven-character octave on the spot.",
+    "category": "Attitude",
+    "similar": [
+      "文思泉涌",
+      "才思横溢",
+      "豪情万丈"
+    ],
+    "opposite": [
+      "意兴阑珊",
+      "索然无味"
+    ],
+    "id": "yi-xing-heng-fei"
+  },
+  {
+    "chinese": "有年无月",
+    "pinyin": "yǒu nián wú yuè",
+    "literal": "have, year, no, month",
+    "meaning": "Literally 'there are years but no months.' It describes something that drags on for a very long time with no definite deadline or end in sight. Used for tasks, projects, or waits that stretch out indefinitely.",
+    "origin": "The phrase appears in Cai Dongfan's historical novel 'Popular Romance of the Later Han' (后汉演义), written in the early Republican era, which recounts the history of the Eastern Han. In the second chapter, describing the last years of the Western Han under Wang Mang's oppressive rule, the common people feared being conscripted as soldiers and dreaded having to transport grain. Boatmen and carters were paid so little that they all hung back, unwilling to work. As a result, the labor project dragged on with no set completion date, hence '有年无月，不能成事.'",
+    "example_zh": "这座桥修了三年还没完工，照这进度真是有年无月。",
+    "example_en": "The bridge has been under construction for three years and is still not finished; at this pace, there's no end in sight.",
+    "category": "Condition",
+    "similar": [
+      "遥遥无期",
+      "旷日持久",
+      "无了无休"
+    ],
+    "opposite": [
+      "指日可待",
+      "速战速决"
+    ],
+    "id": "you-nian-wu-yue"
+  },
+  {
+    "chinese": "不求甚解",
+    "pinyin": "bù qiú shèn jiě",
+    "literal": "not, seek, deep, understanding",
+    "meaning": "甚 means 'very' or 'extreme.' The idiom describes seeking only a rough or general idea of something rather than a thorough, detailed understanding. It is most often used to criticize careless or superficial study and research.",
+    "origin": "The phrase comes from 'Biography of Mr. Five Willows' (《五柳先生传》) by Tao Qian (陶潜, also known as Tao Yuanming), a poet of the Eastern Jin dynasty. In it he writes that Mr. Five Willows did not care for profit, loved reading, and 'did not seek deep understanding of every word.' Whenever he grasped the true meaning of a passage, he was so delighted that he forgot to eat. Over time the phrase shifted from describing a carefree, intuitive approach to reading into a term for studying without going into depth.",
+    "example_zh": "这人小的时候，诸事颟颟顸顸，不求甚解。",
+    "example_en": "When this man was young, he was muddle-headed about everything and never tried to get to the bottom of things.",
+    "category": "Learning",
+    "similar": [
+      "一知半解",
+      "囫囵吞枣",
+      "浅尝辄止"
+    ],
+    "opposite": [
+      "寻根究底",
+      "刨根问底"
+    ],
+    "id": "bu-qiu-shen-jie"
+  },
+  {
+    "chinese": "画眉举案",
+    "pinyin": "huà méi jǔ àn",
+    "literal": "paint the eyebrows, raise the tray",
+    "meaning": "This idiom joins two Han dynasty stories of wedded devotion: Zhang Chang painting his wife's eyebrows and Meng Guang lifting the food tray to her husband. It describes a husband and wife who treat each other with tender love and mutual respect.",
+    "origin": "The phrase merges two love stories from the Han dynasty. Zhang Chang, a Western Han official, was fond of painting his wife's eyebrows, and the practice became gossip in Chang'an; when the emperor questioned him, he replied that in the privacy of the bedchamber there are things between husband and wife far more intimate than painting brows. In the Eastern Han, Meng Guang, wife of the scholar Liang Hong, served her husband's meals holding the tray up to the level of her brows as a mark of reverence. The two images together came to symbolize a marriage of mutual honor and affection.",
+    "example_zh": "他们结婚多年，依然画眉举案，恩爱如初，令旁人羡慕不已。",
+    "example_en": "After many years of marriage, they still lavish tender care and respect on each other, to the envy of everyone around them.",
+    "category": "Lifestyle",
+    "similar": [
+      "举案齐眉",
+      "相敬如宾",
+      "琴瑟和谐"
+    ],
+    "opposite": [
+      "同床异梦",
+      "反目成仇"
+    ],
+    "id": "hua-mei-ju-an"
+  },
+  {
+    "chinese": "深宅大院",
+    "pinyin": "shēn zhái dà yuàn",
+    "literal": "deep, residence, large, courtyard",
+    "meaning": "It describes a large compound with many houses enclosed by high walls, traditionally belonging to a wealthy, noble, or powerful family. The phrase conveys both the physical depth and grandeur of the residence and the social standing of its occupants. It is often used to evoke a life of seclusion, prosperity, and privilege.",
+    "origin": "The idiom comes from Act 2 of 'Jiu Fengchen' (Saving the Wind and Dust), a play by the celebrated Yuan dynasty dramatist Guan Hanqing. In the original line, the characters speak of those who seek to force their way into grand walled compounds, and would sooner tear down pavilions and towers. The words evoke the imposing, enclosed estates of rich and influential families in traditional China. Over time the expression came to describe any large, walled residential compound associated with a prosperous household.",
+    "example_zh": "他出生在深宅大院，从小便不知民间疾苦。",
+    "example_en": "Born in a grand walled compound, he knew nothing of the hardships of ordinary people from childhood.",
+    "category": "Status",
+    "similar": [
+      "高门大户",
+      "朱门绣户"
+    ],
+    "opposite": [
+      "蓬门荜户",
+      "家徒四壁"
+    ],
+    "id": "shen-zhai-da-yuan"
   }
 ]

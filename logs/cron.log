@@ -10755,3 +10755,73 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-24 12:00:05] === Catch-up push done ===
 [2026-09-24 20:00:00] === Catch-up push start (61 unpushed commits) ===
+[main 4d85ce7] Auto-update: 2026-09-24 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   26a95a3..4d85ce7  main -> main
+
+Push OK (attempt 1)
+[2026-09-24 20:00:07] === Catch-up push done ===
+[2026-09-25 03:15:00] === Daily cron start ===
+[2026-09-25 03:15:00] === Daily cron start ===
+[2026-09-25 03:15:00] Generating 10 new idioms...
+[2026-09-25 03:15:00] Generating 10 new idioms...
+Existing: 4925 idioms
+Whitelist: 30894 total
+Candidates available: 24576 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 咳唾成珠 (ké　tuò chéng zhū)
+    OK (saved, total now: 4926): literal='cough, spit, become, pearl...'
+[2/10] -> 半饥半饱 (bàn jī bàn bǎo)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "半饥半饱" (pinyin: bàn jī bàn bǎo).\n\nAuthoritative Chinese context:\n- 释义: 指不求甚饱或吃不饱饭。\n- 出处: 明·冯梦龙《醒世恒言》第二十八卷若论起吴衙内，只算做半饥半饱，未能趁心像意。”\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "半饥半饱",\n  "pinyin": "bàn jī bàn bǎo",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "半饥半饱" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[3/10] -> 祥风时雨 (xiáng fēng shí yǔ)
+    OK (saved, total now: 4927): literal='auspicious wind, timely rain...'
+[4/10] -> 逸兴横飞 (yì xìng héng fēi)
+    OK (saved, total now: 4928): literal='unrestrained, inspiration, across, flies...'
+[5/10] -> 有年无月 (yǒu nián wú yuè)
+    OK (saved, total now: 4929): literal='have, year, no, month...'
+[6/10] -> 游戏三昧 (yóu xì sān mèi)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "游戏三昧" (pinyin: yóu xì sān mèi).\n\nAuthoritative Chinese context:\n- 释义: 原为佛家语，意思是排除杂念，使心神平静。也比喻事物的精义、决窍◇指用游戏的态度对待一切。\n- 出处: 宋·释道原《景德传灯灵》卷八扣大寂之室，顿然忘筌，得游戏三昧。”\n- 例句: 凡为小说及杂剧戏文，须是虚实相伴，方为～之笔，亦要情景造极而止，不必问其有无也。★鲁迅《小说旧闻钞·杂说》\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "游戏三昧",\n  "pinyin": "yóu xì sān mèi",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "游戏三昧" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[7/10] -> 不求甚解 (bù qiú shèn jiě)
+    OK (saved, total now: 4930): literal='not, seek, deep, understanding...'
+[8/10] -> 画眉举案 (huà méi jǔ àn)
+    OK (saved, total now: 4931): literal='paint the eyebrows, raise the tray...'
+[9/10] -> 闭门却扫 (bì mén què sǎo)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "闭门却扫" (pinyin: bì mén què sǎo).\n\nAuthoritative Chinese context:\n- 释义: 却停止；却扫不再清扫车迹，意指谢客。关上大门，扫除车迹。指闭门谢客，不和外界往来。\n- 出处: 汉·应劭《《风俗通义·十反》蜀郡太守刘胜季陵去官在家，闭门却扫。”\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "闭门却扫",\n  "pinyin": "bì mén què sǎo",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "闭门却扫" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[10/10] -> 深宅大院 (shēn zhái dà yuàn)
+    OK (saved, total now: 4932): literal='deep, residence, large, courtyard...'
+
+Added 7 idioms. Total: 4932
+Failed: 3 (半饥半饱, 游戏三昧, 闭门却扫...)
+[2026-09-25 03:34:46] Generation OK
+[2026-09-25 03:34:46] Generation OK
+[2026-09-25 03:34:46] Regenerating site...
+[2026-09-25 03:34:46] Regenerating site...
+Loading data...
+  → 4932 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4932 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4932 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-25 03:35:01] Site regenerated
+[2026-09-25 03:35:01] Site regenerated
+[2026-09-25 03:35:01] Pushing to GitHub...
+[2026-09-25 03:35:01] Pushing to GitHub...
