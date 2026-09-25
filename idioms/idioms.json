@@ -98063,5 +98063,144 @@
       "家徒四壁"
     ],
     "id": "shen-zhai-da-yuan"
+  },
+  {
+    "chinese": "束手就擒",
+    "pinyin": "shù shǒu jiù qín",
+    "literal": "tie, hand, then, be captured",
+    "meaning": "To tie one's own hands and allow oneself to be captured, offering no resistance whatsoever. It describes giving up without a fight or surrendering meekly to an opponent, authority, or circumstances.",
+    "origin": "The phrase comes from the biography of Fu Yanqing in the 'History of Song' (宋史·苻彦卿传), a dynastic history covering the Northern Song. Fu Yanqing was a prominent military general, and the line records his declaration that it would be better to fight to the death than to meekly allow himself to be taken prisoner, since death in battle was not even certain. The quotation runs: 'Rather than bind our hands and be captured, we should fight to the death — and death is not necessarily assured.' Over time the expression shed its battlefield context and came to mean surrendering or submitting without any resistance in any situation.",
+    "example_zh": "警方已封锁所有出口，歹徒见无路可逃，只好束手就擒。",
+    "example_en": "The police had sealed off every exit; seeing no way out, the criminals had no choice but to surrender without resistance.",
+    "category": "Action",
+    "similar": [
+      "坐以待毙",
+      "束手待毙",
+      "俯首就擒"
+    ],
+    "opposite": [
+      "负隅顽抗",
+      "垂死挣扎"
+    ],
+    "id": "shu-shou-jiu-qin"
+  },
+  {
+    "chinese": "鸱张门户",
+    "pinyin": "chī zhāng mén hù",
+    "literal": "owl, spread, door, gate",
+    "meaning": "Literally comparing someone to an owl spreading its wings over its own territory, this idiom means to set up one's own school of thought or faction and conspicuously flaunt it. It carries a derogatory tone, criticizing the arrogant self-promotion and clique-forming typical of literary or scholarly circles.",
+    "origin": "The phrase is first attested in Qing dynasty poet and critic Yuan Mei's 'Suiyuan Shihua Buyi' (Supplement to the Suiyuan Poetry Talks), Volume 9. There Yuan Mei declares his dislike for the fashion of 'poetry circles and recitation societies,' arguing that such practices most likely arose from the bad habit of '鸱张门户' during the late Ming dynasty. The image is of rival literati spreading their wings like owls to mark and guard their own intellectual territory.",
+    "example_zh": "此人喜好鸱张门户，整日标榜自家学问，旁人颇不以为然。",
+    "example_en": "This person loved to set up his own faction and flaunt it, boasting of his own scholarship all day long, which others found quite disagreeable.",
+    "category": "Attitude",
+    "similar": [
+      "自立门户",
+      "结党营私",
+      "党同伐异"
+    ],
+    "opposite": [
+      "虚怀若谷",
+      "深藏不露"
+    ],
+    "id": "chi-zhang-men-hu"
+  },
+  {
+    "chinese": "铁板钉钉",
+    "pinyin": "tiě bǎn dìng dīng",
+    "literal": "iron, board, nail, nail",
+    "meaning": "Literally like nailing nails into an iron board. It describes someone speaking or acting with resolute, firm, and unhesitating finality. It also means something is already a settled conclusion that cannot be changed or doubted.",
+    "origin": "The idiom originates from modern Chinese literature, appearing in Fan Naicheng's story \"小技术员战胜神仙手\" (The Little Technician Defeats the Divine Hand), where an old man taps his pipe against the branch secretary's plan and bursts out three words 'I object!' as decisively as nails driven into an iron plate. It later gained wider currency through publications such as the 1981 sixth issue of the journal 《花城》 (Flower City). The imagery of hammering nails into iron conveys an unyielding, conclusive force. No ancient dynasty figure is associated with it; it is a modern literary expression.",
+    "example_zh": "这件事早就铁板钉钉了，你再反对也没用。",
+    "example_en": "This matter has long been settled as decisively as nails in iron; it's useless for you to object now.",
+    "category": "Determination",
+    "similar": [
+      "斩钉截铁",
+      "一锤定音",
+      "板上钉钉"
+    ],
+    "opposite": [
+      "模棱两可",
+      "犹豫不决"
+    ],
+    "id": "tie-ban-ding-ding"
+  },
+  {
+    "chinese": "弥天大祸",
+    "pinyin": "mí tiān dà huò",
+    "literal": "fill, heaven, great, disaster",
+    "meaning": "A colossal, heaven-reaching catastrophe or disaster. It describes a calamity so immense that it seems to fill the entire sky, causing devastating and irreversible consequences. Often used for grave offenses, catastrophic losses, or ruinous trouble brought upon oneself.",
+    "origin": "The phrase traces back to Yuan dynasty drama, appearing in the anonymous play 'Pen'er Gui' (《盆儿鬼》), where a character laments that a person has brought a heaven-filling catastrophe upon himself by his own reckless actions. The idiom builds on the classical use of '弥天' (filling the sky) to signify something boundless or all-encompassing, paired with '大祸' (great disaster). Over the centuries it entered common usage in vernacular fiction and storytelling to describe catastrophic misdeeds and their consequences.",
+    "example_zh": "他意识到自己闯了弥天大祸，吓得连夜逃离了家乡。",
+    "example_en": "He realized he had brought about a colossal catastrophe and fled his hometown in terror that very night.",
+    "category": "Condition",
+    "similar": [
+      "灭顶之灾",
+      "滔天大祸",
+      "天灾人祸"
+    ],
+    "opposite": [
+      "洪福齐天",
+      "吉星高照"
+    ],
+    "id": "mi-tian-da-huo"
+  },
+  {
+    "chinese": "蹈常袭故",
+    "pinyin": "dǎo cháng xí gù",
+    "literal": "tread the usual, inherit the old",
+    "meaning": "To follow established routines and stick to old ways of doing things. It describes someone who is conservative, unwilling to innovate, and content to repeat past practices without seeking improvement or change.",
+    "origin": "The idiom comes from the Ming dynasty scholar Jiao Hong and his work Jiao Shi Bi Cheng (Notes of the Jiao Family), in the preface section titled Xu Lu. Jiao Hong observed that scholars of his time had fallen into the habit of merely treading familiar paths and inheriting old conventions, no longer making any real effort to investigate or seek new understanding. The phrase was later widely used in literary and intellectual criticism, appearing for example in the Qing dynasty writer Huang Zongxi's preface to Zhang Xinyou's poetry, where he complained that even in Tang poetry there were works that simply repeated old conventions with empty grandeur but no genuine spirit.",
+    "example_zh": "这家企业若总是蹈常袭故，缺乏创新，迟早会被市场淘汰。",
+    "example_en": "If this company keeps following old routines and never innovates, it will sooner or later be eliminated by the market.",
+    "category": "Attitude",
+    "similar": [
+      "因循守旧",
+      "墨守成规",
+      "故步自封"
+    ],
+    "opposite": [
+      "推陈出新",
+      "标新立异"
+    ],
+    "id": "dao-chang-xi-gu"
+  },
+  {
+    "chinese": "率由旧章",
+    "pinyin": "shuài yóu jiù zhāng",
+    "literal": "follow, from, old, regulations",
+    "meaning": "To do everything according to established old rules and conventions. It describes someone who strictly follows precedent and former regulations, unwilling or afraid to make any change. The phrase often carries a tone of conservatism or excessive caution.",
+    "origin": "The phrase comes from the Greater Odes of the Book of Odes (《诗经·大雅·假乐》), a collection from the Western Zhou dynasty. The ode reads \"不愆不忘，率由旧章\" — \"He makes no error and forgets nothing, but follows the old regulations,\" traditionally understood as praise for King Cheng of Zhou (周成王) for governing in accordance with the institutions handed down by his predecessors. It later came to describe handling affairs entirely by old precedent.",
+    "example_zh": "他诸事率由旧章，不敢稍有更动。",
+    "example_en": "He handled every matter according to the old rules, not daring to make the slightest change.",
+    "category": "Method",
+    "similar": [
+      "墨守成规",
+      "因循守旧",
+      "泥古不化"
+    ],
+    "opposite": [
+      "推陈出新",
+      "革故鼎新"
+    ],
+    "id": "shuai-you-jiu-zhang"
+  },
+  {
+    "chinese": "集腋为裘",
+    "pinyin": "jí yè wéi qiú",
+    "literal": "gather, armpit, to make, fur robe",
+    "meaning": "The fur from a fox's armpits is tiny, but gathered together it can make a whole fur robe. It is a metaphor for accumulating many small amounts to achieve something substantial. It is equivalent to the idiom 集腋成裘.",
+    "origin": "The phrase originates from the ancient observation that the patches of fur under a fox's forelegs, though each is no larger than a coin, are the softest and warmest part of the animal. In the Spring and Autumn period, Lord Mu of Qin was said to have valued a single fox's armpit pelt, and later writers used this image as a metaphor for gathering small contributions. Commentators such as Shen Gao in the Qing dynasty employed the phrase to describe compiling a book from many scattered notes. Over time it became a standard expression for turning modest means into a great result.",
+    "example_zh": "他每天坚持背十个单词，集腋为裘，三年后竟能流利阅读英文原著。",
+    "example_en": "He memorized ten words a day; gathered like fox fur into a robe, three years later he could read English novels with ease.",
+    "category": "Perseverance",
+    "similar": [
+      "集腋成裘",
+      "聚沙成塔",
+      "积少成多"
+    ],
+    "opposite": [
+      "挥金如土"
+    ],
+    "id": "ji-ye-wei-qiu"
   }
 ]

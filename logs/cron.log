@@ -10858,3 +10858,73 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-25 12:00:13] === Catch-up push done ===
 [2026-09-25 20:00:00] === Catch-up push start (64 unpushed commits) ===
+[main f6fa53b] Auto-update: 2026-09-25 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   0d10758..f6fa53b  main -> main
+
+Push OK (attempt 1)
+[2026-09-25 20:00:05] === Catch-up push done ===
+[2026-09-26 03:15:00] === Daily cron start ===
+[2026-09-26 03:15:00] === Daily cron start ===
+[2026-09-26 03:15:00] Generating 10 new idioms...
+[2026-09-26 03:15:00] Generating 10 new idioms...
+Existing: 4932 idioms
+Whitelist: 30894 total
+Candidates available: 24569 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 一唱一和 (yī chàng yī hè)
+  WARN: example_zh doesn't contain the idiom, regenerating...
+    FAIL
+[2/10] -> 束手就擒 (shù shǒu jiù qín)
+    OK (saved, total now: 4933): literal='tie, hand, then, be captured...'
+[3/10] -> 鸱张门户 (chī zhāng mén hù)
+    OK (saved, total now: 4934): literal='owl, spread, door, gate...'
+[4/10] -> 铁板钉钉 (tiě bǎn dìng dīng)
+    OK (saved, total now: 4935): literal='iron, board, nail, nail...'
+[5/10] -> 吊誉沽名 (diào yù gū míng)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "吊誉沽名" (pinyin: diào yù gū míng).\n\nAuthoritative Chinese context:\n- 释义: 沽买；钓用饵引鱼上钩，比喻骗取。用某种不正当的手段捞取名誉。\n- 出处: 《管子·法法》钓名之人，无贤士焉。”《后汉书·逸民传序》彼虽硁硁有类沽名者。”\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "吊誉沽名",\n  "pinyin": "diào yù gū míng",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "吊誉沽名" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[6/10] -> 目眩头昏 (mù xuàn tóu hūn)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "目眩头昏" (pinyin: mù xuàn tóu hūn).\n\nAuthoritative Chinese context:\n- 释义: 犹头昏眼花。眼睛发花，头脑昏晕。\n- 出处: 无\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "目眩头昏",\n  "pinyin": "mù xuàn tóu hūn",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "目眩头昏" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[7/10] -> 弥天大祸 (mí tiān dà huò)
+    OK (saved, total now: 4936): literal='fill, heaven, great, disaster...'
+[8/10] -> 蹈常袭故 (dǎo cháng xí gù)
+    OK (saved, total now: 4937): literal='tread the usual, inherit the old...'
+[9/10] -> 率由旧章 (shuài yóu jiù zhāng)
+    OK (saved, total now: 4938): literal='follow, from, old, regulations...'
+[10/10] -> 集腋为裘 (jí yè wéi qiú)
+    OK (saved, total now: 4939): literal='gather, armpit, to make, fur robe...'
+
+Added 7 idioms. Total: 4939
+Failed: 3 (一唱一和, 吊誉沽名, 目眩头昏...)
+[2026-09-26 03:34:14] Generation OK
+[2026-09-26 03:34:14] Generation OK
+[2026-09-26 03:34:14] Regenerating site...
+[2026-09-26 03:34:14] Regenerating site...
+Loading data...
+  → 4939 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4939 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4939 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-26 03:34:30] Site regenerated
+[2026-09-26 03:34:30] Site regenerated
+[2026-09-26 03:34:30] Pushing to GitHub...
+[2026-09-26 03:34:30] Pushing to GitHub...
