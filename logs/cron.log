@@ -10961,3 +10961,74 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-26 12:00:21] === Catch-up push done ===
 [2026-09-26 20:00:00] === Catch-up push start (67 unpushed commits) ===
+[main 9fbab4d] Auto-update: 2026-09-26 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   95d7673..9fbab4d  main -> main
+
+Push OK (attempt 1)
+[2026-09-26 20:00:05] === Catch-up push done ===
+[2026-09-27 03:15:00] === Daily cron start ===
+[2026-09-27 03:15:00] === Daily cron start ===
+[2026-09-27 03:15:00] Generating 10 new idioms...
+[2026-09-27 03:15:00] Generating 10 new idioms...
+Existing: 4939 idioms
+Whitelist: 30894 total
+Candidates available: 24562 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 熬清守淡 (áo qīng shǒu dàn)
+    OK (saved, total now: 4940): literal='endure, plain, keep, tasteless...'
+[2/10] -> 土穰细流 (tǔ rǎng xì liú)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "土穰细流" (pinyin: tǔ rǎng xì liú).\n\nAuthoritative Chinese context:\n- 释义: 土壤泥土；细流小河。比喻细小的事物。也指事物虽甚细微，但不断积累，即能发挥巨大作用。\n- 出处: 《史记·李斯列传》是以太山不让土穰，故能成其大；河海不择细流，故能就其深。”\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "土穰细流",\n  "pinyin": "tǔ rǎng xì liú",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "土穰细流" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[3/10] -> 高位重禄 (gāo wèi zhòng lù)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "高位重禄" (pinyin: gāo wèi zhòng lù).\n\nAuthoritative Chinese context:\n- 释义: 官职高贵，俸禄丰厚。同高位厚禄”。\n- 出处: 宋·苏轼《策略五》圣人知其然，是以去苛礼而务至诚，黜虚名而求实效，不爱高位重禄以致山林之士。”\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "高位重禄",\n  "pinyin": "gāo wèi zhòng lù",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "高位重禄" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[4/10] -> 爱生恶死 (ài shēng wù sǐ)
+    OK (saved, total now: 4941): literal='love, life, hate, death...'
+[5/10] -> 层见迭出 (céng chū dié jiàn)
+    OK (saved, total now: 4942): literal='layer, appear, repeatedly, emerge...'
+[6/10] -> 鹰挚狼食 (yīng zhì láng shí)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "鹰挚狼食" (pinyin: yīng zhì láng shí).\n\nAuthoritative Chinese context:\n- 释义: 比喻凶狠地攫取和吞没。\n- 出处: 无\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "鹰挚狼食",\n  "pinyin": "yīng zhì láng shí",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "鹰挚狼食" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[7/10] -> 形色仓皇 (xíng sè cāng huáng)
+    OK (saved, total now: 4943): literal='expression and appearance, hurried and flustered...'
+[8/10] -> 不在话下 (bù zài huà xià)
+    OK (saved, total now: 4944): literal='not, at, words, under...'
+[9/10] -> 百思莫解 (bǎi sī mò jiě)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "百思莫解" (pinyin: bǎi sī mò jiě).\n\nAuthoritative Chinese context:\n- 释义: 百思百般思索。形容反复思索也不能理解。\n- 出处: 清·纪昀《阅微草堂笔记》卷十三此真百思不得其故矣。”\n- 例句: 这真是令人～。★邹韬奋《抗战以来·审查老爷对文艺的贡献》\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "百思莫解",\n  "pinyin": "bǎi sī mò jiě",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "百思莫解" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[10/10] -> 玉佩琼琚 (yù pèi qióng jū)
+    OK (saved, total now: 4945): literal='jade pendant, red-jade ornament...'
+
+Added 6 idioms. Total: 4945
+Failed: 4 (土穰细流, 高位重禄, 鹰挚狼食, 百思莫解...)
+[2026-09-27 03:33:30] Generation OK
+[2026-09-27 03:33:30] Generation OK
+[2026-09-27 03:33:30] Regenerating site...
+[2026-09-27 03:33:30] Regenerating site...
+Loading data...
+  → 4945 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4945 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4945 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-27 03:33:46] Site regenerated
+[2026-09-27 03:33:46] Site regenerated
+[2026-09-27 03:33:46] Pushing to GitHub...
+[2026-09-27 03:33:46] Pushing to GitHub...

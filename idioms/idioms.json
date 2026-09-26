@@ -98202,5 +98202,124 @@
       "挥金如土"
     ],
     "id": "ji-ye-wei-qiu"
+  },
+  {
+    "chinese": "熬清守淡",
+    "pinyin": "áo qīng shǒu dàn",
+    "literal": "endure, plain, keep, tasteless",
+    "meaning": "To endure a life of poverty and monotony without complaint. It describes someone who bears hardship and a dull, frugal existence patiently, often out of loyalty or moral resolve. The idiom conveys quiet perseverance through lean circumstances.",
+    "origin": "The phrase appears in the Ming dynasty story collection 《初刻拍案惊奇》 by Ling Mengchu (凌濛初), in scroll fifteen. In the tale, a man named Chen squanders the entire family fortune through dissolute behavior, leaving the household destitute. The narrator credits his wife, who patiently endured the ensuing poverty and hardship to hold the family together. Her steadfastness is praised with the words of the idiom.",
+    "example_zh": "妻子毫无怨言地熬清守淡，独自把几个孩子拉扯成人。",
+    "example_en": "Without a word of complaint, his wife endured the austere and monotonous life, raising their children to adulthood on her own.",
+    "category": "Lifestyle",
+    "similar": [
+      "安贫乐道",
+      "粗茶淡饭",
+      "节衣缩食"
+    ],
+    "opposite": [
+      "花天酒地"
+    ],
+    "id": "ao-qing-shou-dan"
+  },
+  {
+    "chinese": "爱生恶死",
+    "pinyin": "ài shēng wù sǐ",
+    "literal": "love, life, hate, death",
+    "meaning": "恶 means to dislike or hate. The idiom describes loving life and hating death, a sentiment shared by all living beings. It is often used to explain why people or animals cling to survival and shrink from danger.",
+    "origin": "The phrase appears in chapter 26 of 镜花缘 (Flowers in the Mirror), a Qing dynasty novel by 李汝珍. In the original passage, the narrator reflects on the behavior of living creatures and concludes, 'It can be seen that loving life and hating death is the constant feeling of all things.' The line is cited to show that the instinct to cherish survival is a universal, natural disposition rather than a sign of cowardice.",
+    "example_zh": "爱生恶死乃人之常情，谁又能免俗呢。",
+    "example_en": "Loving life and fearing death is human nature — who among us can rise above it?",
+    "category": "Attitude",
+    "similar": [
+      "贪生怕死",
+      "好生恶死",
+      "贪生恶死"
+    ],
+    "opposite": [
+      "视死如归",
+      "宁死不屈"
+    ],
+    "id": "ai-sheng-wu-si"
+  },
+  {
+    "chinese": "层见迭出",
+    "pinyin": "céng chū dié jiàn",
+    "literal": "layer, appear, repeatedly, emerge",
+    "meaning": "This idiom describes things that appear or happen again and again in an endless stream. It is often used for events, phenomena, or problems that keep surfacing one after another. The tone can be either neutral or mildly negative, depending on what is emerging.",
+    "origin": "The phrase is a modern literary formation rather than a classical quotation, and it is most commonly associated with the writings of the early twentieth-century intellectual Li Dazhao. In his essay \"The Postwar Trend of World Currents,\" Li Dazhao discussed the social upheavals following World War I and predicted that the laboring classes would produce great numbers of unemployed people. He wrote that unemployed people had already begun to appear everywhere, one group after another, using the expression \"层见迭出\" to convey the relentless succession of this phenomenon. The idiom combines the imagery of layered, repeated seeing with the idea of things emerging time and again, and it has since become a standard way to describe recurring events in modern written Chinese.",
+    "example_zh": "今年以来，这类产品质量问题已层见迭出，引起了监管部门的高度重视。",
+    "example_en": "Since the start of this year, problems of this kind in product quality have appeared one after another, drawing close attention from the regulators.",
+    "category": "Condition",
+    "similar": [
+      "层出不穷",
+      "接连不断",
+      "频频出现"
+    ],
+    "opposite": [
+      "寥寥无几",
+      "罕见"
+    ],
+    "id": "ceng-chu-die-jian-2"
+  },
+  {
+    "chinese": "形色仓皇",
+    "pinyin": "xíng sè cāng huáng",
+    "literal": "expression and appearance, hurried and flustered",
+    "meaning": "Describes someone whose movements are hurried and whose facial expression shows panic or alarm. It conveys a visible state of anxiety and disarray in both demeanor and bearing.",
+    "origin": "This idiom has no single authoritative classical source and is a later compounded expression. It combines 形色 (one's outward expression and demeanor) with 仓皇 (flustered, thrown into confusion), a word seen in Tang and Song prose and poetry to describe panic. Similar phrasing appears in Ming and Qing vernacular fiction and historical commentary, where fleeing or alarmed figures are described as 仓皇 in expression and manner.",
+    "example_zh": "他形色仓皇地冲进办公室，连背包都忘了放下。",
+    "example_en": "He rushed into the office in a visible panic, forgetting even to set down his backpack.",
+    "category": "Emotion",
+    "similar": [
+      "仓皇失措",
+      "形色慌张",
+      "惊慌失措"
+    ],
+    "opposite": [
+      "泰然自若",
+      "从容不迫"
+    ],
+    "id": "xing-se-cang-huang"
+  },
+  {
+    "chinese": "不在话下",
+    "pinyin": "bù zài huà xià",
+    "literal": "not, at, words, under",
+    "meaning": "Something so trivial, obvious, or taken for granted that it is not even worth mentioning. It is often used to wave aside a matter as easily handled or naturally to be expected.",
+    "origin": "The phrase traces to Yuan dynasty drama, notably Qin Jianfu's play 《赵礼让肥》 (Zhao Li Yields the Fat), where the closing passage describes each character being promoted and rewarded in proper order, adding that these matters need not be dwelt upon. It reflects a storytelling convention of dismissing routine outcomes as unworthy of elaboration. Later writers such as Lu Xun used it to treat something as a mere puppet show, entirely beneath serious discussion.",
+    "example_zh": "这点小活儿对他来说简直不在话下。",
+    "example_en": "A small task like this is a piece of cake for him.",
+    "category": "Attitude",
+    "similar": [
+      "不足挂齿",
+      "微不足道",
+      "理所当然"
+    ],
+    "opposite": [
+      "至关重要",
+      "非同小可"
+    ],
+    "id": "bu-zai-hua-xia"
+  },
+  {
+    "chinese": "玉佩琼琚",
+    "pinyin": "yù pèi qióng jū",
+    "literal": "jade pendant, red-jade ornament",
+    "meaning": "Literally refers to jade pendants and ornaments made of precious red jade. By extension it is used as an elegant metaphor for exceptionally fine writing or poetry. It praises literary works as being as beautiful and valuable as rare jade.",
+    "origin": "The phrase comes from the Tang dynasty writer Han Yu's eulogy ‘祭柳子厚文’ (Eulogy for Liu Zihou), written in memory of his friend and fellow literary master Liu Zongyuan. In it Han Yu wrote ‘玉佩琼琚，大放厥词,’ comparing Liu's brilliant prose and poetry to precious jade ornaments. Liu Zongyuan, a leader of the Tang ancient-style prose movement, had died in exile, and Han Yu honored his extraordinary literary talent with this image. The line later became a standard way to praise beautiful writing.",
+    "example_zh": "有美人兮，玉佩琼琚，吾梦见之。",
+    "example_en": "There is a lovely one adorned with jade pendants and precious gems—whom I saw in my dreams.",
+    "category": "Quality",
+    "similar": [
+      "妙笔生花",
+      "锦心绣口",
+      "字字珠玑"
+    ],
+    "opposite": [
+      "陈词滥调",
+      "粗制滥造"
+    ],
+    "id": "yu-pei-qiong-ju"
   }
 ]
