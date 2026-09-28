@@ -98520,5 +98520,204 @@
       "放开手脚"
     ],
     "id": "shu-shou-shu-jiao"
+  },
+  {
+    "chinese": "纵横交贯",
+    "pinyin": "zòng héng jiāo guàn",
+    "literal": "vertical and horizontal, intersect, penetrate through",
+    "meaning": "Literally describing lines running vertically and horizontally and interpenetrating one another. It depicts a crisscrossing, densely intertwined arrangement, such as paths, rivers, or strokes. By extension it characterizes a situation or relationship that is highly complex and tangled.",
+    "origin": "The phrase traces to Volume One of 东莱博议 (Donglai Boyi) by the Southern Song dynasty scholar Lü Zuqian (吕祖谦). In the passage, Lü writes of those who kept company with Zhu Si (朱泗) at his gatherings, saying that all which entered their ears were words of virtue, crisscrossing in profusion. The wording there is 纵横交错, from which the variant 纵横交贯 later developed. The Qing dynasty scholar Ji Yun (纪昀) employed it in 阅微草堂笔记, describing a talisman in 万法归宗 whose strokes crisscrossed in a manner resembling small seal script.",
+    "example_zh": "地图上纵横交贯的铁路线，把全国各大城市紧紧连成了一体。",
+    "example_en": "The crisscrossing railway lines on the map tightly linked all the country's major cities into a single whole.",
+    "category": "Condition",
+    "similar": [
+      "纵横交错",
+      "错综复杂",
+      "盘根错节"
+    ],
+    "opposite": [
+      "井井有条",
+      "有条不紊"
+    ],
+    "id": "zong-heng-jiao-guan"
+  },
+  {
+    "chinese": "敝衣粝食",
+    "pinyin": "bì yī lì shí",
+    "literal": "worn clothes, coarse food",
+    "meaning": "Wearing tattered clothes and eating coarse, poor-quality food. It describes a life of poverty and material hardship. It is often used to portray someone who endures destitution while maintaining their principles or composure.",
+    "origin": "The phrase comes from a biography by the Song dynasty scholar Zeng Gong, titled 'Biography of Xu Fu' (《徐复传》). Zeng Gong describes Xu Fu as living in a rundown alley in a leaky house, wearing worn clothes and eating coarse food, sometimes unable even to provide for himself. Despite such deprivation, the text notes that these circumstances never shook his resolve or disturbed his mind. The passage thus portrays a learned man who remained steadfast and untroubled amid poverty.",
+    "example_zh": "他半生敝衣粝食，却始终不肯接受别人的施舍。",
+    "example_en": "He spent half his life in worn clothes and coarse food, yet never accepted charity from anyone.",
+    "category": "Condition",
+    "similar": [
+      "粝食瓢饮",
+      "家徒四壁",
+      "饥寒交迫"
+    ],
+    "opposite": [
+      "锦衣玉食",
+      "丰衣足食"
+    ],
+    "id": "bi-yi-li-shi"
+  },
+  {
+    "chinese": "然糠照薪",
+    "pinyin": "rán kāng zhào xīn",
+    "literal": "burn, chaff, illuminate, firewood",
+    "meaning": "Literally, burning chaff to light up the night while reading. It is a metaphor for studying with tireless diligence, extending one's study time into the night by whatever light one can find. It conveys the same spirit as the idiom 然糠自照.",
+    "origin": "The phrase comes from the Taiping Guangji (太平广记), compiled in the Northern Song dynasty, in its entry on Li Qi. Li Qi lost his mother the following year and, while wandering destitute in the Qing and Qi regions, he had no oil for lamps. He therefore burned chaff and firewood for light, turning night into day, and by this means read several thousand books. The story was later condensed into the idiom 然糠照薪, praising a poor scholar's unyielding devotion to learning.",
+    "example_zh": "他年轻时家贫无灯，常然糠照薪，苦读至深夜。",
+    "example_en": "When he was young his family was too poor to afford oil for lamps, so he often burned chaff for light and studied deep into the night.",
+    "category": "Learning",
+    "similar": [
+      "囊萤照读",
+      "凿壁偷光",
+      "然糠自照"
+    ],
+    "opposite": [
+      "不学无术"
+    ],
+    "id": "ran-kang-zhao-xin"
+  },
+  {
+    "chinese": "高自标树",
+    "pinyin": "gāo zì biāo shù",
+    "literal": "high, self, set up,树立",
+    "meaning": "To hold oneself in excessively high regard; to set oneself up as exceptional. It describes someone who boastfully elevates their own worth or abilities above others. Same meaning as 高自标置.",
+    "origin": "The phrase comes from the New Book of Tang (新唐书), in the biography of Wang Yifang (王义方), a Tang dynasty scholar-official known for his blunt and upright character. The text describes him as deeply versed in the classics and by nature outspoken and unconventional, 'setting himself up on high' rather than following the conventions of his time. The idiom thus arose from a portrait of a proud, self-regarding scholar.",
+    "example_zh": "他才做了一点小事，便高自标树，旁人都不放在眼里。",
+    "example_en": "He had barely accomplished anything, yet he set himself up as exceptional and looked down on everyone around him.",
+    "category": "Attitude",
+    "similar": [
+      "高自标置",
+      "自命不凡",
+      "自高自大"
+    ],
+    "opposite": [
+      "虚怀若谷",
+      "谦虚谨慎"
+    ],
+    "id": "gao-zi-biao-shu"
+  },
+  {
+    "chinese": "持筹握算",
+    "pinyin": "chí chóu wò suàn",
+    "literal": "hold counting rods, grasp and calculate",
+    "meaning": "Originally referring to careful planning and calculation, it later came to describe managing financial affairs. The image is of someone holding counting rods and tallies, keeping accounts with precision. It is used of a person who handles money matters methodically and prudently.",
+    "origin": "The phrase comes from ‘Qi Fa’ (《七发》) by the Han dynasty writer Mei Sheng (枚乘). In the text, Confucius and Laozi are described as observing the scene, while Mencius holds counting rods and reckons with such accuracy that not one in ten thousand calculations is wrong. The image of someone grasping rods and computing figures became a byword for careful financial management.",
+    "example_zh": "他一生持筹握算，把家业打理得井井有条。",
+    "example_en": "All his life he managed the accounts with care, keeping the family business in perfect order.",
+    "category": "Method",
+    "similar": [
+      "精打细算",
+      "量入为出",
+      "开源节流"
+    ],
+    "opposite": [
+      "挥金如土",
+      "入不敷出"
+    ],
+    "id": "chi-chou-wo-suan"
+  },
+  {
+    "chinese": "烟波钓徒",
+    "pinyin": "yān bō diào tú",
+    "literal": "misty waves, fishing, person",
+    "meaning": "Literally 'a fisherman amid the misty waves,' this idiom refers to a recluse who lives in seclusion on the rivers and lakes, fishing among the hazy, smoke-like waters. It describes someone who has turned away from officialdom and worldly ambition to pursue a carefree, hermit-like life close to nature.",
+    "origin": "The idiom comes from the New Book of Tang (《新唐书》), in the biography of the Tang dynasty poet and scholar Zhang Zhihe (张志和). After his parents passed away, he no longer sought office and withdrew to live among the rivers and lakes, calling himself 'the fisherman of the misty waves' (烟波钓徒). Zhang Zhihe was also famous for his pastoral fishing lyrics, such as the well-known song '渔歌子', which portray this idyllic, untethered existence.",
+    "example_zh": "他厌倦了官场，辞官归隐，从此做了个烟波钓徒。",
+    "example_en": "Weary of official life, he resigned his post and retired to the lakes, becoming a fisherman amid the misty waves.",
+    "category": "Lifestyle",
+    "similar": [
+      "渔樵耕读",
+      "归隐山林",
+      "泛舟江湖"
+    ],
+    "opposite": [
+      "争名夺利",
+      "贪图功名"
+    ],
+    "id": "yan-bo-diao-tu"
+  },
+  {
+    "chinese": "原封未动",
+    "pinyin": "yuán fēng wèi dòng",
+    "literal": "original, seal, not, move",
+    "meaning": "To remain completely untouched, exactly as things were, without the slightest change. It describes an object, offer, or situation that has been left intact, with nothing added, removed, or altered. It is often used of gifts, documents, or arrangements returned or preserved in their original condition.",
+    "origin": "The phrase is recorded in 《太平天国故事歌谣选》 (Stories and Ballads of the Taiping Heavenly Kingdom), in the tale titled 《竹签的来历》 (The Origin of the Bamboo Stake). Set during the Taiping era (mid-19th century), the story recounts a festival feast whose dishes and wine were laid out but then left entirely untouched, a detail that puzzled everyone present. The expression spread from such folk narratives into general written use, and it was later quoted by Mao Zedong in a 1955 speech to the Party's National Representative Conference as a vivid image of problems left unresolved.",
+    "example_zh": "我寄给他的那份礼物，他原封未动地退了回来。",
+    "example_en": "The gift I sent him came back completely untouched, just as I had packed it.",
+    "category": "Condition",
+    "similar": [
+      "原封不动",
+      "完好无损",
+      "依然如故"
+    ],
+    "opposite": [
+      "面目全非",
+      "焕然一新"
+    ],
+    "id": "yuan-feng-wei-dong"
+  },
+  {
+    "chinese": "柳折花残",
+    "pinyin": "liǔ zhé huā cán",
+    "literal": "willow, broken, flower, withered",
+    "meaning": "A metaphor for the death or injury of a young woman. The willow and the flower are traditional Chinese images of feminine beauty and youth, so their breaking and withering symbolize a beautiful woman coming to harm. It is used almost exclusively in literary or elegiac contexts.",
+    "origin": "The phrase comes from the Qing dynasty novel Dream of the Red Chamber (红楼梦), Chapter 78, by Cao Xueqin. In that chapter Jia Baoyu composes a lament for a young maid who died tragically, and the line reads '贼势猖獗不可敌，柳折花残血凝碧' — the enemy forces were fierce and irresistible, the willow snapped and the flowers withered, and blood congealed dark as jade. The image of broken willow and ruined flower was thus fixed as a poetic euphemism for a young woman's violent or untimely death.",
+    "example_zh": "听闻这位才女英年早逝，不禁令人感叹柳折花残，天妒红颜。",
+    "example_en": "Hearing that this talented young woman died before her time, one cannot but sigh that the willow snapped and the flower withered — heaven envies true beauty.",
+    "category": "Condition",
+    "similar": [
+      "香消玉殒",
+      "玉碎香消",
+      "红颜薄命"
+    ],
+    "opposite": [
+      "青春永驻",
+      "容光焕发"
+    ],
+    "id": "liu-zhe-hua-can"
+  },
+  {
+    "chinese": "龙伸蠖屈",
+    "pinyin": "lóng shēn huò qū",
+    "literal": "dragon stretch, inchworm curl",
+    "meaning": "Describes calligraphy in which the brushwork sweeps out like a dragon extending its body, then coils back like an inchworm contracting. The idiom praises superb, vividly rhythmic handwriting that alternates between grand expansion and tight, controlled gathering of force. It is used to admire a master's skillful and dynamic brushwork.",
+    "origin": "The idiom pairs two natural images: the dragon, whose long body uncoils in powerful sweeps, and the inchworm (蠖, the geometer-moth larva), which moves by sharply curling and then extending its body. The image of the inchworm's contraction traces back to the Yijing (Book of Changes), which states that the inchworm contracts in order to extend forward, making flexibility a means of gathering momentum. Classical Chinese calligraphy critics drew on both creatures to describe strokes that alternate between uninhibited release and tightly gathered restraint. There is no single named anecdote attached to the phrase; it is a compound metaphor from traditional brushwork aesthetics.",
+    "example_zh": "这幅草书龙伸蠖屈，笔力遒劲，令人叹为观止。",
+    "example_en": "This cursive calligraphy sweeps and coils with the force of a dragon and an inchworm, its brushwork so vigorous it takes the breath away.",
+    "category": "Skill",
+    "similar": [
+      "龙飞凤舞",
+      "铁画银钩",
+      "龙蛇飞动"
+    ],
+    "opposite": [
+      "春蚓秋蛇",
+      "信笔涂鸦"
+    ],
+    "id": "long-shen-huo-qu"
+  },
+  {
+    "chinese": "通同作弊",
+    "pinyin": "tōng tóng zuò bì",
+    "literal": "conspire together, do, fraud",
+    "meaning": "To collude with others in cheating or committing illegal and irregular acts. It describes people secretly cooperating to engage in fraud, corruption, or other underhanded wrongdoing.",
+    "origin": "The idiom traces to Yuan dynasty playwright Bai Pu's zaju play 'Qiang Tou Ma Shang' (A Horse by the Wall), Act 3, in which a character accuses another of colluding with a child to deceive others and violate family discipline. The phrase was later echoed in Ming dynasty novels such as Fang Ruhao's 'Chan Zhen Yi Shi' (The Legend of Chan Zhen), where officials were said to collude in bribery and falsify reports to claim undeserved merit. Over time it came to describe any joint conspiracy to cheat or break the rules.",
+    "example_zh": "他们两人通同作弊，私自篡改了账目。",
+    "example_en": "The two of them colluded to secretly alter the accounts.",
+    "category": "Action",
+    "similar": [
+      "狼狈为奸",
+      "同流合污",
+      "营私舞弊"
+    ],
+    "opposite": [
+      "光明正大",
+      "奉公守法"
+    ],
+    "id": "tong-tong-zuo-bi"
   }
 ]
