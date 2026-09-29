@@ -11268,3 +11268,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-09-29 12:00:04] === Catch-up push done ===
 [2026-09-29 20:00:00] === Catch-up push start (76 unpushed commits) ===
+[main 550275f] Auto-update: 2026-09-29 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   5ac4a0c..550275f  main -> main
+
+Push OK (attempt 1)
+[2026-09-29 20:00:04] === Catch-up push done ===
+[2026-09-30 03:15:00] === Daily cron start ===
+[2026-09-30 03:15:00] === Daily cron start ===
+[2026-09-30 03:15:00] Generating 10 new idioms...
+[2026-09-30 03:15:00] Generating 10 new idioms...
+Existing: 4965 idioms
+Whitelist: 30894 total
+Candidates available: 24536 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 口不二价 (kǒu bù èr jià)
+    OK (saved, total now: 4966): literal='mouth, not, two, price...'
+[2/10] -> 枉尺直寻 (wǎng chǐ zhí xún)
+    OK (saved, total now: 4967): literal='bend a foot, straighten eight feet...'
+[3/10] -> 施施而行 (shī shī ér xíng)
+    OK (saved, total now: 4968): literal='slowly, slowly, and, walk...'
+[4/10] -> 金声玉服 (jīn shēng yù fú)
+    OK (saved, total now: 4969): literal='gold, sound, jade, clothing...'
+[5/10] -> 掩耳盗钟 (yǎn ěr dào zhōng)
+    OK (saved, total now: 4970): literal='cover, ear, steal, bell...'
+[6/10] -> 授人口实 (shòu rén kǒu shí)
+    OK (saved, total now: 4971): literal='give, other people, mouth, reality...'
+[7/10] -> 武断专横 (wǔ duàn zhuān héng)
+    OK (saved, total now: 4972): literal='martial, judge, exclusive, tyrannical...'
+[8/10] -> 再不其然 (zài bù qí rán)
+    OK (saved, total now: 4973): literal='again, not, so, thus...'
+[9/10] -> 纷纷攘攘 (fēn fēn rǎng rǎng)
+    OK (saved, total now: 4974): literal='fluttering and numerous, noisy and disorderly...'
+[10/10] -> 直言切谏 (zhí yán qiē jiàn)
+    OK (saved, total now: 4975): literal='straight, words, earnest, remonstrate...'
+
+Added 10 idioms. Total: 4975
+[2026-09-30 03:28:33] Generation OK
+[2026-09-30 03:28:33] Generation OK
+[2026-09-30 03:28:34] Regenerating site...
+[2026-09-30 03:28:34] Regenerating site...
+Loading data...
+  → 4975 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4975 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4975 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-09-30 03:28:49] Site regenerated
+[2026-09-30 03:28:49] Site regenerated
+[2026-09-30 03:28:49] Pushing to GitHub...
+[2026-09-30 03:28:49] Pushing to GitHub...
