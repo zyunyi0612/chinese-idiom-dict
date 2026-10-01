@@ -99117,5 +99117,203 @@
       "有备无患"
     ],
     "id": "ji-qi-bu-yi"
+  },
+  {
+    "chinese": "寝苫枕块",
+    "pinyin": "qǐn shān zhěn kuài",
+    "literal": "sleep on straw mat, pillow on clod of earth",
+    "meaning": "To sleep on a rough straw mat and use a clod of earth as a pillow. It describes the traditional mourning observance for a deceased parent, in which the mourner abandons comfort to live in a coarse shelter beside the grave. The phrase conveys extreme grief and strict adherence to filial mourning rites.",
+    "origin": "The phrase originates from the \"Yili\" (Book of Etiquette and Ceremonial), a Zhou dynasty ritual text, in the chapter \"Jixi Li\" (Rites of the Final Evening): \"Dwelling in a leaning hut, sleeping on a straw mat and pillowing on a clod of earth.\" Under the patriarchal clan system of ancient China, a child mourning a parent had to leave the main house and live in a lean-to shed beside the mourning hall or grave. The straw mat (苫) and earthen clod (块) were deliberately harsh bedding, expressing grief so deep that comfort felt intolerable. Later writers such as Qing dynasty author Zhang Chunfan in \"Huanhai\" invoked the idiom to criticize officials who kept up such outward observances while secretly indulging in pleasure.",
+    "example_zh": "父亲刚去世，他便在灵堂前寝苫枕块，以尽人子之孝。",
+    "example_en": "Right after his father passed away, he slept on a straw mat with a clod of earth for a pillow before the mourning hall, fulfilling his duty as a devoted son.",
+    "category": "Morality",
+    "similar": [
+      "寝苫枕戈",
+      "席薪枕块",
+      "守丧庐墓"
+    ],
+    "opposite": [
+      "锦衣玉食",
+      "高枕无忧"
+    ],
+    "id": "qin-shan-zhen-kuai"
+  },
+  {
+    "chinese": "烁石流金",
+    "pinyin": "shuò shí liú jīn",
+    "literal": "scorch stone, melt metal",
+    "meaning": "It describes extreme heat so intense that it could melt even rock and metal. The idiom is used to portray the blistering heat of midsummer or a scorching sun. The character 烁 is interchangeable with 铄, both meaning to melt or fuse.",
+    "origin": "There is no single documented origin story for this idiom; it is a traditional compound built from the classical Chinese imagery of heat fierce enough to fuse stone and melt gold. Similar phrasing appears in ancient cosmological and mythological passages about the ten suns scorching the earth, where intense heat was said to liquefy metal and crack stone. Over time it became a set four-character expression used in poetry and prose to describe the peak of summer heat.",
+    "example_zh": "盛夏的骄阳炙烤着戈壁，当真有几分烁石流金的气象。",
+    "example_en": "The midsummer sun baked the desert, carrying a heat that seemed truly able to scorch stone and melt metal.",
+    "category": "Condition",
+    "similar": [
+      "铄石流金",
+      "焦金流石",
+      "皎阳似火"
+    ],
+    "opposite": [
+      "冰天雪地",
+      "滴水成冰"
+    ],
+    "id": "shuo-shi-liu-jin"
+  },
+  {
+    "chinese": "伤弓之鸟",
+    "pinyin": "shāng gōng zhī niǎo",
+    "literal": "wounded, bow, of, bird",
+    "meaning": "A bird frightened by a bow and arrow. It describes a person who has been badly frightened before and now panics at the slightest sound or movement. The idiom conveys a state of lingering fear left by past trauma.",
+    "origin": "The phrase comes from the Warring States period text Zhan Guo Ce (楚策四), where a wounded bird was so terrified by an earlier arrow that it fell at the mere twang of an empty bowstring. The Jin Shu (晋书·苻生载记) quotes the line '伤弓之鸟，落于虚发' — a bird hurt by a bow drops even from an arrowless shot. The image is of a wild goose struck by an arrow above, which then collapses in fright when another bow is merely drawn below.",
+    "example_zh": "敌军刚吃过败仗，如今个个如伤弓之鸟，听到风声便四散逃命。",
+    "example_en": "Fresh from their defeat, the enemy soldiers were like birds frightened by a bow, scattering in panic at the mere rustle of the wind.",
+    "category": "Emotion",
+    "similar": [
+      "惊弓之鸟",
+      "杯弓蛇影",
+      "一朝被蛇咬"
+    ],
+    "opposite": [
+      "泰然自若",
+      "临危不惧"
+    ],
+    "id": "shang-gong-zhi-niao"
+  },
+  {
+    "chinese": "道远知骥",
+    "pinyin": "dào yuǎn zhī jì",
+    "literal": "road, far, know, good horse",
+    "meaning": "A fine horse can only be distinguished on a long journey. By extension, a person's true character and ability only reveal themselves after prolonged experience, hardship, or training. It teaches that first impressions are unreliable and that time is the real test of worth.",
+    "origin": "The phrase comes from Jiaozhi (《矫志》), a work by Cao Cao, the warlord and poet who founded the state of Wei during the Three Kingdoms period. The original line reads “道远知骥，世伪知贤” — “the road being long, one comes to know the good horse; the world being false, one comes to know the worthy.” Cao Cao wrote it to express his pragmatic belief that people should be judged through trials rather than reputation. The imagery rests on the ancient understanding that a horse's endurance and speed only become obvious over an extended journey.",
+    "example_zh": "项目苦撑三年，道远知骥，团队里谁能扛事如今一目了然。",
+    "example_en": "The project struggled on for three years; as the old saying goes, a long road reveals the good horse, and now it is perfectly clear who in the team can truly shoulder responsibility.",
+    "category": "Perseverance",
+    "similar": [
+      "路遥知马力",
+      "日久见人心",
+      "烈火见真金"
+    ],
+    "opposite": [
+      "以貌取人",
+      "一叶障目"
+    ],
+    "id": "dao-yuan-zhi-ji"
+  },
+  {
+    "chinese": "月朗星稀",
+    "pinyin": "yuè lǎng xīng xī",
+    "literal": "moon, bright, stars, sparse",
+    "meaning": "The moon is bright and the stars are few. It describes a clear, cloudless night sky in which brilliant moonlight outshines the surrounding stars. It is often used to evoke a peaceful, luminous night scene and can also suggest clarity and openness.",
+    "origin": "The phrase is best known from the modern Chinese short story 《七根火柴》 by 王愿坚, which follows Red Army soldiers crossing the grasslands during the Long March. In the story the grassland's weather is famously unpredictable: a fine night of bright moon and sparse stars can, with a single gust of wind, be swallowed by clouds rising as if from the ground, followed at once by a torrential downpour. The idiom thus comes to us as a literary description of a deceptively calm, clear night that may quickly turn hostile. It is also echoed in older poetic imagery of a moonlit sky, but 《七根火柴》 is its most widely cited written source.",
+    "example_zh": "中秋之夜，月朗星稀，一家人围坐在院子里赏月谈心。",
+    "example_en": "On Mid-Autumn night the moon was bright and the stars sparse, as the whole family sat together in the courtyard, admiring the moon and chatting.",
+    "category": "Clarity",
+    "similar": [
+      "月明星稀",
+      "皓月当空",
+      "月白风清"
+    ],
+    "opposite": [
+      "繁星满天",
+      "乌云密布"
+    ],
+    "id": "yue-lang-xing-xi"
+  },
+  {
+    "chinese": "忠心耿耿",
+    "pinyin": "zhōng xīn gěng gěng",
+    "literal": "loyal, heart, devoted, devoted",
+    "meaning": "Describes someone who is profoundly loyal, steadfast, and devoted in heart. The reduplicated 耿耿 conveys an unwavering, single-minded dedication that never wavers. It is typically used of a person's allegiance to a leader, cause, country, or organization.",
+    "origin": "The phrase comes from the Qing dynasty novel 镜花缘 (Flowers in the Mirror) by 李汝珍, chapter 57. The line is spoken in the novel's storyline set during the Tang dynasty, when loyalists conspire against the rule of Empress Wu Zetian to restore the Tang. A character is told that although his father died for the country and the great cause was not yet accomplished, his steadfast loyalty would ensure his name lived on forever. The expression later became a standard way to praise wholehearted loyalty, and was reused by later writers such as 蔡东藩 in 民国通俗演义.",
+    "example_zh": "他对这家公司忠心耿耿，一干就是三十年。",
+    "example_en": "He served the company with wholehearted loyalty, working there for thirty years straight.",
+    "category": "Attitude",
+    "similar": [
+      "忠贞不渝",
+      "赤胆忠心"
+    ],
+    "opposite": [
+      "背信弃义",
+      "见异思迁"
+    ],
+    "id": "zhong-xin-geng-geng"
+  },
+  {
+    "chinese": "春秋笔法",
+    "pinyin": "chūn qiū bǐ fá",
+    "literal": "spring and autumn annals, brush, method",
+    "meaning": "A writing style that conveys praise and censure through subtle, indirect turns of phrase rather than explicit judgment. It originates from Confucius's compilation of the Spring and Autumn Annals, where even the choice of a single word carried moral weight. The term now describes prose that quietly embeds the author's approval or disapproval in seemingly objective narration.",
+    "origin": "The phrase traces to Sima Qian's Records of the Grand Historian (史记), in the chapter on the House of Confucius. It records that Confucius, while serving as a judge in Lu, was willing to share his legal wording with others, but when composing the Spring and Autumn Annals he alone decided what to write and what to omit, so firmly that even his disciple Zixia could not suggest a single word. Later readers saw in this restraint a deliberate method of conveying moral judgment through understated language, and 'the brushwork of the Spring and Autumn' became the name for that technique.",
+    "example_zh": "这篇报道看似客观，实则暗藏春秋笔法，字里行间都是作者的立场。",
+    "example_en": "The report looks objective, but it is laced with the subtle brushwork of the Spring and Autumn Annals — the author's stance shows between every line.",
+    "category": "Communication",
+    "similar": [
+      "微言大义",
+      "一字褒贬",
+      "旁敲侧击"
+    ],
+    "opposite": [
+      "直言不讳"
+    ],
+    "id": "chun-qiu-bi-fa"
+  },
+  {
+    "chinese": "引玉之砖",
+    "pinyin": "yǐn yù zhī zhuān",
+    "literal": "attract, jade, possessive, brick",
+    "meaning": "A humble phrase used to introduce one's own remarks. It compares one's own shallow or immature opinion to an ordinary brick tossed out in the hope that others will respond with far wiser, jade-like opinions. It is typically said to invite better ideas before offering a rough first take.",
+    "origin": "The phrase comes from the Northern Song Buddhist monk Shi Daoyuan's Jingde Chuandeng Lu (景德传灯录), compiled in the eleventh century, a foundational record of Chan Buddhist transmission stories. In volume ten a monk remarks, 'I came throwing a brick to attract jade, but instead I attracted a plummet' (比来抛砖引玉，却引得个坠子), meaning his modest attempt to draw out a precious reply had unexpectedly brought forth something of little value. The shorter and far more common form 抛砖引玉 (throwing a brick to attract jade) grew out of this same lineage and is the version most Chinese speakers use today.",
+    "example_zh": "我的发言只是引玉之砖，希望能听到大家更高明的见解。",
+    "example_en": "My remarks are just a humble brick to attract jade; I hope to hear everyone's far better insights.",
+    "category": "Communication",
+    "similar": [
+      "抛砖引玉",
+      "一得之见",
+      "借花献佛"
+    ],
+    "opposite": [
+      "好为人师",
+      "班门弄斧"
+    ],
+    "id": "yin-yu-zhi-zhuan"
+  },
+  {
+    "chinese": "贪而无信",
+    "pinyin": "tān ér wú xìn",
+    "literal": "greedy, yet, without, faith",
+    "meaning": "This idiom describes a person who is both greedy for gain and utterly untrustworthy. It portrays a character in which the lust for profit overrides every promise or obligation undertaken. It is used as a sharp condemnation of someone whose word cannot be relied on precisely because self-interest always comes first.",
+    "origin": "The phrase comes from the Eastern Han dynasty scholar and official Ying Shao, appearing in his essay Xianbei Hu Shi Yi (Discussion on Trade with the Xianbei). Writing about border trade policy, Ying Shao characterized the Xianbei as nomads living north of the desert beyond the Gobi, herding dogs and sheep in bands with no rulers, chiefs, or settled villages. He argued that it was their very nature to be greedy yet lacking in good faith, and used this judgment to caution the Han court about the risks of opening markets to them. The line has survived as a general indictment of avaricious, promise-breaking conduct rather than as commentary on any one people.",
+    "example_zh": "他为人贪而无信，答应的事总是反悔，没人愿意再和他做生意。",
+    "example_en": "Greedy and untrustworthy, he always goes back on his word, so no one is willing to do business with him anymore.",
+    "category": "Morality",
+    "similar": [
+      "贪得无厌",
+      "见利忘义",
+      "言而无信"
+    ],
+    "opposite": [
+      "言而有信",
+      "一诺千金"
+    ],
+    "id": "tan-er-wu-xin"
+  },
+  {
+    "chinese": "要言妙道",
+    "pinyin": "yào yán miào dào",
+    "literal": "essential, words, subtle, truth",
+    "meaning": "Pithy, to-the-point remarks that convey a profound and subtle truth. It refers to speech or writing that is brief yet deeply insightful, cutting straight to the heart of the matter. The phrase values concision paired with depth of thought.",
+    "origin": "The phrase comes from 'Qi Fa' (Seven Stimuli), a fu written by Mei Cheng of the Western Han dynasty. In the piece, a guest tells the prince of Chu that his illness cannot be cured by medicine, acupuncture, or moxibustion alone, but can be driven away through 'essential words and subtle truths'—that is, by persuading him with wise counsel. The work uses this idea to argue that indulgent luxury and vice bring illness, while right thinking and sound advice restore health.",
+    "example_zh": "先生这番要言妙道，令学生茅塞顿开。",
+    "example_en": "Your essential words and subtle truths have suddenly opened my mind, sir.",
+    "category": "Wisdom",
+    "similar": [
+      "要言不烦",
+      "至理名言",
+      "微言大义"
+    ],
+    "opposite": [
+      "废话连篇",
+      "空洞无物"
+    ],
+    "id": "yao-yan-miao-dao"
   }
 ]

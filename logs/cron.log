@@ -11472,3 +11472,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-10-01 12:00:05] === Catch-up push done ===
 [2026-10-01 20:00:00] === Catch-up push start (82 unpushed commits) ===
+[main 94aa31f] Auto-update: 2026-10-01 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   8f21f73..94aa31f  main -> main
+
+Push OK (attempt 1)
+[2026-10-01 20:00:07] === Catch-up push done ===
+[2026-10-02 03:15:00] === Daily cron start ===
+[2026-10-02 03:15:00] === Daily cron start ===
+[2026-10-02 03:15:00] Generating 10 new idioms...
+[2026-10-02 03:15:00] Generating 10 new idioms...
+Existing: 4985 idioms
+Whitelist: 30894 total
+Candidates available: 24516 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 寝苫枕块 (qǐn shān zhěn kuài)
+    OK (saved, total now: 4986): literal='sleep on straw mat, pillow on clod of earth...'
+[2/10] -> 烁石流金 (shuò shí liú jīn)
+    OK (saved, total now: 4987): literal='scorch stone, melt metal...'
+[3/10] -> 伤弓之鸟 (shāng gōng zhī niǎo)
+    OK (saved, total now: 4988): literal='wounded, bow, of, bird...'
+[4/10] -> 道远知骥 (dào yuǎn zhī jì)
+    OK (saved, total now: 4989): literal='road, far, know, good horse...'
+[5/10] -> 月朗星稀 (yuè lǎng xīng xī)
+    OK (saved, total now: 4990): literal='moon, bright, stars, sparse...'
+[6/10] -> 忠心耿耿 (zhōng xīn gěng gěng)
+    OK (saved, total now: 4991): literal='loyal, heart, devoted, devoted...'
+[7/10] -> 春秋笔法 (chūn qiū bǐ fá)
+    OK (saved, total now: 4992): literal='spring and autumn annals, brush, method...'
+[8/10] -> 引玉之砖 (yǐn yù zhī zhuān)
+    OK (saved, total now: 4993): literal='attract, jade, possessive, brick...'
+[9/10] -> 贪而无信 (tān ér wú xìn)
+    OK (saved, total now: 4994): literal='greedy, yet, without, faith...'
+[10/10] -> 要言妙道 (yào yán miào dào)
+    OK (saved, total now: 4995): literal='essential, words, subtle, truth...'
+
+Added 10 idioms. Total: 4995
+[2026-10-02 03:26:40] Generation OK
+[2026-10-02 03:26:40] Generation OK
+[2026-10-02 03:26:40] Regenerating site...
+[2026-10-02 03:26:40] Regenerating site...
+Loading data...
+  → 4995 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 4995 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 4995 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-10-02 03:26:56] Site regenerated
+[2026-10-02 03:26:56] Site regenerated
+[2026-10-02 03:26:56] Pushing to GitHub...
+[2026-10-02 03:26:56] Pushing to GitHub...
