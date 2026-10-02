@@ -99315,5 +99315,182 @@
       "空洞无物"
     ],
     "id": "yao-yan-miao-dao"
+  },
+  {
+    "chinese": "炉火纯青",
+    "pinyin": "lú huǒ chún qīng",
+    "literal": "furnace, fire, pure, cyan",
+    "meaning": "Describes a skill, technique, or accomplishment that has been refined to a state of perfect maturity. The image comes from Daoist alchemy, where a furnace burning with a pure blue-green flame was proof that the elixir had been successfully refined. It is now used to praise attainment so consummate that it appears effortless and flawless.",
+    "origin": "The phrase traces to the Tang dynasty physician and Daoist Sun Simiao, whose 'Four-Character Poem' describes a great furnace and blazing fire, noting that before the smoke has blackened the flame takes on no false blue-green color, a sign the firing is still incomplete. In the Daoist alchemical tradition, a pure cyan flame in the furnace signaled that the elixir was finished and the work had succeeded. The image later left the alchemy lab and became a general metaphor for any craft or accomplishment brought to its highest refinement. The Qing novelist Zeng Pu used it in 'The Flower of the Sea of Sins' to say that the craft had reached its perfect season and it was now time for each man to show his own skill.",
+    "example_zh": "他的书法已到炉火纯青的地步，每一笔都从容自然。",
+    "example_en": "His calligraphy has reached a state of consummate mastery, every stroke effortless and natural.",
+    "category": "Skill",
+    "similar": [
+      "登峰造极",
+      "出神入化",
+      "游刃有余"
+    ],
+    "opposite": [
+      "半生不熟",
+      "浅尝辄止"
+    ],
+    "id": "lu-huo-chun-qing"
+  },
+  {
+    "chinese": "报冰公事",
+    "pinyin": "bào bīng gōng shì",
+    "literal": "report, ice, public, affairs",
+    "meaning": "An old officialdom term for a meager, hardship post—a thankless office with a slim salary and no chance of graft or perquisites. It paints the assignment as cold and unrewarding as handling ice. Used to describe a poor, hard bureaucratic appointment.",
+    "origin": "The phrase arose in the jargon of the old Chinese bureaucracy, where posts were informally ranked by how much income and advantage they brought the holder. A \"报冰公事\" was the opposite of a lucrative appointment: the work was cold, lean, and brought in nothing extra, much like reporting on a block of ice. No specific literary source or anecdote is recorded for it; it circulated as colloquial office talk about which positions were worth having. Its written currency is now largely confined to dictionaries and old novels describing official life.",
+    "example_zh": "他在县衙当了十年文书，做的尽是报冰公事，从未沾过半点油水。",
+    "example_en": "He served ten years as a clerk in the county yamen, doing nothing but meager, thankless work, and never touched a trace of graft.",
+    "category": "Condition",
+    "similar": [
+      "清水衙门",
+      "粗茶淡饭"
+    ],
+    "opposite": [
+      "肥缺美差",
+      "升官发财"
+    ],
+    "id": "bao-bing-gong-shi"
+  },
+  {
+    "chinese": "物美价廉",
+    "pinyin": "jià lián wù měi",
+    "literal": "things, good, price, cheap",
+    "meaning": "Goods are of good quality yet the price is low. It describes products that give buyers excellent value for money. Commonly used to praise a shop, brand, or marketplace.",
+    "origin": "The phrase appears in Qing dynasty writer Wu Jianren's novel 'Strange Situations of the Past Decade' (近十年之怪现状), chapter ten. In the story, a friend from Suzhou writes a letter saying he wants to have a book printed. He tells the printing house, 'I have long admired your low prices and fine quality, so I have come specially to seek your advice.' The expression was later quoted by Zhu De in his essay on handicraft cooperatives, where he advocated 'good quality and low prices, fair to young and old' against shoddy workmanship.",
+    "example_zh": "这家超市的蔬菜物美价廉，每天都会吸引许多顾客前来选购。",
+    "example_en": "The vegetables at this supermarket are of good quality and inexpensive, drawing many customers every day.",
+    "category": "Quality",
+    "similar": [
+      "价廉物美",
+      "物超所值",
+      "货真价实"
+    ],
+    "opposite": [
+      "质次价高",
+      "粗制滥造"
+    ],
+    "id": "jia-lian-wu-mei-2"
+  },
+  {
+    "chinese": "年衰岁暮",
+    "pinyin": "nián shuāi suì mù",
+    "literal": "years, decline, seasons, end",
+    "meaning": "Advanced in age and drawing near the end of one's life. The image is of the calendar year winding down into late autumn and winter, used figuratively for the twilight of a person's lifespan. It describes someone whose years are fading and whose time is running short.",
+    "origin": "This chengyu has no single recorded source text and no famous origin story; it is a descriptive compound built from two classical collocations. '年衰' (years declining) appears in Han and later historical writing to describe officials or elders grown old, while '岁暮' (the year's end) is an ancient poetic image for the close of life and passing time, echoing lines such as Qu Yuan's Li Sao and Cao Cao's Gui Sui Shou on the dusk of one's days. Chinese tradition long equated the seasons of the year with the stages of human life, so spring meant youth and late autumn or winter meant old age. The two halves were eventually joined into one four-character phrase expressing old age and approaching death. It is used mainly in literary and written Chinese rather than everyday speech.",
+    "example_zh": "父亲年衰岁暮，仍坚持每日到田间走动，放心不下这块耕作了一辈子的地。",
+    "example_en": "Though my father is advanced in years and nearing the end of his life, he still insists on walking the fields every day, unable to let go of the land he has worked all his life.",
+    "category": "Condition",
+    "similar": [
+      "风烛残年",
+      "年老体衰",
+      "迟暮之年"
+    ],
+    "opposite": [
+      "年富力强",
+      "青春年少"
+    ],
+    "id": "nian-shuai-sui-mu"
+  },
+  {
+    "chinese": "殊途同归",
+    "pinyin": "shū tú tóng guī",
+    "literal": "different, path, same, return",
+    "meaning": "Reaching the same destination by different roads. It means taking different approaches or methods yet arriving at the same result. The phrase is often used to describe different paths that converge on a single outcome or goal.",
+    "origin": "The idiom comes from the Zhou Yi (Book of Changes), specifically the Xi Ci Zhuan (Appended Remarks) chapter, a philosophical commentary traditionally attributed to Confucius during the Zhou dynasty. The original line reads, 'All under heaven reach the same destination though they travel different paths; there is one outcome though there are a hundred deliberations.' It expressed the insight that diverse human efforts and lines of thought ultimately converge on the same truth. Over time the phrase was condensed into the four-character form 殊途同归 and broadened from philosophy to any case where different methods yield the same result.",
+    "example_zh": "这道题有几种解法，但殊途同归，答案只有一个。",
+    "example_en": "There are several ways to solve this problem, but they all lead to the same result — there is only one answer.",
+    "category": "Method",
+    "similar": [
+      "异曲同工",
+      "不约而同"
+    ],
+    "opposite": [
+      "分道扬镳",
+      "背道而驰"
+    ],
+    "id": "shu-tu-tong-gui"
+  },
+  {
+    "chinese": "依然故我",
+    "pinyin": "yī rán gù wǒ",
+    "literal": "still, as before, old, self",
+    "meaning": "It describes someone remaining exactly as they were before, without any improvement or change. The phrase conveys that a person's situation, character, or behavior has stayed the same despite the passage of time or changing circumstances.",
+    "origin": "The phrase traces back to the Tang dynasty story \"Liu Wushuang\" by Xue Diao, which contains the line \"The bond between maternal uncle and nephew remains as it was before\" (舅甥之分，依然如故). Over time the wording shifted to 依然故我, turning the old relationship phrasing into a self-referential expression. It is also seen in later Qing writing, such as Wu Xiqi's preface to the poetry collection of Jia Muqiao.",
+    "example_zh": "二十年过去了，他的脾气依然故我，一点也没有变。",
+    "example_en": "Twenty years have passed, yet his temper remains exactly as it always was — he hasn't changed a bit.",
+    "category": "Attitude",
+    "similar": [
+      "依然如故",
+      "我行我素",
+      "本性难移"
+    ],
+    "opposite": [
+      "脱胎换骨",
+      "判若两人"
+    ],
+    "id": "yi-ran-gu-wo"
+  },
+  {
+    "chinese": "沉湎淫逸",
+    "pinyin": "chén miǎn yín yì",
+    "literal": "indulge, be addicted, licentious, idle",
+    "meaning": "Chén miǎn means to be deeply addicted or immersed. The idiom describes someone who is utterly absorbed in wine and comfort, overindulging in fine alcohol and women and living a life of dissolute debauchery. It is used as a strong criticism of self-indulgent, pleasure-seeking behavior that leads to one's downfall.",
+    "origin": "The phrase comes from the Song dynasty poet Yang Wanli's epitaph for the late Longtu Pavilion Scholar Zhang. In it, Yang Wanli lists rulers of antiquity who were destroyed by their weakness for wine: Taikang fell because of his love of sweet wine, the tyrant Jie fell because of his wine pool, King Li fell because of his reckless drinking, and King You fell because of his indulgence in wine and debauchery. The passage was written as a moral warning that yielding to drink and sensual pleasure has ruined even the most powerful kings. King You of Zhou is traditionally remembered for his infatuation with his consort Bao Si, which led to the fall of the Western Zhou.",
+    "example_zh": "他沉湎淫逸，终于一事无成。",
+    "example_en": "He gave himself over to wine and debauchery, and in the end accomplished nothing at all.",
+    "category": "Lifestyle",
+    "similar": [
+      "沉湎酒色",
+      "荒淫无度",
+      "纸醉金迷"
+    ],
+    "opposite": [
+      "克己复礼",
+      "清心寡欲"
+    ],
+    "id": "chen-mian-yin-yi"
+  },
+  {
+    "chinese": "鱼尾雁行",
+    "pinyin": "yú wěi yàn xíng",
+    "literal": "fish tail, geese in formation",
+    "meaning": "Describes a naval fleet sailing in a V-shaped formation, with one ship leading at the center and the other ships flanking it in two sloping lines. The formation resembles the fanned tail of a fish and, equally, the wedge of geese flying overhead. It is used specifically for the orderly, wedge-like arrangement of vessels moving together.",
+    "origin": "This is a descriptive coinage rather than an idiom with a literary origin story, and no classical source, dynasty, or named figure is recorded for it. The image draws on two long-standing Chinese metaphors for ordered motion: geese migrating in a V-shaped wedge (雁行) and the fanned tail of a fish (鱼尾). It came into use as a term for steam-powered squadrons and their maneuvering, where one lead ship occupies the apex and the rest trail back along two wings. Comparable formation imagery underlies the older expression 雁行鱼贯, which likens troops or travelers to flying geese and to fish swimming in single file.",
+    "example_zh": "舰队鱼尾雁行，缓缓驶出港口。",
+    "example_en": "The fleet sailed slowly out of the harbor, one ship leading and the rest fanning out behind it on either side.",
+    "category": "Method",
+    "similar": [
+      "雁行鱼贯",
+      "鱼贯而行",
+      "井然有序"
+    ],
+    "opposite": [
+      "溃不成军",
+      "一盘散沙"
+    ],
+    "id": "yu-wei-yan-xing"
+  },
+  {
+    "chinese": "马上墙头",
+    "pinyin": "mǎ shàng qiáng tóu",
+    "literal": "on horseback, on the wall",
+    "meaning": "Literally 'on horseback and atop a wall,' this idiom refers to the place where young men and women meet and fall in love. It evokes the classic image of a young man riding by on horseback and a young woman leaning over a garden wall, their eyes meeting across the distance. It is used to describe romantic encounters or lovers' trysts.",
+    "origin": "The imagery originates in Tang poetry, notably Bai Juyi's poem 'Drawing a Silver Bottle from a Well Bottom,' which contains the line 'From the wall top and horseback they gazed at each other afar; one glance, and she knew him and gave him her heart.' The phrase was later crystallized as 马上墙头 by the Northern Song poet Chao Duanli in his lyric 'Water Dragon' (水龙吟): 'On horseback, at the wall top, even if they catch a glimpse, they can hardly recognize each other.' The Qing poet Xie Xuechong also used it in his 'Niannu Jiao' lyric, showing its continued use as a byword for lovers' meetings.",
+    "example_zh": "才子佳人，马上墙头，一见倾心。",
+    "example_en": "The talented scholar and the lovely maiden met as if at the wall's edge, falling in love at first sight.",
+    "category": "Emotion",
+    "similar": [
+      "墙头马上",
+      "郎才女貌",
+      "两相情愿"
+    ],
+    "opposite": [
+      "劳燕分飞"
+    ],
+    "id": "ma-shang-qiang-tou"
   }
 ]

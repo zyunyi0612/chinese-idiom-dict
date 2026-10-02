@@ -11574,3 +11574,71 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-10-02 12:00:05] === Catch-up push done ===
 [2026-10-02 20:00:01] === Catch-up push start (85 unpushed commits) ===
+[main cce3e34] Auto-update: 2026-10-02 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   3e25a40..cce3e34  main -> main
+
+Push OK (attempt 1)
+[2026-10-02 20:00:05] === Catch-up push done ===
+[2026-10-03 03:15:01] === Daily cron start ===
+[2026-10-03 03:15:01] === Daily cron start ===
+[2026-10-03 03:15:01] Generating 10 new idioms...
+[2026-10-03 03:15:01] Generating 10 new idioms...
+Existing: 4995 idioms
+Whitelist: 30894 total
+Candidates available: 24506 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 炉火纯青 (lú huǒ chún qīng)
+    OK (saved, total now: 4996): literal='furnace, fire, pure, cyan...'
+[2/10] -> 报冰公事 (bào bīng gōng shì)
+    OK (saved, total now: 4997): literal='report, ice, public, affairs...'
+[3/10] -> 磨礲淬励 (mó lóng cuì lì)
+  LLM call error: Command '['hermes', '--yolo', '-z', 'You are generating a dictionary entry for the classical Chinese idiom (成语) "磨礲淬励" (pinyin: mó lóng cuì lì).\n\nAuthoritative Chinese context:\n- 释义: 切磋琢磨，反复研讨。\n- 出处: 无\n- 例句: 无\n\nOutput strict JSON only (no markdown, no commentary), with exactly these fields:\n{\n  "chinese": "磨礲淬励",\n  "pinyin": "mó lóng cuì lì",\n  "literal": "<English literal word-by-word translation, comma separated>",\n  "meaning": "<2-3 sentence English explanation>",\n  "origin": "<3-5 sentence English summary of the origin story, naming dynasties/figures if known>",\n  "example_zh": "<one natural Chinese example sentence that USES this idiom>",\n  "example_en": "<natural English translation of that example>",\n  "category": "<one of: Action, Attitude, Communication, Condition, Determination, Emotion, Knowledge, Leadership, Learning, Logic, Method, Morality, Perseverance, Philosophy, Power, Quality, Recovery, Success, Wisdom, Status, Skill, Variety, Distance, Clarity, Lifestyle>",\n  "similar": ["<2-3 similar Chinese idioms, characters only>"],\n  "opposite": ["<1-2 opposite Chinese idioms, characters only>"]\n}\n\nRules:\n- example_zh MUST contain the idiom "磨礲淬励" verbatim\n- example_zh must be a single natural sentence (10-40 chars), no English, no Chinglish\n- Do NOT mix this idiom with other idioms (no 杂糅)\n- Output the JSON only, nothing else.']' timed out after 180 seconds
+    FAIL
+[4/10] -> 物美价廉 (jià lián wù měi)
+    OK (saved, total now: 4998): literal='things, good, price, cheap...'
+[5/10] -> 年衰岁暮 (nián shuāi suì mù)
+    OK (saved, total now: 4999): literal='years, decline, seasons, end...'
+[6/10] -> 殊途同归 (shū tú tóng guī)
+    OK (saved, total now: 5000): literal='different, path, same, return...'
+[7/10] -> 依然故我 (yī rán gù wǒ)
+    OK (saved, total now: 5001): literal='still, as before, old, self...'
+[8/10] -> 沉湎淫逸 (chén miǎn yín yì)
+    OK (saved, total now: 5002): literal='indulge, be addicted, licentious, idle...'
+[9/10] -> 鱼尾雁行 (yú wěi yàn xíng)
+    OK (saved, total now: 5003): literal='fish tail, geese in formation...'
+[10/10] -> 马上墙头 (mǎ shàng qiáng tóu)
+    OK (saved, total now: 5004): literal='on horseback, on the wall...'
+
+Added 9 idioms. Total: 5004
+Failed: 1 (磨礲淬励...)
+[2026-10-03 03:30:52] Generation OK
+[2026-10-03 03:30:52] Generation OK
+[2026-10-03 03:30:52] Regenerating site...
+[2026-10-03 03:30:52] Regenerating site...
+Loading data...
+  → 5004 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 5004 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 5004 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-10-03 03:31:08] Site regenerated
+[2026-10-03 03:31:08] Site regenerated
+[2026-10-03 03:31:08] Pushing to GitHub...
+[2026-10-03 03:31:08] Pushing to GitHub...
