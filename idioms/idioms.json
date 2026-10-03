@@ -99492,5 +99492,205 @@
       "劳燕分飞"
     ],
     "id": "ma-shang-qiang-tou"
+  },
+  {
+    "chinese": "呼朋唤友",
+    "pinyin": "hū péng huàn yǒu",
+    "literal": "call friends, summon companions",
+    "meaning": "To call up friends and invite companions, gathering together people who share one's temperament and interests. It often describes assembling a group of like-minded acquaintances for an outing or activity, and can carry a faintly critical tone of cliquishness or seeking out one's own crowd.",
+    "origin": "The phrase comes from the Qing dynasty folk-song anthology Baixue Yiyin, compiled by Hua Guangsheng during the Jiaqing era. In the Mataiao tune 'Guang Yaozi,' the lyric runs, 'Calling friends and summoning companions, they enter the brothel; once inside the bewitching place, they are offered tobacco and tea with great attentiveness.' The line depicts a group of men noisily rounding up their cronies for a visit to a pleasure quarter. From this scene the expression spread into general use for summoning one's own circle of friends.",
+    "example_zh": "他一发财就呼朋唤友，整日吃喝玩乐。",
+    "example_en": "As soon as he got rich, he called up his friends and spent every day eating, drinking, and making merry.",
+    "category": "Action",
+    "similar": [
+      "呼朋引类",
+      "招朋引伴",
+      "三五成群"
+    ],
+    "opposite": [
+      "独往独来",
+      "形单影只"
+    ],
+    "id": "hu-peng-huan-you"
+  },
+  {
+    "chinese": "高睨大谈",
+    "pinyin": "gāo nì dà tán",
+    "literal": "high, look askance, great, discourse",
+    "meaning": "睨 means to glance sideways or look upward. The image is of someone whose eyes are fixed upward while delivering their views. It describes a person whose bearing and speech are of extraordinary grandeur and commanding spirit.",
+    "origin": "The phrase comes from the Biography of Zhang Heng in the Book of the Later Han (《后汉书·张衡传》), written in the Southern Dynasties period. Zhang Heng was a celebrated Eastern Han astronomer, mathematician, and inventor. The original line reads, '方将师天老而友地典，与之乎高睨而大谈' — he aspired to take the legendary sage 天老 as his teacher and 地典 as his companion, and with them gaze on high and discourse grandly. It conveys his lofty ambition to converse with sages on the highest matters, far beyond ordinary concerns.",
+    "example_zh": "他在论坛上高睨大谈，纵论行业未来，令在场众人无不折服。",
+    "example_en": "At the forum he held forth with lofty conviction on the future of the industry, winning the admiration of everyone present.",
+    "category": "Attitude",
+    "similar": [
+      "高谈阔论",
+      "高视阔步",
+      "大言不惭"
+    ],
+    "opposite": [
+      "低声下气",
+      "沉默寡言"
+    ],
+    "id": "gao-ni-da-tan"
+  },
+  {
+    "chinese": "流脍人口",
+    "pinyin": "liú kuài rén kǒu",
+    "literal": "flows, minced meat, people, mouth",
+    "meaning": "Describes a poem, essay, or work so beloved that it is widely quoted and praised by everyone. The image is of a dish so delicious that it passes from mouth to mouth. It is a variant of the more common idiom 脍炙人口.",
+    "origin": "This idiom is a variant of 脍炙人口, which traces back to the Five Dynasties period in Wang Dingbao's 唐摭言, where the poetry of Li Tao was said to be relished by everyone like finely minced roast meat. In classical China, 脍 (minced meat) and 炙 (roasted meat) were regarded as the most savory of foods, loved by all who tasted them. Over time the phrase came to describe literary works so appealing that people everywhere recited and praised them. The variant 流脍人口 emphasizes the sense of 流, that the work \"flows\" from mouth to mouth and spreads widely.",
+    "example_zh": "这首诗清新自然，很快便流脍人口。",
+    "example_en": "Fresh and natural, this poem was soon on everyone's lips.",
+    "category": "Quality",
+    "similar": [
+      "脍炙人口",
+      "传颂一时",
+      "有口皆碑"
+    ],
+    "opposite": [
+      "鲜为人知",
+      "默默无闻"
+    ],
+    "id": "liu-kuai-ren-kou"
+  },
+  {
+    "chinese": "将功折过",
+    "pinyin": "jiāng gōng shé guò",
+    "literal": "take, merit, offset, fault",
+    "meaning": "To use one's merits or good deeds to compensate for a past mistake. It describes someone trying to redeem themselves after an error by contributing something positive. It is a variant of the more common idiom 将功折罪.",
+    "origin": "This idiom is a variant of the more common 将功折罪, with which it shares the same structure and meaning. The underlying idea of redeeming faults through merit is an ancient one in Chinese legal and military culture, where a wrongdoer could be pardoned for performing a valuable service. The expression 将功折罪 is frequently found in Yuan dynasty zaju drama and Ming vernacular novels, such as 吴承恩's 《西游记》. No single classical text is cited as the exclusive origin of 将功折过 itself.",
+    "example_zh": "他主动承认错误，希望将功折过。",
+    "example_en": "He admitted his mistake on his own initiative, hoping to redeem himself through good deeds.",
+    "category": "Recovery",
+    "similar": [
+      "将功折罪",
+      "立功赎罪",
+      "戴罪立功"
+    ],
+    "opposite": [
+      "将错就错",
+      "执迷不悟"
+    ],
+    "id": "jiang-gong-she-guo"
+  },
+  {
+    "chinese": "踵武前贤",
+    "pinyin": "zhǒng wǔ qián xián",
+    "literal": "heel, footprint, former, worthy",
+    "meaning": "To follow directly in the footsteps of worthy predecessors, imitating their example and continuing their work. It conveys respect for those who came before and a commitment to carry their legacy forward. Used mostly in formal or literary praise of someone who upholds tradition or continues a cause.",
+    "origin": "The phrase has no single definitive source; it is a later four-character compound formed from two older elements. The core term 踵武, literally 'to follow heel to footprint,' appears in Qu Yuan's Li Sao (《离骚》, Warring States Chu): '宛踵武而未改' — 'I follow in those footsteps and do not change.' 前贤 refers to worthy men of the past, a usage common in Tang and later prose and poetry. The combined form 踵武前贤 circulated in modern commemorative and eulogistic writing, praising someone for emulating the virtue of predecessors.",
+    "example_zh": "他在序言中表示，愿踵武前贤，将毕生精力投入教育事业。",
+    "example_en": "In the preface he wrote that he wished to follow in the footsteps of worthy predecessors and devote his life to education.",
+    "category": "Learning",
+    "similar": [
+      "踵事增华",
+      "承前启后",
+      "继往开来"
+    ],
+    "opposite": [
+      "另辟蹊径",
+      "数典忘祖"
+    ],
+    "id": "zhong-wu-qian-xian"
+  },
+  {
+    "chinese": "多情善感",
+    "pinyin": "duō qíng shàn gǎn",
+    "literal": "much feeling, easily moved",
+    "meaning": "Describes someone whose feelings are rich and tender, easily stirred or saddened by things. Such a person responds deeply to the world and is quick to feel joy, pity, or melancholy.",
+    "origin": "The phrase comes from a line by the Tang dynasty poet Lu Guimeng in his collection 'Thirty Poems to Amuse Myself' (《自遣诗三十首》): '多情善感自难忘，只有风流共古长' ('Richly feeling and easily moved, one cannot forget; only romance endures as long as antiquity'). Lu Guimong was a late Tang recluse-poet, and the line voices his sentimental, brooding temperament. Over time the phrase was lifted from the poem and used on its own to describe an emotionally sensitive, easily saddened nature.",
+    "example_zh": "她生性多情善感，见落花满地便忍不住暗自神伤。",
+    "example_en": "She is by nature tender-hearted and easily moved; seeing the ground strewn with fallen petals, she cannot help but feel quietly sad.",
+    "category": "Emotion",
+    "similar": [
+      "多愁善感",
+      "触景生情",
+      "多情多义"
+    ],
+    "opposite": [
+      "铁石心肠",
+      "无情无义"
+    ],
+    "id": "duo-qing-shan-gan"
+  },
+  {
+    "chinese": "抱负不凡",
+    "pinyin": "bào fù bù fán",
+    "literal": "aspiration, not, ordinary",
+    "meaning": "Describes a person who harbors lofty ambitions and ideals that set them far apart from the ordinary. It is used to praise someone whose aspirations are uncommonly far-reaching and who is clearly destined for more than a mundane life.",
+    "origin": "The phrase comes from the Song dynasty scholar-official Lou Yue, who wrote it in an epitaph titled Ji Xi Xian Wei Lou Jun Mu Zhi Ming for a kinsman serving as the bailiff of Jixi County. In the text he laments, 'My elder brother harbored aspirations that were anything but ordinary, yet they were never given a chance to be put to use.' The epitaph thus honored a man of great promise whose talents went unrecognized in his lifetime. Over the centuries the expression entered common literary use, famously appearing in the first chapter of Cao Xueqin's Qing dynasty novel Dream of the Red Chamber.",
+    "example_zh": "他少年时就抱负不凡，立志要干出一番大事业。",
+    "example_en": "Even as a youth he harbored extraordinary ambitions, resolved to accomplish something truly great.",
+    "category": "Determination",
+    "similar": [
+      "雄心壮志",
+      "志向远大",
+      "非池中物"
+    ],
+    "opposite": [
+      "胸无大志",
+      "碌碌无为"
+    ],
+    "id": "bao-fu-bu-fan"
+  },
+  {
+    "chinese": "深文附会",
+    "pinyin": "shēn wén fù huì",
+    "literal": "strictly, statutes, forcibly, interpret",
+    "meaning": "To interpret legal provisions with harsh, hairsplitting severity in order to trap someone into a crime. It describes the abuse of law through strained and over-strict construction, and is also written as 深文傅会.",
+    "origin": "The idiom is rooted in the figure of the harsh legalistic official (酷吏) of the Han dynasty, most famously Zhang Tang (张汤), who served Emperor Wu of Han and was notorious for applying statutes with punishing rigor. The term 深文 appears in the Shiji's Biographies of the Harsh Officials (史记·酷吏列传), depicting men who read the law so strictly that ordinary conduct became criminal. The second half, 附会, means piecing together evidence or forcing a connection that does not naturally exist. Combined, the phrase came to mean bending the letter of the law to fabricate guilt.",
+    "example_zh": "酷吏深文附会，将寻常言语曲解为谋反之罪。",
+    "example_en": "The harsh official twisted the law, construing ordinary words as the crime of treason.",
+    "category": "Method",
+    "similar": [
+      "深文傅会",
+      "罗织罪名",
+      "舞文弄法"
+    ],
+    "opposite": [
+      "秉公执法",
+      "执法如山"
+    ],
+    "id": "shen-wen-fu-hui"
+  },
+  {
+    "chinese": "嵚崎磊落",
+    "pinyin": "qīn qí lěi luò",
+    "literal": "lofty and steep, open and upright",
+    "meaning": "This idiom describes a person of outstanding, upright, and open-hearted character, one who stands apart from the ordinary crowd. It portrays someone whose integrity and nobility are as conspicuous as a towering, craggy peak.",
+    "origin": "The phrase comes from Chapter One of Wu Jingzi's Qing-dynasty novel Rulin Waishi (The Scholars), where the narrator remarks that in the last years of the Yuan dynasty there once appeared a man of qin qi lei luo character. The man referred to is Wang Mian, a painter and poet who lived in a village in Zhuji County and refused to serve the corrupt regime, choosing instead a life of principled seclusion. The saying is also recorded in the variant form qin qi li luo (嵚崎历落).",
+    "example_zh": "他一生淡泊名利，品格嵚崎磊落，深为后人所敬仰。",
+    "example_en": "He remained indifferent to fame and wealth all his life, and his outstanding, upright character won him the lasting respect of later generations.",
+    "category": "Morality",
+    "similar": [
+      "嵚崎历落",
+      "光明磊落",
+      "高风亮节"
+    ],
+    "opposite": [
+      "卑鄙无耻",
+      "鬼鬼祟祟"
+    ],
+    "id": "qin-qi-lei-luo"
+  },
+  {
+    "chinese": "顿开茅塞",
+    "pinyin": "dùn kāi máo sè",
+    "literal": "suddenly, opens, a mind blocked like a weed-choked path",
+    "meaning": "Describes the moment when someone's mind suddenly opens up and they immediately grasp a truth or principle they had previously failed to understand. The image is of a neglected mountain path overgrown with weeds that is suddenly cleared, restoring clear passage. It is used when a remark, lesson, or realization instantly dispels confusion.",
+    "origin": "The phrase comes from the Mencius, chapter 'Jin Xin II' (《孟子·尽心下》), a Warring States period text recording the teachings of Mencius (孟子, 4th century BCE). Mencius compares the mind to a narrow path on a mountain ridge: walked constantly, it becomes a clear road, but left unused even briefly, weeds soon choke it shut. Addressing his disciple Gaozi (高子), he warns, '今茅塞子之心矣' — 'weeds have now blocked your mind.' Over the centuries this image of weeds clogging the heart was fused with 顿开 (suddenly opened) to form the idiom, shifting the sense from blocked understanding to the sudden clearing of understanding.",
+    "example_zh": "听完老师的一番点拨，他顿开茅塞，终于弄懂了这道难题。",
+    "example_en": "After the teacher's few words of guidance, it was as if a light went on for him, and he finally understood this difficult problem.",
+    "category": "Knowledge",
+    "similar": [
+      "恍然大悟",
+      "豁然开朗",
+      "醍醐灌顶"
+    ],
+    "opposite": [
+      "大惑不解",
+      "百思不解"
+    ],
+    "id": "dun-kai-mao-se"
   }
 ]

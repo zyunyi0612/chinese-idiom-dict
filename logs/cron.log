@@ -11677,3 +11677,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-10-03 12:00:05] === Catch-up push done ===
 [2026-10-03 20:00:01] === Catch-up push start (88 unpushed commits) ===
+[main 24287da] Auto-update: 2026-10-03 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   c222a50..24287da  main -> main
+
+Push OK (attempt 1)
+[2026-10-03 20:00:07] === Catch-up push done ===
+[2026-10-04 03:15:00] === Daily cron start ===
+[2026-10-04 03:15:00] === Daily cron start ===
+[2026-10-04 03:15:00] Generating 10 new idioms...
+[2026-10-04 03:15:00] Generating 10 new idioms...
+Existing: 5004 idioms
+Whitelist: 30894 total
+Candidates available: 24497 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 呼朋唤友 (hū péng huàn yǒu)
+    OK (saved, total now: 5005): literal='call friends, summon companions...'
+[2/10] -> 高睨大谈 (gāo nì dà tán)
+    OK (saved, total now: 5006): literal='high, look askance, great, discourse...'
+[3/10] -> 流脍人口 (liú kuài rén kǒu)
+    OK (saved, total now: 5007): literal='flows, minced meat, people, mouth...'
+[4/10] -> 将功折过 (jiāng gōng shé guò)
+    OK (saved, total now: 5008): literal='take, merit, offset, fault...'
+[5/10] -> 踵武前贤 (zhǒng wǔ qián xián)
+    OK (saved, total now: 5009): literal='heel, footprint, former, worthy...'
+[6/10] -> 多情善感 (duō qíng shàn gǎn)
+    OK (saved, total now: 5010): literal='much feeling, easily moved...'
+[7/10] -> 抱负不凡 (bào fù bù fán)
+    OK (saved, total now: 5011): literal='aspiration, not, ordinary...'
+[8/10] -> 深文附会 (shēn wén fù huì)
+    OK (saved, total now: 5012): literal='strictly, statutes, forcibly, interpret...'
+[9/10] -> 嵚崎磊落 (qīn qí lěi luò)
+    OK (saved, total now: 5013): literal='lofty and steep, open and upright...'
+[10/10] -> 顿开茅塞 (dùn kāi máo sè)
+    OK (saved, total now: 5014): literal='suddenly, opens, a mind blocked like a weed-choked...'
+
+Added 10 idioms. Total: 5014
+[2026-10-04 03:26:02] Generation OK
+[2026-10-04 03:26:02] Generation OK
+[2026-10-04 03:26:02] Regenerating site...
+[2026-10-04 03:26:02] Regenerating site...
+Loading data...
+  → 5014 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 5014 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 5014 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-10-04 03:26:17] Site regenerated
+[2026-10-04 03:26:17] Site regenerated
+[2026-10-04 03:26:17] Pushing to GitHub...
+[2026-10-04 03:26:17] Pushing to GitHub...
