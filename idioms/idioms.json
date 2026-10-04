@@ -99692,5 +99692,183 @@
       "百思不解"
     ],
     "id": "dun-kai-mao-se"
+  },
+  {
+    "chinese": "狐鸣枭噪",
+    "pinyin": "hú míng xiāo zào",
+    "literal": "fox, howl, owl, clamor",
+    "meaning": "A metaphor for petty and wicked people making a clamor and throwing their weight around. The image is of foxes howling and owls screeching at night, an unpleasant chorus of unwelcome creatures. It describes a scene where sycophants and scoundrels are arrogant and noisy, usually jostling for power or office.",
+    "origin": "The idiom comes from the Tang dynasty poet Han Yu's poem 'Yongzhen Xing' (《永贞行》), written about the political upheaval of the Yongzhen era in 805 AD. In that year Emperor Shunzong briefly reigned while the officials Wang Shuwen and Wang Pi, joined by Liu Zongyuan and Liu Yuxi, seized power and pushed through a short-lived reform. Han Yu, who disapproved of the faction, used the line '狐鸣枭噪争署置' to describe the scene at court, likening the reformists' followers to foxes and owls noisily scrambling for official appointments. The phrase later became a stock description of wicked cliques clamoring for power.",
+    "example_zh": "奸佞当道，狐鸣枭噪，满朝忠臣皆被贬斥。",
+    "example_en": "With scoundrels in power clamoring like foxes and owls, every loyal minister at court was driven out.",
+    "category": "Attitude",
+    "similar": [
+      "群魔乱舞",
+      "跳梁小丑",
+      "狐假虎威"
+    ],
+    "opposite": [
+      "风清气正",
+      "众正盈朝"
+    ],
+    "id": "hu-ming-xiao-zao"
+  },
+  {
+    "chinese": "进退无依",
+    "pinyin": "jìn tuì wú yī",
+    "literal": "advance, retreat, no, reliance",
+    "meaning": "To have nothing to rely on whether advancing or retreating. It describes being trapped in a predicament with no support, backing, or viable course of action in either direction. The phrase conveys a sense of helplessness and being caught in an impossible situation.",
+    "origin": "The idiom derives from classical Chinese strategic and philosophical writing, where the paired opposites 进 (advance) and 退 (retreat) represent the two fundamental courses of action open to a person, general, or official. Adding 无依 (nothing to lean on) casts both options as equally unsupported, a predicament often described in military texts and admonitions to rulers. No single literary anecdote is credited as its definitive source; it grew out of the common classical pattern of pairing directional verbs with a negated support verb. Over time it came to be applied broadly to people stranded in difficult circumstances, cut off from allies or resources. It remains in use in both written and spoken Chinese, usually in formal or literary registers.",
+    "example_zh": "断了粮草援军，这支孤军已是进退无依。",
+    "example_en": "With provisions and reinforcements cut off, the isolated army could neither advance nor retreat with any support.",
+    "category": "Condition",
+    "similar": [
+      "进退两难",
+      "进退维谷",
+      "无所依靠"
+    ],
+    "opposite": [
+      "进退有据",
+      "左右逢源"
+    ],
+    "id": "jin-tui-wu-yi"
+  },
+  {
+    "chinese": "杞国忧天",
+    "pinyin": "qǐ guó yōu tiān",
+    "literal": "Qi state, worry, heaven",
+    "meaning": "To entertain unfounded or unnecessary anxieties; to worry about imaginary disasters. It describes someone who frets over threats that have no basis in reality.",
+    "origin": "The idiom comes from the Daoist work 《列子·天瑞》, attributed to Liezi of the Warring States period. It tells of a man in the state of Qi who feared that the sky might collapse and the earth cave in, and that he would have nowhere to stand; the dread made him unable to eat or sleep. A friend reassured him that the sky is accumulated qi and the earth solid, so there was nothing to fear. Later generations used the story as a metaphor for baseless worry.",
+    "example_zh": "公司业绩连年增长，他却整天担心破产，真是杞国忧天。",
+    "example_en": "The company's earnings have grown year after year, yet he spends every day fearing bankruptcy — truly worrying about the sky falling.",
+    "category": "Emotion",
+    "similar": [
+      "杞人忧天",
+      "庸人自扰",
+      "杞天之虑"
+    ],
+    "opposite": [
+      "高枕无忧",
+      "泰然处之"
+    ],
+    "id": "qi-guo-you-tian"
+  },
+  {
+    "chinese": "巴山蜀水",
+    "pinyin": "bā shān shǔ shuǐ",
+    "literal": "Ba mountain, Shu water",
+    "meaning": "巴 (Bā) and 蜀 (Shǔ) are ancient state names for what is now Sichuan Province. The idiom refers to the mountains and rivers of the Sichuan region. It is used to evoke the region's distinctive and often picturesque natural scenery.",
+    "origin": "The phrase comes from a modern literary work, the prose piece 《晚祷》 (\"Evening Prayer\") by the Chinese writer 萧白 (Xiao Bai). In the passage, the narrator reflects under the full moon on how a single chance moonlit conversation can become a lifelong memory. Amid this surge of nostalgia, the scenery of the Sichuan region draws near, followed by the Dongting and Xiang rivers and the Yangtze and Zhongshan. The line reads: \"于是巴山蜀水近来，洞庭湘河近来，扬子江钟山也近来……\" The idiom has since become a set expression for the landscape of the Sichuan area.",
+    "example_zh": "巴山蜀水之间，留下了他少年时代的足迹。",
+    "example_en": "Amid the mountains and rivers of Sichuan lie the footprints of his youth.",
+    "category": "Distance",
+    "similar": [
+      "巴山夜雨",
+      "名山大川",
+      "千山万水"
+    ],
+    "opposite": [
+      "近在咫尺",
+      "一马平川"
+    ],
+    "id": "ba-shan-shu-shui"
+  },
+  {
+    "chinese": "纤介之祸",
+    "pinyin": "xiān jiè zhī huò",
+    "literal": "fine as hair, tiny, of, disaster",
+    "meaning": "A disaster or misfortune as slight as a fiber or a hair. It describes a calamity so minor that it is barely worth mentioning. The idiom emphasizes the trivial scale of the harm suffered.",
+    "origin": "The phrase comes from Zhan Guo Ce (Strategies of the Warring States), in the chapter on the state of Qi, during the Warring States period. It refers to Lord Mengchang (Tian Wen), a noble of Qi who served as prime minister for decades. The text says he suffered no misfortune even as slight as a fiber thanks to the schemes of his retainer Feng Xuan. Feng Xuan was famous for cleverly securing his master's safety, most notably by burning debt records in the fief of Xue to win the people's gratitude.",
+    "example_zh": "他一生谨慎，几十年间未遭纤介之祸。",
+    "example_en": "Cautious all his life, he suffered not even the slightest misfortune in decades.",
+    "category": "Condition",
+    "similar": [
+      "纤芥之疾",
+      "毫末之灾",
+      "微不足道"
+    ],
+    "opposite": [
+      "灭顶之灾",
+      "弥天大祸"
+    ],
+    "id": "xian-jie-zhi-huo"
+  },
+  {
+    "chinese": "避迹藏时",
+    "pinyin": "bì jì cáng shí",
+    "literal": "avoid, trace, hide, time",
+    "meaning": "To avoid the ways of the world and conceal oneself, withdrawing from public life to escape a troubled era. It describes someone who, seeing the times turn chaotic or corrupt, chooses to live in obscurity rather than seek office or fame.",
+    "origin": "The phrase comes from Jia Zhi of the Tang dynasty, in his 'Inscriptional Eulogy for the Temple of Weizi' (《微子庙碑颂》), which reads: '而君崎岖险阻，避迹藏时' ('Yet you, my lord, amid rugged perils, avoided the world's trace and concealed yourself in those times'). Weizi was the elder half-brother of King Zhou, the last ruler of the Shang dynasty; seeing the king's tyranny and the dynasty's inevitable ruin, he repeatedly remonstrated in vain and ultimately left the court to live in exile. The inscription praises him for enduring hardship and hiding himself away to escape a corrupt age, and because he preserved the Shang royal line he was later enfeoffed by the Zhou at Song.",
+    "example_zh": "乱世之中，他选择避迹藏时，不问世事。",
+    "example_en": "Amid the chaos of the times, he chose to withdraw from the world and live in obscurity, unconcerned with public affairs.",
+    "category": "Attitude",
+    "similar": [
+      "避世绝俗",
+      "韬光养晦",
+      "隐姓埋名"
+    ],
+    "opposite": [
+      "挺身而出"
+    ],
+    "id": "bi-ji-cang-shi"
+  },
+  {
+    "chinese": "餐风咽露",
+    "pinyin": "cān fēng yàn lù",
+    "literal": "eat wind, swallow dew",
+    "meaning": "Literally dining on wind and swallowing dew, this idiom describes enduring the hardships of travel or life in the open. It conveys braving harsh weather and rough conditions on a long journey, with no shelter or proper food. It is often used to praise someone's perseverance or to recount the difficulty of an expedition.",
+    "origin": "The phrase comes from the Qing dynasty writer Xuan Ding's collection of strange tales, Ye Yu Qiu Deng Lu (Lamp Records on an Autumn Night's Rain), in the story Qing Tian Bai Ri (Broad Daylight). The original text reads, Can feng yan lu, ba she ben bo — eating wind and swallowing dew, trekking and rushing about — describing a character's arduous journey. Xuan Ding (fl. late 19th century) was known for tales of the supernatural and of righteous figures enduring hardship. The imagery builds on a much older trope of immortals and wanderers subsisting on wind and dew, which Qing writers applied to ordinary travelers' suffering.",
+    "example_zh": "考察队餐风咽露，深入沙漠腹地寻找水源。",
+    "example_en": "Braving the elements, the expedition team pressed deep into the heart of the desert in search of water.",
+    "category": "Condition",
+    "similar": [
+      "风餐露宿",
+      "餐风宿露",
+      "跋山涉水"
+    ],
+    "opposite": [
+      "养尊处优"
+    ],
+    "id": "can-feng-yan-lu"
+  },
+  {
+    "chinese": "深山穷谷",
+    "pinyin": "shēn shān qióng gǔ",
+    "literal": "deep, mountain, remote, valley",
+    "meaning": "Remote, deeply secluded mountains and valleys far from any human settlement. It describes a place that is extremely isolated, desolate, and cut off from the outside world. Often used for wilderness where one lives alone among nature.",
+    "origin": "The phrase comes from the Zuo Zhuan (《左传·昭公四年》), a chronicle of the Spring and Autumn period attributed to Zuo Qiuming. In the fourth year of Duke Zhao's reign, the text records the ancient ritual of harvesting and storing ice: the king's officials would venture into deep mountains and remote valleys, where the cold was entrenched and the frost severe, and cut ice from those frozen places to store it for summer use. The line reads: '其藏冰也，深山穷谷，固阴冱寒，于是乎取之。' Over time the phrase came to denote any wild, inaccessible place far from civilization.",
+    "example_zh": "他隐居深山穷谷，与世隔绝，终日与松竹为伴。",
+    "example_en": "He withdrew to remote mountains and secluded valleys, cut off from the world, passing his days with only pines and bamboo for company.",
+    "category": "Distance",
+    "similar": [
+      "深山老林",
+      "荒山野岭",
+      "崇山峻岭"
+    ],
+    "opposite": [
+      "通都大衢",
+      "车水马龙"
+    ],
+    "id": "shen-shan-qiong-gu"
+  },
+  {
+    "chinese": "审时度势",
+    "pinyin": "shěn shí duó shì",
+    "literal": "examine, times, estimate, trends",
+    "meaning": "To carefully observe and analyze the current situation and estimate how circumstances are likely to develop. It describes sound judgment that weighs timing and conditions before acting. The phrase encourages adapting one's actions to the realities of the moment.",
+    "origin": "The phrase traces to the Ming dynasty writer Shen Defu, whose notebook 'Wanli Yehuo Bian' records a case in which the examination hall was struck by flood and fire during a provincial exam. Official Liu wanted to finish the exam so that the imperial rite would be complete, and his proposal was said to be well judged—'审时度势,' examining the times and weighing the circumstances. The judgment was praised as fitting the facts at hand. It later came to denote reading a situation accurately before deciding.",
+    "example_zh": "投资者必须审时度势，才能在市场变化中把握机会。",
+    "example_en": "Investors must size up the situation before they can seize opportunities as the market shifts.",
+    "category": "Wisdom",
+    "similar": [
+      "顺水推舟",
+      "因势利导",
+      "见机行事"
+    ],
+    "opposite": [
+      "刻舟求剑",
+      "鲁莽行事"
+    ],
+    "id": "shen-shi-duo-shi"
   }
 ]
