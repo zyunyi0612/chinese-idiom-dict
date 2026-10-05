@@ -11882,3 +11882,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-10-05 12:00:04] === Catch-up push done ===
 [2026-10-05 20:00:01] === Catch-up push start (94 unpushed commits) ===
+[main 97df4d4] Auto-update: 2026-10-05 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   7e6ff17..97df4d4  main -> main
+
+Push OK (attempt 1)
+[2026-10-05 20:00:05] === Catch-up push done ===
+[2026-10-06 03:15:00] === Daily cron start ===
+[2026-10-06 03:15:00] === Daily cron start ===
+[2026-10-06 03:15:00] Generating 10 new idioms...
+[2026-10-06 03:15:00] Generating 10 new idioms...
+Existing: 5023 idioms
+Whitelist: 30894 total
+Candidates available: 24478 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 移缓就急 (yí huǎn jiù jí)
+    OK (saved, total now: 5024): literal='set aside, the less urgent, attend to, the urgent...'
+[2/10] -> 参横斗转 (shēn héng dǒu zhuǎn)
+    OK (saved, total now: 5025): literal='Shen constellation lies transverse, the Big Dipper...'
+[3/10] -> 怨气冲天 (yuàn qì chōng tiān)
+    OK (saved, total now: 5026): literal='resentment, energy, rushes up to, heaven...'
+[4/10] -> 重山复岭 (chóng shān fù lǐng)
+    OK (saved, total now: 5027): literal='layered mountains, overlapping ridges...'
+[5/10] -> 仁义之兵 (rén yì zhī bīng)
+    OK (saved, total now: 5028): literal='benevolence, righteousness, of, army...'
+[6/10] -> 毁不危身 (huǐ bù wēi shēn)
+    OK (saved, total now: 5029): literal='destroy, not, endanger, body...'
+[7/10] -> 谠言直声 (dǎng yán zhí shēng)
+    OK (saved, total now: 5030): literal='fair words, straight voice...'
+[8/10] -> 因循苟且 (yīn xún gǒu qiě)
+    OK (saved, total now: 5031): literal='follow (the old ways), act carelessly...'
+[9/10] -> 鬼哭狼嚎 (guǐ kū láng háo)
+    OK (saved, total now: 5032): literal='ghosts cry, wolves howl...'
+[10/10] -> 参差不齐 (cēn cī bù qí)
+    OK (saved, total now: 5033): literal='uneven, not, neat...'
+
+Added 10 idioms. Total: 5033
+[2026-10-06 03:28:47] Generation OK
+[2026-10-06 03:28:47] Generation OK
+[2026-10-06 03:28:47] Regenerating site...
+[2026-10-06 03:28:47] Regenerating site...
+Loading data...
+  → 5033 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 5033 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 5033 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-10-06 03:29:03] Site regenerated
+[2026-10-06 03:29:03] Site regenerated
+[2026-10-06 03:29:03] Pushing to GitHub...
+[2026-10-06 03:29:03] Pushing to GitHub...

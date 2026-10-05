@@ -99870,5 +99870,201 @@
       "鲁莽行事"
     ],
     "id": "shen-shi-duo-shi"
+  },
+  {
+    "chinese": "移缓就急",
+    "pinyin": "yí huǎn jiù jí",
+    "literal": "set aside, the less urgent, attend to, the urgent",
+    "meaning": "This idiom means setting aside affairs that can wait in order to attend to what is pressing. It describes prioritizing tasks by urgency and dealing with the most time-sensitive matters first. It is often used in contexts of administration, planning, or handling a crisis.",
+    "origin": "The phrase appears in archival documents gathered in the modern Chinese historical source series 'The 1911 Revolution' (辛亥革命), in the section on the Railway Protection Movement and the Sichuan railway case. In a dispatch from the late Qing period, the writer argues that affairs should be roughly ranked in order of precedence, and that by adopting a plan of setting aside the less urgent to attend to the pressing, the situation in Sichuan could still be salvaged. The document reflects Qing officials grappling with the crisis over railway rights in the dynasty's final years. No single individual is named in the quoted line itself, but the phrase has since passed into general use for prioritizing urgent business.",
+    "example_zh": "当下资金紧张，公司只能移缓就急，先保障重点项目。",
+    "example_en": "With funding tight, the company had to set aside less urgent work and prioritize its key projects.",
+    "category": "Method",
+    "similar": [
+      "轻重缓急",
+      "先务之急",
+      "本末缓急"
+    ],
+    "opposite": [
+      "避重就轻",
+      "舍本逐末"
+    ],
+    "id": "yi-huan-jiu-ji"
+  },
+  {
+    "chinese": "参横斗转",
+    "pinyin": "shēn héng dǒu zhuǎn",
+    "literal": "Shen constellation lies transverse, the Big Dipper turns",
+    "meaning": "The Big Dipper has turned and the Shen constellation lies low across the sky, marking the hours just before dawn. It describes the deep of night giving way to first light, often used to convey working or staying awake until the very edge of morning.",
+    "origin": "The imagery comes from Cao Cao of the Wei state in the Three Kingdoms period, whose poem \"Shan Zai Xing\" contains the line \"The moon has set, the Shen constellation lies transverse, and the handle of the Big Dipper stretches across the sky.\" The \"History of Song\" records a musical verse echoing the same scene, and the Song dynasty poet Su Shi later wrote in \"Crossing the Sea on the Twentieth Night of the Sixth Month\" that the Shen constellation and the Big Dipper signaled the approach of the third watch, fixing the phrase as a lyric emblem of the pre-dawn sky.",
+    "example_zh": "夜深人静，参横斗转，他才拖着疲惫的身躯回到家中。",
+    "example_en": "In the dead of night, with the constellations wheeling toward dawn, he finally dragged his exhausted body back home.",
+    "category": "Condition",
+    "similar": [
+      "斗转星移",
+      "月落星沉"
+    ],
+    "opposite": [
+      "日上三竿"
+    ],
+    "id": "shen-heng-dou-zhuan"
+  },
+  {
+    "chinese": "怨气冲天",
+    "pinyin": "yuàn qì chōng tiān",
+    "literal": "resentment, energy, rushes up to, heaven",
+    "meaning": "This idiom literally means that resentful energy rises up to pierce the sky. It describes a person filled with intense indignation, grievance, or resentment, usually at a perceived injustice. It may refer either to loudly voiced complaints or to a seething, overwhelming fury.",
+    "origin": "The phrase comes from Chapter 76 of the Ming dynasty historical novel 'Romance of the Eastern Zhou Kingdoms' (东周列国志) by Feng Menglong. It describes Wu Yuan (better known as Wu Zixu) of the Spring and Autumn period, whose father and elder brother were unjustly executed by King Ping of Chu. Driven by grief and rage, Wu Yuan fled to the state of Wu and later helped its army capture Ying, the Chu capital. Upon finding King Ping's corpse, his resentment pierced the heavens: he struck the body three hundred times with a nine-jointed bronze whip, until the flesh split and the bones broke. Since then the phrase has been used for overwhelming indignation and grievance.",
+    "example_zh": "他遭到无理辞退后怨气冲天，逢人便诉说心中的不公。",
+    "example_en": "After being dismissed without cause, he was consumed with furious resentment, complaining of the injustice to everyone he met.",
+    "category": "Emotion",
+    "similar": [
+      "怒气冲天",
+      "怨声载道",
+      "满腹牢骚"
+    ],
+    "opposite": [
+      "心平气和",
+      "欢天喜地"
+    ],
+    "id": "yuan-qi-chong-tian"
+  },
+  {
+    "chinese": "重山复岭",
+    "pinyin": "chóng shān fù lǐng",
+    "literal": "layered mountains, overlapping ridges",
+    "meaning": "It describes mountain ranges piled one upon another in unbroken layers. The idiom is used to portray rugged, continuously stretching mountainous terrain. It often conveys the difficulty or grand scale of a journey across such landscape.",
+    "origin": "The phrase comes from the preface to \"Jin Zhou Fu\" (《进舟赋》序) by the Ming dynasty writer He Jingming (何景明), a leading figure among the Later Seven Masters. In the preface he recounts being sent as an envoy to distant Yunnan, a journey of nearly ten thousand li. Along the way he crossed nothing but layered mountains and overlapping ridges, traveling by cart and on horseback, jolted and jostled until he could no longer endure the fatigue. The phrase has since been used to describe endlessly overlapping mountain terrain.",
+    "example_zh": "车队穿过重山复岭，终于在黄昏时抵达了山下的村庄。",
+    "example_en": "The convoy wound through range after range of overlapping mountains, finally reaching the village at the foot of the hills as dusk fell.",
+    "category": "Condition",
+    "similar": [
+      "崇山峻岭",
+      "层峦叠嶂",
+      "千山万水"
+    ],
+    "opposite": [
+      "一马平川"
+    ],
+    "id": "chong-shan-fu-ling"
+  },
+  {
+    "chinese": "仁义之兵",
+    "pinyin": "rén yì zhī bīng",
+    "literal": "benevolence, righteousness, of, army",
+    "meaning": "An army that fights to uphold benevolence and justice, typically marching to punish tyranny and relieve the suffering of the people. It describes forces whose cause is morally just rather than driven by conquest or plunder. The phrase is used interchangeably with the more common 仁义之师.",
+    "origin": "The phrase comes from Ming-dynasty author Luo Guanzhong's historical novel Romance of the Three Kingdoms, chapter 31. In the aftermath of the pivotal Battle of Guandu, a adviser describes the Chancellor Cao Cao as having raised a benevolent and righteous army, one that comforts the oppressed people and punishes the wicked regime of Yuan Shao. The speech credits this moral justification with Cao Cao's stunning victory over Yuan Shao's far larger host of a million troops. The idiom thus frames military victory as the reward of a righteous cause.",
+    "example_zh": "岳飞率领的仁义之兵，深得百姓拥护。",
+    "example_en": "The benevolent and righteous army led by Yue Fei won the fervent support of the people.",
+    "category": "Morality",
+    "similar": [
+      "仁义之师",
+      "吊民伐罪",
+      "王者之师"
+    ],
+    "opposite": [
+      "虎狼之师",
+      "残暴之师"
+    ],
+    "id": "ren-yi-zhi-bing"
+  },
+  {
+    "chinese": "毁不危身",
+    "pinyin": "huǐ bù wēi shēn",
+    "literal": "destroy, not, endanger, body",
+    "meaning": "A Confucian rule of mourning: while grieving for a deceased parent one may become emaciated with sorrow, one must not let that grief endanger one's own life. It expresses the Confucian middle path of filial piety — grief should be deep but measured, since ending one's life would violate the duty of continuing the family line. It is equivalent to the idiom 毁不灭性.",
+    "origin": "The phrase comes from the Confucian ritual tradition recorded in the Book of Rites (礼记), compiled during the Warring States to Han period from the teachings of Confucius and his disciples. In the chapter on mourning rites (檀弓), the sages prescribe how a filial child should grieve: sorrow may waste the body away, but it must not threaten life itself. Confucius held that a filial child's body is a gift from parents, so destroying it entirely is unfilial; the rites therefore temper grief with restraint.",
+    "example_zh": "居丧须尽哀，然毁不危身，方为孝之正理。",
+    "example_en": "One should mourn one's parents with full sorrow, yet grief must not endanger one's own life — that is the true principle of filial piety.",
+    "category": "Morality",
+    "similar": [
+      "毁不灭性",
+      "哀而不伤",
+      "毁瘠不形"
+    ],
+    "opposite": [
+      "哀毁骨立",
+      "悲痛欲绝"
+    ],
+    "id": "hui-bu-wei-shen"
+  },
+  {
+    "chinese": "谠言直声",
+    "pinyin": "dǎng yán zhí shēng",
+    "literal": "fair words, straight voice",
+    "meaning": "谠言 means fair and just speech, while 直 means upright and straight. The idiom refers to words that are both morally fair and courageously direct. It describes someone who speaks the truth with righteousness and force of conviction.",
+    "origin": "The phrase comes from Tang dynasty poet Bai Juyi's epitaph inscription for the mother of Yuan Zhen, a fellow poet and official. In it, Bai Juyi recounts that Yuan Zhen was promoted from the position of collator to left remonstrator, and within just a few months his fair words and upright voice had already stirred the entire imperial court. The line testifies to Yuan Zhen's fearless integrity as an admonishing official.",
+    "example_zh": "他在朝堂上谠言直声，毫不畏惧地指陈时弊。",
+    "example_en": "In the imperial court he spoke with fair and upright words, fearlessly pointing out the abuses of the times.",
+    "category": "Communication",
+    "similar": [
+      "直言不讳",
+      "仗义执言",
+      "畅所欲言"
+    ],
+    "opposite": [
+      "阿谀奉承"
+    ],
+    "id": "dang-yan-zhi-sheng"
+  },
+  {
+    "chinese": "因循苟且",
+    "pinyin": "yīn xún gǒu qiě",
+    "literal": "follow (the old ways), act carelessly",
+    "meaning": "To cling to established habits and go through the motions without real effort or initiative. It describes someone who muddles along, putting in only the minimum needed to get by rather than striving to improve. The term conveys a stagnant, complacent attitude that ultimately prevents any meaningful accomplishment.",
+    "origin": "The phrase comes from a letter by the Southern Song scholar Lü Zuqian, titled 'Reply to Pan Shudu' (《答潘叔度》). In the letter, Lü Zuqian warns his friend against excusing one's own shortcomings with clever-sounding rationalizations. He argues that if a person continually forgives himself with such words, he will simply follow old habits and act half-heartedly, ending up unable to accomplish a single thing. The passage survives as a moral caution against complacency and self-deception.",
+    "example_zh": "他做事因循苟且，多年下来毫无建树。",
+    "example_en": "He drifted along and did his work perfunctorily, and after years had accomplished nothing of note.",
+    "category": "Attitude",
+    "similar": [
+      "得过且过",
+      "苟且偷生",
+      "因循守旧"
+    ],
+    "opposite": [
+      "奋发有为",
+      "精益求精"
+    ],
+    "id": "yin-xun-gou-qie"
+  },
+  {
+    "chinese": "鬼哭狼嚎",
+    "pinyin": "guǐ kū láng háo",
+    "literal": "ghosts cry, wolves howl",
+    "meaning": "Literally 'ghosts weeping and wolves howling.' It describes loud, wailing cries of grief, pain, or terror, with a sound so mournful and eerie it resembles the cries of spirits and beasts. Used for scenes of chaos, suffering, or frantic lamentation.",
+    "origin": "The phrase traces to the Yuan dynasty zaju play 'Ma Ling Dao' (马陵道) by an anonymous author, where Act Two contains the line '可怎生神嚎鬼哭，雾惨云昏，白日为幽' (how is it that gods howl and ghosts weep, the fog is dismal and the clouds dark, broad day turned to dusk). The line depicts an ominous, unnatural gloom that descends as Sun Bin is ambushed and his troops destroyed at the Maling Pass. The image of spirits and wild beasts wailing conveys the horror and disorder of the moment. The saying was later quoted in Qing literature, notably Cao Xueqin's 'Dream of the Red Chamber' (Chapter 58), and survives as a stock expression for piteous, blood-curdling screaming.",
+    "example_zh": "他半夜被噩梦惊醒，吓得鬼哭狼嚎，把全家人都吵醒了。",
+    "example_en": "He woke from a nightmare in the middle of the night, screaming in sheer terror and waking the whole family.",
+    "category": "Emotion",
+    "similar": [
+      "嚎啕大哭",
+      "呼天抢地",
+      "哭天抹泪"
+    ],
+    "opposite": [
+      "欢天喜地",
+      "喜笑颜开"
+    ],
+    "id": "gui-ku-lang-hao"
+  },
+  {
+    "chinese": "参差不齐",
+    "pinyin": "cēn cī bù qí",
+    "literal": "uneven, not, neat",
+    "meaning": "Describes things that are uneven, jagged, or irregular in height, length, or spacing. It is commonly used to say that levels, standards, or qualities vary widely and are far from uniform. The tone is often observational, noting inconsistency rather than outright badness.",
+    "origin": "The phrase draws on the Shijing (Book of Songs, Zhou and Nan section), where the line \"参差荇菜，左右采之\" describes water-lettuce plants of differing lengths being gathered left and right. The Han dynasty scholar Yang Xiong later used it in the preface to his Fayan, writing that rulers, generals, ministers, and famous officials are 参差不齐, uneven in quality, yet all are judged by the single standard of the sage. From these two sources the idiom came to describe anything ragged, patchy, or inconsistent.",
+    "example_zh": "礼生见他们参差不齐，也只好由着他们敷衍了事。",
+    "example_en": "Seeing that they were a ragged and uneven bunch, the master of ceremonies could only let them go through the motions as best they could.",
+    "category": "Quality",
+    "similar": [
+      "长短不一",
+      "参差错落",
+      "七高八低"
+    ],
+    "opposite": [
+      "整整齐齐",
+      "井然有序"
+    ],
+    "id": "cen-ci-bu-qi"
   }
 ]
