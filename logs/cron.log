@@ -11984,3 +11984,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-10-06 12:00:05] === Catch-up push done ===
 [2026-10-06 20:00:00] === Catch-up push start (97 unpushed commits) ===
+[main 136498f] Auto-update: 2026-10-06 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   976bb27..136498f  main -> main
+
+Push OK (attempt 1)
+[2026-10-06 20:00:06] === Catch-up push done ===
+[2026-10-07 03:15:01] === Daily cron start ===
+[2026-10-07 03:15:01] === Daily cron start ===
+[2026-10-07 03:15:01] Generating 10 new idioms...
+[2026-10-07 03:15:01] Generating 10 new idioms...
+Existing: 5033 idioms
+Whitelist: 30894 total
+Candidates available: 24468 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 光彩溢目 (guāng cǎi yì mù)
+    OK (saved, total now: 5034): literal='light, color, overflows, the eye...'
+[2/10] -> 村哥里妇 (cūn gē lǐ fù)
+    OK (saved, total now: 5035): literal='village, brother, neighborhood, woman...'
+[3/10] -> 点金乏术 (diǎn jīn fá shù)
+    OK (saved, total now: 5036): literal='touch, gold, lack, skill...'
+[4/10] -> 轶事遗闻 (yì shì yí wén)
+    OK (saved, total now: 5037): literal='anecdotes, events, left-behind, tales...'
+[5/10] -> 摧心剖肝 (cuī xīn pōu gān)
+    OK (saved, total now: 5038): literal='break, heart, cut open, liver...'
+[6/10] -> 转危为安 (zhuǎn wēi wéi ān)
+    OK (saved, total now: 5039): literal='turn, danger, into, safety...'
+[7/10] -> 话中有话 (huà zhōng yǒu huà)
+    OK (saved, total now: 5040): literal='words, within, there are, words...'
+[8/10] -> 狐埋狐搰 (hú mái hú hú)
+    OK (saved, total now: 5041): literal='fox, buries, fox, digs up...'
+[9/10] -> 东征西讨 (dōng zhēng xī tǎo)
+    OK (saved, total now: 5042): literal='east, campaign, west, subdue...'
+[10/10] -> 苍黄翻复 (cāng huáng fān fù)
+    OK (saved, total now: 5043): literal='dark blue, yellow, flip, repeat...'
+
+Added 10 idioms. Total: 5043
+[2026-10-07 03:30:04] Generation OK
+[2026-10-07 03:30:04] Generation OK
+[2026-10-07 03:30:04] Regenerating site...
+[2026-10-07 03:30:04] Regenerating site...
+Loading data...
+  → 5043 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 5043 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 5043 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-10-07 03:30:20] Site regenerated
+[2026-10-07 03:30:20] Site regenerated
+[2026-10-07 03:30:20] Pushing to GitHub...
+[2026-10-07 03:30:20] Pushing to GitHub...

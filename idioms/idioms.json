@@ -100066,5 +100066,203 @@
       "井然有序"
     ],
     "id": "cen-ci-bu-qi"
+  },
+  {
+    "chinese": "光彩溢目",
+    "pinyin": "guāng cǎi yì mù",
+    "literal": "light, color, overflows, the eye",
+    "meaning": "It means \"dazzling to the eye,\" similar to 光彩夺目, and describes something so vividly colored and radiant that its brilliance seems to spill over into the viewer's eyes. The idiom is typically used for gems, jewelry, brocade, or other brilliantly shining objects.",
+    "origin": "The idiom comes from the Taiping Yulan (太平御览), which quotes the Yulin (语林), a work by Pei Qi of the Jin dynasty. The anecdote concerns Shi Chong, a notoriously wealthy official of the Western Jin. In a display of his fortune, Shi Chong had coral trees brought out, each some three feet tall. The text records that sixty-seven of them were so radiant that their brilliance dazzled the eye, vividly conveying the opulence of his treasure.",
+    "example_zh": "她戴上的那条项链光彩溢目，吸引了所有人的目光。",
+    "example_en": "The necklace she put on was so dazzling that it drew everyone's gaze.",
+    "category": "Quality",
+    "similar": [
+      "光彩夺目",
+      "熠熠生辉",
+      "光彩照人"
+    ],
+    "opposite": [
+      "黯淡无光"
+    ],
+    "id": "guang-cai-yi-mu"
+  },
+  {
+    "chinese": "村哥里妇",
+    "pinyin": "cūn gē lǐ fù",
+    "literal": "village, brother, neighborhood, woman",
+    "meaning": "A phrase referring to ordinary common people, especially rural and small-town folk. 里 (lǐ) means a neighborhood lane or alley. It evokes the plain, uneducated populace rather than the educated elite.",
+    "origin": "The phrase comes from a preface by the Ming dynasty writer Yuan Hongdao to 'Popular Romance of the Eastern and Western Han' (东西汉通俗演义序). Yuan observed that stories of the Han dynasty had spread so widely that everyone in the empire knew them. He wrote that from officials down to the village men and neighborhood women, from seventy-year-old elders to three-foot-tall children, all could recount in full detail how Liu Bang rose up at Fengpei, how Xiang Yu refused to cross the Wu River, how Wang Mang usurped the throne, and how Emperor Guangwu restored the Han. The idiom thus arose as a byword for the common people who, despite lacking learning, eagerly consumed popular historical tales.",
+    "example_zh": "这部史书把刘季起丰沛的故事讲得连村哥里妇都能听懂。",
+    "example_en": "This history book tells the story of Liu Bang's rise at Fengpei so plainly that even the village folk can understand it.",
+    "category": "Status",
+    "similar": [
+      "村夫俗子",
+      "平民百姓",
+      "匹夫匹妇"
+    ],
+    "opposite": [
+      "王公贵族",
+      "达官贵人"
+    ],
+    "id": "cun-ge-li-fu"
+  },
+  {
+    "chinese": "点金乏术",
+    "pinyin": "diǎn jīn fá shù",
+    "literal": "touch, gold, lack, skill",
+    "meaning": "Literally to lack the magic skill of turning iron into gold. It is a metaphor for having no good way to raise money or relieve poverty. It describes a situation where funds are urgently needed but no source of them can be found.",
+    "origin": "The phrase comes from a memorial to the throne by the Ming dynasty official and scientist Xu Guangqi, titled 'Gongcheng Xinming Jinchen Jiqie Shiyi Shu' (恭敬地接受新任命并陈述紧急事务的奏疏). In it Xu Guangqi reported that the fighting in the Liaodong region required immeasurable military pay and that the Ministry of Revenue, responsible for state finances, was at its wits' end. He wrote that even though he kept asking for more funds, he truly had no magic art of turning iron into gold, candidly admitting his helplessness in the face of the empire's financial crisis.",
+    "example_zh": "眼看工程资金缺口越来越大，他纵有千般打算，也觉点金乏术。",
+    "example_en": "Watching the project's funding gap grow ever wider, even with a thousand plans in mind, he felt powerless to produce money from thin air.",
+    "category": "Method",
+    "similar": [
+      "囊中羞涩",
+      "捉襟见肘",
+      "一筹莫展"
+    ],
+    "opposite": [
+      "点石成金",
+      "腰缠万贯"
+    ],
+    "id": "dian-jin-fa-shu"
+  },
+  {
+    "chinese": "轶事遗闻",
+    "pinyin": "yì shì yí wén",
+    "literal": "anecdotes, events, left-behind, tales",
+    "meaning": "Refers to stories, legends, and anecdotes that are little known to the general public. Most often it describes tales that are not found in official or formal historical records. The phrase carries a sense of obscure but entertaining lore passed down through private writings or oral tradition.",
+    "origin": "The phrase comes from the Qing dynasty scholar Liu Shipei (刘师培), a prominent classical philologist and literary theorist. In his essay \"论说部与文学之关系\" (On the Relationship between Minor Fiction and Literature), he discussed how writers of the unofficial literary tradition preserved material neglected by orthodox historiography. He wrote that even \"single words and isolated meanings, anecdotes and unrecorded tales\" (单辞只义，轶事遗闻) were all committed to writing in the hope that they would be transmitted far into the future. The expression has since become a standard term for the miscellaneous, unofficial lore surrounding historical figures and events.",
+    "example_zh": "这部笔记小说记载了许多关于这位诗人的轶事遗闻，读来趣味横生。",
+    "example_en": "This notebook-style fiction records many little-known anecdotes about the poet, making it a delight to read.",
+    "category": "Knowledge",
+    "similar": [
+      "遗闻轶事",
+      "稗官野史",
+      "奇闻轶事"
+    ],
+    "opposite": [
+      "正史",
+      "信而有征"
+    ],
+    "id": "yi-shi-yi-wen"
+  },
+  {
+    "chinese": "摧心剖肝",
+    "pinyin": "cuī xīn pōu gān",
+    "literal": "break, heart, cut open, liver",
+    "meaning": "Literally meaning the heart is broken and the liver is cut open, this idiom describes being in extreme grief and anguish. It conveys a pain so overwhelming that it feels as though one's vital organs have been shattered and torn apart. It is typically used to portray the deepest sorrow, such as the loss of a loved one.",
+    "origin": "The phrase originates from the Jin dynasty poet Pan Yue, who wrote it in a elegy titled 'Lament for the Orphan Girl Zelan, on Behalf of Ren Zixian's Wife.' The piece was composed to mourn a young girl who had died, giving voice to the survivors' unbearable sorrow. In the text, Pan Yue writes that the grieving woman's ears still hold the child's lingering voice and her eyes still picture the child's face, so that when she lies down at night, her grief breaks her heart and tears her liver apart. The vivid imagery made the expression an enduring symbol of devastating loss.",
+    "example_zh": "听闻独女意外身故，老妇人当场哭得摧心剖肝，几度昏厥过去。",
+    "example_en": "Upon hearing that her only daughter had died in an accident, the old woman wept with heartbroken agony and fainted several times.",
+    "category": "Emotion",
+    "similar": [
+      "肝肠寸断",
+      "心如刀割",
+      "悲痛欲绝"
+    ],
+    "opposite": [
+      "心花怒放",
+      "欣喜若狂"
+    ],
+    "id": "cui-xin-pou-gan"
+  },
+  {
+    "chinese": "转危为安",
+    "pinyin": "zhuǎn wēi wéi ān",
+    "literal": "turn, danger, into, safety",
+    "meaning": "To turn danger into safety; to rescue a perilous situation and restore security. It is most often used of a critical situation, such as a military crisis or a serious illness, that is successfully turned around.",
+    "origin": "The phrase comes from the biography of Xie An in the Book of Jin. Xie An lived in retirement at Dongshan in Kuaiji, but when he was over forty he returned to public life, serving as marshal under the general Huan Wen. He rose through high offices, and the Jin dynasty's survival came to depend on him turning peril into safety.",
+    "example_zh": "经过医生的全力抢救，这位危重病人终于转危为安。",
+    "example_en": "After the doctors' full efforts, the critically ill patient finally turned the corner from danger to safety.",
+    "category": "Recovery",
+    "similar": [
+      "化险为夷",
+      "逢凶化吉",
+      "死里逃生"
+    ],
+    "opposite": [
+      "危在旦夕",
+      "在劫难逃"
+    ],
+    "id": "zhuan-wei-wei-an"
+  },
+  {
+    "chinese": "话中有话",
+    "pinyin": "huà zhōng yǒu huà",
+    "literal": "words, within, there are, words",
+    "meaning": "This idiom describes speech that carries an implied meaning beyond its literal wording. The speaker's real intent—often a criticism, hint, or warning—is hidden between the lines and must be read into by the listener. It is used when someone says one thing plainly but means something else entirely.",
+    "origin": "The phrase comes from chapter 110 of the Qing-dynasty novel Dream of the Red Chamber (红楼梦) by Cao Xueqin. In the scene, Lady Xing and the others detect an implied reproach in what they hear, yet instead of reflecting that they themselves had not let Wang Xifeng act at her own discretion, they merely remark that 'Phoenix Girl is indeed somewhat careless.' The passage captures the moment a seemingly innocent statement reveals a stinging subtext, which is exactly the sense the idiom conveys.",
+    "example_zh": "他这番话说得客客气气，却话中有话，暗讽我们办事不力。",
+    "example_en": "He spoke with perfect courtesy, but there was a hidden edge to his words—a veiled jab at our incompetence.",
+    "category": "Communication",
+    "similar": [
+      "言外之意",
+      "弦外之音"
+    ],
+    "opposite": [
+      "直言不讳",
+      "心直口快"
+    ],
+    "id": "hua-zhong-you-hua"
+  },
+  {
+    "chinese": "狐埋狐搰",
+    "pinyin": "hú mái hú hú",
+    "literal": "fox, buries, fox, digs up",
+    "meaning": "A fox buries something, then immediately digs it up again to check on it. The idiom describes a person whose excessive suspicion and second-guessing sabotages their own efforts, so that suspicion leads to failure.",
+    "origin": "The phrase comes from 《国语·吴语》 (Discourses of the States, Wu chapter), compiled in the Warring States period and recording speeches from the Spring and Autumn era. It uses the image of a fox burying its cache and then uneasily digging it back up as a proverb for self-defeating suspicion. The line runs '狐埋之，而狐搰之，是以无成功' — a fox buries it and a fox digs it up, hence nothing is ever accomplished.",
+    "example_zh": "他做事狐埋狐搰，反复无常，最终一事无成。",
+    "example_en": "He second-guesses everything he does, constantly reversing himself, and in the end accomplishes nothing.",
+    "category": "Attitude",
+    "similar": [
+      "狐疑不决",
+      "优柔寡断",
+      "反复无常"
+    ],
+    "opposite": [
+      "当机立断",
+      "坚定不移"
+    ],
+    "id": "hu-mai-hu-hu"
+  },
+  {
+    "chinese": "东征西讨",
+    "pinyin": "dōng zhēng xī tǎo",
+    "literal": "east, campaign, west, subdue",
+    "meaning": "To launch military expeditions in all directions, campaigning east and west. It describes a state or general constantly fighting on multiple fronts to expand or defend territory. Used both for historical military conquest and, figuratively, for tireless effort across many places.",
+    "origin": "The phrase comes from a Tang dynasty eulogy by the poet Yang Jiong (杨炯), '左武卫将军成安子崔献行状' (Record of the Conduct of Cui Xian, Earl of Cheng'an and General of the Left Martial Guard). The text describes how, once chariots were sent out and battle-axe authority bestowed, the general campaigned east and subdued the west, and with mastery of the '孤虚向背' formation, even a host of women could stand against men. It honored General Cui Xian's distinguished military service to the Tang court. The idiom was later prominently used in the 'History of Yuan' (元史·木华黎传), where Genghis Khan's general Mu Huali recalls donning armor for forty years to help build the Mongol empire. Through these texts it became a set phrase for fighting on every front.",
+    "example_zh": "我为国家助成大业，擐甲执锐垂四十年，东征西讨，无复遗恨。",
+    "example_en": "For forty years I donned armor and took up weapons to help build the state, campaigning east and subduing the west, and I have no regrets.",
+    "category": "Action",
+    "similar": [
+      "南征北战",
+      "东挡西杀",
+      "南征北伐"
+    ],
+    "opposite": [
+      "按兵不动",
+      "偃旗息鼓"
+    ],
+    "id": "dong-zheng-xi-tao"
+  },
+  {
+    "chinese": "苍黄翻复",
+    "pinyin": "cāng huáng fān fù",
+    "literal": "dark blue, yellow, flip, repeat",
+    "meaning": "苍 means a dark blue-green color. The idiom draws on silk dyeing, where dipping cloth in one color makes it take that color, as a metaphor for things that change constantly and unpredictably. It is used to describe a person's position or a situation that flips back and forth without any consistency.",
+    "origin": "The image originates with Mozi (墨子), the Warring States philosopher, who watched a silk dyer and sighed: 'Dye it dark and it turns dark; dye it yellow and it turns yellow,' reflecting on how surroundings shape what something becomes. Centuries later, Kong Zhigui (孔稚珪), a writer of the Southern Qi dynasty, echoed this line in his celebrated 'Northern Mountain Rhapsody' (北山移文). There he mocked a recluse who feigned love of retirement but soon chased after office, writing 'who would expect such a mismatch of beginning and end, flipping from dark to yellow' (岂期终始参差，苍黄翻复). The phrase has since described changeable, inconsistent people and circumstances.",
+    "example_zh": "他的立场苍黄翻复，让人难以捉摸。",
+    "example_en": "His position keeps shifting like dye changing colors, and no one can tell where he truly stands.",
+    "category": "Attitude",
+    "similar": [
+      "反复无常",
+      "朝三暮四",
+      "翻云覆雨"
+    ],
+    "opposite": [
+      "始终如一",
+      "一成不变"
+    ],
+    "id": "cang-huang-fan-fu-2"
   }
 ]
