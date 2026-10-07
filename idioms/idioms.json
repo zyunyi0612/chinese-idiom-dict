@@ -100264,5 +100264,205 @@
       "一成不变"
     ],
     "id": "cang-huang-fan-fu-2"
+  },
+  {
+    "chinese": "通元识微",
+    "pinyin": "tōng yuán shí wēi",
+    "literal": "understand the profound origin, recognize the subtle details",
+    "meaning": "To grasp abstruse and subtle principles. It describes someone whose insight penetrates the hidden depths of things, perceiving what others overlook. The phrase praises a level of understanding that reaches the root of matters and their finest nuances.",
+    "origin": "This idiom has no single documented origin in the classical corpus. Its vocabulary is rooted in Daoist and later philosophical writing, where 元 denotes the primal, unfathomable source and 微 the imperceptible subtlety of things. It appears as a literary compound in works that value penetrating insight rather than tracing to one specific text or anecdote.",
+    "example_zh": "这位老先生通元识微，世间万物的变化都逃不过他的眼睛。",
+    "example_en": "The old gentleman grasps the profound and perceives the subtle; no change in the world escapes his eyes.",
+    "category": "Wisdom",
+    "similar": [
+      "见微知著",
+      "洞察秋毫",
+      "通幽洞微"
+    ],
+    "opposite": [
+      "管中窥豹",
+      "愚昧无知"
+    ],
+    "id": "tong-yuan-shi-wei"
+  },
+  {
+    "chinese": "诡变多端",
+    "pinyin": "guǐ biàn duō duān",
+    "literal": "crafty, changeable, many, ends",
+    "meaning": "Describes a person whose devious schemes and crafty tricks are endlessly varied. It implies someone full of bad ideas who constantly shifts tactics to deceive others. The term carries a strongly negative, distrustful tone.",
+    "origin": "The phrase comes from a memorial to the throne written by the Northern Song scholar-official Su Zhe, titled 'On Lü Huiqing.' Lü Huiqing was a powerful minister and protégé of Wang Anshi whose later betrayal of his patron made him notorious. Su Zhe attacked his character by saying he combined the rhetorical deceit of the Han-era official Zhang Tang with the treachery of the Tang chancellor Lu Qi, and was '诡变多端' — crafty and changeable in countless ways. The memorial helped cement Lü Huiqing's historical reputation as an arch-schemer.",
+    "example_zh": "这家伙诡变多端，谁也猜不透他下一步想做什么。",
+    "example_en": "That fellow is full of endless crafty schemes, and nobody can guess what he'll do next.",
+    "category": "Quality",
+    "similar": [
+      "诡计多端",
+      "阴险狡诈",
+      "老奸巨猾"
+    ],
+    "opposite": [
+      "光明磊落",
+      "表里如一"
+    ],
+    "id": "gui-bian-duo-duan"
+  },
+  {
+    "chinese": "自郐以下",
+    "pinyin": "zì kuài yǐ xià",
+    "literal": "from, Kuai (state), down to, below",
+    "meaning": "Literally \"from Kuai on downwards.\" It describes things that fall below a certain point and are therefore not worth commenting on or criticizing. It is used to dismiss everything after a named person, work, or event as too mediocre to merit discussion.",
+    "origin": "The idiom comes from Zuo Qiuming's \"Zuo Zhuan\" (Chronicle of Zuo), written in the pre-Qin period and recording the 29th year of Duke Xiang of Lu. When Ji Zha, a prince of the state of Wu, visited Lu, he was treated to a performance of Zhou dynasty music and dances from the various feudal states. He offered a critique of the music of each state in turn, but once the musicians performed the music of Kuai, he fell silent and passed no further judgment. The original line reads \"From Kuai downwards there was nothing to criticize,\" and later generations shortened it to this idiom.",
+    "example_zh": "这部电影续集的质量自郐以下，实在没什么好评价的了。",
+    "example_en": "The quality of this movie sequel is beneath comment—there's really nothing left to say about it.",
+    "category": "Quality",
+    "similar": [
+      "不值一提",
+      "无足轻重",
+      "不足挂齿"
+    ],
+    "opposite": [
+      "津津乐道",
+      "举足轻重"
+    ],
+    "id": "zi-kuai-yi-xia"
+  },
+  {
+    "chinese": "生花妙笔",
+    "pinyin": "shēng huā miào bǐ",
+    "literal": "grow, flower, wonderful, brush",
+    "meaning": "A metaphor for outstanding literary or writing talent. It describes prose or poetry so brilliant that the words seem to bloom like flowers. Used to praise someone's exceptional ability with the pen.",
+    "origin": "The idiom comes from the Five Dynasties work \"Kaiyuan Tianbao Yishi\" (Romance of the Kaiyuan and Tianfu Eras) by Wang Renyu. It records that Li Bai, the great Tang dynasty poet known as Li Taibao, dreamed in his youth that flowers blossomed from the tip of the brush he used. After this dream, his poetic talent became overflowing and surpassing, and his fame spread throughout the land. The image of a flowering brush thus became a symbol of extraordinary literary gift.",
+    "example_zh": "这位作家凭借生花妙笔，把平凡的小镇生活写成了一部动人的长篇小说。",
+    "example_en": "With his brilliant pen, the writer turned the ordinary life of a small town into a moving novel.",
+    "category": "Skill",
+    "similar": [
+      "妙笔生花",
+      "笔下生花",
+      "梦笔生花"
+    ],
+    "opposite": [
+      "江郎才尽",
+      "胸无点墨"
+    ],
+    "id": "sheng-hua-miao-bi"
+  },
+  {
+    "chinese": "大势已去",
+    "pinyin": "dà shì yǐ qù",
+    "literal": "overall trend, already, gone",
+    "meaning": "The favorable situation has been lost and the tide of events has turned irrevocably against one. It describes a point where success or recovery is no longer possible and decline cannot be reversed by human effort.",
+    "origin": "The phrase comes from the Song dynasty philosopher Zhu Xi's work Zhuzi Jianlei (Volume 51), where he records the Cheng brothers' discussion of the mandate of heaven: 'When the mandate of heaven is changed, is it not because the overall trend is already gone?' The idea is that a dynasty's mandate ends once the broader current of events has turned against it, independent of any single ruler's actions. It later became a staple of historical and classical fiction, most famously in the Ming dynasty novel Investiture of the Gods by Xu Zhonglin, where King Zhou perceives that the situation is beyond any human power to salvage.",
+    "example_zh": "敌军主帅见大势已去，只得下令弃城而逃。",
+    "example_en": "Seeing that the tide of battle had turned irrevocably against them, the enemy commander had no choice but to order his troops to abandon the city and flee.",
+    "category": "Condition",
+    "similar": [
+      "气数已尽",
+      "江河日下",
+      "强弩之末"
+    ],
+    "opposite": [
+      "蒸蒸日上",
+      "方兴未艾"
+    ],
+    "id": "da-shi-yi-qu"
+  },
+  {
+    "chinese": "扳龙附凤",
+    "pinyin": "bān lóng fù fèng",
+    "literal": "ban (to hold onto), long (dragon), fu (to attach to), feng (phoenix)",
+    "meaning": "Literally meaning to grab hold of a dragon and cling to a phoenix in order to soar into the sky. Figuratively, it describes people who attach themselves to powerful or influential figures in hopes of rising in status and wealth. It usually carries a derogatory tone, suggesting opportunistic social climbing.",
+    "origin": "The phrase comes from the 'Treatise on Music, Part Four' (志第十二·乐四) in the Book of Song (宋书), compiled by Shen Yue (沈约) of the Liang dynasty during the Southern Dynasties. The original passage describes playing the qin and se zithers for self-amusement: 'Riding the clouds, I climb the terrace and float through the Great Void; holding onto a dragon and clinging to a phoenix, I hope each day to lighten my body.' These lines express Daoist aspirations to transcend the mortal realm and attain immortality by mounting the mythical dragon and phoenix. Over the centuries, the image of ascending upon dragons and phoenixes shifted into a metaphor for riding the coattails of the powerful.",
+    "example_zh": "他热衷于扳龙附凤，整日围在权贵身边讨好。",
+    "example_en": "He is eager to cling to dragons and phoenixes, hovering around the powerful all day to curry their favor.",
+    "category": "Status",
+    "similar": [
+      "攀龙附凤",
+      "附凤攀龙",
+      "攀龙托凤"
+    ],
+    "opposite": [
+      "自力更生",
+      "孤芳自赏"
+    ],
+    "id": "ban-long-fu-feng"
+  },
+  {
+    "chinese": "逐宕失返",
+    "pinyin": "zhú dàng shī fǎn",
+    "literal": "pursue, drift, lose, return",
+    "meaning": "This idiom literally describes drifting along with the current and losing one's way back. It refers to a person who chases after passing trends and worldly fashion, gradually losing sight of their roots, principles, or original intentions.",
+    "origin": "The phrase comes from the preface to 《词莂》 (Selections of Ci Poetry), written by the modern scholar 张尔田 (Zhang Ertian) of the late Qing and Republican era. In the preface, Zhang reflects on the evolution of ci poetry, remarking that writers of modest talent may follow passing styles and lose sight of the art's roots, while the anthology itself strives to transcend the times and preserve a declining tradition. The expression likens such people to a traveler who drifts with the current and forgets the way home. It is now used more broadly for anyone who pursues worldly trends and drifts away from their origins.",
+    "example_zh": "身处名利场中，他逐宕失返，忘了初心。",
+    "example_en": "Lost in the world of fame and wealth, he drifted with the tide and forgot his original intention.",
+    "category": "Attitude",
+    "similar": [
+      "随波逐流",
+      "随俗浮沉",
+      "逐流忘返"
+    ],
+    "opposite": [
+      "迷途知返",
+      "矢志不渝"
+    ],
+    "id": "zhu-dang-shi-fan"
+  },
+  {
+    "chinese": "一字不苟",
+    "pinyin": "yī zì bù gǒu",
+    "literal": "one, word, not, careless",
+    "meaning": "苟 means careless or casual. The idiom describes writing or speaking done without any sloppiness, where every single character is weighed and deliberated before it is committed. It conveys a meticulous, scrupulous attitude toward one's words.",
+    "origin": "The phrase comes from the Song dynasty philosopher Zhu Xi, recorded in 《朱子语类·论语·学而篇中》. The full line reads “因说伊川讲解，一字不苟”, spoken while discussing how the earlier Confucian scholar Cheng Yi (程颐, styled 伊川) expounded the Analects of Confucius. Zhu Xi praised Cheng Yi for never treating any word casually when explaining the classic, weighing each term with care. From this the expression became a standard way to praise writing or scholarship that shows the same character-by-character rigor.",
+    "example_zh": "他写文章一字不苟，每个字都要反复推敲。",
+    "example_en": "He writes with not a single careless word, weighing every character over and over.",
+    "category": "Attitude",
+    "similar": [
+      "字斟句酌",
+      "一丝不苟",
+      "精雕细琢"
+    ],
+    "opposite": [
+      "敷衍了事",
+      "草草了事"
+    ],
+    "id": "yi-zi-bu-gou"
+  },
+  {
+    "chinese": "除邪惩恶",
+    "pinyin": "chú xié chéng è",
+    "literal": "remove, evil, punish, wicked",
+    "meaning": "惩 means to punish or penalize. The idiom means eliminating evil influences and punishing wicked people. It describes a righteous effort to uphold justice by purging wrongdoing and disciplining evildoers.",
+    "origin": "The phrase comes from the writings of Lu Xun, the leading figure of modern Chinese literature of the Republic of China era. In his essay collection 《集外集》, the piece 《编畜记》 describes a character who loved reading chivalric knight-errant novels and consequently developed a kind of knight-errant madness. He insisted on traveling everywhere to eliminate evil and punish the wicked, but ended up meeting with all kinds of setbacks and humiliations. Lu Xun used the episode to poke gentle irony at naive chivalric fantasies.",
+    "example_zh": "他立志当一名警察，除邪惩恶，保护百姓安宁。",
+    "example_en": "He resolved to become a police officer, eliminating evil and punishing the wicked to keep the people safe.",
+    "category": "Morality",
+    "similar": [
+      "惩恶扬善",
+      "扶正祛邪",
+      "除暴安良"
+    ],
+    "opposite": [
+      "助纣为虐",
+      "为虎作伥"
+    ],
+    "id": "chu-xie-cheng-e"
+  },
+  {
+    "chinese": "眉睫之内",
+    "pinyin": "méi jié zhī nèi",
+    "literal": "eyebrows, eyelashes, within",
+    "meaning": "This idiom describes something that is extremely close, as near as the space between one's eyebrows and eyelashes. It emphasizes that a thing, person, or opportunity is right in front of someone, often so close that it is easily overlooked.",
+    "origin": "The phrase comes from the Daoist classic 《列子》 (Book of Master Lie), in the chapter 《仲尼》, attributed to Liezi (Lie Yukou) of the Warring States period. In a passage in which Confucius reflects on the nature of change and perception, the text contrasts the vast and the minute, stating that what is far lies beyond the eight wildernesses while what is near is 'within one's eyebrows and eyelashes.' The contrast served to show that the Dao is present both in the boundlessly distant and in the most immediate, intimate range of perception. Over time the phrase was lifted from this philosophical context and used simply to describe anything very close at hand.",
+    "example_zh": "机会就在眉睫之内，他却迟迟不肯伸手。",
+    "example_en": "The opportunity was right before his eyes, yet he kept hesitating to reach out for it.",
+    "category": "Distance",
+    "similar": [
+      "近在眼前",
+      "咫尺之间",
+      "触手可及"
+    ],
+    "opposite": [
+      "远在天边",
+      "天涯海角"
+    ],
+    "id": "mei-jie-zhi-nei"
   }
 ]
