@@ -100464,5 +100464,203 @@
       "天涯海角"
     ],
     "id": "mei-jie-zhi-nei"
+  },
+  {
+    "chinese": "风和日暄",
+    "pinyin": "fēng hé rì xuān",
+    "literal": "wind, gentle, sun, warm",
+    "meaning": "A gentle breeze and warm sunlight. It describes mild, pleasant weather, most often the calm warmth of a spring day. The phrase is commonly used to set a peaceful, inviting scene before describing outdoor activity.",
+    "origin": "The phrase comes from the Ming dynasty play \"Shihou Ji\" (《狮吼记》, \"The Lion's Roar\") by the playwright Wang Tingne (汪廷讷), in the scene \"Appreciating Spring\" (《赏春》). The original line reads \"风和日暄，燕交飞触碎胭脂片\" — the wind is gentle and the sun is warm, and swallows fly in pairs, brushing apart petals of rouge-red flowers. The play itself is a well-known comedy about the henpecked scholar Chen Jichang, and the line uses the soft spring weather to contrast with the drama that follows.",
+    "example_zh": "阳春三月，风和日暄，正是踏青赏花的好时节。",
+    "example_en": "In the third month of spring, with a gentle breeze and warm sunshine, it is the perfect time for an outing to admire the flowers.",
+    "category": "Condition",
+    "similar": [
+      "风和日暖",
+      "风和日丽",
+      "春暖花开"
+    ],
+    "opposite": [
+      "狂风暴雨",
+      "风雪交加"
+    ],
+    "id": "feng-he-ri-xuan"
+  },
+  {
+    "chinese": "冲风冒雨",
+    "pinyin": "chōng fēng mào yǔ",
+    "literal": "brave, wind, endure, rain",
+    "meaning": "To brave the wind and endure the rain; to go out and work regardless of how bad the weather is. It describes someone who carries on with their labor or duties without avoiding the hardship of wind and rain.",
+    "origin": "The phrase comes from the novel 《暴风骤雨》 (The Hurricane) by the modern Chinese writer 周立波 (Zhou Libo), written in the context of mid-20th century rural land reform in China. In Chapter 9 of Part One, the character 郭全海 (Guo Quanhai) recounts how a laborer worked an entire year for someone else, braving wind and rain and rising before dawn, speaking in a moment of anger. The idiom thus arose from a modern literary depiction of the hardships endured by exploited hired laborers.",
+    "example_zh": "邮递员每天冲风冒雨，把信件准时送到千家万户。",
+    "example_en": "The postal workers brave the wind and rain every day to deliver the mail to every household on time.",
+    "category": "Perseverance",
+    "similar": [
+      "栉风沐雨",
+      "风餐露宿",
+      "披星戴月"
+    ],
+    "opposite": [
+      "养尊处优"
+    ],
+    "id": "chong-feng-mao-yu"
+  },
+  {
+    "chinese": "永无宁日",
+    "pinyin": "yǒng wú níng rì",
+    "literal": "forever, no, peaceful, day",
+    "meaning": "Literally 'never a peaceful day.' It describes a state of endless unrest, turmoil, or trouble with no prospect of calm. The idiom is most often applied to society, a region, or a group of people that remains chronically unstable.",
+    "origin": "Unlike most chengyu, 永无宁日 has no documented origin in a specific classical text or historical anecdote, and lexicons typically list its provenance as unknown. It is a modern compound formed by joining the adverbial phrase 永无 ('never having') with 宁日 ('a day of peace'), a combination that echoes older literary collocations such as 永无宁岁. Its usage became common in twentieth-century Chinese writing to depict war, banditry, and social chaos, and it now appears frequently in contemporary commentary, fiction, and news.",
+    "example_zh": "这场纠纷若不妥善解决，邻里之间将永无宁日。",
+    "example_en": "If this dispute is not properly resolved, the neighbors will never know a day of peace.",
+    "category": "Condition",
+    "similar": [
+      "鸡犬不宁",
+      "永无止境",
+      "永无了期"
+    ],
+    "opposite": [
+      "安居乐业",
+      "太平盛世"
+    ],
+    "id": "yong-wu-ning-ri"
+  },
+  {
+    "chinese": "苦口婆心",
+    "pinyin": "kǔ kǒu pó xīn",
+    "literal": "bitter mouth, old woman's heart",
+    "meaning": "This idiom describes advising someone with earnest, repeated persuasion out of genuine kindness, even when the words are hard to hear. It likens the speaker's tireless exhortation to a bitter-tasting medicine given with a grandmother's loving concern. It is used for someone who patiently and earnestly tries to talk another person out of a harmful course of action.",
+    "origin": "The phrase draws on two classical sources. The first is the Biography of Zhao Pu in the History of Song, where Zhao Pu repeatedly submitted memorials containing blunt but loyal advice, described as words that are bitter to the mouth. The second is the Jingde Record of the Transmission of the Lamp, a Song-dynasty Chan Buddhist text, in which a monk asks the teacher Daokuang of Quanzhou for compassionate guidance, and the master replies that such patient, kindly instruction is the heart of an old woman. Together they formed the idiom meaning to persuade earnestly and patiently out of deep concern.",
+    "example_zh": "母亲苦口婆心地劝了他一整夜，要他戒掉赌博。",
+    "example_en": "His mother spent the whole night earnestly and patiently trying to persuade him to give up gambling.",
+    "category": "Communication",
+    "similar": [
+      "语重心长",
+      "推心置腹",
+      "谆谆告诫"
+    ],
+    "opposite": [
+      "充耳不闻"
+    ],
+    "id": "ku-kou-po-xin"
+  },
+  {
+    "chinese": "秋月春风",
+    "pinyin": "qiū yuè chūn fēng",
+    "literal": "autumn moon, spring wind",
+    "meaning": "Refers to beautiful scenes and fine moments, and by extension the best years of one's life. The image pairs the brightest moon of autumn with the gentlest breeze of spring to evoke times of ease and pleasure. It often carries a hint that such golden days pass all too quickly.",
+    "origin": "The phrase comes from the Tang dynasty poet Bai Juyi's famous poem 'Pipa Xing' (琵琶行), in the line '今年欢笑复明年，秋月春风等闲度' — this year brings laughter and song, and the next the same, while autumn moons and spring winds slip idly by. In the poem an aging courtesan recalls how her youth and beauty were spent amid such carefree scenes, until time wore them away. The idiom later became a stock expression for fleeting good times, and was picked up by the Ming dynasty poet Yang Shen in his lyric 'Linjiang Xian' — '白发渔樵江渚上，惯看秋月春风' — where a white-haired fisherman has watched so many of them pass that he no longer takes them to heart.",
+    "example_zh": "白发渔樵江渚上，惯看秋月春风。",
+    "example_en": "The white-haired fisherman on the river isle has grown used to watching autumn moons and spring winds come and go.",
+    "category": "Lifestyle",
+    "similar": [
+      "良辰美景",
+      "春花秋月",
+      "风花雪月"
+    ],
+    "opposite": [
+      "凄风苦雨",
+      "晚景凄凉"
+    ],
+    "id": "qiu-yue-chun-feng"
+  },
+  {
+    "chinese": "惹火烧身",
+    "pinyin": "rě huǒ shāo shēn",
+    "literal": "stir up, fire, burn, oneself",
+    "meaning": "Literally to set fire to one's own body. It is a metaphor for bringing trouble or hardship upon oneself through one's own actions. The idiom warns that provoking a dangerous situation or needlessly interfering can backfire on the person responsible.",
+    "origin": "The phrase comes from the Ming dynasty story collection Zui Xing Shi (The Drunken Awakening Stone) by Donglu Gukuang Sheng. In the third chapter, a local constable comes personally to arrest someone, and the villagers, not knowing what terrible crime is involved, fear that getting involved will bring disaster upon themselves. They hurry to hand over the suspects Yu Lin and his wife Feng to avoid being dragged into the affair. The idiom later came to describe anyone who courts trouble by meddling in risky matters.",
+    "example_zh": "他明知对方背景复杂，还偏要去招惹，简直是惹火烧身。",
+    "example_en": "He knew their background was complicated, yet he insisted on provoking them — he's only bringing trouble upon himself.",
+    "category": "Action",
+    "similar": [
+      "自讨苦吃",
+      "引火烧身",
+      "玩火自焚"
+    ],
+    "opposite": [
+      "明哲保身",
+      "独善其身"
+    ],
+    "id": "re-huo-shao-shen"
+  },
+  {
+    "chinese": "男大当娶",
+    "pinyin": "nán dà dāng qǔ",
+    "literal": "man, grown up, should, marry",
+    "meaning": "A grown man should take a wife and start a family. It expresses the traditional expectation that once a man comes of age, marriage and settling down are his natural duty. It is often said by elders to urge a young man to wed.",
+    "origin": "The phrase is most famously attested in Lao She's novel Rickshaw Boy (骆驼祥子), where a character scolds another by saying, '男大当娶，女大当聘，你六十九了，白活！' — a man should marry and a woman should be wed, and at sixty-nine you have lived in vain. It is a folk proverb in the parallel paired form common in Chinese village speech rather than the invention of one author. The underlying custom traces back to the ancient rite of capping (冠礼) that marked male adulthood and to the classical marriage rites recorded in the Book of Rites and the Rites of Zhou.",
+    "example_zh": "男大当娶，你也该考虑成家的事了。",
+    "example_en": "A grown man should marry — it's time you started thinking about settling down.",
+    "category": "Lifestyle",
+    "similar": [
+      "男大须婚",
+      "男婚女嫁",
+      "成家立业"
+    ],
+    "opposite": [
+      "终身不娶",
+      "形单影只"
+    ],
+    "id": "nan-da-dang-qu"
+  },
+  {
+    "chinese": "明查暗访",
+    "pinyin": "míng chá àn fǎng",
+    "literal": "openly investigate, secretly inquire",
+    "meaning": "To conduct investigations both openly and in secret, gathering information through multiple channels. It describes making a thorough, all-round inquiry into a situation rather than relying on a single source.",
+    "origin": "The phrase appears in Qing dynasty author Liu E's novel 'The Travels of Lao Can' (老残游记), Chapter 18. In the story, an official handling a case of thirteen suspicious deaths dispatches an assistant to Qi Dong village, instructing him to investigate openly and inquire covertly to determine whether the victims had been poisoned. The case is ultimately resolved through this patient, multi-angle fact-gathering, and the expression came to be used for any careful, many-sided investigation.",
+    "example_zh": "为了查清这桩陈年旧案，警方在全县范围内明查暗访了三个多月。",
+    "example_en": "To get to the bottom of the cold case, the police carried out open and covert inquiries across the county for more than three months.",
+    "category": "Method",
+    "similar": [
+      "明察暗访",
+      "暗访明察",
+      "寻根究底"
+    ],
+    "opposite": [
+      "走马观花",
+      "道听途说"
+    ],
+    "id": "ming-cha-an-fang"
+  },
+  {
+    "chinese": "不知利害",
+    "pinyin": "bù zhī lì hài",
+    "literal": "not, know, benefit, harm",
+    "meaning": "To not know what is beneficial and what is harmful. It describes someone who acts without understanding the consequences or risks involved. Often used to criticize reckless or naive behavior that disregards real danger.",
+    "origin": "The phrase originates from the Warring States period text Zhuangzi, in the chapter 'On the Equality of Things' (齐物论), written by the Daoist philosopher Zhuang Zhou. In a dialogue about the limits of human understanding, a character is challenged with the rhetorical question of whether one truly does not know benefit and harm, and whether the perfected person is likewise free from such distinctions. Zhuangzi uses the exchange to question the rigid opposition people draw between gain and loss. The idiom later came to describe ignorance of real consequences in worldly affairs.",
+    "example_zh": "他不知利害地独自闯入深山，结果迷了路。",
+    "example_en": "Not knowing any better, he ventured into the deep mountains alone and ended up getting lost.",
+    "category": "Wisdom",
+    "similar": [
+      "不知轻重",
+      "不知深浅",
+      "胆大妄为"
+    ],
+    "opposite": [
+      "明辨是非",
+      "趋利避害"
+    ],
+    "id": "bu-zhi-li-hai"
+  },
+  {
+    "chinese": "二三君子",
+    "pinyin": "èr sān jūn zǐ",
+    "literal": "two, three, gentlemen",
+    "meaning": "A respectful way to refer to a few gentlemen or worthies present. It is a learned variant of 二三子, used to address or describe a small group of virtuous, accomplished men. Often carries a tone of esteem when appealing to their conscience or shared purpose.",
+    "origin": "The phrase traces to the Zuo Zhuan (《左传·僖公二十四年》), where the Duke of Jin remarks that Heaven, not men, established his rule, rebuking those who claimed the credit for themselves. The term gained fuller shape in the Han dynasty, in the Biography of King Yuan of Chu in the Book of Han (《汉书·楚元王传》), where an imperial edict calls on worthy ministers to unite their will and strength to support the weak and revive neglected learning. Over time it became a stock expression for esteemed colleagues or worthies.",
+    "example_zh": "此事尚望二三君子鼎力相助，共成善举。",
+    "example_en": "For this matter I still hope you few gentlemen will lend your strength and help bring the good deed to completion.",
+    "category": "Status",
+    "similar": [
+      "二三子",
+      "诸君子",
+      "列位君子"
+    ],
+    "opposite": [
+      "凡夫俗子",
+      "贩夫走卒"
+    ],
+    "id": "er-san-jun-zi"
   }
 ]

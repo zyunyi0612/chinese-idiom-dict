@@ -12188,3 +12188,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-10-08 12:00:06] === Catch-up push done ===
 [2026-10-08 20:00:00] === Catch-up push start (103 unpushed commits) ===
+[main bbf1bc1] Auto-update: 2026-10-08 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   1a45136..bbf1bc1  main -> main
+
+Push OK (attempt 1)
+[2026-10-08 20:00:07] === Catch-up push done ===
+[2026-10-09 03:15:00] === Daily cron start ===
+[2026-10-09 03:15:00] === Daily cron start ===
+[2026-10-09 03:15:00] Generating 10 new idioms...
+[2026-10-09 03:15:00] Generating 10 new idioms...
+Existing: 5053 idioms
+Whitelist: 30894 total
+Candidates available: 24448 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 风和日暄 (fēng hé rì xuān)
+    OK (saved, total now: 5054): literal='wind, gentle, sun, warm...'
+[2/10] -> 冲风冒雨 (chōng fēng mào yǔ)
+    OK (saved, total now: 5055): literal='brave, wind, endure, rain...'
+[3/10] -> 永无宁日 (yǒng wú níng rì)
+    OK (saved, total now: 5056): literal='forever, no, peaceful, day...'
+[4/10] -> 苦口婆心 (kǔ kǒu pó xīn)
+    OK (saved, total now: 5057): literal='bitter mouth, old woman's heart...'
+[5/10] -> 秋月春风 (qiū yuè chūn fēng)
+    OK (saved, total now: 5058): literal='autumn moon, spring wind...'
+[6/10] -> 惹火烧身 (rě huǒ shāo shēn)
+    OK (saved, total now: 5059): literal='stir up, fire, burn, oneself...'
+[7/10] -> 男大当娶 (nán dà dāng qǔ)
+    OK (saved, total now: 5060): literal='man, grown up, should, marry...'
+[8/10] -> 明查暗访 (míng chá àn fǎng)
+    OK (saved, total now: 5061): literal='openly investigate, secretly inquire...'
+[9/10] -> 不知利害 (bù zhī lì hài)
+    OK (saved, total now: 5062): literal='not, know, benefit, harm...'
+[10/10] -> 二三君子 (èr sān jūn zǐ)
+    OK (saved, total now: 5063): literal='two, three, gentlemen...'
+
+Added 10 idioms. Total: 5063
+[2026-10-09 03:28:22] Generation OK
+[2026-10-09 03:28:22] Generation OK
+[2026-10-09 03:28:22] Regenerating site...
+[2026-10-09 03:28:22] Regenerating site...
+Loading data...
+  → 5063 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 5063 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 5063 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-10-09 03:28:38] Site regenerated
+[2026-10-09 03:28:38] Site regenerated
+[2026-10-09 03:28:38] Pushing to GitHub...
+[2026-10-09 03:28:38] Pushing to GitHub...
