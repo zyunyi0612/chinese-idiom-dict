@@ -12152,3 +12152,30 @@ To preview locally:
 [2026-10-08 03:27:57] Site regenerated
 [2026-10-08 03:27:57] Pushing to GitHub...
 [2026-10-08 03:27:57] Pushing to GitHub...
+[main 1508de5] Auto-update: 2026-10-08 03:27 - regenerate idioms
+ 20 files changed, 13121 insertions(+), 10115 deletions(-)
+ create mode 100644 docs/idiom/ban-long-fu-feng.html
+ create mode 100644 docs/idiom/chu-xie-cheng-e.html
+ create mode 100644 docs/idiom/da-shi-yi-qu.html
+ create mode 100644 docs/idiom/gui-bian-duo-duan.html
+ create mode 100644 docs/idiom/mei-jie-zhi-nei.html
+ create mode 100644 docs/idiom/sheng-hua-miao-bi.html
+ create mode 100644 docs/idiom/tong-yuan-shi-wei.html
+ create mode 100644 docs/idiom/yi-zi-bu-gou.html
+ create mode 100644 docs/idiom/zhu-dang-shi-fan.html
+ create mode 100644 docs/idiom/zi-kuai-yi-xia.html
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   26be0d6..1508de5  main -> main
+
+Push OK (attempt 1)
+[2026-10-08 03:28:03] Push OK
+[2026-10-08 03:28:03] Push OK
+[2026-10-08 03:28:03] Pinging IndexNow...
+[2026-10-08 03:28:03] Pinging IndexNow...
+IndexNow OK: HTTP 200, 10 URLs
+[2026-10-08 03:28:06] IndexNow OK
+[2026-10-08 03:28:06] IndexNow OK
+[2026-10-08 03:28:06] === Daily cron done ===
+[2026-10-08 03:28:06] === Daily cron done ===
+[2026-10-08 12:00:00] === Catch-up push start (102 unpushed commits) ===
