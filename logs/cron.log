@@ -13279,3 +13279,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-10-25 12:00:04] === Catch-up push done ===
 [2026-10-25 20:00:00] === Catch-up push start (137 unpushed commits) ===
+[main 947ba44] Auto-update: 2026-10-25 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   f1891ec..947ba44  main -> main
+
+Push OK (attempt 1)
+[2026-10-25 20:00:08] === Catch-up push done ===
+[2026-10-26 03:15:00] === Daily cron start ===
+[2026-10-26 03:15:00] === Daily cron start ===
+[2026-10-26 03:15:00] Generating 10 new idioms...
+[2026-10-26 03:15:00] Generating 10 new idioms...
+Existing: 5063 idioms
+Whitelist: 30894 total
+Candidates available: 24438 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 深入骨髓 (shēn rù gǔ suǐ)
+    FAIL
+[2/10] -> 不谋同辞 (bù móu tóng cí)
+    FAIL
+[3/10] -> 雪兆丰年 (xuě zhào fēng nián)
+    FAIL
+[4/10] -> 洪福齐天 (hóng fú qí tiān)
+    FAIL
+[5/10] -> 焚典坑儒 (fén diǎn kēng rú)
+    FAIL
+[6/10] -> 溯端竟委 (sù duān jìng wěi)
+    FAIL
+[7/10] -> 富室大家 (fù shì dà jiā)
+    FAIL
+[8/10] -> 鼓舌摇唇 (gǔ shé yáo chún)
+    FAIL
+[9/10] -> 东播西流 (dōng bō xī liú)
+    FAIL
+[10/10] -> 人才济济 (rén cái jǐ jǐ)
+    FAIL
+
+No new idioms generated. Exiting.
+[2026-10-26 03:17:46] Generation FAILED - continuing with existing data
+[2026-10-26 03:17:46] Generation FAILED - continuing with existing data
+[2026-10-26 03:17:46] Regenerating site...
+[2026-10-26 03:17:46] Regenerating site...
+Loading data...
+  → 5063 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 5063 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 5063 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-10-26 03:18:04] Site regenerated
+[2026-10-26 03:18:04] Site regenerated
+[2026-10-26 03:18:04] Pushing to GitHub...
+[2026-10-26 03:18:04] Pushing to GitHub...
