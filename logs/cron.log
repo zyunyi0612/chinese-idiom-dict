@@ -13713,3 +13713,20 @@ To preview locally:
 [2026-10-30 03:18:07] Site regenerated
 [2026-10-30 03:18:07] Pushing to GitHub...
 [2026-10-30 03:18:07] Pushing to GitHub...
+[main 133c4e0] Auto-update: 2026-10-30 03:18 - regenerate idioms
+ 3 files changed, 10198 insertions(+), 10132 deletions(-)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   1c12b6b..133c4e0  main -> main
+
+Push OK (attempt 1)
+[2026-10-30 03:18:10] Push OK
+[2026-10-30 03:18:10] Push OK
+[2026-10-30 03:18:10] Pinging IndexNow...
+[2026-10-30 03:18:10] Pinging IndexNow...
+IndexNow OK: HTTP 200, 10 URLs
+[2026-10-30 03:18:12] IndexNow OK
+[2026-10-30 03:18:12] IndexNow OK
+[2026-10-30 03:18:12] === Daily cron done ===
+[2026-10-30 03:18:12] === Daily cron done ===
+[2026-10-30 12:00:00] === Catch-up push start (151 unpushed commits) ===
