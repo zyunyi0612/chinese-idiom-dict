@@ -14081,3 +14081,29 @@ To preview locally:
 [2026-11-03 03:17:59] Site regenerated
 [2026-11-03 03:17:59] Pushing to GitHub...
 [2026-11-03 03:17:59] Pushing to GitHub...
+[main fb90a54] Auto-update: 2026-11-03 03:17 - regenerate idioms
+ 3 files changed, 10198 insertions(+), 10132 deletions(-)
+
+fatal: unable to access 'https://github.com/zyunyi0612/chinese-idiom-dict.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
+Attempt 1 failed, waiting 20s before retry...
+fatal: unable to access 'https://github.com/zyunyi0612/chinese-idiom-dict.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
+Attempt 2 failed, waiting 20s before retry...
+fatal: unable to access 'https://github.com/zyunyi0612/chinese-idiom-dict.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
+Attempt 3 failed, waiting 20s before retry...
+Push FAILED after 3 attempts. Last error:
+fatal: unable to access 'https://github.com/zyunyi0612/chinese-idiom-dict.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
+Commits are retained locally; next cron run will retry automatically.
+[2026-11-03 03:19:15] Push FAILED
+[2026-11-03 03:19:15] Push FAILED
+[2026-11-03 03:19:15] Pinging IndexNow...
+[2026-11-03 03:19:15] Pinging IndexNow...
+IndexNow ERROR: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+[2026-11-03 03:19:20] IndexNow FAILED (non-fatal)
+[2026-11-03 03:19:20] IndexNow FAILED (non-fatal)
+[2026-11-03 03:19:20] === Daily cron done ===
+[2026-11-03 03:19:20] === Daily cron done ===
+[2026-11-03 12:00:01] === Catch-up push start (163 unpushed commits) ===
