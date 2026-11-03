@@ -14107,3 +14107,12 @@ IndexNow ERROR: <urlopen error EOF occurred in violation of protocol (_ssl.c:112
 [2026-11-03 03:19:20] === Daily cron done ===
 [2026-11-03 03:19:20] === Daily cron done ===
 [2026-11-03 12:00:01] === Catch-up push start (163 unpushed commits) ===
+[main 660bda0] Auto-update: 2026-11-03 12:00 - regenerate idioms
+ 1 file changed, 26 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   24bb669..660bda0  main -> main
+
+Push OK (attempt 1)
+[2026-11-03 12:00:04] === Catch-up push done ===
+[2026-11-03 20:00:00] === Catch-up push start (164 unpushed commits) ===
