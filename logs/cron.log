@@ -14576,3 +14576,75 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-11-08 12:00:03] === Catch-up push done ===
 [2026-11-08 20:00:01] === Catch-up push start (179 unpushed commits) ===
+[main ddd8012] Auto-update: 2026-11-08 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+fatal: unable to access 'https://github.com/zyunyi0612/chinese-idiom-dict.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
+Attempt 1 failed, waiting 20s before retry...
+fatal: unable to access 'https://github.com/zyunyi0612/chinese-idiom-dict.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+
+Attempt 2 failed, waiting 20s before retry...
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   d429425..ddd8012  main -> main
+
+Push OK (attempt 3)
+[2026-11-08 20:01:33] === Catch-up push done ===
+[2026-11-09 03:15:00] === Daily cron start ===
+[2026-11-09 03:15:00] === Daily cron start ===
+[2026-11-09 03:15:00] Generating 10 new idioms...
+[2026-11-09 03:15:00] Generating 10 new idioms...
+Existing: 5063 idioms
+Whitelist: 30894 total
+Candidates available: 24438 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 急张拘诸 (jí zhāng jū zhū)
+    FAIL
+[2/10] -> 寻幽探胜 (xún yōu tàn shèng)
+    FAIL
+[3/10] -> 积玉堆金 (jī yù duī jīn)
+    FAIL
+[4/10] -> 坚苦卓绝 (jiān kǔ zhuó jué)
+    FAIL
+[5/10] -> 人生如梦 (rén shēng rú mèng)
+    FAIL
+[6/10] -> 各就各位 (gè jiù gè wèi)
+    FAIL
+[7/10] -> 自顾不暇 (zì gù bù xiá)
+    FAIL
+[8/10] -> 出神入定 (chū shén rù dìng)
+    FAIL
+[9/10] -> 溯水行舟 (sù shuǐ xíng zhōu)
+    FAIL
+[10/10] -> 油头滑脸 (yóu tóu huá liǎn)
+    FAIL
+
+No new idioms generated. Exiting.
+[2026-11-09 03:18:05] Generation FAILED - continuing with existing data
+[2026-11-09 03:18:05] Generation FAILED - continuing with existing data
+[2026-11-09 03:18:05] Regenerating site...
+[2026-11-09 03:18:05] Regenerating site...
+Loading data...
+  → 5063 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 5063 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 5063 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-11-09 03:18:22] Site regenerated
+[2026-11-09 03:18:22] Site regenerated
+[2026-11-09 03:18:22] Pushing to GitHub...
+[2026-11-09 03:18:22] Pushing to GitHub...
