@@ -16054,3 +16054,69 @@ To https://github.com/zyunyi0612/chinese-idiom-dict.git
 Push OK (attempt 1)
 [2026-11-24 12:00:04] === Catch-up push done ===
 [2026-11-24 20:00:00] === Catch-up push start (227 unpushed commits) ===
+[main a232f40] Auto-update: 2026-11-24 20:00 - regenerate idioms
+ 1 file changed, 9 insertions(+)
+
+To https://github.com/zyunyi0612/chinese-idiom-dict.git
+   2a82d09..a232f40  main -> main
+
+Push OK (attempt 1)
+[2026-11-24 20:00:06] === Catch-up push done ===
+[2026-11-25 03:15:00] === Daily cron start ===
+[2026-11-25 03:15:00] === Daily cron start ===
+[2026-11-25 03:15:00] Generating 10 new idioms...
+[2026-11-25 03:15:00] Generating 10 new idioms...
+Existing: 5063 idioms
+Whitelist: 30894 total
+Candidates available: 24438 (4-char, not yet generated)
+Generating 10 new idioms...
+
+[1/10] -> 目光炯炯 (mù guāng jiǒng jiǒng)
+    FAIL
+[2/10] -> 俭不中礼 (jiǎn bù zhòng lǐ)
+    FAIL
+[3/10] -> 金貂换酒 (jīn diāo huàn jiǔ)
+    FAIL
+[4/10] -> 隆刑峻法 (lóng xíng jùn fǎ)
+    FAIL
+[5/10] -> 一时三刻 (yī shí sān kè)
+    FAIL
+[6/10] -> 口吻生花 (kǒu wěn shēng huā)
+    FAIL
+[7/10] -> 捉鼠拿猫 (zhuō shǔ ná māo)
+    FAIL
+[8/10] -> 焦头烂额 (jiāo tóu làn é)
+    FAIL
+[9/10] -> 自高自大 (zì gāo zì dà)
+    FAIL
+[10/10] -> 若存若亡 (ruò cún ruò wáng)
+    FAIL
+
+No new idioms generated. Exiting.
+[2026-11-25 03:18:03] Generation FAILED - continuing with existing data
+[2026-11-25 03:18:03] Generation FAILED - continuing with existing data
+[2026-11-25 03:18:03] Regenerating site...
+[2026-11-25 03:18:03] Regenerating site...
+Loading data...
+  → 5063 idioms loaded
+Loading templates...
+Generating idiom pages...
+  → 5063 idiom pages generated
+Generating index page...
+Generating categories page...
+Copying about page...
+Generating sitemap.xml...
+Generating robots.txt...
+
+==================================================
+✓ Done! 5063 idiom pages + index + categories + about + sitemap
+  Output: /Users/zhangyunyi/projects/idiom-dict/docs
+==================================================
+
+To preview locally:
+  cd /Users/zhangyunyi/projects/idiom-dict/docs && python3 -m http.server 8000
+  then open http://localhost:8000
+[2026-11-25 03:18:22] Site regenerated
+[2026-11-25 03:18:22] Site regenerated
+[2026-11-25 03:18:22] Pushing to GitHub...
+[2026-11-25 03:18:22] Pushing to GitHub...
